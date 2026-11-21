@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="hr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Križaljke</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;800&family=Bitter:wght@700;800&display=swap" rel="stylesheet">
+<style>
+/* VOICE: vedri nedjeljni novinski prilog, jasan i bez ukrasa
+   IDEA: kiosk križaljki — odabereš svezak, otvoriš ga i rješavaš
+   PICTURE: sama mreža križaljke, velika, odmah ispod odabira
+   COLOUR and TYPE: papir i crna tinta, hrvatsko crvena #d7262e za odabir; Bitter + Libre Franklin
+   LAYOUT: odabir u jednoj traci, mreža lijevo, pojmovi desno; ispod 900px sve jedno ispod drugog */
+:root{color-scheme:light dark;--bg:light-dark(#f4f1ea,#15171c);--paper:light-dark(#fff,#20232a);--ink:light-dark(#141414,#ecebe6);--mut:light-dark(#5d5a54,#a3a19b);--blk:light-dark(#141414,#0a0b0e);--line:light-dark(#141414,#4a4e58);--red:#d7262e;--sel:light-dark(#ffe1a8,#5a4520);--word:light-dark(#fff4dc,#2f2b22);--ok:light-dark(#1f7a4d,#5fd49a);--bad:light-dark(#fde2e2,#5b2326);--soft:light-dark(#0000000d,#ffffff12)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Libre Franklin",system-ui,sans-serif;overflow-x:clip}
+header{background:var(--red);color:#fff;padding:18px max(4vw,14px) 16px}
+h1{font:800 clamp(30px,5vw,46px)/1.05 Bitter,Georgia,serif;margin:0}
+header p{margin:6px 0 0;font-size:15px;opacity:.95;max-width:62ch}
+.pick{background:var(--paper);border-bottom:2px solid var(--ink);padding:14px max(4vw,14px)}
+.pick .in{max-width:1240px;margin:0 auto;display:grid;grid-template-columns:auto auto minmax(0,1fr);gap:14px 26px;align-items:end}
+.grp b{display:block;font-size:13px;font-weight:600;color:var(--mut);margin-bottom:5px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{font:600 15px "Libre Franklin",sans-serif;min-height:44px;padding:0 14px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer}
+.seg button small{font-weight:400;color:var(--mut);margin-left:4px}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}.seg button[aria-pressed=true] small{color:inherit;opacity:.75}
+.seg button.chip[aria-pressed=true]{background:var(--red);border-color:var(--red);color:#fff}
+.verrow{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:end}
+.verrow .note{font-size:14px;color:var(--mut);padding-bottom:10px}
+main{max-width:1240px;margin:0 auto;padding:18px max(3vw,10px) 40px;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:28px;align-items:start}
+.title{font:800 22px/1.15 Bitter,Georgia,serif;margin:0 0 10px;text-wrap:balance}
+.title span{display:block;font:400 14px "Libre Franklin",sans-serif;color:var(--mut);margin-top:3px}
+.wrap{overflow:auto;max-height:78vh;border:2px solid var(--line);background:var(--paper);box-shadow:0 10px 30px -18px #0008;overscroll-behavior:contain}
+.grid{display:grid;width:max-content;user-select:none;touch-action:manipulation}
+.c{position:relative;width:var(--cs);height:var(--cs);border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--paper);display:flex;align-items:center;justify-content:center;font:700 calc(var(--cs)*.56)/1 "Libre Franklin",sans-serif;cursor:pointer}
+.c.dg{font-size:calc(var(--cs)*.4);letter-spacing:-.03em}.c.x{background:var(--blk);cursor:default}
+.c.hw{background:var(--word)}.c.hc{background:var(--sel);outline:2px solid var(--red);outline-offset:-2px;z-index:1}
+.c.bad{background:var(--bad);color:var(--red)}.c.rev{color:var(--mut)}.c.good{color:var(--ok)}
+.c sup{position:absolute;top:1px;left:2px;font:600 max(8px,calc(var(--cs)*.27))/1 "Libre Franklin",sans-serif;color:var(--mut)}
+.bar{display:flex;gap:10px;align-items:center;margin:12px 0;padding:10px 12px;background:var(--ink);color:var(--bg);min-height:52px}
+.bar b{background:var(--red);color:#fff;padding:2px 8px;white-space:nowrap}
+.bar button{flex:none;background:none;border:1px solid currentColor;color:inherit;width:44px;height:38px;font-size:18px;cursor:pointer}
+.bar span{flex:1}
+.keys,.tools{display:flex;flex-wrap:wrap;gap:6px}.tools{margin-top:10px}
+button.k,.tools button,.btn{font:600 15px "Libre Franklin",sans-serif;min-height:44px;padding:0 14px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer}
+button.k{min-width:44px;padding:0}
+.tools button.pri,.btn.pri{background:var(--red);border-color:var(--red);color:#fff}
+button:focus-visible,.c:focus-visible,textarea:focus-visible,input:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.stat{margin-top:12px;font-size:15px;color:var(--mut)}.stat strong{color:var(--ink)}
+.win{display:none;margin-top:12px;padding:14px;border:2px solid var(--ok);color:var(--ok);font-weight:600}.win.on{display:block}
+h2{font:800 22px/1.1 Bitter,Georgia,serif;margin:0 0 8px;padding-bottom:6px;border-bottom:3px solid var(--ink)}
+.clues section+section{margin-top:22px}
+ol{list-style:none;margin:0;padding:0}
+li{display:flex;gap:10px;padding:7px 8px;cursor:pointer;border-bottom:1px solid var(--soft)}
+li b{min-width:1.8em;text-align:right;color:var(--red)}
+li.on{background:var(--sel)}li.done span{text-decoration:line-through;color:var(--mut)}
+#kb{position:fixed;opacity:0;width:1px;height:1px;left:0;top:0;border:0;padding:0;font-size:16px}
+.admin{max-width:1240px;margin:0 auto 40px;padding:0 max(3vw,10px)}
+.admin .box{background:var(--paper);border:2px dashed var(--ink);padding:18px}
+.admin p{margin:6px 0 12px;max-width:70ch}
+.admin pre{background:var(--soft);padding:12px;font-size:14px;overflow-x:auto;margin:0 0 8px}
+.admin .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0}
+.msg{font-size:15px;margin:8px 0}.msg.err{color:var(--red)}.msg.ok{color:var(--ok)}
+.uplist{margin-top:14px}.uplist li{cursor:default;align-items:center}.uplist li span{flex:1}
+footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
+.loading{padding:40px;text-align:center;color:var(--mut)}
+@media(max-width:900px){main{grid-template-columns:minmax(0,1fr)}.pick .in{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){.bar{position:sticky;top:0;z-index:5;margin:8px 0}.wrap{max-height:70vh}}
+@media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
+</style></head><body>
+<header><h1>Križaljke</h1><p>Odaberi težinu, veličinu i jedno ili više područja, pa rješavaj. Svaka kombinacija ima tri verzije.</p></header>
+<div class="pick"><div class="in">
+ <div class="grp"><b>Težina</b><div class="seg" id="sd"></div></div>
+ <div class="grp"><b>Veličina</b><div class="seg" id="ss"></div></div>
+ <div class="grp"><b>Područja (jedno ili više)</b><div class="seg" id="st"></div></div>
+ <div class="verrow"><div class="grp"><b>Verzija</b><div class="seg" id="sv"></div></div><div class="note" id="vnote"></div></div>
+</div></div>
+<main>
+<div class="board">
+ <h2 class="title" id="ttl">Učitavanje…</h2>
+ <div class="wrap" id="wrap"><div class="grid" id="g"><div class="loading">Učitavanje križaljke…</div></div></div>
+ <div class="bar"><button id="prev" aria-label="Prethodni pojam">‹</button><b id="cn">–</b><span id="ct"></span><button id="next" aria-label="Sljedeći pojam">›</button></div>
+ <div class="keys" aria-label="Hrvatska slova"><button class="k">Č</button><button class="k">Ć</button><button class="k">Đ</button><button class="k">Š</button><button class="k">Ž</button><button class="k">LJ</button><button class="k">NJ</button><button class="k">DŽ</button><button class="k" id="dir" title="Promijeni smjer" aria-label="Promijeni smjer">⇄</button></div>
+ <div class="tools"><button class="pri" id="chk">Provjeri</button><button id="rl">Otkrij slovo</button><button id="rw">Otkrij riječ</button><button id="ra">Otkrij sve</button><button id="rs">Kreni ispočetka</button></div>
+ <div class="stat">Popunjeno: <strong id="pf">0</strong> / <span id="pt">0</span> polja · Riješeno: <strong id="ps">0</strong> / <span id="pn">0</span> pojmova</div>
+ <div class="win" id="win">Bravo! Križaljka je točno riješena.</div>
+</div>
+<div class="clues"><section><h2>Vodoravno</h2><ol id="la"></ol></section><section><h2>Okomito</h2><ol id="ld"></ol></section></div>
+</main>
+<section class="admin" id="admin" hidden><div class="box">
+ <h2>Provjera nove verzije</h2>
+ <p>Ovdje možeš provjeriti datoteku prije nego što je dodaš na GitHub. Ništa se ne sprema. Datoteka je obična .txt datoteka u ovom obliku (područja: opća kultura, filmska kultura, rock&amp;roll, povijest, astronomija; težina: opća, teška, stručna; veličina: mala, srednja, velika). LJ, NJ i DŽ automatski idu u jedno polje; ako u nekoj riječi moraju ostati dva slova, stavi + između njih (npr. KON+JUNKTURA).</p>
+ <pre id="tpl">područja: povijest, rock&amp;roll
+težina: teška
+veličina: mala
+naziv: Jesenska verzija
+GUBEC | Matija ..., vođa seljačke bune 1573.
+HENDRIX | Jimi ..., gitarist koji je zatvorio Woodstock
+STRUMMER | Joe ..., pjevač Clasha</pre>
+ <div class="row"><button class="btn" id="cpy">Kopiraj predložak</button><label class="btn pri" style="display:inline-flex;align-items:center">Odaberi datoteku<input type="file" id="file" accept=".txt,.csv,text/plain" hidden></label></div>
+ <div class="msg" id="umsg"></div>
+ <div class="row" id="urow" hidden><button class="btn pri" id="uprev">Prikaži pregled</button></div>
+ <p>Kad je datoteka u redu, na GitHubu je dodaj u mapu <strong>nove</strong> (Add file → Upload files). Nova verzija pojavit će se na stranici za minutu-dvije.</p>
+ <h2 style="margin-top:20px">Dodane verzije</h2>
+ <ol class="uplist" id="ulist"></ol>
+</div></section>
+<footer><a href="#provjera" id="tog" style="color:inherit">Provjera nove verzije</a> · LJ, NJ i DŽ zauzimaju jedno polje: utipkaj ih redom (npr. L pa J) ili dodirni tipku. Napredak se sprema u ovom pregledniku.</footer>
+<input id="kb" autocomplete="off" autocapitalize="characters" autocorrect="off" spellcheck="false" aria-label="Unos slova">
+<script src="gen.js"></script>
+<script>
+{
+const DIFF=[['opca','Opća'],['teska','Teška'],['strucna','Stručna']];
+const SIZE=[['mala','Mala','do 150 polja',150,15,17],['srednja','Srednja','do 250',250,21,23],['velika','Velika','do 400',400,28,30]];
+const TH=[['o','Opća kultura'],['f','Filmska kultura'],['r','Rock&roll'],['p','Povijest'],['a','Astronomija']];
+const TNAME=Object.fromEntries(TH),DNAME=Object.fromEntries(DIFF),SNAME=Object.fromEntries(SIZE.map(s=>[s[0],s[1]]));
+const $=id=>document.getElementById(id),g=$('g'),kb=$('kb'),wrap=$('wrap');
+const LS={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let sel=Object.assign({d:'opca',s:'mala',t:['o'],v:1},LS.get('kriz-odabir')||{});
+const cache={};let uploads=[];let P=null,sol,val,rev,el,order,cur;
+
+function segs(){
+ $('sd').innerHTML=DIFF.map(([k,n])=>`<button data-k="${k}" aria-pressed="${sel.d==k}">${n}</button>`).join('');
+ $('ss').innerHTML=SIZE.map(([k,n,h])=>`<button data-k="${k}" aria-pressed="${sel.s==k}">${n}<small>${h}</small></button>`).join('');
+ $('st').innerHTML=TH.map(([k,n])=>`<button class="chip" data-k="${k}" aria-pressed="${sel.t.includes(k)}">${n}</button>`).join('');
+ const ups=myUploads();const n=3+ups.length;
+ if(sel.v>n)sel.v=1;
+ $('sv').innerHTML=Array.from({length:n},(_,i)=>{const v=i+1,id=pid(v),done=(LS.get('kriz2-p-'+id)||{}).done;return `<button data-k="${v}" aria-pressed="${sel.v==v}" title="${v>3?'Učitana verzija':''}">${v}${done?' ✓':''}</button>`}).join('');
+ $('vnote').textContent=ups.length?`Verzije 4–${n} dodao je administrator.`:'';
+}
+const tkey=()=>TH.map(t=>t[0]).filter(k=>sel.t.includes(k)).join('');
+const myUploads=()=>uploads.filter(u=>u.tezina==sel.d&&u.velicina==sel.s&&u.tk==tkey());
+const pid=v=>v<=3?`${sel.d}-${sel.s}-${tkey()}-${v}`:(myUploads()[v-4]||{}).id;
+$('sd').onclick=e=>{const b=e.target.closest('button');if(b){sel.d=b.dataset.k;sel.v=1;change()}};
+$('ss').onclick=e=>{const b=e.target.closest('button');if(b){sel.s=b.dataset.k;sel.v=1;change()}};
+$('st').onclick=e=>{const b=e.target.closest('button');if(!b)return;const k=b.dataset.k;if(sel.t.includes(k)){if(sel.t.length>1)sel.t=sel.t.filter(x=>x!=k)}else sel.t=[...sel.t,k];sel.v=1;change()};
+$('sv').onclick=e=>{const b=e.target.closest('button');if(b){sel.v=+b.dataset.k;change()}};
+function change(){LS.set('kriz-odabir',sel);segs();load()}
+
+async function load(){
+ const v=sel.v,id=pid(v);let p=null;
+ if(v>3){p=myUploads()[v-4]}
+ else{const f=`${sel.d}-${sel.s}`;
+  if(!cache[f]){$('ttl').textContent='Učitavanje…';g.innerHTML='<div class="loading">Učitavanje križaljke…</div>';
+   try{const r=await fetch(`data/${f}.json`);cache[f]=await r.json()}catch(e){g.innerHTML='<div class="loading">Križaljku nije moguće učitati. Osvježi stranicu.</div>';return}}
+  if(pid(sel.v)!==id)return; p=cache[f][id]}
+ if(!p){g.innerHTML='<div class="loading">Ova verzija ne postoji.</div>';return}
+ start(p);
+}
+function start(p){
+ P={id:p.id,w:p.w,h:p.h,words:p.words.map(x=>Array.isArray(x)?{n:x[0],r:x[1],c:x[2],d:x[3],a:x[4],q:x[5]}:x)};
+ const H=P.h,W=P.w;
+ sol=Array.from({length:H},()=>Array(W).fill(null));const num={};
+ P.words.forEach(w=>{w.cells=[];w.t=KrizGen.tok(w.a);for(let i=0;i<w.t.length;i++){const r=w.r+(w.d=='D'?i:0),c=w.c+(w.d=='A'?i:0);sol[r][c]=w.t[i];w.cells.push([r,c])}num[w.r*1000+w.c]=w.n});
+ const st=LS.get('kriz2-p-'+P.id)||{};
+ val=st.v&&st.v.length==H?st.v:Array.from({length:H},()=>Array(W).fill(''));rev=st.r||{};
+ let html='';for(let r=0;r<H;r++)for(let c=0;c<W;c++)html+=sol[r][c]?`<div class="c" data-r="${r}" data-c="${c}">${num[r*1000+c]?`<sup>${num[r*1000+c]}</sup>`:''}<i></i></div>`:'<div class="c x"></div>';
+ g.style.gridTemplateColumns=`repeat(${W},var(--cs))`;g.innerHTML=html;el=[];
+ g.querySelectorAll('.c:not(.x)').forEach(d=>{(el[+d.dataset.r]=el[+d.dataset.r]||[])[+d.dataset.c]=d});
+ const by=d=>P.words.filter(w=>w.d==d);order=[...by('A'),...by('D')];
+ const li=w=>`<li data-k="${w.n}${w.d}"><b>${w.n}</b><span>${esc(w.q)} (${w.t.length})</span></li>`;
+ $('la').innerHTML=by('A').map(li).join('');$('ld').innerHTML=by('D').map(li).join('');
+ $('pt').textContent=document.querySelectorAll('#g .c:not(.x)').length;$('pn').textContent=P.words.length;
+ const up=sel.v>3?myUploads()[sel.v-4]:null;
+ $('ttl').innerHTML=`${esc(up&&up.naziv?up.naziv:'Verzija '+sel.v)}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${sel.t.map(t=>TNAME[t]).join(', ')}</span>`;
+ cur={r:order[0].r,c:order[0].c,d:order[0].d};last=null;size();paint();wrap.scrollTop=0;wrap.scrollLeft=0;
+}
+function esc(s){return String(s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[m])}
+function size(){if(!P)return;const av=wrap.clientWidth-4;const cs=Math.max(26,Math.min(42,Math.floor(av/P.w)));wrap.style.setProperty('--cs',cs+'px')}
+const ro=new ResizeObserver(size);ro.observe(wrap);
+const wordAt=(r,c,d)=>P.words.find(w=>w.d==d&&w.cells.some(([a,b])=>a==r&&b==c));
+const save=()=>{const done=P.words.every(w=>w.cells.every(([r,c])=>val[r][c]==sol[r][c]));const was=(LS.get('kriz2-p-'+P.id)||{}).done;LS.set('kriz2-p-'+P.id,{v:val,r:rev,done});if(done!=!!was)segs()};
+function paint(){
+ const w=wordAt(cur.r,cur.c,cur.d);
+ for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++){const d=el[r]&&el[r][c];if(!d)continue;d.lastChild.textContent=val[r][c];d.classList.toggle('dg',val[r][c].length>1);d.classList.remove('hw','hc');d.classList.toggle('rev',!!rev[r+','+c])}
+ if(w){w.cells.forEach(([r,c])=>el[r][c].classList.add('hw'));$('cn').textContent=w.n+(w.d=='A'?' →':' ↓');$('ct').textContent=w.q+' ('+w.t.length+')'}
+ const hc=el[cur.r][cur.c];hc.classList.add('hc');
+ const solvedW=new Set(P.words.filter(x=>x.cells.every(([r,c])=>val[r][c]==sol[r][c])).map(x=>x.n+x.d));
+ document.querySelectorAll('.clues li').forEach(li=>{const k=li.dataset.k;li.classList.toggle('on',!!w&&k==w.n+w.d);li.classList.toggle('done',solvedW.has(k))});
+ let f=0;for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)if(sol[r][c]&&val[r][c])f++;
+ $('pf').textContent=f;$('ps').textContent=solvedW.size;$('win').classList.toggle('on',solvedW.size==P.words.length);
+ const wr=wrap.getBoundingClientRect(),cr=hc.getBoundingClientRect();
+ if(cr.left<wr.left||cr.right>wr.right||cr.top<wr.top||cr.bottom>wr.bottom)hc.scrollIntoView&&hc.scrollIntoView({block:"nearest",inline:"nearest"});
+}
+const flip=()=>{const o=cur.d=='A'?'D':'A';if(wordAt(cur.r,cur.c,o)){cur.d=o;paint()}};
+function focusKb(){try{kb.focus({preventScroll:true})}catch(e){}}
+function clearMarks(){g.querySelectorAll('.bad,.good').forEach(d=>d.classList.remove('bad','good'))}
+function step(dir){const w=wordAt(cur.r,cur.c,cur.d);if(!w)return;const i=w.cells.findIndex(([a,b])=>a==cur.r&&b==cur.c)+dir;if(i>=0&&i<w.cells.length)[cur.r,cur.c]=w.cells[i]}
+let last=null;
+function type(ch){ch=ch.toLocaleUpperCase('hr');if(!/^([A-ZČĆĐŠŽ]|LJ|NJ|DŽ)$/.test(ch))return;
+ if(last&&(ch=='J'&&/^[LN]$/.test(val[last.r][last.c])||ch=='Ž'&&val[last.r][last.c]=='D')){val[last.r][last.c]+=ch;last=null;save();paint();return}
+ val[cur.r][cur.c]=ch;last=ch.length==1&&/[LND]/.test(ch)?{r:cur.r,c:cur.c}:null;delete rev[cur.r+','+cur.c];clearMarks();step(1);save();paint()}
+function back(){last=null;if(val[cur.r][cur.c])val[cur.r][cur.c]='';else{step(-1);val[cur.r][cur.c]=''}save();clearMarks();paint()}
+function jump(o){last=null;const w=wordAt(cur.r,cur.c,cur.d);let i=(order.indexOf(w)+o+order.length)%order.length;const n=order[i];const e=n.cells.find(([r,c])=>!val[r][c])||n.cells[0];cur={r:e[0],c:e[1],d:n.d};clearMarks();paint();focusKb()}
+function move(dr,dc){last=null;let r=cur.r+dr,c=cur.c+dc;while(r>=0&&r<P.h&&c>=0&&c<P.w){if(sol[r][c]){cur.r=r;cur.c=c;if(!wordAt(r,c,cur.d))cur.d=cur.d=='A'?'D':'A';paint();return}r+=dr;c+=dc}}
+g.addEventListener('click',e=>{const d=e.target.closest('.c');if(!d||d.classList.contains('x')||!P)return;last=null;const r=+d.dataset.r,c=+d.dataset.c;
+ if(r==cur.r&&c==cur.c)flip();else{cur.r=r;cur.c=c;if(!wordAt(r,c,cur.d))cur.d=cur.d=='A'?'D':'A';clearMarks();paint()}focusKb()});
+document.querySelector('.clues').addEventListener('click',e=>{const li=e.target.closest('li');if(!li||!P)return;const w=P.words.find(x=>x.n+x.d==li.dataset.k);const f=w.cells.find(([r,c])=>!val[r][c])||w.cells[0];cur={r:f[0],c:f[1],d:w.d};clearMarks();paint();if(innerWidth<900)document.querySelector('.board').scrollIntoView({behavior:'smooth'});focusKb()});
+kb.addEventListener('input',()=>{const v=kb.value;kb.value='';if(P)for(const ch of v)type(ch)});
+kb.addEventListener('keydown',e=>{if(!P)return;const m={ArrowLeft:[0,-1],ArrowRight:[0,1],ArrowUp:[-1,0],ArrowDown:[1,0]};
+ if(m[e.key]){e.preventDefault();move(...m[e.key])}else if(e.key=='Backspace'){e.preventDefault();back()}else if(e.key=='Tab'){e.preventDefault();jump(e.shiftKey?-1:1)}else if(e.key==' '){e.preventDefault();flip()}});
+document.querySelectorAll('.keys .k').forEach(b=>b.addEventListener('click',()=>{if(!P)return;if(b.id=='dir')flip();else type(b.textContent);focusKb()}));
+$('prev').onclick=()=>P&&jump(-1);$('next').onclick=()=>P&&jump(1);
+$('chk').onclick=()=>{if(!P)return;clearMarks();for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)if(sol[r][c]&&val[r][c])el[r][c].classList.add(val[r][c]==sol[r][c]?'good':'bad')};
+const reveal=cells=>{cells.forEach(([r,c])=>{if(val[r][c]!=sol[r][c]){val[r][c]=sol[r][c];rev[r+','+c]=1}});save();clearMarks();paint()};
+$('rl').onclick=()=>{if(P){reveal([[cur.r,cur.c]]);focusKb()}};
+$('rw').onclick=()=>{if(!P)return;const w=wordAt(cur.r,cur.c,cur.d);if(w)reveal(w.cells)};
+const conf=(btn,fn)=>{let t;const orig=btn.textContent;btn.onclick=()=>{if(!P)return;if(btn.dataset.a){fn();btn.textContent=orig;delete btn.dataset.a;clearTimeout(t)}else{btn.dataset.a=1;btn.textContent='Sigurno? Dodirni opet';t=setTimeout(()=>{btn.textContent=orig;delete btn.dataset.a},3000)}}};
+conf($('ra'),()=>reveal(P.words.flatMap(w=>w.cells)));
+conf($('rs'),()=>{for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)val[r][c]='';for(const k in rev)delete rev[k];save();clearMarks();paint()});
+
+/* ---------- provjera nove verzije ---------- */
+let pending=null;
+const umsg=(t,cls)=>{$('umsg').className='msg '+(cls||'');$('umsg').textContent=t};
+$('file').onchange=async e=>{const f=e.target.files[0];e.target.value='';if(!f)return;$('urow').hidden=true;pending=null;
+ const r=KrizGen.fromText(await f.text(),'pregled');if(r.errs.length){umsg(r.errs.slice(0,6).join(' '),'err');return}
+ const u=r.cw;pending=u;$('urow').hidden=false;
+ umsg(`Datoteka je u redu. Složeno: ${u.words.length} pojmova, ${u.cells} polja (${u.w}×${u.h}). ${r.left?`${r.left} pojmova nije stalo u mrežu.`:'Svi pojmovi su uvršteni.'} Kombinacija: ${DNAME[u.tezina]} · ${SNAME[u.velicina]} · ${u.teme.map(t=>TNAME[t]).join(', ')}.`,'ok')};
+$('uprev').onclick=()=>{if(!pending)return;sel={d:pending.tezina,s:pending.velicina,t:pending.teme,v:1};segs();start(pending);$('ttl').innerHTML=`Pregled (nije objavljeno)<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${sel.t.map(t=>TNAME[t]).join(', ')}</span>`;scrollTo({top:0,behavior:'smooth'})};
+$('cpy').onclick=async()=>{try{await navigator.clipboard.writeText($('tpl').textContent);$('cpy').textContent='Kopirano'}catch(e){$('cpy').textContent='Označi tekst i kopiraj ručno'}setTimeout(()=>$('cpy').textContent='Kopiraj predložak',2500)};
+function renderUploads(){$('ulist').innerHTML=uploads.length?uploads.map(u=>`<li><span><strong>${esc(u.naziv||'Bez naziva')}</strong> — ${DNAME[u.tezina]} · ${SNAME[u.velicina]} · ${u.teme.map(t=>TNAME[t]).join(', ')} · ${u.words.length} pojmova</span></li>`).join(''):'<li><span>Još nema dodanih verzija.</span></li>'}
+const showAdmin=()=>{$('admin').hidden=location.hash!=='#provjera';const a=$('admin');if(!a.hidden&&a.scrollIntoView)a.scrollIntoView({behavior:'smooth'})};
+addEventListener('hashchange',showAdmin);
+fetch('data/uploads.json').then(r=>r.ok?r.json():[]).then(a=>{uploads=Array.isArray(a)?a.filter(u=>u&&Array.isArray(u.words)):[];renderUploads();const v=sel.v;segs();if(v>3)load()}).catch(()=>renderUploads());
+showAdmin();
+segs();load();
+}
+</script></body></html>

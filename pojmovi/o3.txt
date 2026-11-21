@@ -1,0 +1,24 @@
+[teska]
+NAPULJ|Talijanski grad podno Vezuva
+FIRENCA|Grad renesanse na rijeci Arno
+MILANO|Grad u kojem je Leonardova „Posljednja večera”
+BAVARSKA|Njemačka savezna država s Münchenom
+TOSKANA|Talijanska pokrajina s Firencom
+PROVANSA|Francuska pokrajina poznata po lavandi
+KATALONIJA|Španjolska pokrajina s Barcelonom
+BARCELONA|Grad Sagrade Familije
+PORTO|Portugalski grad po kojem je nazvano poznato vino
+SEVILJA|Grad „Seviljskog brijača”
+[strucna]
+TURGENJEV|Autor „Očeva i djece”
+LERMONTOV|Autor „Junaka našeg doba”
+ANDERSEN|Autor bajke „Ružno pače”
+GRIMM|Braća ..., sakupljači bajki
+PERRAULT|Charles ..., autor zbirke bajki s „Pepeljugom”
+COLLODI|Carlo ..., autor „Pinokija”
+CARROLL|Lewis ..., autor „Alise u zemlji čudesa”
+WILDE|Oscar ..., autor „Slike Doriana Graya”
+BECKETT|Autor drame „U očekivanju Godota”
+GODOT|Lik kojeg Vladimir i Estragon uzalud čekaju
+BRECHT|Autor „Majke Hrabrosti”
+PIRANDELLO|Autor drame „Šest lica traži autora”

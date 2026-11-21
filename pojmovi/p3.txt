@@ -1,0 +1,64 @@
+[opca]
+ZIGURAT|Stepenasti hram Mezopotamije
+KLINASTO|... pismo Sumerana
+STONEHENGE|Prapovijesni kameni krug u Engleskoj
+MEGALIT|Golemi prapovijesni kamen
+DOLMEN|Prapovijesni grob od uspravnog i položenog kamenja
+KEOPS|Faraon Velike piramide u Gizi
+GIZA|Mjesto Velike piramide
+TROJANSKI|... konj, varka kojom je osvojena Troja
+RIMSKO|... Carstvo, država koja je obuhvaćala cijelo Sredozemlje
+BARBARI|Rimski naziv za strane narode
+HUNI|Atilin narod
+GOTI|Germanski narod podijeljen na istočne i zapadne
+VANDALI|Narod koji je 455. opljačkao Rim
+FRANCI|Narod Karla Velikog
+SLAVENI|Skupina naroda kojoj pripadaju i Hrvati
+KNEZ|Naslov hrvatskih vladara prije Tomislava
+BAN|Naslov hrvatskog namjesnika
+ŽUPAN|Upravitelj županije
+PLEMIĆ|Pripadnik plemstva
+PLEMSTVO|Povlašteni društveni sloj
+OPSADA|Okruženje grada radi osvajanja
+ZIDINE|Obrambeni zidovi grada
+TVRĐAVA|Utvrđena građevina
+KULA|Visoka obrambena građevina
+PRIMIRJE|Privremeni prekid neprijateljstava
+SAVEZ|Udruženje država ili vladara
+IZGNANSTVO|Prisilni boravak izvan domovine
+[teska]
+UTRECHT|Mir iz 1713.
+DEFENESTRACIJA|Bacanje kroz prozor, povod Tridesetogodišnjem ratu
+JAKOBINCI|Radikalni klub Francuske revolucije
+ŽIRONDINCI|Umjereniji suparnici jakobinaca
+DIREKTORIJ|Francuska vlada od 1795. do 1799.
+KONZULAT|Napoleonova vlast od 1799. do 1804.
+TERMIDOR|Mjesec revolucionarnog kalendara u kojem je pao Robespierre
+VANDEJA|Rojalistički ustanak u zapadnoj Francuskoj
+KONTINENTALNA|... blokada, Napoleonova mjera protiv Britanije
+SVETA|... alijansa iz 1815.
+DEKABRISTI|Ruski ustanici iz prosinca 1825.
+ČARTIZAM|Britanski radnički pokret 19. stoljeća
+OPIJUMSKI|... ratovi Kine i Britanije
+SIPAJSKI|... ustanak u Indiji 1857.
+BURSKI|... rat u južnoj Africi
+CUŠIMA|Pomorska bitka 1905. u Rusko-japanskom ratu
+[strucna]
+KARANTANIJA|Slavenska kneževina u istočnim Alpama
+SAMO|Franački trgovac, vođa ranog slavenskog saveza u 7. stoljeću
+AVARI|Narod s kojim su Hrvati, prema Porfirogenetu, ratovali
+METODIJE|Ćirilov brat, slavenski apostol
+ĆIRILO|Tvorac glagoljice
+OHRID|Središte Klimentove škole
+KLIMENT|... Ohridski, učenik Ćirila i Metodija
+SIMEON|Bugarski car s početka 10. stoljeća
+SAMUILO|Car poražen od Bizanta 1014.
+BAZILIJE|... II. Bugaroubojica
+NEMANJA|Stefan ..., osnivač srpske dinastije
+DUŠAN|Srpski car, autor Zakonika
+TVRTKO|Bosanski kralj okrunjen 1377.
+KOTROMANIĆ|Dinastija bosanskih banova i kraljeva
+KULIN|Bosanski ban povelje iz 1189.
+ZAHUMLJE|Srednjovjekovna kneževina u zaleđu Dubrovnika
+HRVOJE|... Vukčić Hrvatinić, herceg splitski
+MISAL|Hrvojev ..., glagoljski rukopis

@@ -1,0 +1,320 @@
+[opca]
+PRAPOVIJEST|Razdoblje prije pojave pisma
+ANTIKA|Razdoblje starih Grka i Rimljana
+PEĆINA|Prebivalište pračovjeka
+NEANDERTALAC|Izumrla vrsta čovjeka poznata i iz Krapine
+KOTAČ|Izum koji je olakšao prijevoz
+PLUG|Oruđe za oranje
+PAPIR|Materijal za pisanje izumljen u Kini
+BARUT|Eksploziv izumljen u Kini
+KINESKI|... zid, golema obrambena građevina
+MUMIJA|Balzamirano tijelo iz egipatske grobnice
+PAPIRUS|Egipatski materijal za pisanje
+OLIMPIJA|Grčko svetište antičkih olimpijskih igara
+AKROPOLA|Utvrđeno uzvišenje u Ateni s Partenonom
+DEMOKRACIJA|Vladavina naroda, nastala u Ateni
+FILOZOF|Doslovno „ljubitelj mudrosti”
+ROMUL|Mitski osnivač Rima
+REM|Romulov brat blizanac
+VUČICA|Životinja koja je, prema legendi, dojila Romula i Rema
+SENAT|Rimsko vijeće
+LEGIJA|Postrojba rimske vojske
+AMFITEATAR|Građevina za borbe gladijatora
+AKVEDUKT|Rimski vodovod na lukovima
+POMPEJI|Grad zatrpan erupcijom Vezuva 79.
+VEZUV|Vulkan koji je zatrpao Pompeje
+FEUDALIZAM|Srednjovjekovni sustav vazala i seniora
+KMET|Seljak vezan uz zemlju feudalca
+DVOR|Prebivalište vladara
+GRB|Obiteljski ili državni znak
+ŠTIT|Viteška zaštita, često s grbom
+MAČ|Oštro hladno oružje viteza
+KOPLJE|Dugo oružje sa šiljkom
+OKLOP|Metalna zaštita viteza
+TURNIR|Viteško natjecanje
+SAMOSTAN|Zgrada u kojoj živi zajednica redovnika
+REDOVNIK|Član samostanske zajednice
+KATEDRALA|Glavna crkva biskupije
+GOTIKA|Stil šiljatih lukova i vitraja
+ROMANIKA|Stil debelih zidova i polukružnih lukova
+BAROK|Raskošni stil 17. i 18. stoljeća
+NORMANI|Vikinzi naseljeni u sjevernoj Francuskoj
+MONGOLI|Narod Džingis-kana
+DŽINGIS|...-kan, osnivač Mongolskog Carstva
+SAMURAJ|Japanski ratnik
+ŠOGUN|Japanski vojni vladar
+KARAVELA|Jedrenjak velikih otkrića
+GAMA|Vasco da ..., moreplovac koji je oplovio Afriku do Indije
+INDIJANCI|Starosjedioci Amerike
+KONKVISTADOR|Španjolski osvajač Amerike
+PIZARRO|Osvajač Carstva Inka
+GUSARI|Pomorski razbojnici
+MEDICI|Firentinska obitelj pokrovitelja umjetnosti
+KOLONIJA|Posjed izvan matične zemlje
+ROBOVI|Ljudi lišeni slobode i prodavani kao vlasništvo
+NEOVISNOST|Američka deklaracija o ... iz 1776.
+DEKLARACIJA|Svečana izjava, poput američke iz 1776.
+USTAV|Temeljni zakon države
+REPUBLIKA|Država bez monarha na čelu
+MONARHIJA|Država na čelu s kraljem ili carem
+PREDSJEDNIK|Šef države u republici
+KRUNA|Simbol kraljevske vlasti
+ŽEZLO|Kraljevski štap, simbol vlasti
+PRIJESTOLJE|Vladarska stolica
+ANTOANETA|Marija ..., francuska kraljica pogubljena 1793.
+ELBA|Otok Napoleonova prvog progonstva
+HELENA|Sveta ..., otok na kojem je umro Napoleon
+INDUSTRIJSKA|... revolucija, doba parnih strojeva
+PARNI|... stroj, pokretač industrijske revolucije
+WATT|James ..., usavršio parni stroj
+TVORNICA|Industrijsko postrojenje
+SVJETSKI|Prvi ... rat, 1914.–1918.
+ROVOVI|Iskopi u kojima su vojnici čekali na Zapadnom bojištu
+TENK|Oklopno vozilo prvi put upotrijebljeno u Prvom svjetskom ratu
+ZEPELIN|Zračni brod punjen plinom
+LENJIN|Vođa Oktobarske revolucije
+CAR|Naslov ruskog vladara do 1917.
+NIKOLAJ|... II., posljednji ruski car
+DEPRESIJA|Velika ..., gospodarska kriza nakon 1929.
+HOLOKAUST|Nacistički genocid nad Židovima
+PEARL|... Harbor, napad 7. prosinca 1941.
+PARTIZANI|Pripadnici Titove vojske u Drugome svjetskom ratu
+SAVEZNICI|SAD, Britanija i SSSR u Drugome svjetskom ratu
+BOMBA|Atomska ... bačena na Hirošimu
+UJEDINJENI|... narodi, organizacija osnovana 1945.
+KENNEDY|Američki predsjednik ubijen u Dallasu 1963.
+DALLAS|Grad u kojem je ubijen Kennedy
+KING|Martin Luther ..., borac za građanska prava
+MANDELA|Nelson ..., prvi crni predsjednik Južnoafričke Republike
+GANDHI|Vođa nenasilne borbe za neovisnost Indije
+MAO|... Ce-tung, vođa kineske revolucije
+CASTRO|Fidel ..., vođa kubanske revolucije
+GUEVARA|Che ..., argentinski revolucionar
+VIJETNAM|Zemlja rata iz kojeg su se SAD povukle 1973.
+THATCHER|Margaret ..., „Željezna lady”
+REAGAN|Američki predsjednik osamdesetih, prije toga glumac
+WOJTYLA|Karol ..., papa Ivan Pavao II.
+MASLENICA|Vojna operacija iz siječnja 1993. kod Zadra
+TISUĆLJEĆE|Razdoblje od tisuću godina
+ARHEOLOG|Znanstvenik koji iskapa ostatke prošlosti
+POVJESNIČAR|Znanstvenik koji proučava prošlost
+KRONIKA|Zapis događaja redom kojim su se zbili
+ARHIV|Ustanova koja čuva stare dokumente
+SPOMENIK|Kip ili građevina u spomen na osobu ili događaj
+[teska]
+ARPADOVIĆI|Ugarska dinastija koja je od 1102. vladala i Hrvatskom
+ANŽUVINCI|Dinastija Karla Roberta i Ludovika I.
+LUDOVIK|... I. Veliki, ugarsko-hrvatski kralj koji je 1358. stekao Dalmaciju
+ZADARSKI|... mir iz 1358.
+LADISLAV|... Napuljski, prodao Dalmaciju Veneciji 1409.
+MLECI|Stari hrvatski naziv za Veneciju
+MLETAČKA|... Republika, gospodarica Dalmacije do 1797.
+HABSBURZI|Dinastija izabrana na hrvatsko prijestolje u Cetinu 1527.
+SULEJMAN|... Veličanstveni, sultan koji je umro tijekom opsade Sigeta
+SULTAN|Vladar Osmanskog Carstva
+JANJIČARI|Elitna osmanska pješadija
+PAŠA|Visoki osmanski dostojanstvenik
+SOBIESKI|Jan ..., poljski kralj koji je 1683. pomogao osloboditi Beč
+EUGEN|... Savojski, habsburški vojskovođa protiv Osmanlija
+TRENK|Franjo ..., zapovjednik pandura
+PANDURI|Trenkovi slavonski vojnici
+JOSIP|... II., car prosvijećenog apsolutizma
+JOZEFINA|Cesta Karlovac–Senj nazvana po caru Josipu II.
+LUJZIJANA|Cesta Karlovac–Rijeka
+KAROLINA|Cesta Karlovac–Bakar
+KOSSUTH|Lajos ..., vođa mađarske revolucije 1848.
+OKTROIRANI|... ustav iz 1849.
+BACHOV|... apsolutizam, razdoblje pedesetih godina 19. stoljeća
+KRPICA|Riječka ..., sporni dodatak Hrvatsko-ugarske nagodbe
+SVEUČILIŠTE|Zagrebačko ... osnovano 1669., moderno 1874.
+JAZU|Akademija koju je utemeljio Strossmayer (kratica)
+SOČA|Bojište dvanaest bitaka od 1915. do 1917.
+KOBARID|Mjesto proboja na Soči 1917.
+BOROEVIĆ|Svetozar ..., „Lav sa Soče”
+GALICIJA|Istočno bojište Austro-Ugarske
+RAPALLO|Ugovor iz 1920. o granici s Italijom
+KRALJEVINA|... SHS, država osnovana 1918.
+ŠESTOSIJEČANJSKA|... diktatura iz 1929.
+MARSEILLE|Grad atentata na kralja Aleksandra 1934.
+TRAVANJSKI|... rat, napad sila Osovine na Jugoslaviju 1941.
+OSOVINA|Savez Njemačke, Italije i Japana
+SUTJESKA|Bitka 1943. kod Tjentišta
+DRVAR|Mjesto desanta na Titov štab 1944.
+JAJCE|Grad Drugog zasjedanja AVNOJ-a
+AVNOJ|Antifašističko vijeće narodnog oslobođenja Jugoslavije (kratica)
+INFORMBIRO|Sukob sa Staljinom 1948. nazvan po rezoluciji ovog tijela
+GOLI|... otok, logor za informbirovce
+SAMOUPRAVLJANJE|Jugoslavenski model upravljanja poduzećima
+NESVRSTANI|Pokret ... osnovan u Beogradu 1961.
+MASPOK|Kolokvijalni naziv za Hrvatsko proljeće
+DABČEVIĆ|Savka ...-Kučar, jedna od vođa Hrvatskog proljeća
+TRIPALO|Miko ..., jedan od vođa Hrvatskog proljeća
+BALVAN|... revolucija, pobuna 1990.
+MEDAČKI|... džep, operacija 1993.
+MEZOPOTAMIJA|Područje između Eufrata i Tigrisa
+EUFRAT|Rijeka Mezopotamije uz Tigris
+FENIČANI|Narod koji je proširio glasovno pismo
+KNOSOS|Minojska palača na Kreti
+MINOJSKA|... civilizacija s Krete
+MIKENA|Agamemnonov grad
+AGAMEMNON|Vođa Grka pred Trojom
+SOLON|Atenski zakonodavac i reformator
+DRAKON|Atenski zakonodavac poznat po strogim zakonima
+PERZIJA|Carstvo Kira i Darija
+DARIJE|Perzijski kralj čija je vojska poražena kod Maratona
+KIR|... Veliki, osnivač Perzijskog Carstva
+FILIP|... II., otac Aleksandra Velikog
+GAUGAMELA|Aleksandrova pobjeda nad Darijem III. 331. pr. Kr.
+ALEKSANDRIJA|Grad s velikom antičkom knjižnicom
+OKTAVIJAN|Augustovo ime prije 27. pr. Kr.
+ANTONIJE|Marko ..., Kleopatrin saveznik
+AKCIJ|Pomorska bitka 31. pr. Kr.
+BRUT|Cezarov ubojica kojem se pripisuje „I ti, sine moj”
+TRAJAN|Car pod kojim je Rimsko Carstvo bilo najveće
+HADRIJAN|Car po kojem je nazvan zid u Britaniji
+KALIGULA|Car koji je, prema predaji, htio konja učiniti konzulom
+TEODORIK|Ostrogotski kralj u Italiji
+ODOAKAR|Svrgnuo posljednjeg zapadnorimskog cara 476.
+KLODVIG|Franački kralj koji se pokrstio
+MUHAMED|Utemeljitelj islama
+HIDŽRA|Muhamedov prelazak u Medinu 622.
+MEKA|Najsvetiji grad islama
+KALIF|Muhamedov nasljednik na čelu zajednice
+SALADIN|Sultan koji je 1187. osvojio Jeruzalem
+RIKARD|... Lavljeg Srca, engleski kralj križar
+STOGODIŠNJI|... rat između Engleske i Francuske
+IVANA|... Orleanska, „Djevica Orleanska”
+ORLEANS|Grad koji je 1429. oslobodila Ivana Orleanska
+RUŽA|Rat dviju ..., engleski građanski rat 15. stoljeća
+TUDORI|Dinastija Henrika VIII.
+HENRIK|... VIII., engleski kralj sa šest supruga
+ELIZABETA|... I., „Djevica kraljica”
+ANGLIKANSKA|... crkva, nastala odvajanjem od Rima
+KALVIN|Ženevski reformator
+JEZUITI|Red koji je osnovao Ignacije Loyola
+INKVIZICIJA|Crkveni sud protiv krivovjerja
+TRIDESETOGODIŠNJI|... rat, završen 1648.
+PETAR|... Veliki, ruski car koji je osnovao Sankt Peterburg
+KATARINA|... Velika, ruska carica 18. stoljeća
+FRIDRIK|... Veliki, pruski kralj
+BOSTONSKA|... čajanka iz 1773.
+JEFFERSON|Glavni autor Deklaracije neovisnosti
+TRAFALGAR|Nelsonova pomorska pobjeda 1805.
+NELSON|Admiral poginuo kod Trafalgara
+WELLINGTON|Pobjednik kod Waterlooa
+BORODINO|Bitka 1812. pred Moskvom
+BEČKI|... kongres 1814.–1815.
+METTERNICH|Austrijski kancelar Bečkog kongresa
+GARIBALDI|Vođa „crvenokošuljaša” u ujedinjenju Italije
+CAVOUR|Pijemontski premijer ujedinjenja Italije
+SEDAN|Bitka 1870. u kojoj je zarobljen Napoleon III.
+KOMUNA|Pariška ..., 1871.
+VIKTORIJA|Britanska kraljica 19. stoljeća
+KRIMSKI|... rat 1853.–1856.
+NIGHTINGALE|Florence ..., bolničarka iz Krimskog rata
+GETTYSBURG|Bitka 1863. i poznati Lincolnov govor
+SECESIJA|Rat ..., američki građanski rat
+MEIJI|Japansko razdoblje modernizacije od 1868.
+BOKSAČKI|... ustanak u Kini 1900.
+[strucna]
+TRPIMIROVA|... darovnica iz 852.
+ŠOPOT|Nalazište Branimirova natpisa kod Benkovca
+DRŽISLAV|Stjepan ..., kralj s kraja 10. stoljeća
+SVETOSLAV|... Suronja, kralj s kraja 10. stoljeća
+JELENA|Kraljica ... Slavna, čiji je nadgrobni natpis nađen u Solinu
+SOLIN|Nalazište natpisa kraljice Jelene
+DEMETRIJE|Krsno ime kralja Zvonimira
+SPLITSKI|... crkveni sabori 925. i 928.
+TOMA|... Arhiđakon, splitski kroničar 13. stoljeća
+DUKLJANIN|Pop ..., autor „Ljetopisa”
+PORFIROGENET|Konstantin ..., autor djela „De administrando imperio”
+KURJAKOVIĆI|Krbavski knezovi
+ŠUBIĆI|Bribirski knezovi
+BRIBIR|Sjedište Šubića
+PAVAO|... I. Šubić, „gospodar sve Bosne”
+DERENČIN|Mirko ..., ban poražen na Krbavi
+BAKAČ|Toma ... Erdődy, ban pobjednik kod Siska
+LENKOVIĆ|Ivan ..., senjski kapetan i graditelj Nehaja
+NEHAJ|Senjska tvrđava
+VARAŽDINSKI|... generalat Vojne krajine
+GRADIŠKA|Stara ..., tvrđava na Savi
+KOSTAJNICA|Hrvatska ..., tvrđava na Uni
+BIHAĆ|Grad koji su Osmanlije osvojili 1592.
+PETRINJA|Grad u kojem su Osmanlije 1592. sagradili utvrdu
+HASAN|... paša Predojević, poražen kod Siska
+VITEZOVIĆ|Pavao Ritter ..., autor „Oživljene Hrvatske”
+KAČIĆ|Andrija ... Miošić, autor „Razgovora ugodnog naroda slovinskoga”
+RELKOVIĆ|Matija Antun ..., autor „Satira”
+KRČELIĆ|Baltazar Adam ..., kroničar 18. stoljeća
+KUKULJEVIĆ|Ivan ... Sakcinski, prvi govornik na hrvatskom u Saboru 1843.
+RAČKI|Franjo ..., prvi predsjednik JAZU
+ŠULEK|Bogoslav ..., tvorac hrvatskog znanstvenog nazivlja
+FRANK|Josip ..., vođa „frankovaca”
+RAUCH|Pavao ..., ban od 1908. do 1910.
+VELEIZDAJNIČKI|... proces 1909.
+FRIEDJUNG|Povjesničar protiv kojeg je 1909. vođen proces za klevetu
+ŠUFLAY|Milan ..., povjesničar ubijen 1931.
+PRIBIĆEVIĆ|Svetozar ..., vođa Hrvatsko-srpske koalicije
+AŠOKA|Indijski car koji je prihvatio budizam
+MAURIJSKO|... Carstvo, Ašokina država
+HAN|Kineska dinastija po kojoj je nazvan većinski narod
+QIN|Dinastija Prvog cara
+TANG|Kineska dinastija zlatnog doba (618.–907.)
+MING|Dinastija koja je izgradila Zabranjeni grad
+QING|Posljednja kineska carska dinastija
+HEIAN|Japansko razdoblje „Priče o Genjiju”
+KAMAKURA|Prvi japanski šogunat
+TOKUGAWA|Šogunat od 1603. do 1868.
+AKSUM|Drevno etiopsko kraljevstvo
+MALI|Zapadnoafričko carstvo Manse Muse
+MUSA|Mansa ..., bogati vladar Malija
+ZIMBABVE|Veliki ..., kameni grad u južnoj Africi
+TEOTIHUACAN|Grad Piramide Sunca u Meksiku
+TENOCHTITLAN|Prijestolnica Asteka
+CUZCO|Prijestolnica Inka
+ATAHUALPA|Vladar Inka kojeg je zarobio Pizarro
+MOCTEZUMA|Astečki vladar u vrijeme dolaska Španjolaca
+HARAPPA|Grad civilizacije doline Inda
+ZARATUSTRA|Perzijski prorok
+PERZEPOLIS|Ahemenidska prijestolnica
+AHEMENIDI|Dinastija Kira i Darija
+SELEUKIDI|Dinastija nastala u Aziji nakon Aleksandrove smrti
+PARTI|Iranski narod, pobjednici kod Kare 53. pr. Kr.
+KARE|Bitka 53. pr. Kr. u kojoj je poginuo Kras
+KRAS|Marko Licinije ..., pobjednik nad Spartakom
+TRIJUMVIRAT|Savez Cezara, Pompeja i Krasa
+POMPEJ|Cezarov suparnik poražen kod Farsala
+FARSAL|Bitka 48. pr. Kr.
+TETRARHIJA|Dioklecijanov sustav četvorice vladara
+ADRIJANOPOL|Bitka 378. u kojoj su Goti porazili Rimljane
+STILIHON|Vojskovođa vandalskog podrijetla u službi Rima
+ALARIK|Gotski kralj koji je 410. opljačkao Rim
+GENZERIK|Vandalski kralj koji je 455. opljačkao Rim
+BELIZAR|Justinijanov vojskovođa
+HERAKLIJE|Bizantski car koji je pobijedio Perzijance
+MANZIKERT|Bitka 1071. Bizanta i Seldžuka
+SELDŽUCI|Turski narod pobjednik kod Manzikerta
+CLERMONT|Sabor 1095. na kojem je pozvano na križarski rat
+HATIN|Saladinova pobjeda 1187.
+LATINSKO|... Carstvo, nastalo 1204. u Carigradu
+INOCENT|... III., papa Četvrtog križarskog rata
+AZINCOURT|Bitka 1415. engleskih strijelaca
+NIKOPOLJ|Križarski poraz 1396.
+VARNA|Križarski poraz 1444.
+KOSOVO|Bitka 1389.
+HUNJADI|Ivan ..., pobjednik kod Beograda 1456.
+SKENDERBEG|Albanski vođa protiv Osmanlija
+LEPANT|Pomorska bitka 1571.
+DREYFUS|Afera s francuskim časnikom krajem 19. stoljeća
+FAŠODA|Kriza 1898. između Britanije i Francuske
+AGADIR|Kriza 1911. u Maroku
+TANNENBERG|Bitka 1914. u Istočnoj Pruskoj
+GALIPOLJE|Bitka 1915.–1916. na Dardanelima
+BREST|...-Litovsk, mir 1918.
+LOCARNO|Ugovori iz 1925.
+ANSCHLUSS|Pripojenje Austrije Njemačkoj 1938.
+BARBAROSSA|Napad na SSSR 1941.
+MIDWAY|Pomorska bitka 1942. na Tihom oceanu
+KURSK|Velika tenkovska bitka 1943.
+BAGRATION|Sovjetska ofenziva 1944.
+POTSDAM|Konferencija savezničkih vođa 1945.

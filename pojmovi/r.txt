@@ -1,0 +1,211 @@
+[opca]
+BEATLES|„Fab Four” iz Liverpoola
+LENNON|John ..., autor pjesme „Imagine”
+MCCARTNEY|Paul ..., basist Beatlesa
+RINGO|... Starr, bubnjar Beatlesa
+ELVIS|„Kralj rock and rolla”
+PRESLEY|Elvis ...
+STONES|Rolling ..., bend Micka Jaggera
+JAGGER|Mick ..., pjevač Rolling Stonesa
+QUEEN|Bend Freddieja Mercuryja
+MERCURY|Freddie ..., pjevač Queena
+NIRVANA|Grunge bend Kurta Cobaina
+COBAIN|Kurt ..., pjevač Nirvane
+METALLICA|Bend albuma „Master of Puppets”
+BUBNJEVI|Udaraljke rock benda
+BAS|... gitara, najčešće s četiri žice
+POJAČALO|Uređaj koji pojačava zvuk električne gitare
+KONCERT|Nastup benda uživo
+TURNEJA|Niz koncerata u različitim gradovima
+ALBUM|Zbirka pjesama na jednom izdanju
+SINGL|Pjesma izdana zasebno
+PLOČA|Gramofonska ...
+GRAMOFON|Uređaj za puštanje ploča
+BOWIE|David ..., tvorac Ziggyja Stardusta
+ZIGGY|... Stardust, Bowiejev alter ego
+HENDRIX|Jimi ..., gitarist koji je zatvorio Woodstock
+WOODSTOCK|Glazbeni festival iz 1969.
+BONO|Pjevač sastava U2
+OASIS|Bend braće Gallagher
+BLUR|Britpop bend Damona Albarna
+KISS|Bend s našminkanim licima
+SABBATH|Black ..., bend Ozzyja Osbournea
+OZZY|... Osbourne, „Princ tame”
+ZEPPELIN|Led ..., bend „Stairway to Heaven”
+PLANT|Robert ..., pjevač Led Zeppelina
+PAGE|Jimmy ..., gitarist Led Zeppelina
+FLOYD|Pink ..., bend albuma „The Wall”
+DOORS|Bend Jima Morrisona
+MORRISON|Jim ..., pjevač Doorsa
+CLAPTON|Eric ..., gitarist zvan „Slowhand”
+SPRINGSTEEN|Bruce ..., zvan „Boss”
+DYLAN|Bob ..., kantautor, nobelovac 2016.
+CASH|Johnny ..., „Čovjek u crnom”
+BERRY|Chuck ..., autor pjesme „Johnny B. Goode”
+ROCKER|Ljubitelj rocka u kožnoj jakni
+HEAVY|... metal
+PUNK|Žanr Sex Pistolsa
+GRUNGE|Žanr iz Seattlea devedesetih
+SEATTLE|Grad grungea
+RAMONES|Punk bend pjesme „Blitzkrieg Bop”
+PISTOLS|Sex ..., bend pjesme „God Save the Queen”
+EAGLES|Bend pjesme „Hotel California”
+TOTO|Bend pjesme „Africa”
+SANTANA|Carlos ..., gitarist latino rocka
+PRLJAVO|... kazalište, zagrebački bend pjesme „Mojoj majci”
+VALJAK|Parni ..., bend Akija Rahimovskog
+AZRA|Bend Džonija Štulića
+ŠTULIĆ|Džoni ..., vođa Azre
+DUGME|Bijelo ..., sarajevski bend
+BREGOVIĆ|Goran ..., gitarist Bijelog dugmeta
+PIVO|Hladno ..., zagrebački punk bend pjesme „Šank”
+ATOMSKO|... sklonište, pulski rock bend
+STUBLIĆ|Jura ..., pjevač grupe Film
+MIKROFON|Uređaj u koji pjevač pjeva
+ZVUČNIK|Izvor zvuka na pozornici
+POZORNICA|Mjesto nastupa benda
+BIS|Ponovljena pjesma na zahtjev publike
+RIFF|Kratka ponavljana gitarska fraza
+AKORD|Više tonova odsviranih istodobno
+[teska]
+HARRISON|George ..., gitarist Beatlesa
+ABBEY|... Road, album i studio Beatlesa
+PEPPER|Sgt. ..., album Beatlesa iz 1967.
+YESTERDAY|Pjesma Beatlesa s gudačkim kvartetom
+RICHARDS|Keith ..., gitarist Rolling Stonesa
+SATISFACTION|„(I Can't Get No) ...”, hit Stonesa
+MAY|Brian ..., gitarist Queena i astrofizičar
+BOHEMIAN|„... Rhapsody”, hit Queena
+GILMOUR|David ..., gitarist Pink Floyda
+WATERS|Roger ..., basist i tekstopisac Pink Floyda
+BARRETT|Syd ..., osnivač Pink Floyda
+TOWNSHEND|Pete ..., gitarist The Whoa
+WHO|The ..., bend pjesme „My Generation”
+KINKS|Bend pjesme „You Really Got Me”
+CREAM|Trio Erica Claptona, Jacka Brucea i Gingera Bakera
+YARDBIRDS|Bend kroz koji su prošli Clapton, Beck i Page
+PURPLE|Deep ..., bend pjesme „Smoke on the Water”
+BLACKMORE|Ritchie ..., gitarist Deep Purplea
+DIO|Ronnie James ..., pjevač Rainbowa i Black Sabbatha
+MAIDEN|Iron ..., heavy metal bend s maskotom Eddiejem
+LEMMY|Pjevač i basist Motörheada
+JOPLIN|Janis ..., blues-rock pjevačica
+VELVET|... Underground, bend Loua Reeda
+REED|Lou ..., autor pjesme „Walk on the Wild Side”
+WARHOL|Andy ..., autor omota s bananom
+IGGY|... Pop, „kum punka”
+STOOGES|Bend Iggyja Popa
+PATTI|... Smith, autorica albuma „Horses”
+CLASH|Bend albuma „London Calling”
+STRUMMER|Joe ..., pjevač Clasha
+DIVISION|Joy ..., bend Iana Curtisa
+CURE|Bend Roberta Smitha
+SMITHS|Bend Morrisseyja i Johnnyja Marra
+MORRISSEY|Pjevač Smithsa
+RADIOHEAD|Bend albuma „OK Computer”
+YORKE|Thom ..., pjevač Radioheada
+PEARL|... Jam, grunge bend pjesme „Alive”
+VEDDER|Eddie ..., pjevač Pearl Jama
+SOUNDGARDEN|Bend Chrisa Cornella
+CORNELL|Chris ..., pjevač Soundgardena
+PIXIES|Bend pjesme „Where Is My Mind?”
+GRATEFUL|... Dead, bend Jerryja Garcije
+GARCIA|Jerry ..., gitarist Grateful Deada
+ZAPPA|Frank ..., autor albuma „Hot Rats”
+ALTAMONT|Festival 1969. obilježen smrću posjetitelja tijekom nastupa Stonesa
+WIGHT|Otok ..., festival na kojem je 1970. nastupio Hendrix
+FENDER|Proizvođač gitare Stratocaster
+GIBSON|Proizvođač gitare Les Paul
+STRATOCASTER|Fenderova električna gitara s tri magneta
+MARSHALL|Britanski proizvođač gitarskih pojačala
+DISTORZIJA|Efekt izobličenja gitarskog zvuka
+PSIHODELIJA|Glazbeni pravac šezdesetih nadahnut halucinogenim iskustvima
+PROGRESIVNI|... rock, žanr Yesa i Genesisa
+GENESIS|Bend Petera Gabriela i Phila Collinsa
+GABRIEL|Peter ..., prvi pjevač Genesisa
+YES|Bend pjesme „Roundabout”
+RUSH|Kanadski trio s bubnjarom Neilom Peartom
+MASSIMO|... Savić, pjevač Doriana Graya
+ELEKTRIČNI|... orgazam, beogradski bend
+IDOLI|Beogradski novovalni bend pjesme „Maljčiki”
+HAUSTOR|Bend Darka Rundeka
+RUNDEK|Darko ..., pjevač Haustora
+PSIHOMODO|... Pop, zagrebački bend Davora Gobca
+GOBAC|Davor ..., pjevač Psihomodo Popa
+VAL|Novi ..., pokret s kraja sedamdesetih
+PARTIBREJKERS|Beogradski bend Zorana Kostića Caneta
+LAIBACH|Slovenski industrijski bend
+[strucna]
+SUN|... Records, izdavač iz Memphisa koji je otkrio Elvisa
+PHILLIPS|Sam ..., vlasnik Sun Recordsa
+MEMPHIS|Grad Sun Recordsa
+CHESS|... Records, čikaški izdavač Chucka Berryja
+SPECTOR|Phil ..., tvorac „zida zvuka”
+MARTIN|George ..., producent Beatlesa
+EPSTEIN|Brian ..., menadžer Beatlesa
+CAVERN|Liverpoolski klub u kojem su nastupali Beatlesi
+HAMBURG|Njemački grad ranih nastupa Beatlesa
+SUTCLIFFE|Stuart ..., prvi basist Beatlesa
+BEST|Pete ..., bubnjar Beatlesa prije Ringa
+OLDHAM|Andrew Loog ..., prvi menadžer Stonesa
+JONES|Brian ..., osnivač Rolling Stonesa
+WYMAN|Bill ..., basist Stonesa
+WATTS|Charlie ..., bubnjar Stonesa
+MOON|Keith ..., bubnjar The Whoa
+ENTWISTLE|John ..., basist The Whoa
+TOMMY|Rock opera The Whoa o „gluhom, nijemom i slijepom dječaku”
+QUADROPHENIA|Rock opera The Whoa o modsima
+BONHAM|John ..., bubnjar Led Zeppelina
+GRANT|Peter ..., menadžer Led Zeppelina
+EMERSON|Keith ..., klavijaturist trija ELP
+WAKEMAN|Rick ..., klavijaturist Yesa
+FRIPP|Robert ..., vođa King Crimsona
+CRIMSON|King ..., bend albuma „In the Court of the Crimson King”
+CANTERBURY|Scena progresivnog rocka nazvana po engleskom gradu
+KRAUTROCK|Njemački eksperimentalni rock sedamdesetih
+CAN|Kölnski krautrock bend
+NEU|Krautrock duo Michaela Rothera i Klausa Dingera
+KRAFTWERK|Düsseldorfski pioniri elektronike
+ENO|Brian ..., suradnik na Bowiejevoj berlinskoj trilogiji
+VISCONTI|Tony ..., Bowiejev producent
+HANSA|Berlinski studio „uz Zid”
+LOW|Prvi album Bowiejeve berlinske trilogije
+HEROES|Drugi album Bowiejeve berlinske trilogije
+LODGER|Treći album Bowiejeve berlinske trilogije
+SPIDERS|... from Mars, Bowiejev prateći bend
+RONSON|Mick ..., gitarist Spiders from Mars
+CBGB|Njujorški klub, kolijevka punka
+TELEVISION|Bend Toma Verlainea
+VERLAINE|Tom ..., gitarist i pjevač Televisiona
+HELL|Richard ..., basist Televisiona, poslije u Voidoidsima
+MCLAREN|Malcolm ..., menadžer Sex Pistolsa
+LYDON|John ..., pravo ime Johnnyja Rottena
+VICIOUS|Sid ..., basist Sex Pistolsa
+BUZZCOCKS|Manchesterski punk bend pjesme „Ever Fallen in Love”
+FACTORY|... Records, izdavač Joy Divisiona
+WILSON|Tony ..., osnivač Factory Recordsa
+HACIENDA|Manchesterski klub Factory Recordsa
+HANNETT|Martin ..., producent albuma „Unknown Pleasures”
+ALBINI|Steve ..., snimatelj albuma „In Utero”
+VIG|Butch ..., producent albuma „Nevermind”
+SUBPOP|Izdavač iz Seattlea koji je objavio prvi album Nirvane
+BLEACH|Prvi album Nirvane
+NEVERMIND|Nirvanin album s bebom u bazenu na omotu
+MELVINS|Bend koji je snažno utjecao na Nirvanu i grunge
+MUDHONEY|Grunge bend pjesme „Touch Me I'm Sick”
+SHOEGAZE|Žanr My Bloody Valentinea
+LOVELESS|Album My Bloody Valentinea iz 1991.
+SLINT|Bend albuma „Spiderland”
+SPIDERLAND|Slintov album iz 1991.
+SONIC|... Youth, njujorški noise-rock bend
+MOORE|Thurston ..., gitarist Sonic Youtha
+KORNI|... grupa, bend Kornelija Kovača
+KOVAČ|Kornelije ..., klavijaturist Korni grupe
+SMAK|Kragujevački bend gitarista Radomira Mihajlovića Točka
+TIME|Zagrebački bend Dade Topića
+TOPIĆ|Dado ..., pjevač grupe Time
+JUGOTON|Zagrebačka diskografska kuća
+JABUKA|Crvena ..., sarajevski bend
+ZABRANJENO|... pušenje, bend Nele Karajlića
+PANKRTI|Ljubljanski punk bend osnovan 1977.
+PARAF|Riječki punk bend s kraja sedamdesetih

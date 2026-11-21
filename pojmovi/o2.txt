@@ -1,0 +1,311 @@
+[opca]
+ŠKOLA|Ustanova u kojoj učenici uče
+UČITELJ|Onaj koji poučava učenike
+KNJIGA|Uvezani listovi s tekstom
+KNJIŽNICA|Ustanova za posudbu knjiga
+MUZEJ|Ustanova koja čuva i izlaže zbirke
+KAZALIŠTE|Zgrada u kojoj se izvode predstave
+BOLNICA|Ustanova za liječenje bolesnika
+LIJEČNIK|Doktor medicine
+POŠTA|Ustanova za slanje pisama i paketa
+TRŽNICA|Mjesto gdje se prodaju voće i povrće
+ZRAKOPLOV|Letjelica s krilima i motorom
+BROD|Plovilo za prijevoz po moru
+LUKA|Mjesto pristajanja brodova
+SVJETIONIK|Toranj sa svjetlom koji vodi brodove
+OTOK|Kopno okruženo vodom
+POLUOTOK|Kopno s tri strane okruženo morem
+JEZERO|Kopnom okružena vodena površina
+PLANINA|Visoko uzvišenje terena
+VULKAN|Planina iz koje izbija lava
+POTRES|Podrhtavanje tla
+PUSTINJA|Područje s vrlo malo oborina
+ŠUMA|Područje gusto obraslo drvećem
+OCEAN|Golema vodena površina između kontinenata
+KOMPAS|Instrument s magnetskom iglom koja pokazuje sjever
+KARTA|Umanjeni prikaz Zemljine površine
+GLOBUS|Model Zemlje u obliku kugle
+SJEVER|Strana svijeta suprotna jugu
+ISTOK|Strana svijeta na kojoj izlazi Sunce
+ZAPAD|Strana svijeta na kojoj zalazi Sunce
+JUG|Strana svijeta suprotna sjeveru
+TIGAR|Najveća mačka, prugastog krzna
+ORAO|Ptica grabljivica, čest simbol na grbovima
+SOVA|Noćna ptica velikih očiju
+PINGVIN|Ptica koja ne leti i dobro pliva
+KRAVA|Domaća životinja koja daje mlijeko
+KONJ|Domaća životinja za jahanje
+MAČKA|Kućni ljubimac koji prede
+PAS|„Čovjekov najbolji prijatelj”
+ZEC|Dugouha životinja koja voli mrkvu
+KORNJAČA|Gmaz s oklopom
+ZMIJA|Gmaz bez nogu
+KROKODIL|Veliki gmaz iz rijeka i močvara
+HOBOTNICA|Morska životinja s osam krakova
+LEPTIR|Kukac šarenih krila koji nastaje od gusjenice
+MRAV|Sitni kukac koji živi u mravinjaku
+JABUKA|Voće koje je Newtonu, prema predaji, palo na glavu
+NARANČA|Agrum narančaste boje
+LIMUN|Kiseli žuti agrum
+MASLINA|Plod od kojeg se dobiva ulje
+GROŽĐE|Voće od kojeg se radi vino
+KRUMPIR|Gomolj od kojeg se rade pomfrit i pire
+RAJČICA|Crveno povrće, osnova umaka za tjesteninu
+MLIJEKO|Bijeli napitak koji daje krava
+SOL|Natrijev klorid, začin na stolu
+ŠEĆER|Slatka tvar od šećerne trske ili repe
+ČOKOLADA|Slastica od kakaa
+SLADOLED|Smrznuta slastica
+TORTA|Kolač za rođendan
+ROĐENDAN|Godišnjica nečijeg rođenja
+BOŽIĆ|Blagdan Isusova rođenja, 25. prosinca
+USKRS|Blagdan Isusova uskrsnuća
+SIJEČANJ|Prvi mjesec u godini
+PROSINAC|Posljednji mjesec u godini
+SRPANJ|Sedmi mjesec u godini
+VELJAČA|Najkraći mjesec u godini
+NEDJELJA|Dan nakon subote
+PONEDJELJAK|Prvi radni dan u tjednu
+SAT|Uređaj koji pokazuje vrijeme
+MINUTA|Šezdeset sekundi
+KALENDAR|Pregled dana, tjedana i mjeseci u godini
+CRVENA|Boja krvi
+ZELENA|Boja trave
+PLAVA|Boja vedrog neba
+ŽUTA|Boja limuna
+BIJELA|Boja snijega
+STO|Deset puta deset
+TISUĆA|Deset puta sto
+NULA|Broj koji označava ništa
+KOCKA|Tijelo sa šest jednakih kvadratnih strana
+KUGLA|Savršeno okruglo tijelo
+METAR|Osnovna jedinica za duljinu
+KILOGRAM|Osnovna jedinica za masu
+LITRA|Jedinica za obujam tekućine
+STUPANJ|Jedinica za temperaturu (Celzijev ...)
+TERMOMETAR|Instrument za mjerenje temperature
+MAGNET|Predmet koji privlači željezo
+STRUJA|Električna ... teče žicama
+BATERIJA|Izvor električne energije u daljinskom upravljaču
+TELEVIZOR|Uređaj za gledanje programa
+RADIO|Uređaj za slušanje emisija
+FOTOAPARAT|Uređaj za snimanje fotografija
+BUBANJ|Udaraljka na koju se udara palicama
+TRUBA|Limeno puhačko glazbalo
+FLAUTA|Puhačko glazbalo koje se drži poprečno
+HARMONIKA|Glazbalo s mijehom i tipkama
+ORKESTAR|Velika skupina glazbenika koju vodi dirigent
+DIRIGENT|Voditelj orkestra
+OPERA|Glazbeno-scensko djelo u kojem se pjeva
+BALET|Scenski ples na vrhovima prstiju
+SLIKAR|Umjetnik koji slika
+KIPAR|Umjetnik koji kleše kipove
+PJESNIK|Autor pjesama
+ROMAN|Dugo prozno književno djelo
+BAJKA|Priča s vilama, vješticama i čarolijama
+BASNA|Kratka priča sa životinjama i poukom
+SNJEGULJICA|Junakinja bajke o sedam patuljaka
+PEPELJUGA|Junakinja bajke koja izgubi staklenu cipelicu
+KOŠARKA|Igra u kojoj se lopta ubacuje u koš
+RUKOMET|Sport u kojem se lopta rukom baca u gol
+TENIS|Sport s reketom i loptom preko mreže
+PLIVANJE|Sport u bazenu
+SKIJANJE|Sport na snijegu s dvije daske
+KOSTELIĆ|Janica ..., najuspješnija hrvatska skijašica
+VATRENI|Nadimak hrvatske nogometne reprezentacije
+ŠUKER|Davor ..., najbolji strijelac Svjetskog prvenstva 1998.
+[teska]
+ALPE|Gorski lanac s Mont Blancom
+PIRINEJI|Planine između Francuske i Španjolske
+ANDE|Gorski lanac duž zapadne obale Južne Amerike
+HIMALAJA|Gorje s Mount Everestom
+URAL|Planine na granici Europe i Azije
+KAVKAZ|Gorje između Crnog i Kaspijskog mora
+GRENLAND|Najveći otok na svijetu
+MADAGASKAR|Veliki otok uz istočnu obalu Afrike
+SICILIJA|Najveći otok Sredozemnog mora
+KORZIKA|Otok na kojem je rođen Napoleon
+KRETA|Najveći grčki otok
+CIPAR|Otočna država u istočnom Sredozemlju
+MALTA|Otočna država s glavnim gradom Vallettom
+GIBRALTAR|Tjesnac između Europe i Afrike
+BOSPOR|Tjesnac koji dijeli Istanbul
+PANAMSKI|... kanal, spaja Atlantski i Tihi ocean
+SUESKI|... kanal, spaja Sredozemno i Crveno more
+KASPIJSKO|... jezero, najveće jezero na svijetu
+VIKTORIJINO|... jezero, najveće u Africi
+NIAGARA|Slapovi na granici SAD-a i Kanade
+VOLGA|Najduža rijeka u Europi
+TEMZA|Rijeka koja protječe kroz London
+SENA|Rijeka koja protječe kroz Pariz
+TIBER|Rijeka koja protječe kroz Rim
+JANGCE|Najduža rijeka u Aziji
+GANG|Sveta rijeka hinduista
+REYKJAVIK|Glavni grad Islanda
+OSLO|Glavni grad Norveške
+STOCKHOLM|Glavni grad Švedske
+HELSINKI|Glavni grad Finske
+KOPENHAGEN|Glavni grad Danske
+DUBLIN|Glavni grad Irske
+AMSTERDAM|Glavni grad Nizozemske
+BRUXELLES|Glavni grad Belgije
+PRAG|Glavni grad Češke
+BUDIMPEŠTA|Glavni grad Mađarske
+BUKUREŠT|Glavni grad Rumunjske
+SOFIJA|Glavni grad Bugarske
+BEOGRAD|Glavni grad Srbije
+LJUBLJANA|Glavni grad Slovenije
+SKOPLJE|Glavni grad Sjeverne Makedonije
+PODGORICA|Glavni grad Crne Gore
+TIRANA|Glavni grad Albanije
+MOSKVA|Glavni grad Rusije
+KIJEV|Glavni grad Ukrajine
+PEKING|Glavni grad Kine
+SEUL|Glavni grad Južne Koreje
+KAIRO|Glavni grad Egipta
+NAIROBI|Glavni grad Kenije
+LIMA|Glavni grad Perua
+SANTIAGO|Glavni grad Čilea
+BOGOTA|Glavni grad Kolumbije
+HAVANA|Glavni grad Kube
+TEHERAN|Glavni grad Irana
+BAGDAD|Glavni grad Iraka
+BANGKOK|Glavni grad Tajlanda
+VUČEDOL|Nalazište poznatog kultnog posuđa „golubice”
+KRAPINA|Nalazište krapinskog pračovjeka
+GORJANOVIĆ|Dragutin ...-Kramberger, istraživač krapinskog pračovjeka
+APOKSIOMEN|Antički brončani kip izvađen iz mora kod Lošinja
+LOŠINJ|Otok uz koji je pronađen Apoksiomen
+GROŽNJAN|Istarski gradić umjetnika i glazbene mladeži
+HUM|Istarsko mjesto poznato kao „najmanji grad na svijetu”
+LABIN|Istarski grad, rodno mjesto Matije Vlačića Ilirika
+VLAČIĆ|Matija ... Ilirik, protestantski teolog iz Labina
+OPATIJA|Kvarnersko ljetovalište s Villom Angiolinom
+ROVINJ|Istarski grad s crkvom sv. Eufemije
+SAMOBOR|Grad poznat po kremšnitama
+KREMŠNITA|Samoborski kolač s kremom
+ĐAKOVO|Grad sa Strossmayerovom katedralom
+VINKOVCI|Grad za koji se tvrdi da je najstarije neprekidno naseljeno mjesto u Europi
+KARLOVAC|Grad na četiri rijeke
+ČAKOVEC|Središte Međimurja
+KOPRIVNICA|Podravski grad tvornice Podravka
+POŽEGA|Grad u Zlatnoj dolini
+MAKARSKA|Grad podno Biokova
+OMIŠ|Grad na ušću Cetine, nekad gusarsko uporište
+CETINA|Rijeka koja se kod Omiša ulijeva u more
+KUPA|Rijeka koja dijelom čini granicu sa Slovenijom
+UNA|Rijeka na granici s Bosnom i Hercegovinom
+MEDVEDNICA|Planina iznad Zagreba
+SLJEME|Najviši vrh Medvednice
+UČKA|Planina iznad Opatije
+RISNJAK|Nacionalni park u Gorskom kotaru
+PAKLENICA|Nacionalni park na južnom Velebitu
+KOPAČKI|... rit, park prirode kod Osijeka
+LONJSKO|... polje, park prirode uz Savu
+PELJEŠAC|Poluotok poznat po vinu dingač
+STON|Grad poznat po dugim zidinama i kamenicama
+SHAKESPEARE|Autor „Kralja Leara”
+[strucna]
+SOFOKLO|Autor „Kralja Edipa”
+EURIPID|Autor „Medeje”
+ESHIL|Autor trilogije „Orestija”
+ARISTOFAN|Autor komedije „Žabe”
+VERGILIJE|Autor „Eneide”
+OVIDIJE|Autor „Metamorfoza”
+HORACIJE|Autor izreke „Carpe diem”
+SENEKA|Stoički filozof, Neronov učitelj
+CICERON|Rimski govornik, autor govora protiv Katiline
+AURELIJE|Marko ..., car filozof, autor „Samopromatranja”
+AUGUSTIN|Sveti ..., autor „Ispovijesti”
+AKVINSKI|Toma ..., autor „Sume teologije”
+OCKHAM|Filozof poznate „britve”
+BACON|Francis ..., autor „Novog organona”
+HOBBES|Autor „Levijatana”
+LOCKE|Autor „Ogleda o ljudskom razumu”
+HUME|Škotski filozof „Rasprave o ljudskoj prirodi”
+ROUSSEAU|Autor „Društvenog ugovora”
+VOLTAIRE|Autor „Candidea”
+MONTESQUIEU|Autor djela „O duhu zakona”
+DIDEROT|Urednik francuske „Enciklopedije”
+KIERKEGAARD|Danski filozof djela „Ili–ili”
+SCHOPENHAUER|Autor „Svijeta kao volje i predodžbe”
+MARX|Autor „Kapitala”
+HUSSERL|Utemeljitelj fenomenologije
+HEIDEGGER|Autor „Bitka i vremena”
+SARTRE|Autor „Mučnine”
+CAMUS|Autor „Stranca”
+WITTGENSTEIN|Autor „Logičko-filozofskog traktata”
+POPPER|Karl ..., autor „Otvorenog društva i njegovih neprijatelja”
+FREUD|Autor „Tumačenja snova”
+JUNG|Švicarski psihijatar, pojam kolektivnog nesvjesnog
+PETRIĆ|Frane ..., renesansni filozof s Cresa
+CRES|Otok na kojem je rođen Frane Petrić
+MILTON|Autor „Izgubljenog raja”
+CHAUCER|Autor „Canterburyjskih priča”
+SWIFT|Autor „Gulliverovih putovanja”
+DEFOE|Autor „Robinsona Crusoea”
+AUSTEN|Autorica „Ponosa i predrasuda”
+DICKENS|Autor „Olivera Twista”
+FLAUBERT|Autor „Gospođe Bovary”
+STENDHAL|Autor „Crvenog i crnog”
+BALZAC|Autor ciklusa „Ljudska komedija”
+HUGO|Victor ..., autor „Jadnika”
+ZOLA|Autor ciklusa o Rougon-Macquartovima
+BAUDELAIRE|Autor „Cvjetova zla”
+RIMBAUD|Autor „Pijanog broda”
+GOETHE|Autor „Fausta”
+SCHILLER|Autor „Razbojnika”
+RILKE|Autor „Devinskih elegija”
+MANN|Thomas ..., autor „Čarobnog brijega”
+HESSE|Autor „Stepskog vuka”
+BULGAKOV|Autor „Majstora i Margarite”
+NABOKOV|Autor „Lolite”
+SOLŽENJICIN|Autor „Arhipelaga Gulag”
+PASTERNAK|Autor „Doktora Živaga”
+ECO|Umberto ..., autor „Imena ruže”
+CALVINO|Italo ..., autor „Nevidljivih gradova”
+SARAMAGO|Portugalski nobelovac, autor „Sljepoće”
+KUNDERA|Autor „Nepodnošljive lakoće postojanja”
+HAŠEK|Autor „Doživljaja dobrog vojaka Švejka”
+ČAPEK|Karel ..., pisac koji je proslavio riječ „robot”
+BACH|Skladatelj „Brandenburških koncerata”
+MONTEVERDI|Skladatelj opere „Orfej” (1607.)
+PURCELL|Skladatelj opere „Didona i Eneja”
+SCHUBERT|Skladatelj „Nedovršene simfonije”
+SCHUMANN|Skladatelj „Dječjih prizora”
+MENDELSSOHN|Skladatelj glazbe za „San ljetne noći”
+LISZT|Skladatelj „Mađarskih rapsodija”
+BRAHMS|Skladatelj „Njemačkog rekvijema”
+ČAJKOVSKI|Skladatelj „Labuđeg jezera”
+MUSORGSKI|Skladatelj „Slika s izložbe”
+RAVEL|Skladatelj „Bolera”
+GERSHWIN|Skladatelj „Rapsodije u plavom”
+GOTOVAC|Jakov ..., skladatelj opere „Ero s onoga svijeta”
+ERO|Naslovni junak Gotovčeve opere
+HATZE|Josip ..., splitski skladatelj opere „Povratak”
+BERSA|Blagoje ..., skladatelj opere „Oganj”
+DORA|... Pejačević, skladateljica prve hrvatske moderne simfonije
+GIOTTO|Slikar fresaka u kapeli Scrovegni
+BOTTICELLI|Slikar „Rođenja Venere”
+RAFAEL|Slikar „Atenske škole”
+TIZIAN|Venecijanski slikar „Urbinske Venere”
+HOLBEIN|Slikar „Ambasadora”
+RUBENS|Flamanski barokni slikar „Silaska s križa”
+DAVID|Jacques-Louis ..., slikar „Maratove smrti”
+DELACROIX|Slikar „Slobode koja predvodi narod”
+COURBET|Slikar „Pogreba u Ornansu”
+MANET|Slikar „Doručka na travi”
+DEGAS|Slikar balerina
+GAUGUIN|Slikar koji je radio na Tahitiju
+SEURAT|Pointilist, slikar „Nedjeljnog poslijepodneva na otoku La Grande Jatte”
+MATISSE|Fovist, slikar „Plesa”
+MODIGLIANI|Slikar izduženih portreta
+POLLOCK|Jackson ..., tvorac slikarstva „kapanja”
+ROTHKO|Slikar velikih polja boje
+HOPPER|Edward ..., slikar „Noćnih ptica”
+KRALJEVIĆ|Miroslav ..., slikar „Bonvivanta”
+VIDOVIĆ|Emanuel ..., slikar splitskih motiva
+MURTIĆ|Edo ..., slikar ciklusa „Doživljaj Amerike”
+KNIFER|Julije ..., slikar meandra
+AUGUSTINČIĆ|Antun ..., kipar spomenika miru pred UN-om u New Yorku
+KOŽARIĆ|Ivan ..., kipar „Prizemljenog sunca”

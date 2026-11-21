@@ -1,0 +1,213 @@
+[opca]
+TITANIC|Cameronov film o potonuću broda (1997.)
+OSCAR|Najpoznatija filmska nagrada
+HOLLYWOOD|Središte američke filmske industrije
+CHAPLIN|Charlie ..., tvorac lika Skitnice
+SPIELBERG|Steven ..., redatelj „Ralja” i „E.T.-ja”
+HITCHCOCK|„Majstor napetosti”, redatelj „Psiha”
+KUBRICK|Stanley ..., redatelj „Isijavanja”
+TARANTINO|Quentin ..., redatelj „Paklenog šunda”
+SCORSESE|Martin ..., redatelj „Taksista”
+NOLAN|Christopher ..., redatelj „Oppenheimera”
+CAMERON|James ..., redatelj „Avatara”
+AVATAR|Film o plavim Na'vijima s Pandore
+MATRIX|Film u kojem Neo bira crvenu pilulu
+SHREK|Zeleni animirani div iz močvare
+NEMO|Riba klaun koju otac traži u Pixarovu filmu
+ROCKY|Boksač kojeg je glumio Sylvester Stallone
+RAMBO|Vijetnamski veteran kojeg glumi Stallone
+TERMINATOR|Kiborg kojeg glumi Arnold Schwarzenegger
+BOND|James ..., agent 007
+PSIHO|Hitchcockov film s poznatom scenom pod tušem
+RALJE|Spielbergov film o morskom psu
+GLADIJATOR|Film u kojem Russell Crowe glumi Maksima
+KUM|Coppolin film o obitelji Corleone
+CORLEONE|Prezime obitelji iz „Kuma”
+BRANDO|Marlon ..., Vito Corleone u „Kumu”
+PACINO|Al ..., Michael Corleone u „Kumu”
+STREEP|Meryl ..., glumica s rekordnim brojem nominacija za Oscara
+MONROE|Marilyn ..., zvijezda filma „Neki to vole vruće”
+HEPBURN|Audrey ..., zvijezda „Doručka kod Tiffanyja”
+DICAPRIO|Leonardo ..., Jack u „Titanicu”
+HANKS|Tom ..., glumac Forresta Gumpa
+GUMP|Forrest ..., trkač iz istoimenog filma
+KOKICE|Grickalica uz film u kinu
+KINO|Dvorana za prikazivanje filmova
+REDATELJ|Osoba koja vodi snimanje filma
+SCENARIJ|Pisani predložak filma
+GLUMAC|Onaj koji tumači ulogu
+KAMERA|Uređaj kojim se snima film
+DISNEY|Walt ..., tvorac Mickeyja Mousea
+MICKEY|... Mouse, Disneyjev miš
+PIXAR|Studio „Priče o igračkama”
+BATMAN|Superjunak iz Gothama
+SUPERMAN|Superjunak s planeta Kriptona
+SPIDERMAN|Superjunak koji je zapravo Peter Parker
+HULK|Zeleni div iz Marvelovih stripova
+THOR|Marvelov bog groma s čekićem
+JOKER|Batmanov najpoznatiji neprijatelj
+YODA|Mali zeleni učitelj Jedija
+VADER|Darth ..., otac Lukea Skywalkera
+JEDI|Vitezovi sa svjetlosnim mačevima
+POTTER|Harry ..., čarobnjak s ožiljkom
+HOGWARTS|Škola za čarobnjake iz filmova o Harryju Potteru
+FRODO|Hobit koji nosi Prsten
+GANDALF|Čarobnjak iz „Gospodara prstenova”
+GOLLUM|Stvorenje opsjednuto „dragocjenim” prstenom
+SAURON|Mračni gospodar Mordora
+CASABLANCA|Film s Humphreyjem Bogartom i Ingrid Bergman (1942.)
+BOGART|Humphrey ..., Rick u „Casablanci”
+ELSA|Kraljica iz „Snježnog kraljevstva”
+SIMBA|Lavić iz „Kralja lavova”
+BAMBI|Disneyjevo lane
+DUMBO|Disneyjev slonić koji leti
+PINOKIO|Drveni lutak kojem raste nos
+TARZAN|Junak odrastao među majmunima u džungli
+ALADIN|Junak s čarobnom svjetiljkom
+ZORRO|Maskirani osvetnik koji ostavlja znak Z
+INDIANA|... Jones, arheolog s bičem
+FORD|Harrison ..., glumac Hana Soloa
+SOLO|Han ..., pilot Millennium Falcona
+ALIEN|Film Ridleyja Scotta o stvorenju na brodu Nostromo
+SUROGAT|Vukotićev crtani film nagrađen Oscarom
+VUKOTIĆ|Dušan ..., dobitnik Oscara za „Surogat”
+PULA|Grad filmskog festivala u rimskoj Areni
+MOTOVUN|Istarski gradić s filmskim festivalom
+KOMEDIJA|Žanr filmova za smijeh
+HOROR|Žanr filmova strave
+VESTERN|Žanr s kaubojima
+MJUZIKL|Film s pjesmom i plesom
+CRTIĆ|Kolokvijalno: crtani film
+EASTWOOD|Clint ..., zvijezda vesterna „Dobar, loš, zao”
+WAYNE|John ..., legenda vesterna
+[teska]
+FELLINI|Redatelj „Slatkog života”
+ANTONIONI|Redatelj „Uvećanja” (Blow-Up)
+BERGMAN|Ingmar ..., redatelj „Sedmog pečata”
+KUROSAWA|Redatelj „Sedmorice samuraja”
+RAŠOMON|Kurosawin film o istom događaju ispričanom iz više kutova
+TRUFFAUT|Redatelj „400 udaraca”
+GODARD|Redatelj „Do posljednjeg daha”
+WELLES|Orson ..., redatelj „Građanina Kanea”
+ROSEBUD|Posljednja riječ Građanina Kanea
+WILDER|Billy ..., redatelj „Bulevara sumraka”
+COPPOLA|Francis Ford ..., redatelj „Apokalipse danas”
+LYNCH|David ..., redatelj „Plavog baršuna”
+FINCHER|David ..., redatelj „Kluba boraca”
+DURDEN|Tyler ..., lik iz „Kluba boraca”
+BURTON|Tim ..., redatelj „Edwarda Škarorukog”
+POLANSKI|Roman ..., redatelj „Kineske četvrti”
+FORMAN|Miloš ..., redatelj „Leta iznad kukavičjeg gnijezda”
+AMADEUS|Formanov film o Mozartu
+LEONE|Sergio ..., otac špageti-vesterna
+MORRICONE|Ennio ..., skladatelj glazbe za Leoneove vesterne
+WILLIAMS|John ..., skladatelj glazbe za „Ratove zvijezda”
+ZIMMER|Hans ..., skladatelj glazbe za „Gladijatora”
+VERTIGO|Hitchcockov film s Jamesom Stewartom i Kim Novak
+STEWART|James ..., zvijezda filma „Divan život”
+GRANT|Cary ..., zvijezda filma „Sjever–sjeverozapad”
+GARBO|Greta ..., zvana „Božanstvena”
+DIETRICH|Marlene ..., zvijezda „Plavog anđela”
+KEATON|Buster ..., komičar nijemog filma „General”
+METROPOLIS|Langov nijemi znanstvenofantastični klasik (1927.)
+LANG|Fritz ..., redatelj „Metropolisa”
+NOSFERATU|Murnauov nijemi film o vampiru
+MURNAU|Redatelj „Nosferatua”
+EISENSTEIN|Redatelj „Oklopnjače Potemkin”
+POTEMKIN|Oklopnjača iz Eisensteinova filma
+PARAZIT|Bong Joon-hoov film, prvi neengleski dobitnik Oscara za najbolji film
+TAKSIST|Scorseseov film s Travisom Bickleom
+BICKLE|Travis ..., „Taksist”
+LEBOWSKI|„Veliki ...”, film braće Coen
+COEN|Braća ..., redatelji „Farga”
+FARGO|Film braće Coen smješten u snježnu Minnesotu
+OPPENHEIMER|Nolanov film o „ocu atomske bombe”
+INTERSTELLAR|Nolanov film o putovanju kroz crvotočinu
+MEMENTO|Nolanov film ispričan unatrag
+REPLIKANT|Umjetni čovjek iz „Blade Runnera”
+DECKARD|Rick ..., lovac na replikante
+HAL|Računalo iz „Odiseje u svemiru 2001.”
+ISIJAVANJE|Kubrickov film prema romanu Stephena Kinga
+SCHINDLER|Oskar ..., junak Spielbergove „Liste”
+TOTORO|Miyazakijev šumski duh
+MIYAZAKI|Hayao ..., redatelj „Avanture male Chihiro”
+GHIBLI|Studio Hayaa Miyazakija
+CANNES|Festival čija je glavna nagrada Zlatna palma
+BERLINALE|Festival na kojem se dodjeljuje Zlatni medvjed
+VENECIJA|Festival na kojem se dodjeljuje Zlatni lav
+SUNDANCE|Festival nezavisnog filma u Utahu
+BAFTA|Britanska filmska i televizijska nagrada
+BULAJIĆ|Veljko ..., redatelj „Bitke na Neretvi”
+TADIĆ|Zoran ..., redatelj „Ritma zločina”
+GRLIĆ|Rajko ..., redatelj filma „Samo jednom se ljubi”
+BREŠAN|Vinko ..., redatelj „Kako je počeo rat na mom otoku”
+MARŠAL|Brešanov film o duhu Tita na otoku
+GOLIK|Krešo ..., redatelj „Tko pjeva zlo ne misli”
+BELAN|Branko ..., redatelj filma „Koncert” (1954.)
+PAPIĆ|Krsto ..., redatelj filma „Lisice” (1969.)
+NOIR|Film ..., žanr mračnih krimića četrdesetih
+MONTAŽA|Spajanje snimljenih kadrova u cjelinu
+KADAR|Neprekinuti snimak kamere
+[strucna]
+TARKOVSKI|Redatelj „Stalkera” i „Solarisa”
+STALKER|Film Tarkovskog o tajanstvenoj Zoni
+SOLARIS|Lemov roman koji je ekranizirao Tarkovski
+BRESSON|Robert ..., redatelj „Džeparoša”
+DREYER|Carl Theodor ..., redatelj „Muke Ivane Orleanske”
+OZU|Yasujirō ..., redatelj „Tokijske priče”
+MIZOGUCHI|Redatelj filma „Ugetsu”
+RENOIR|Jean ..., redatelj „Velike iluzije”
+VIGO|Jean ..., redatelj filma „L'Atalante”
+ROSSELLINI|Redatelj filma „Rim, otvoreni grad”
+NEOREALIZAM|Talijanski poslijeratni filmski pravac
+ZAVATTINI|Cesare ..., scenarist „Kradljivaca bicikla”
+PASOLINI|Redatelj „Evanđelja po Mateju”
+VISCONTI|Luchino ..., redatelj „Geparda”
+BERTOLUCCI|Redatelj „Posljednjeg cara”
+WENDERS|Wim ..., redatelj „Neba nad Berlinom”
+HERZOG|Werner ..., redatelj „Aguirrea, gnjeva Božjeg”
+FASSBINDER|Redatelj „Braka Marije Braun”
+WAJDA|Andrzej ..., redatelj „Pepela i dijamanta”
+MAKAVEJEV|Dušan ..., redatelj „W. R. – Misterije organizma”
+KUSTURICA|Redatelj filma „Otac na službenom putu”
+PETROVIĆ|Aleksandar ..., redatelj „Skupljača perja”
+MIMICA|Vatroslav ..., redatelj filma „Ponedjeljak ili utorak”
+BABAJA|Ante ..., redatelj filma „Breza”
+BREZA|Babajin film prema Kolarovoj noveli (1967.)
+BERKOVIĆ|Zvonimir ..., redatelj filma „Rondo”
+RONDO|Berkovićev film iz 1966.
+DRAGIĆ|Nedeljko ..., autor crtanog filma „Tup-tup”
+GRGIĆ|Zlatko ..., tvorac Profesora Baltazara
+BALTAZAR|Profesor ..., junak Zagreb filma
+KRISTL|Vlado ..., autor crtanog filma „Don Kihot” (1961.)
+KULEŠOV|Lev ..., autor poznatog montažnog eksperimenta s licem glumca
+VERTOV|Dziga ..., autor „Čovjeka s filmskom kamerom”
+DOGMA|... 95, pokret Larsa von Triera
+VINTERBERG|Thomas ..., redatelj „Proslave” i suosnivač Dogme 95
+HANEKE|Michael ..., redatelj „Bijele vrpce”
+TARR|Béla ..., redatelj „Sotonskog tanga”
+ANGELOPOULOS|Redatelj „Odisejeva pogleda”
+KIAROSTAMI|Redatelj „Okusa trešnje”
+RAY|Satyajit ..., redatelj „Pather Panchali”
+CASSAVETES|John ..., pionir američkog nezavisnog filma, redatelj „Sjena”
+ALTMAN|Robert ..., redatelj „Nashvillea”
+CIMINO|Michael ..., redatelj „Lovca na jelene”
+PECKINPAH|Sam ..., redatelj „Divlje horde”
+DILIŽANSA|Vestern Johna Forda iz 1939. s Johnom Wayneom
+MACGUFFIN|Hitchcockov izraz za predmet koji pokreće radnju
+TOLAND|Gregg ..., snimatelj „Građanina Kanea”
+NYKVIST|Sven ..., Bergmanov snimatelj
+STORARO|Vittorio ..., snimatelj „Apokalipse danas”
+SCHOONMAKER|Thelma ..., dugogodišnja Scorseseova montažerka
+MURCH|Walter ..., montažer i dizajner zvuka „Apokalipse danas”
+TECHNICOLOR|Postupak snimanja u boji s trima filmskim trakama
+CINEMASCOPE|Širokoekranski format predstavljen 1953.
+NICKELODEON|Rana američka kina s ulaznicom od pet centi
+KINETOSKOP|Edisonov uređaj za pojedinačno gledanje pokretnih slika
+PLANSEKVENCA|Dugi kadar koji obuhvaća cijelu scenu
+RETROSPEKCIJA|Prikaz događaja iz prošlosti u filmu
+BAZIN|André ..., kritičar i suosnivač „Cahiers du cinéma”
+METZ|Christian ..., utemeljitelj filmske semiotike
+ARNHEIM|Rudolf ..., autor knjige „Film kao umjetnost”
+GRIFFITH|D. W. ..., redatelj „Rađanja jedne nacije”
+PORTER|Edwin S. ..., redatelj „Velike pljačke vlaka” (1903.)

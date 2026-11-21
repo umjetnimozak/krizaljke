@@ -1,0 +1,211 @@
+[opca]
+NAPOLEON|Francuski car poražen kod Waterlooa
+WATERLOO|Bitka u kojoj je 1815. poražen Napoleon
+CEZAR|Gaj Julije ..., rimski vojskovođa ubijen na Martovske ide
+KLEOPATRA|Posljednja vladarica ptolemejskog Egipta
+ALEKSANDAR|... Veliki, makedonski osvajač
+HITLER|Nacistički diktator Njemačke
+STALJIN|Sovjetski vođa za Drugoga svjetskog rata
+CHURCHILL|Britanski premijer za Drugoga svjetskog rata
+ROOSEVELT|Franklin D. ..., američki predsjednik za većeg dijela Drugoga svjetskog rata
+LINCOLN|Američki predsjednik koji je ukinuo ropstvo
+WASHINGTON|Prvi predsjednik SAD-a
+TITO|Josip Broz ..., doživotni predsjednik SFRJ
+TOMISLAV|Prvi hrvatski kralj
+ZVONIMIR|Hrvatski kralj spomenut na Bašćanskoj ploči
+TUĐMAN|Franjo ..., prvi predsjednik samostalne Hrvatske
+ZRINSKI|Petar ..., ban pogubljen u Bečkom Novom Mjestu 1671.
+FRANKOPAN|Fran Krsto ..., pogubljen sa Zrinskim 1671.
+SIGET|Utvrda koju je 1566. branio Nikola Šubić Zrinski
+SISAK|Grad kod kojeg su 1593. poraženi Osmanlije
+OSMANLIJE|Osvajači čije je carstvo dvaput opsjedalo Beč
+RIMLJANI|Narod koji je izgradio Kolosej
+GRCI|Narod koji je u Olimpiji održavao igre
+EGIPAT|Zemlja faraona
+FARAON|Vladar starog Egipta
+VIKINZI|Skandinavski ratnici i moreplovci
+VITEZ|Srednjovjekovni ratnik u oklopu
+DVORAC|Utvrđeno prebivalište plemića
+KRALJ|Okrunjeni vladar kraljevine
+CARSTVO|Država kojoj je na čelu car
+REVOLUCIJA|Nasilna promjena vlasti; francuska je počela 1789.
+BASTILJA|Pariška tvrđava čiji je pad 1789. simbol početka revolucije
+GILJOTINA|Sprava za odrubljivanje glave
+RENESANSA|Razdoblje „ponovnog rođenja” umjetnosti i znanosti
+KAMENO|... doba, najstarije razdoblje prapovijesti
+BRONČANO|... doba, između kamenog i željeznog
+PISMO|Izum kojim počinje povijest u užem smislu
+SUMERANI|Narod koji je razvio klinasto pismo
+TROJA|Grad koji su Grci osvojili drvenim konjem
+SPARTA|Grčki polis poznat po ratnicima
+MARATON|Bitka 490. pr. Kr. po kojoj je nazvana utrka
+MAGELLAN|Moreplovac čija je ekspedicija prva oplovila svijet
+AMERIKA|Kontinent do kojeg je 1492. doplovio Kolumbo
+DOMOVINSKI|... rat, rat za hrvatsku neovisnost
+OLUJA|Vojno-redarstvena operacija iz kolovoza 1995.
+BLJESAK|Operacija iz svibnja 1995. u zapadnoj Slavoniji
+UNIJA|Europska ..., kojoj je Hrvatska pristupila 2013.
+NATO|Savez kojem je Hrvatska pristupila 2009.
+ZID|Berlinski ..., srušen 1989.
+HLADNI|... rat, sukob SAD-a i SSSR-a
+SSSR|Kratica Saveza Sovjetskih Socijalističkih Republika
+JUGOSLAVIJA|Država koja se raspala početkom devedesetih
+AUSTROUGARSKA|Monarhija koja se raspala 1918.
+SARAJEVO|Grad atentata na Franju Ferdinanda 1914.
+FERDINAND|Franjo ..., nadvojvoda ubijen 1914.
+PRINCIP|Gavrilo ..., sarajevski atentator
+HIROŠIMA|Grad na koji je bačena prva atomska bomba
+NORMANDIJA|Pokrajina savezničkog iskrcavanja 1944.
+GAGARIN|Jurij ..., prvi čovjek u svemiru
+ARMSTRONG|Neil ..., prvi čovjek na Mjesecu
+APOLLO|Američki program letova s ljudskom posadom na Mjesec
+TEREZIJA|Marija ..., austrijska vladarica 18. stoljeća
+BIZANT|Istočno Rimsko Carstvo
+KARLO|... Veliki, franački vladar okrunjen za cara 800.
+LUJ|... XIV., „Kralj Sunce”
+VERSAILLES|Dvorac Luja XIV.
+INKE|Carstvo kojem je pripadao Machu Picchu
+ASTECI|Carstvo s prijestolnicom Tenochtitlanom
+MAJE|Mezoamerički narod poznat po kalendaru
+DUBROVAČKA|... Republika, gradska država do 1808.
+LIBERTAS|Geslo Dubrovačke Republike
+[teska]
+TRPIMIR|Knez po kojem je nazvana dinastija Trpimirovića
+BRANIMIR|Knez kojem je papa Ivan VIII. 879. priznao vlast
+GRGUR|... Ninski, biskup koji se zalagao za glagoljicu
+KOLOMAN|Ugarski kralj okrunjen 1102. za hrvatskog kralja
+PACTA|... conventa, navodni sporazum hrvatskog plemstva i Kolomana
+MOHAČ|Bitka 1526. u kojoj je poginuo kralj Ludovik II.
+CETIN|Mjesto izbora Habsburgovaca na hrvatsko prijestolje 1527.
+KRBAVA|Polje bitke 1493.
+GUBEC|Matija ..., vođa seljačke bune 1573.
+STUBICA|Gornja ..., mjesto Seljačke bune
+KRAJINA|Vojna ..., obrambeni pojas prema Osmanlijama
+KRAJIŠNICI|Vojnici-seljaci Vojne krajine
+ILIRSKI|... pokret, hrvatski narodni preporod
+DRAŠKOVIĆ|Janko ..., autor „Disertacije” iz 1832.
+STROSSMAYER|Biskup, utemeljitelj JAZU
+STARČEVIĆ|Ante ..., „Otac domovine”
+RADIĆ|Stjepan ..., vođa HSS-a ranjen u beogradskoj skupštini 1928.
+ZAVNOH|Zemaljsko antifašističko vijeće narodnog oslobođenja Hrvatske (kratica)
+BLEIBURG|Austrijsko mjesto tragedije u svibnju 1945.
+KARAĐORĐEVO|Lovište u kojem su se 1991. sastali Tuđman i Milošević
+BOŽIĆNI|... ustav, donesen 22. prosinca 1990.
+REFERENDUM|Glasovanje o samostalnosti održano 19. svibnja 1991.
+VANCE|Cyrus ..., autor mirovnog plana za Hrvatsku
+ERDUT|Mjesto potpisivanja sporazuma o mirnoj reintegraciji 1995.
+UNTAES|Prijelazna uprava UN-a u istočnoj Slavoniji
+HAMURABI|Babilonski kralj poznatog zakonika
+BABILON|Grad visećih vrtova
+ASIRCI|Narod s prijestolnicom Ninivom
+PERIKLO|Atenski državnik „zlatnog doba”
+TERMOPILE|Klanac u kojem je pao Leonida
+LEONIDA|Spartanski kralj kod Termopila
+SALAMINA|Pomorska bitka 480. pr. Kr.
+KSERKSO|Perzijski kralj poražen kod Salamine
+HANIBAL|Kartažanin koji je sa slonovima prešao Alpe
+KARTAGA|Rimu suparnički grad u sjevernoj Africi
+PUNSKI|... ratovi, sukobi Rima i Kartage
+RUBIKON|Rijeka koju je Cezar prešao 49. pr. Kr.
+AUGUST|Prvi rimski car
+NERON|Car za kojeg je 64. izbio veliki požar Rima
+KONSTANTIN|Car Milanskog edikta
+MILANSKI|... edikt iz 313.
+ATILA|Hunski vođa zvan „Bič Božji”
+JUSTINIJAN|Bizantski car koji je dao sagraditi Aju Sofiju
+CARIGRAD|Grad koji su Osmanlije osvojile 1453.
+KRIŽARI|Sudionici pohoda na Svetu zemlju
+TEMPLARI|Viteški red ukinut 1312.
+MAGNA|... Carta, engleska povelja iz 1215.
+HASTINGS|Bitka 1066.
+VILIM|... Osvajač, pobjednik kod Hastingsa
+KUGA|Crna smrt 14. stoljeća
+LUTHER|Martin ..., autor 95 teza
+REFORMACIJA|Vjerski pokret koji je pokrenuo Luther
+ARMADA|Nepobjediva ..., španjolska flota poražena 1588.
+CROMWELL|Oliver ..., lord protektor Engleske
+ROBESPIERRE|Jakobinski vođa razdoblja terora
+AUSTERLITZ|„Bitka triju careva” 1805.
+BISMARCK|„Željezni kancelar”
+VERDUN|Francuski utvrđeni grad, poprište bitke 1916.
+SOMMA|Rijeka uz koju se 1916. vodila velika bitka
+STALJINGRAD|Prekretnica na istočnom bojištu 1942.–1943.
+JALTA|Mjesto konferencije savezničkih vođa na Krimu 1945.
+MARSHALLOV|... plan, američka pomoć poslijeratnoj Europi
+KUBANSKA|... kriza, raketna kriza 1962.
+GORBAČOV|Posljednji vođa SSSR-a
+PERESTROJKA|Gorbačovljeva politika preobrazbe
+[strucna]
+VIŠESLAV|Knez čije ime nosi krstionica iz Nina
+BORNA|Dalmatinski knez s početka 9. stoljeća
+LJUDEVIT|... Posavski, knez koji se pobunio protiv Franaka
+MUNCIMIR|Trpimirov sin, knez s kraja 9. stoljeća
+KREŠIMIR|Petar ... IV., kralj pod kojim se Hrvatska širila u 11. stoljeću
+BIOGRAD|Grad Kolomanove krunidbe 1102.
+KLIS|Utvrda koja je pala pod Osmanlije 1537.
+KRUŽIĆ|Petar ..., branitelj Klisa
+SENJ|Grad uskoka
+USKOCI|Senjski ratnici protiv Osmanlija i Venecije
+MADRIDSKI|... mir iz 1617., vezan uz okončanje Uskočkog rata
+KARLOVAČKI|... mir iz 1699.
+POŽAREVAČKI|... mir iz 1718.
+SVIŠTOVSKI|... mir iz 1791.
+KAMPOFORMIJSKI|... mir iz 1797. kojim je Mletačka Dalmacija pripala Austriji
+ILIRSKE|... pokrajine, Napoleonova tvorevina
+MARMONT|Napoleonov upravitelj Ilirskih pokrajina
+NAGODBA|Hrvatsko-ugarska ... iz 1868.
+KHUEN|... Héderváry, ban od 1883. do 1903.
+RAKOVICA|Mjesto Kvaternikove bune 1871.
+KVATERNIK|Eugen ..., vođa bune u Rakovici
+SUPILO|Frano ..., jedan od vođa Jugoslavenskog odbora
+TRUMBIĆ|Ante ..., predsjednik Jugoslavenskog odbora
+KRFSKA|... deklaracija iz 1917.
+VIDOVDANSKI|... ustav iz 1921.
+CVETKOVIĆ|Dragiša ..., potpisnik sporazuma s Mačekom 1939.
+MAČEK|Vladko ..., vođa HSS-a nakon Radića
+BANOVINA|... Hrvatska, autonomna jedinica od 1939.
+TOPUSKO|Mjesto trećeg zasjedanja ZAVNOH-a
+HEBRANG|Andrija ..., sekretar KPH tijekom rata
+GILGAMEŠ|Junak najstarijeg sačuvanog epa
+AKAD|Sargonovo carstvo u Mezopotamiji
+SARGON|Akadski vladar, utemeljitelj prvog carstva
+NABUKODONOZOR|Babilonski kralj koji je razorio Jeruzalem
+EHNATON|Faraon koji je uveo kult Atona
+TUTANKAMON|Faraon čiju je grobnicu Carter otkrio 1922.
+CARTER|Howard ..., otkrivač Tutankamonove grobnice
+RAMZES|... II., faraon bitke kod Kadeša
+KADEŠ|Bitka Egipćana i Hetita oko 1274. pr. Kr.
+HETITI|Anatolijski narod s prijestolnicom Hatušom
+HATUŠA|Prijestolnica Hetita
+HIKSI|Azijski narod koji je vladao dijelom Egipta
+PELOPONESKI|... rat između Atene i Sparte
+TUKIDID|Povjesničar Peloponeskog rata
+HERODOT|„Otac povijesti”
+POLIBIJE|Grčki povjesničar uspona Rima
+LIVIJE|Tit ..., autor djela „Od osnutka Grada”
+TACIT|Rimski povjesničar „Anala” i „Germanije”
+SVETONIJE|Autor „Životopisa careva”
+KANA|Bitka 216. pr. Kr., Hanibalova velika pobjeda
+ZAMA|Bitka u kojoj je Scipion porazio Hanibala
+SCIPION|... Afrički, pobjednik kod Zame
+SPARTAK|Vođa ustanka robova 73.–71. pr. Kr.
+ILIRI|Antički narod istočne jadranske obale
+TEUTA|Ilirska kraljica u ratu s Rimom
+BATON|Vođa Velikog ilirskog ustanka 6.–9.
+SALONA|Rimski glavni grad Dalmacije
+NARONA|Rimski grad kod današnjeg Vida
+ISSA|Grčka kolonija na Visu
+FAROS|Grčka kolonija na Hvaru
+JADER|Rimsko ime Zadra
+TARSATIKA|Rimsko naselje na mjestu Rijeke
+SISCIJA|Rimsko ime Siska
+MURSA|Rimsko ime Osijeka
+SIRMIJ|Rimski grad, danas Srijemska Mitrovica
+POITIERS|Bitka 732. u kojoj je Karlo Martel zaustavio Arape
+MARTEL|Karlo ..., pobjednik kod Poitiersa
+VERDUNSKI|... ugovor iz 843. kojim je podijeljeno Franačko Carstvo
+WORMS|Grad konkordata iz 1122.
+CANOSSA|Mjesto pokore Henrika IV. 1077.
+AVIGNON|Sjedište papa u 14. stoljeću
+TRIDENTSKI|... koncil, protureformacijski sabor
+VESTFALSKI|... mir iz 1648.

@@ -1,0 +1,70 @@
+[opca]
+NOTA|Znak za ton
+TON|Zvuk određene visine
+RITAM|Pravilno ponavljanje naglasaka u glazbi
+TAKT|Mjera u glazbi
+MELODIJA|Niz tonova koji čine napjev
+TEKST|Riječi pjesme
+TEKSTOPISAC|Autor teksta pjesme
+SKLADATELJ|Autor glazbe
+KANTAUTOR|Pjevač koji sam piše pjesme
+GRUPA|Sastav, bend
+NASTUP|Izvedba pred publikom
+PUBLIKA|Ljudi na koncertu
+MIKSETA|Pult za miješanje zvuka
+RAZGLAS|Sustav zvučnika za koncert
+KABEL|Spaja gitaru i pojačalo
+PEDALA|Efekt kojim gitarist upravlja nogom
+KAPODASTER|Stezaljka na vratu gitare
+VRAT|Dio gitare s pragovima
+PRAG|Metalna prečka na vratu gitare
+KLAVIJATURE|Elektronička glazbala s tipkama
+SINTESAJZER|Elektronički instrument za stvaranje zvukova
+ČINELA|Metalna udaraljka bubnjarskog seta
+GARAŽA|Mjesto gdje mladi bendovi vježbaju
+PROBA|Vježbanje benda prije nastupa
+HARD|... rock, žestoka inačica rocka
+INDIE|Nezavisna glazba
+ALTERNATIVA|Rock izvan glavne struje
+[teska]
+MAMAS|The ... & the Papas, bend pjesme „California Dreamin'”
+SIMON|Paul ..., polovica dua s Garfunkelom
+GARFUNKEL|Art ..., Simonov partner
+BLIND|... Faith, kratkotrajna supergrupa Claptona i Winwooda
+BUFFALO|... Springfield, bend Stillsa i Younga
+HOLLIES|Bend Grahama Nasha
+MONKEES|Bend iz televizijske serije, pjesma „I'm a Believer”
+DOOBIE|The ... Brothers, bend pjesme „Listen to the Music”
+CHICAGO|Bend s puhačkom sekcijom, pjesma „25 or 6 to 4”
+STATUS|... Quo, bend pjesme „Rockin' All Over the World”
+BADFINGER|Bend Appleove etikete
+APPLE|... Records, izdavačka kuća Beatlesa
+[strucna]
+AMPEG|Proizvođač bas-pojačala SVT
+VOX|Britanski proizvođač pojačala AC30
+ORANGE|Britanska pojačala narančaste boje
+RICKENBACKER|Gitara s dvanaest žica Georgea Harrisona i Rogera McGuinna
+GRETSCH|Gitara koju je rano svirao George Harrison
+TELECASTER|Fenderova gitara koju često svira Keith Richards
+FLYING|... V, Gibsonova gitara u obliku slova V
+THEREMIN|Elektronički instrument kojim se svira bez dodira
+MELLOTRON|Klavijature s magnetofonskim vrpcama sa „Strawberry Fields Forever”
+HAMMOND|Električne orgulje Jona Lorda
+LORD|Jon ..., orguljaš Deep Purplea
+LESLIE|Zvučnik s rotirajućim dijelovima uz Hammond orgulje
+MOOG|Analogni sintesajzer Roberta ...a
+TALKBOX|Uređaj kojim gitara „govori”
+FUZZ|Efekt izobličenja s pjesme „(I Can't Get No) Satisfaction”
+WAH|...-wah pedala
+FLANGER|Efekt modulacije nalik zvuku mlaznog aviona
+BOOTLEG|Neslužbena snimka koncerta
+ACETAT|Probna gramofonska ploča
+MASTERING|Završna obrada snimke prije izdanja
+OVERDUB|Naknadno snimanje dionice preko postojeće
+WRECKING|The ... Crew, losanđeleski studijski glazbenici
+FUNK|... Brothers, Motownovi studijski glazbenici
+BRILL|... Building, njujorško središte autora pjesama
+GOFFIN|Gerry ..., autor pjesama u paru s Carole King
+TIN|... Pan Alley, njujorški izdavači nota
+PAYOLA|Plaćanje radijskim voditeljima za puštanje pjesama
+FREED|Alan ..., DJ koji je popularizirao izraz „rock and roll”

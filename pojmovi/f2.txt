@@ -1,0 +1,341 @@
+[opca]
+FILM|Pokretne slike snimljene kamerom
+GLUMICA|Žena koja tumači ulogu
+ULOGA|Lik koji tumači glumac
+SCENA|Dio filma koji se odvija na jednom mjestu i u jednom vremenu
+PLATNO|Filmsko ... na kojem se prikazuje film
+PROJEKTOR|Uređaj koji prikazuje film na platnu
+ULAZNICA|Karta za kino
+SNIMANJE|Rad na stvaranju filma kamerom
+NASTAVAK|Film koji nastavlja priču prethodnog
+TRILOGIJA|Niz od tri povezana filma
+PREMIJERA|Prvo javno prikazivanje filma
+TITLOVI|Prijevod dijaloga na dnu ekrana
+SINKRONIZACIJA|Presnimavanje glasova na drugom jeziku
+DOKUMENTARAC|Film o stvarnim događajima i ljudima
+ANIMACIJA|Oživljavanje crteža ili lutaka
+TRILER|Žanr napetosti
+DRAMA|Ozbiljan filmski žanr
+AKCIJA|Žanr s potjerama i eksplozijama
+FANTASTIKA|Žanr čarolija i izmišljenih svjetova
+KAUBOJ|Junak vesterna na konju
+GANGSTER|Kriminalac iz filmova o mafiji
+VAMPIR|Krvopija poput Drakule
+DRAKULA|Najpoznatiji filmski vampir, grof iz Transilvanije
+FRANKENSTEIN|Znanstvenik koji je oživio čudovište
+ZOMBI|Oživjeli mrtvac iz horora
+GODZILLA|Japansko čudovište koje razara Tokio
+SHERLOCK|... Holmes, detektiv iz Baker Streeta
+WATSON|Doktor, Holmesov prijatelj
+POIROT|Hercule ..., belgijski detektiv Agathe Christie
+ROBIN|... Hood, odmetnik iz Sherwooda
+POPPINS|Mary ..., dadilja s kišobranom
+WONKA|Willy ..., vlasnik tvornice čokolade
+NARNIJA|Čarobna zemlja do koje se dolazi kroz ormar
+ŠTRUMPFOVI|Mala plava bića iz šume
+DORY|Zaboravna plava riba iz „Potrage za Nemom”
+WOODY|Kauboj iz „Priče o igračkama”
+BUZZ|... Svjetlosni, svemirski čuvar iz „Priče o igračkama”
+ARIEL|Mala sirena iz Disneyjeva filma
+MULAN|Kineska junakinja koja se bori umjesto oca
+POCAHONTAS|Indijanka iz Disneyjeva crtića
+PUMBA|Bradavičasta svinja iz „Kralja lavova”
+TIMON|Merkat iz „Kralja lavova”
+MUFASA|Simbin otac
+SCAR|Simbin zli stric
+OLAF|Snjegović iz „Snježnog kraljevstva”
+PAN|Peter ..., dječak koji ne želi odrasti
+KUKA|Kapetan ..., Peter Panov neprijatelj
+CHEWBACCA|Dlakavi kopilot Hana Soloa
+LEIA|Princeza iz „Ratova zvijezda”
+SKYWALKER|Luke ..., junak „Ratova zvijezda”
+TATOOINE|Pustinjski planet Lukea Skywalkera
+DROID|Robot u „Ratovima zvijezda”
+ARAGORN|Nasljednik prijestolja Gondora
+LEGOLAS|Vilenjak strijelac iz Družine prstena
+GIMLI|Patuljak iz Družine prstena
+MORDOR|Sauronova zemlja
+HOBIT|Mali stanovnik Shirea
+HERMIONE|Harryjeva pametna prijateljica
+RON|... Weasley, Harryjev najbolji prijatelj
+VOLDEMORT|Mračni gospodar iz Harryja Pottera
+DUMBLEDORE|Ravnatelj Hogwartsa
+METLA|Čarobnjaci na njoj igraju quidditch
+GOTHAM|Batmanov grad
+KENT|Clark ..., Supermanov civilni identitet
+KRIPTONIT|Supermanova slabost
+OSVETNICI|Marvelova skupina superjunaka
+IRONMAN|Tony Stark u oklopu
+STARK|Tony ..., Iron Man
+WOLVERINE|Mutant s pandžama iz X-Mena
+MARVEL|Studio superjunaka poput Thora i Hulka
+MONEYPENNY|Tajnica šefa M u filmovima o Bondu
+CONNERY|Sean ..., prvi filmski James Bond
+CRAIG|Daniel ..., James Bond u „Casino Royaleu” (2006.)
+GOLDFINGER|Bondov negativac koji voli zlato
+GREASE|Mjuzikl s Johnom Travoltom i Olivijom Newton-John
+TRAVOLTA|John ..., zvijezda „Groznice subotnje večeri”
+STALLONE|Sylvester ..., Rocky i Rambo
+SCHWARZENEGGER|Arnold ..., Terminator
+CRUISE|Tom ..., zvijezda serijala „Nemoguća misija”
+PITT|Brad ..., glumac iz „Kluba boraca”
+CLOONEY|George ..., zvijezda „Oceanovih jedanaest”
+DEPP|Johnny ..., kapetan Jack Sparrow
+SPARROW|Jack ..., gusar s Crnog bisera
+JOLIE|Angelina ..., Lara Croft
+CROFT|Lara ..., pustolovka iz „Tomb Raidera”
+KIDMAN|Nicole ..., zvijezda „Moulin Rougea”
+ROBERTS|Julia ..., „Zgodna žena”
+WILLIS|Bruce ..., John McClane u „Umri muški”
+FREEMAN|Morgan ..., pripovjedač „Iskupljenja u Shawshanku”
+NICHOLSON|Jack ..., Joker iz 1989. i glumac „Isijavanja”
+HOPKINS|Anthony ..., Hannibal Lecter
+LECTER|Hannibal ..., kanibal iz „Kad jaganjci utihnu”
+SMITH|Will ..., glumac iz „Ljudi u crnom”
+ROWLING|J. K. ..., autorica Harryja Pottera
+TOLKIEN|J. R. R. ..., autor „Gospodara prstenova”
+JACKSON|Peter ..., redatelj „Gospodara prstenova”
+LUCAS|George ..., tvorac „Ratova zvijezda”
+NOMINACIJA|Prijedlog za nagradu
+FESTIVAL|Smotra filmova poput one u Cannesu
+TEPIH|Crveni ..., staza za zvijezde na premijeri
+BOLLYWOOD|Nadimak indijske filmske industrije
+NETFLIX|Servis za gledanje filmova i serija putem interneta
+SERIJA|Niz povezanih epizoda
+EPIZODA|Jedan dio serije
+[teska]
+HUSTON|John ..., redatelj „Malteškog sokola”
+SOKOL|Malteški ..., noir klasik s Bogartom
+CAPRA|Frank ..., redatelj „Divnog života”
+KAZAN|Elia ..., redatelj filma „Na obalama”
+ZINNEMANN|Fred ..., redatelj filma „Točno u podne”
+PODNE|„Točno u ...”, vestern s Garyjem Cooperom
+COOPER|Gary ..., šerif iz „Točno u podne”
+HAWKS|Howard ..., redatelj „Velikog sna”
+CUKOR|George ..., redatelj „Moje divne gospe”
+MINNELLI|Vincente ..., redatelj „Amerikanca u Parizu”
+KELLY|Gene ..., zvijezda „Pjevajmo na kiši”
+ASTAIRE|Fred ..., plesač u paru s Ginger Rogers
+ROGERS|Ginger ..., plesna partnerica Freda Astairea
+BACALL|Lauren ..., Bogartova supruga i filmska partnerica
+HAYWORTH|Rita ..., zvijezda „Gilde”
+GILDA|Film iz 1946. s Ritom Hayworth
+TAYLOR|Elizabeth ..., „Kleopatra” iz 1963.
+DEAN|James ..., „Buntovnik bez razloga”
+BUNTOVNIK|„... bez razloga”, film s Jamesom Deanom
+NEWMAN|Paul ..., Butch Cassidy
+REDFORD|Robert ..., osnivač festivala Sundance
+HOFFMAN|Dustin ..., zvijezda „Diplomca” i „Kišnog čovjeka”
+DIPLOMAC|Film iz 1967. s Dustinom Hoffmanom
+NICHOLS|Mike ..., redatelj „Diplomca”
+ALLEN|Woody ..., redatelj „Annie Hall”
+ANNIE|... Hall, film Woodyja Allena
+SCOTT|Ridley ..., redatelj „Aliena” i „Gladijatora”
+CRONENBERG|David ..., redatelj „Muhe”
+MUHA|Cronenbergov horor o znanstveniku koji se pretvara u kukca
+CARPENTER|John ..., redatelj „Noći vještica”
+CRAVEN|Wes ..., redatelj „Strave u Ulici brijestova”
+KRUEGER|Freddy ..., ubojica iz snova
+ROMERO|George A. ..., redatelj „Noći živih mrtvaca”
+EGZORCIST|Friedkinov horor iz 1973.
+FRIEDKIN|William ..., redatelj „Francuske veze”
+STONE|Oliver ..., redatelj filma „JFK”
+PLATOON|Oscarom nagrađeni film Olivera Stonea o Vijetnamu
+LEVINSON|Barry ..., redatelj „Kišnog čovjeka”
+ZEMECKIS|Robert ..., redatelj „Povratka u budućnost”
+DELOREAN|Automobil vremeplov iz „Povratka u budućnost”
+MCFLY|Marty ..., junak „Povratka u budućnost”
+ISTJERIVAČI|„... duhova”, komedija iz 1984.
+JURSKI|„... park”, Spielbergov film o dinosaurima
+RAPTOR|Grabežljivi dinosaur iz „Jurskog parka”
+KOVČEG|„Otimači izgubljenog ...”, prvi film o Indiani Jonesu
+RIPLEY|Ellen ..., junakinja „Aliena”
+WEAVER|Sigourney ..., Ripley u „Alienu”
+ROBOCOP|Policajac kiborg iz Detroita
+VERHOEVEN|Paul ..., redatelj „Robocopa”
+PREDATOR|Izvanzemaljski lovac iz filma sa Schwarzeneggerom
+MCTIERNAN|John ..., redatelj „Umri muški”
+MCCLANE|John ..., junak „Umri muški”
+GRUBER|Hans ..., negativac iz „Umri muški”
+RICKMAN|Alan ..., Hans Gruber i Severus Snape
+SNAPE|Severus ..., profesor napitaka
+SHAWSHANK|„Iskupljenje u ...”
+DARABONT|Frank ..., redatelj „Iskupljenja u Shawshanku”
+DEMME|Jonathan ..., redatelj „Kad jaganjci utihnu”
+STARLING|Clarice ..., agentica FBI-ja iz „Kad jaganjci utihnu”
+FOSTER|Jodie ..., Clarice Starling
+SEDAM|Fincherov triler o sedam smrtnih grijeha
+SOZE|Keyser ..., tajanstveni kriminalac
+SINGER|Bryan ..., redatelj „Privedite osumnjičene”
+WALLACE|Marsellus ..., gangster iz „Paklenog šunda”
+THURMAN|Uma ..., Mia Wallace i Nevjesta iz „Kill Billa”
+BILL|„Kill ...”, Tarantinov osvetnički film
+JACKIE|„... Brown”, Tarantinov film iz 1997.
+DJANGO|„... bez okova”, Tarantinov vestern
+WALTZ|Christoph ..., dvostruki oskarovac u Tarantinovim filmovima
+MOMCI|„Dobri ...”, Scorseseov gangsterski film
+PESCI|Joe ..., oskarovac za „Dobre momke”
+LIOTTA|Ray ..., Henry Hill u „Dobrim momcima”
+BIK|„Razjareni ...”, Scorseseov film o boksaču
+LAMOTTA|Jake ..., boksač iz „Razjarenog bika”
+SCARFACE|Film o Tonyju Montani
+MONTANA|Tony ..., kubanski gangster kojeg glumi Pacino
+APOKALIPSA|„... danas”, Coppolin ratni film
+KURTZ|Pukovnik ..., lik Marlona Branda u „Apokalipsi danas”
+SHEEN|Martin ..., kapetan Willard u „Apokalipsi danas”
+BEETLEJUICE|Burtonov „bio-egzorcist”
+OKUPACIJA|„... u 26 slika”, film Lordana Zafranovića
+ZAFRANOVIĆ|Lordan ..., redatelj „Okupacije u 26 slika”
+MATANIĆ|Dalibor ..., redatelj „Zvizdana”
+ZVIZDAN|Matanićev film nagrađen u Cannesu 2015.
+HRIBAR|Hrvoje ..., redatelj filma „Što je muškarac bez brkova”
+DJECA|„Svećenikova ...”, Brešanova komedija
+CVITEŠIĆ|Zrinka ..., glumica nagrađena Olivierom
+ŠERBEDŽIJA|Rade ..., glumac filma „Pred kišom”
+DVORNIK|Boris ..., glumac „Malog mista”
+SMOJE|Miljenko ..., autor serija „Malo misto” i „Velo misto”
+KASKADER|Zamjena glumca u opasnim scenama
+STATIST|Glumac bez teksta u pozadini
+PRODUCENT|Osoba koja financira i organizira film
+SNIMATELJ|Član ekipe koji upravlja kamerom
+MONTAŽER|Član ekipe koji spaja kadrove
+SCENOGRAF|Osmišljava izgled prostora u filmu
+KOSTIMOGRAF|Osmišljava odjeću likova
+SCENARIST|Pisac scenarija
+KLAPA|Pločica kojom se označava početak kadra
+ZUMIRANJE|Približavanje slike promjenom žarišne duljine objektiva
+REŽIJA|Posao redatelja
+OSKAROVAC|Dobitnik Oscara
+NIJEMI|... film, film bez snimljenog zvuka
+PJEVAČ|„... jazza”, prvi zvučni igrani film (1927.)
+CRNOBIJELI|Film bez boja
+SKITNICA|Chaplinov najpoznatiji lik
+DIKTATOR|„Veliki ...”, Chaplinova satira na Hitlera
+LAUREL|Stan ..., mršaviji član komičnog dvojca
+HARDY|Oliver ..., punašniji član komičnog dvojca
+MARX|Braća ..., komičari filma „Pačja juha”
+LLOYD|Harold ..., komičar koji visi sa sata
+BONNIE|„... i Clyde”, film Arthura Penna
+PENN|Arthur ..., redatelj filma „Bonnie i Clyde”
+BEATTY|Warren ..., Clyde u filmu „Bonnie i Clyde”
+DUNAWAY|Faye ..., Bonnie u filmu „Bonnie i Clyde”
+[strucna]
+GAUMONT|Francuska filmska kuća, jedna od najstarijih na svijetu
+MUYBRIDGE|Eadweard ..., fotografirao konja u galopu
+MAREY|Étienne-Jules ..., izumitelj kronofotografske puške
+DICKSON|William K. L. ..., Edisonov suradnik na kinetoskopu
+FEUILLADE|Louis ..., autor serijala „Vampiri” (1915.)
+FANTOMAS|Feuilladeov zločinac iz serijala 1913.
+CALIGARI|„Kabinet doktora ...”, ekspresionistički klasik
+WIENE|Robert ..., redatelj „Kabineta doktora Caligarija”
+EKSPRESIONIZAM|Njemački pravac „Caligarija” i „Nosferatua”
+PABST|G. W. ..., redatelj „Pandorine kutije”
+BROOKS|Louise ..., Lulu u „Pandorinoj kutiji”
+STERNBERG|Josef von ..., redatelj „Plavog anđela”
+LUBITSCH|Ernst ..., redatelj komedije „Biti ili ne biti”
+STROHEIM|Erich von ..., redatelj „Pohlepe”
+POHLEPA|Stroheimov film iz 1924.
+FLAHERTY|Robert ..., redatelj „Nanooka sa sjevera”
+NANOOK|Inuit iz Flahertyjeva dokumentarca
+GRIERSON|John ..., skovao pojam „dokumentarni film”
+RIEFENSTAHL|Leni ..., redateljica „Olympije”
+PUDOVKIN|Redatelj „Majke” (1926.)
+DOVŽENKO|Redatelj „Zemlje” (1930.)
+OKTOBAR|Eisensteinov film o revoluciji 1917.
+ŠTRAJK|Eisensteinov prvi dugometražni film
+NEVSKI|„Aleksandar ...”, Eisensteinov film s Prokofjevljevom glazbom
+PROKOFJEV|Skladatelj glazbe za „Aleksandra Nevskog”
+WISE|Robert ..., montažer „Građanina Kanea”, poslije redatelj filma „Moje pjesme, moji snovi”
+HERRMANN|Bernard ..., skladatelj glazbe za „Psiho”
+BASS|Saul ..., dizajner špica Hitchcockovih filmova
+HEAD|Edith ..., kostimografkinja s osam Oscara
+ROTA|Nino ..., skladatelj glazbe za Fellinija i „Kuma”
+DELERUE|Georges ..., skladatelj glazbe za „Jules i Jim”
+JULES|„... i Jim”, Truffautov film
+MOREAU|Jeanne ..., Catherine u „Jules i Jim”
+DOINEL|Antoine ..., Truffautov alter ego
+RIVETTE|Jacques ..., redatelj „Pariz pripada nama”
+ROHMER|Éric ..., autor ciklusa „Moralne priče”
+CHABROL|Claude ..., redatelj „Lijepog Sergea”
+RESNAIS|Alain ..., redatelj „Hirošime, ljubavi moja”
+MARIENBAD|„Prošle godine u ...”, Resnaisov film
+VARDA|Agnès ..., redateljica „Cléo od 5 do 7”
+MARKER|Chris ..., autor kratkog filma „Pristanište” (La Jetée)
+MELVILLE|Jean-Pierre ..., redatelj „Samuraja” (1967.)
+TATI|Jacques ..., tvorac gospodina Hulota
+HULOT|Monsieur ..., Tatijev junak
+CLAIR|René ..., redatelj „Pod pariškim krovovima”
+COCTEAU|Jean ..., redatelj „Ljepotice i zvijeri” (1946.)
+ANDALUZIJSKI|„... pas”, nadrealistički film iz 1929.
+AVVENTURA|„L'...”, Antonionijev film iz 1960.
+MASTROIANNI|Marcello ..., zvijezda „Slatkog života”
+EKBERG|Anita ..., u fontani di Trevi u „Slatkom životu”
+MASINA|Giulietta ..., Fellinijeva supruga i zvijezda „Ceste”
+CESTA|Fellinijev film iz 1954.
+AMARCORD|Fellinijev film sjećanja na Rimini
+OLMI|Ermanno ..., redatelj „Stabla za klompe”
+TAVIANI|Braća ..., redatelji filma „Padre padrone”
+SCOLA|Ettore ..., redatelj „Posebnog dana”
+PONTECORVO|Gillo ..., redatelj „Bitke za Alžir”
+ALŽIR|„Bitka za ...”, Pontecorvov film iz 1966.
+ARGENTO|Dario ..., majstor talijanskog giallo horora
+BAVA|Mario ..., pionir talijanskog horora
+GIALLO|Talijanski žanr krimića i horora
+KOBAYASHI|Masaki ..., redatelj „Harakirija”
+OSHIMA|Nagisa ..., redatelj „Carstva čula”
+IMAMURA|Shōhei ..., redatelj „Balade o Narayami”
+KITANO|Takeshi ..., redatelj filma „Hana-bi”
+MIFUNE|Toshirō ..., Kurosawin glumac
+SHIMURA|Takashi ..., glavni glumac Kurosawina „Ikirua”
+IKIRU|Kurosawin film o umirućem činovniku
+RAN|Kurosawina verzija „Kralja Leara”
+KAGEMUSHA|Kurosawin film o vladarevu dvojniku
+YOJIMBO|Kurosawin film o lutajućem samuraju
+ZHANG|... Yimou, redatelj filma „Podignite crvene lampione”
+CHEN|... Kaige, redatelj filma „Zbogom, moja konkubino”
+YANG|Edward ..., redatelj filma „Yi Yi”
+GHATAK|Ritwik ..., bengalski redatelj
+CHAHINE|Youssef ..., egipatski redatelj „Kairske postaje”
+MAKHMALBAF|Mohsen ..., redatelj „Kandahara”
+PANAHI|Jafar ..., redatelj „Bijelog balona”
+FARHADI|Asghar ..., redatelj „Rastave”
+MENZEL|Jiří ..., redatelj „Strogo kontroliranih vlakova”
+ZANUSSI|Krzysztof ..., redatelj „Iluminacije”
+MUNK|Andrzej ..., redatelj „Putnice”
+PARADŽANOV|Sergej ..., redatelj „Boje nara”
+SOKUROV|Aleksandr ..., redatelj „Ruske arke”
+ZVJAGINCEV|Andrej ..., redatelj „Levijatana”
+KLIMOV|Elem ..., redatelj „Dođi i vidi”
+MIHALKOV|Nikita ..., ruski redatelj nagrađen Oscarom za strani film 1995.
+OGLEDALO|Autobiografski film Tarkovskog iz 1975.
+RUBLJOV|„Andrej ...”, film Tarkovskog o ikonopiscu
+ŽILNIK|Želimir ..., redatelj „Ranih radova”
+PAVLOVIĆ|Živojin ..., redatelj „Buđenja pacova”
+ŠIJAN|Slobodan ..., redatelj filma „Ko to tamo peva”
+KARANOVIĆ|Srđan ..., redatelj „Petrijinog vijenca”
+ŠKOLA|Zagrebačka ... crtanog filma
+BAUER|Branko ..., redatelj filma „Ne okreći se, sine”
+TANHOFER|Nikola ..., redatelj filma „H-8...”
+GLUŠČEVIĆ|Obrad ..., redatelj „Lita vilovitog”
+HLADNIK|Boštjan ..., slovenski redatelj „Plesa na kiši”
+DIJAFRAGMA|Otvor objektiva kojim se regulira količina svjetla
+NEGATIV|Filmska vrpca s obrnutim tonovima nakon razvijanja
+EMULZIJA|Svjetlosno osjetljivi sloj filmske vrpce
+CELULOID|Zapaljivi materijal ranih filmskih vrpci
+NITRAT|Rana filmska vrpca sklona samozapaljenju
+FOTOGRAM|Pojedinačna sličica filmske vrpce
+ROTOSKOP|Uređaj za precrtavanje snimljenog pokreta u animaciju
+STEADICAM|Stabilizator kamere koji nosi snimatelj
+DOLLY|Kolica za kretanje kamere
+KRAN|Dizalica za snimanje iz visine
+RAKURS|Kut snimanja kamere
+TOTAL|Plan koji prikazuje cijeli prostor
+DETALJ|Najkrupniji plan predmeta
+REZ|Prijelaz s kadra na kadar
+PRETAPANJE|Postupan prijelaz jednog kadra u drugi
+ZATAMNJENJE|Postupni prijelaz slike u crno
+OFF|Glas iz ..., pripovjedač kojeg ne vidimo
+DIJEGEZA|Svijet priče unutar filma
+MIZANSCENA|Raspored svega što se nalazi u kadru
+AUTEUR|Redatelj kao autor u „politici autora”
+FOLEY|Naknadno snimanje zvučnih efekata u studiju

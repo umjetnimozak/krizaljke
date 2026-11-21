@@ -1,0 +1,185 @@
+[opca]
+SUNCE|Zvijezda oko koje kruži Zemlja
+MERKUR|Planet najbliži Suncu
+VENERA|Najsjajniji planet na noćnom nebu
+ZEMLJA|Treći planet od Sunca
+MARS|„Crveni planet”
+JUPITER|Najveći planet Sunčeva sustava
+SATURN|Planet s najizraženijim prstenovima
+URAN|Sedmi planet od Sunca
+NEPTUN|Najudaljeniji planet Sunčeva sustava
+PLUTON|Patuljasti planet, do 2006. smatran planetom
+MJESEC|Prirodni satelit Zemlje
+KOMET|Ledeno tijelo koje blizu Sunca razvija rep
+METEOR|„Zvijezda padalica”
+METEORIT|Ostatak svemirskog tijela koji je pao na Zemlju
+ASTEROID|Malo stjenovito tijelo koje kruži oko Sunca
+GALAKSIJA|Golemi skup zvijezda, plina i prašine
+MLIJEČNI|... put, naša galaktika
+ZVIJEZDA|Užarena plinska kugla poput Sunca
+SAZVIJEŽĐE|Skupina zvijezda poput Oriona
+ORION|Sazviježđe Lovca s trima zvijezdama „pojasa”
+TELESKOP|Optički instrument za promatranje neba
+ASTRONAUT|Svemirski putnik
+RAKETA|Letjelica koja je čovjeka odnijela u svemir
+SATELIT|Tijelo koje kruži oko planeta
+ORBITA|Putanja oko nebeskog tijela
+NASA|Američka svemirska agencija
+ESA|Europska svemirska agencija
+POMRČINA|Kad Mjesec zakloni Sunce, nastaje Sunčeva ...
+MLAĐAK|Mjesečeva mijena kad ga ne vidimo
+UŠTAP|Pun Mjesec
+KRATER|Udubina na površini Mjeseca
+ATMOSFERA|Plinski omotač planeta
+GRAVITACIJA|Sila koja nas drži na Zemlji
+SVEMIR|Sav prostor, vrijeme, tvar i energija
+PLANET|Nebesko tijelo koje kruži oko zvijezde
+PRSTENOVI|Saturnovi ... od leda i stijena
+SJEVERNJAČA|Zvijezda koja pokazuje sjever
+MEDVJED|Veliki ..., sazviježđe s „Velikim kolima”
+KOLA|Velika ..., poznati zvjezdani uzorak
+KOPERNIK|Astronom heliocentričnog sustava
+HUBBLE|Svemirski teleskop lansiran 1990.
+ISS|Međunarodna svemirska postaja (kratica)
+SVJETLOSNA|... godina, udaljenost koju svjetlost prijeđe za godinu
+RAVNODNEVICA|Dan kad su dan i noć jednako dugi
+SUNCOSTAJ|Najdulji ili najkraći dan u godini
+AURORA|Polarna svjetlost
+RUPA|Crna ..., objekt iz kojeg ne izlazi ni svjetlost
+LAJKA|Pas poslan u orbitu 1957.
+SPUTNJIK|Prvi umjetni satelit
+ZVJEZDARNICA|Ustanova za promatranje neba
+DAN|Vrijeme jednog okretaja Zemlje oko osi
+PLIMA|Porast razine mora uzrokovan Mjesecom
+OSEKA|Opadanje razine mora
+EKVATOR|Polutnik
+KRIŽ|Južni ..., sazviježđe južnog neba
+ŠKORPION|Sazviježđe s crvenim Antaresom
+BLIZANCI|Sazviježđe s Kastorom i Poluksom
+VEGA|Najsjajnija zvijezda Lire
+SIRIJUS|Najsjajnija zvijezda noćnog neba
+GAGARIN|Jurij ..., prvi čovjek u svemiru
+ARMSTRONG|Neil ..., prvi čovjek na Mjesecu
+APOLLO|Program letova na Mjesec
+[teska]
+KEPLER|Johannes ..., autor zakona gibanja planeta
+BRAHE|Tycho ..., danski astronom preciznih mjerenja
+HALLEY|Edmond ..., predvidio povratak kometa
+HERSCHEL|William ..., otkrio Uran 1781.
+GALLE|Johann ..., prvi promatrao Neptun 1846.
+TOMBAUGH|Clyde ..., otkrio Pluton 1930.
+HAWKING|Stephen ..., teoretičar zračenja crnih rupa
+SAGAN|Carl ..., autor serije „Kozmos”
+EUROPA|Jupiterov mjesec s podzemnim oceanom
+GANIMED|Najveći mjesec u Sunčevu sustavu
+KALISTO|Jupiterov Galilejev mjesec prepun kratera
+TITAN|Saturnov mjesec s gustom atmosferom
+ENCELAD|Saturnov mjesec s gejzirima
+TRITON|Najveći Neptunov mjesec
+HARON|Najveći Plutonov mjesec
+FOBOS|Veći Marsov mjesec
+DEIMOS|Manji Marsov mjesec
+CERES|Patuljasti planet u asteroidnom pojasu
+ERIDA|Patuljasti planet otkriven 2005.
+KUIPEROV|... pojas, iza Neptunove putanje
+OORTOV|... oblak, izvor dugoperiodičnih kometa
+BETELGEUSE|Crveni superdiv u Orionu
+RIGEL|Plavi superdiv u Orionu
+ALDEBARAN|„Oko Bika”
+ANTARES|Crvena zvijezda Škorpiona
+ALTAIR|Zvijezda Orla, vrh Ljetnog trokuta
+DENEB|Zvijezda Labuda, vrh Ljetnog trokuta
+KAPELA|Najsjajnija zvijezda Kočijaša
+PROCION|Najsjajnija zvijezda Malog psa
+PLEJADE|Zvjezdani skup u Biku
+VLAŠIĆI|Narodni naziv za Plejade
+ANDROMEDA|Najbliža velika spiralna galaktika
+MAGLICA|Oblak plina i prašine u svemiru
+SUPERNOVA|Eksplozija masivne zvijezde
+PULSAR|Brzo rotirajuća neutronska zvijezda koja odašilje snopove zračenja
+KVAZAR|Iznimno sjajna aktivna jezgra udaljene galaktike
+PATULJAK|Bijeli ..., ostatak zvijezde poput Sunca
+DIV|Crveni ..., kasna faza zvijezde
+PARSEK|Jedinica udaljenosti od približno 3,26 svjetlosnih godina
+PARALAKSA|Prividni pomak zvijezde koji služi za mjerenje udaljenosti
+PERIHEL|Točka putanje najbliža Suncu
+AFEL|Točka putanje najudaljenija od Sunca
+APOGEJ|Točka putanje najudaljenija od Zemlje
+PERIGEJ|Točka putanje najbliža Zemlji
+ZENIT|Točka na nebu ravno iznad promatrača
+NADIR|Točka suprotna zenitu
+EKLIPTIKA|Prividna godišnja putanja Sunca po nebu
+ZODIJAK|Pojas sazviježđa uz ekliptiku
+VOSTOK|Letjelica Jurija Gagarina
+VOYAGER|Sonde lansirane 1977. koje su napustile heliosferu
+CASSINI|Sonda koja je istraživala Saturn
+JUNO|Sonda koja istražuje Jupiter
+WEBB|Svemirski teleskop James ...
+SOJUZ|Ruska letjelica s posadom
+SKYLAB|Prva američka svemirska postaja
+MIR|Sovjetska, poslije ruska, svemirska postaja
+SPEKTAR|Razlaganje svjetlosti po valnim duljinama
+DOPPLER|Učinak promjene frekvencije zbog gibanja izvora
+POMAK|Crveni ..., znak udaljavanja galaktika
+[strucna]
+CHANDRASEKHAR|Granica mase bijelog patuljka nosi njegovo ime
+SCHWARZSCHILD|Polumjer crne rupe nosi njegovo ime
+EDDINGTON|Arthur ..., potvrdio otklon svjetlosti 1919.
+HERTZSPRUNG|Dijagram ...–Russell
+RUSSELL|Dijagram Hertzsprung–...
+LEAVITT|Henrietta ..., otkrila odnos perioda i sjaja cefeida
+CEFEIDE|Pulsirajuće zvijezde, „standardne svijeće”
+ZWICKY|Fritz ..., 1933. predložio tamnu tvar
+RUBIN|Vera ..., proučavala krivulje rotacije galaktika
+BELL|Jocelyn ... Burnell, otkrila prvi pulsar
+PENZIAS|Arno ..., suotkrivač mikrovalnog pozadinskog zračenja
+FRIEDMANN|Aleksandr ..., rješenja za svemir koji se širi
+GAMOW|George ..., koautor rada „alfa-beta-gama” o nastanku elemenata
+HOYLE|Fred ..., skovao naziv „Veliki prasak”
+MESSIER|Charles ..., autor kataloga maglica i skupova
+BOŠKOVIĆ|Ruđer ..., dubrovački astronom i fizičar
+DOMINIS|Marko Antun ..., rapski znanstvenik koji je proučavao dugu i plimu
+NUKLEOSINTEZA|Nastanak kemijskih elemenata u zvijezdama
+FOTOSFERA|Vidljiva „površina” Sunca
+KROMOSFERA|Sloj Sunčeve atmosfere iznad fotosfere
+KORONA|Vanjska Sunčeva atmosfera vidljiva pri potpunoj pomrčini
+GRANULACIJA|Zrnati uzorak konvekcije na Suncu
+HELIOSFERA|Mjehur Sunčeva vjetra
+HELIOPAUZA|Granica heliosfere
+MAGNETAR|Neutronska zvijezda iznimno jakog magnetskog polja
+BLAZAR|Aktivna galaktika s mlazom usmjerenim prema nama
+AKRECIJSKI|... disk oko crne rupe
+HORIZONT|... događaja, granica crne rupe
+SINGULARNOST|Točka beskonačne gustoće u središtu crne rupe
+LIBRACIJA|Prividno njihanje Mjeseca
+PRECESIJA|Spora promjena smjera Zemljine osi
+NUTACIJA|Mala periodična kolebanja Zemljine osi
+ALBEDO|Udio reflektirane svjetlosti
+MAGNITUDA|Mjera prividnog sjaja zvijezde
+REKTASCENZIJA|Nebeska koordinata analogna zemljopisnoj dužini
+DEKLINACIJA|Nebeska koordinata analogna zemljopisnoj širini
+AZIMUT|Kut mjeren po obzoru od sjevera
+EFEMERIDE|Tablice položaja nebeskih tijela
+SAROS|Ciklus pomrčina od oko 18 godina
+METON|... ciklus od 19 godina
+SIDERIČKI|... dan, okret Zemlje u odnosu na zvijezde
+SINODIČKI|... mjesec, od mlađaka do mlađaka
+ROCHEOVA|... granica, unutar koje plimne sile razaraju satelit
+LAGRANGE|Točke ravnoteže L1–L5 nose njegovo ime
+TRANZIT|Prolaz planeta preko diska zvijezde
+EGZOPLANET|Planet izvan Sunčeva sustava
+PEGASI|51 ..., prva zvijezda nalik Suncu kod koje je otkriven egzoplanet
+TRAPPIST|... 1, sustav sa sedam planeta zemaljske veličine
+PROKSIMA|... Centauri, Suncu najbliža zvijezda
+GAIA|ESA-ina misija za astrometriju milijardi zvijezda
+HIPPARCOS|ESA-in astrometrijski satelit lansiran 1989.
+ARECIBO|Portorikanski radioteleskop urušen 2020.
+ALMA|Niz radioteleskopa u čileanskoj pustinji Atacami
+ATACAMA|Čileanska pustinja s brojnim opservatorijima
+MAUNA|... Kea, havajski vulkan s opservatorijima
+VIŠNJAN|Istarska zvjezdarnica poznata po otkrićima asteroida
+LEMAITRE|Georges ..., svećenik i začetnik ideje „praatoma”
+SLIPHER|Vesto ..., prvi mjerio crvene pomake spiralnih maglica
+HUYGENS|Christiaan ..., otkrio Titan
+CASSINIJEVA|... pukotina u Saturnovim prstenovima
+ROEMER|Ole ..., prvi procijenio brzinu svjetlosti iz pomrčina Jupiterovih mjeseca

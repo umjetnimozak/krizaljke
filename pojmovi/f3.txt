@@ -1,0 +1,44 @@
+[opca]
+ŠMINKA|Ono što se glumcima nanosi na lice prije snimanja
+KOSTIM|Odjeća koju glumac nosi u ulozi
+REKVIZIT|Predmet koji se koristi u sceni
+SPECIJALNI|... efekti
+UNIVERSAL|Filmski studio s globusom u logotipu
+PARAMOUNT|Filmski studio s planinom u logotipu
+WARNER|... Bros., studio s „WB” u logotipu
+FOX|Studio „20th Century ...”
+MGM|Studio s lavom koji riče u logotipu
+DREAMWORKS|Studio „Shreka”
+SLAVA|Šetalište ... u Hollywoodu
+[teska]
+PTICE|Hitchcockov film o napadima ptica
+REBECCA|Hitchcockov film nagrađen Oscarom za najbolji film
+PROZOR|„... u dvorište”, Hitchcockov film iz 1954.
+GRACE|... Kelly, Hitchcockova zvijezda i monegaška kneginja
+HEDREN|Tippi ..., zvijezda „Ptica”
+MARNIE|Hitchcockov film s Tippi Hedren i Seanom Conneryjem
+BATES|Norman ..., vlasnik motela iz „Psiha”
+LEIGH|Janet ..., žrtva iz scene pod tušem
+DOUGLAS|Kirk ..., Spartak u Kubrickovu filmu
+LAWRENCE|„... od Arabije”, film Davida Leana
+LEAN|David ..., redatelj „Lawrencea od Arabije”
+ŽIVAGO|„Doktor ...”, Leanov film iz 1965.
+KWAI|„Most na rijeci ...”, Leanov film
+SHARIF|Omar ..., Doktor Živago
+[strucna]
+KINEMATOGRAF|Uređaj braće Lumière za snimanje i projekciju
+ZOOTROP|Vrtuljak s prorezima koji oživljava sličice
+FENAKISTISKOP|Rani uređaj za stvaranje privida pokreta
+LATERNA|... magica, preteča projektora
+PERZISTENCIJA|... vida, staro objašnjenje privida pokreta
+ANAMORFNI|... objektiv, sabija širu sliku na vrpcu
+VISTAVISION|Paramountov format s vodoravno položenom vrpcom
+CINERAMA|Širokoekranski format s tri projektora
+VITAPHONE|Warnerov sustav zvuka na pločama
+MOVIETONE|Foxov sustav optičkog zvuka
+KODACHROME|Kodakov film u boji
+EASTMAN|George ..., osnivač Kodaka
+KADRIRANJE|Određivanje granica slike
+ŠPICA|Početni ili završni popis autora filma
+KINOTEKA|Ustanova koja čuva filmsku baštinu
+LANGLOIS|Henri ..., suosnivač Francuske kinoteke

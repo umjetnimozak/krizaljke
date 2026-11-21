@@ -1,0 +1,109 @@
+[opca]
+LUNA|Latinski naziv za Mjesec
+TERRA|Latinski naziv za Zemlju
+SVOD|Nebeski ..., prividna kupola neba
+MALA|... kola, zvjezdani uzorak sa Sjevernjačom
+OBLAK|Magellanov ..., susjedna patuljasta galaktika
+KOZMOS|Svemir kao uređena cjelina
+UNIVERZUM|Drugi naziv za svemir
+KOZMODROM|Lansirno mjesto za rakete
+PADOBRAN|Usporava kapsulu pri povratku na Zemlju
+TOPLINSKI|... štit, štiti letjelicu pri ulasku u atmosferu
+ORBITER|Letjelica koja kruži oko planeta
+LANDER|Letjelica koja se spušta na površinu
+SONDA|Letjelica bez posade koja istražuje svemir
+MODUL|Dio svemirske letjelice ili postaje
+SOLARNI|... paneli, pretvaraju sunčevu svjetlost u struju
+GORIVO|Ono što raketa troši
+MOTOR|Raketni ... daje potisak
+POTISAK|Sila koja gura raketu naprijed
+MASA|Količina tvari u tijelu
+TEŽINA|Sila kojom nas planet privlači
+PATULJASTI|... planet, poput Plutona
+POJAS|Asteroidni ..., između Marsa i Jupitera
+METEOROID|Mali komad stijene u svemiru
+BOLID|Vrlo sjajan meteor
+PLAVI|... planet, nadimak Zemlje
+CRVENI|... planet, nadimak Marsa
+PLINOVITI|... divovi, Jupiter i Saturn
+LEDENI|... divovi, Uran i Neptun
+STJENOVITI|... planeti, poput Zemlje i Marsa
+UNUTARNJI|... planeti, od Merkura do Marsa
+VANJSKI|... planeti, od Jupitera do Neptuna
+SJENA|Zemljina ... prekriva Mjesec pri pomrčini
+POTPUNA|... pomrčina, kad je Sunce sasvim zaklonjeno
+DJELOMIČNA|... pomrčina, kad je zaklonjen samo dio diska
+PUNI|... Mjesec, uštap
+MJESEČINA|Svjetlost Mjeseca
+PODNE|Doba dana kad je Sunce najviše na nebu
+PONOĆ|Sredina noći
+PRIJESTUPNA|... godina, ima 366 dana
+GREGORIJANSKI|... kalendar, onaj koji danas koristimo
+JULIJANSKI|... kalendar, uveden za Julija Cezara
+SUNČANI|... sat, pokazuje vrijeme sjenom
+SJEVERNA|... polutka, ona na kojoj je Hrvatska
+JUŽNA|... polutka, ona na kojoj je Australija
+ARKTIK|Područje oko Sjevernog pola
+ANTARKTIKA|Kontinent oko Južnog pola
+[teska]
+APSIDE|Točke putanje najbliže i najdalje od središnjeg tijela
+EKSCENTRICITET|Mjera izduženosti putanje
+ELIPSA|Oblik putanje planeta prema Kepleru
+INKLINACIJA|Nagib putanje prema referentnoj ravnini
+ČVOR|Točka u kojoj putanja siječe referentnu ravninu
+OPHODNO|... vrijeme, trajanje jednog obilaska
+KONJUNKCIJA|Prividno približavanje dvaju nebeskih tijela
+OPOZICIJA|Položaj planeta nasuprot Suncu
+ELONGACIJA|Kutna udaljenost planeta od Sunca
+RETROGRADNO|... gibanje, prividno kretanje planeta unatrag
+OKULTACIJA|Prekrivanje jednog nebeskog tijela drugim
+TERMINATOR|Granica dana i noći na Mjesecu ili planetu
+REGOLIT|Rastresiti prašnjavi sloj na Mjesečevoj površini
+MARE|Lunarno more, latinski naziv
+ŽARIŠNA|... duljina, udaljenost od leće do žarišta
+POVEĆANJE|Omjer žarišnih duljina objektiva i okulara
+FILTAR|Propušta samo dio spektra pri promatranju
+APERTURA|Promjer objektiva ili zrcala teleskopa
+KOMA|Plinski omotač oko jezgre kometa
+SUBLIMACIJA|Prelazak leda izravno u plin
+PHILAE|Lander koji je 2014. sletio na komet
+ČURJUMOV|Komet ...–Gerasimenko
+GIOTTO|ESA-ina sonda koja je 1986. snimila jezgru Halleyjeva kometa
+STARDUST|Sonda koja je na Zemlju donijela prašinu s kometa Wild 2
+KRAK|Spiralni ... galaktike
+ORIONOV|... krak, dio galaktike u kojem je Sunce
+MJEHUR|Lokalni ..., šupljina u međuzvjezdanoj tvari oko Sunca
+MAGNETOSFERA|Područje oko planeta pod utjecajem njegova magnetskog polja
+IONOSFERA|Ionizirani sloj gornje atmosfere
+TERMOSFERA|Sloj atmosfere kroz koji kruži ISS
+KARMANOVA|... crta, dogovorna granica svemira na 100 km visine
+[strucna]
+HILLOVA|... sfera, područje gravitacijske prevlasti tijela
+POYNTING|...–Robertsonov učinak na međuplanetarnu prašinu
+YARKOVSKY|Učinak toplinskog zračenja na putanje asteroida
+YORP|Učinak koji mijenja vrtnju malih asteroida (kratica)
+TISSERAND|Parametar kojim se razvrstavaju putanje kometa
+BOLOMETRIJSKA|... magnituda, ukupan sjaj na svim valnim duljinama
+APSOLUTNA|... magnituda, sjaj s udaljenosti od 10 parseka
+FOTOMETRIJA|Mjerenje sjaja nebeskih tijela
+ASTROMETRIJA|Mjerenje položaja nebeskih tijela
+POGSON|Norman ..., uveo današnju ljestvicu magnituda
+DRAPER|Henry ... katalog zvjezdanih spektara
+CANNON|Annie Jump ..., tvorkinja spektralne klasifikacije OBAFGKM
+OBAFGKM|Redoslijed glavnih spektralnih razreda zvijezda
+PAYNE|Cecilia ...-Gaposchkin, otkrila da su zvijezde uglavnom od vodika
+SAHA|Meghnad ..., jednadžba ionizacije
+BALMER|Serija vodikovih linija u vidljivom dijelu spektra
+LYMAN|Serija vodikovih linija u ultraljubičastom dijelu
+ALFA|Lyman-... šuma u spektrima kvazara
+EKVIVALENTNA|... širina, mjera jakosti spektralne linije
+SEYFERT|...ove galaktike, sa sjajnom aktivnom jezgrom
+RADIOGALAKTIKA|Galaktika snažnog radijskog zračenja
+SUPERLUMINALNO|... gibanje, prividno brže od svjetlosti
+FANAROFF|...–Rileyeva klasifikacija radiogalaktika
+EDDINGTONOVA|... granica sjaja
+BONDI|Hermann ..., model sferne akrecije
+TOOMRE|Parametar stabilnosti galaktičkog diska nosi njegovo ime
+GUSTOĆNI|... valovi, teorija spiralnih krakova
+LIN|Chia-Chiao ..., suautor teorije gustoćnih valova
+SHU|Frank ..., suautor teorije gustoćnih valova

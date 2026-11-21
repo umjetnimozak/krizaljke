@@ -1,0 +1,310 @@
+[opca]
+ZAGREB|Glavni grad Hrvatske
+TESLA|Nikola ..., izumitelj rođen u Smiljanu
+DUBROVNIK|Grad poznat kao „Biser Jadrana”
+EVEREST|Najviši vrh na svijetu
+MOZART|Skladatelj opere „Čarobna frula”
+HAMLET|Shakespeareov danski kraljević
+OLIMP|Planina na kojoj su živjeli grčki bogovi
+KISIK|Kemijski element oznake O
+ZLATO|Kemijski element oznake Au
+KRAVATA|Modni dodatak hrvatskog podrijetla
+EINSTEIN|Albert ..., autor teorije relativnosti
+PARIZ|Grad u kojem stoji Eiffelov toranj
+SAVA|Rijeka koja protječe kroz Zagreb
+ATENA|Grčka božica mudrosti
+PIRAMIDA|Grobnica egipatskih faraona
+EURO|Službena valuta Hrvatske od 2023.
+VUKOVAR|Grad-heroj na Dunavu
+NIL|Rijeka na kojoj leži Kairo
+PLITVICE|Najstariji nacionalni park u Hrvatskoj
+RIM|Grad na sedam brežuljaka
+JADRAN|More uz hrvatsku obalu
+PICASSO|Slikar „Guernice”
+SPLIT|Grad nastao oko Dioklecijanove palače
+LONDON|Glavni grad Ujedinjenog Kraljevstva
+BERLIN|Glavni grad Njemačke
+MADRID|Glavni grad Španjolske
+BEČ|Glavni grad Austrije
+TOKIO|Glavni grad Japana
+AFRIKA|Kontinent na kojem leži Sahara
+EUROPA|Kontinent na kojem leži Hrvatska
+AZIJA|Najveći kontinent
+TIHI|... ocean, najveći ocean na svijetu
+SAHARA|Najveća vruća pustinja na svijetu
+VODA|Spoj vodika i kisika, H₂O
+SRCE|Organ koji pumpa krv
+PLUĆA|Organ za disanje
+KOSTUR|Skup svih kostiju u tijelu
+ŽIRAFA|Životinja s najdužim vratom
+SLON|Najveća kopnena životinja
+KIT|Plavi ..., najveća životinja na Zemlji
+LAV|„Kralj životinja”
+OLOVKA|Pribor za pisanje s grafitnom jezgrom
+GITARA|Žičano glazbalo, najčešće sa šest žica
+KLAVIR|Glazbalo s crnim i bijelim tipkama
+VIOLINA|Gudačko glazbalo koje se drži pod bradom
+ŠAH|Igra s kraljem, damom i pješacima
+NOGOMET|Sport u kojem je Hrvatska 2018. osvojila srebro na Svjetskom prvenstvu
+MODRIĆ|Luka ..., dobitnik Zlatne lopte 2018.
+OLIMPIJADA|Sportske igre čiji je simbol pet krugova
+ABECEDA|Hrvatska ... ima 30 slova
+GLAGOLJICA|Staro hrvatsko pismo kojim je pisana Bašćanska ploča
+BAŠKA|Mjesto na Krku po kojem je Bašćanska ploča dobila ime
+KRK|Otok na kojem je pronađena Bašćanska ploča
+BRAČ|Otok poznat po plaži Zlatni rat
+HVAR|Otok poznat po lavandi i istoimenom gradu
+ISTRA|Najveći hrvatski poluotok
+SLAVONIJA|Ravničarska regija na istoku Hrvatske
+DALMACIJA|Regija po kojoj je pas dalmatinac dobio ime
+DUNAV|Druga najduža rijeka u Europi
+DRAVA|Rijeka koja protječe kroz Osijek
+OSIJEK|Najveći grad Slavonije
+RIJEKA|Najveća hrvatska luka
+ZADAR|Grad poznat po Morskim orguljama
+PULA|Grad s rimskim amfiteatrom zvanim Arena
+ŠIBENIK|Grad s katedralom sv. Jakova
+VARAŽDIN|Barokni grad Špancirfesta
+KUNA|Hrvatska valuta prije eura
+JEZIK|Organ okusa
+OKO|Organ vida
+UHO|Organ sluha
+NOS|Organ njuha
+MJESEC|Prirodni satelit Zemlje
+SUNCE|Zvijezda u središtu našeg planetskog sustava
+ZEMLJA|Treći planet od Sunca
+DUGA|Šareni luk na nebu nakon kiše
+SNIJEG|Oborina u obliku pahulja
+TROKUT|Geometrijski lik s tri stranice
+KRUG|Lik kojem je opseg 2rπ
+KVADRAT|Pravokutnik s četiri jednake stranice
+ZBRAJANJE|Računska operacija označena znakom plus
+DESET|Broj prstiju na rukama
+STOLJEĆE|Razdoblje od sto godina
+TJEDAN|Sedam dana
+PROLJEĆE|Godišnje doba koje počinje u ožujku
+ZIMA|Najhladnije godišnje doba
+ROMEO|Shakespeareov ljubavnik Julije
+BIBLIJA|Sveta knjiga kršćana
+KURAN|Sveta knjiga muslimana
+LEONARDO|... da Vinci, autor „Mona Lise”
+MICHELANGELO|Kipar „Davida” i slikar svoda Sikstinske kapele
+VENECIJA|Talijanski grad na kanalima s gondolama
+GONDOLA|Venecijanski čamac
+PIZZA|Talijansko jelo podrijetlom iz Napulja
+ŠTRUKLI|Zagorsko jelo od tijesta i sira
+PAŠTICADA|Dalmatinsko jelo od govedine
+MAMUT|Izumrli dlakavi srodnik slona
+DINOSAUR|Izumrli gmaz iz mezozoika
+DELFIN|Morski sisavac poznat po inteligenciji
+LISICA|Lukava životinja iz basni
+VUK|Životinja iz bajke o Crvenkapici
+PČELA|Kukac koji proizvodi med
+MED|Slatki proizvod pčela
+KAVA|Napitak od prženih zrna
+ČAJ|Napitak od osušenog lišća koji se pije topao
+KRUH|Pečeni proizvod od brašna, vode i kvasca
+VINO|Piće od grožđa
+INTERNET|Globalna računalna mreža
+RAČUNALO|Elektronički stroj za obradu podataka
+TELEFON|Uređaj koji je patentirao Alexander Graham Bell
+ŽARULJA|Izum koji se najčešće povezuje s Edisonom
+VLAK|Prijevozno sredstvo na tračnicama
+BICIKL|Vozilo na dva kotača i pedale
+NOBEL|Alfred ..., izumitelj dinamita i utemeljitelj poznate nagrade
+ANDRIĆ|Ivo ..., dobitnik Nobelove nagrade za književnost 1961.
+KRLEŽA|Miroslav ..., autor „Gospode Glembajevih”
+MEŠTROVIĆ|Ivan ..., kipar „Grgura Ninskog” u Splitu
+GUNDULIĆ|Ivan ..., autor „Osmana” i „Dubravke”
+MARULIĆ|Marko ..., „otac hrvatske književnosti”
+ŠENOA|August ..., autor „Zlatarova zlata”
+UJEVIĆ|Tin ..., pjesnik zbirke „Lelek sebra”
+JELAČIĆ|Ban čiji kip stoji na glavnom zagrebačkom trgu
+SABOR|Hrvatsko zakonodavno tijelo
+HIMNA|„Lijepa naša domovino” je hrvatska ...
+ŠAHOVNICA|Crveno-bijeli hrvatski grb
+[teska]
+DIOKLECIJAN|Rimski car koji je u Splitu sagradio palaču
+GUTENBERG|Johannes ..., izumitelj tiska s pomičnim slovima
+SOKRAT|Atenski filozof osuđen na ispijanje kukute
+ODISEJ|Homerov junak koji se deset godina vraćao na Itaku
+ARISTOTEL|Filozof, učitelj Aleksandra Velikog
+PLATON|Sokratov učenik, autor „Države”
+HOMER|Pjesnik „Ilijade” i „Odiseje”
+DANTE|Autor „Božanstvene komedije”
+CERVANTES|Autor „Don Quijotea”
+TOLSTOJ|Autor „Rata i mira”
+DOSTOJEVSKI|Autor „Zločina i kazne”
+KAFKA|Autor „Preobražaja”
+ORWELL|Autor romana „1984.”
+VERDI|Skladatelj opere „Aida”
+BEETHOVEN|Skladatelj Devete simfonije i „Za Elizu”
+VIVALDI|Skladatelj „Četiriju godišnjih doba”
+CHOPIN|Poljski skladatelj, majstor klavirskih nokturna
+ZAJC|Ivan ..., skladatelj opere „Nikola Šubić Zrinjski”
+LISINSKI|Vatroslav ..., autor prve hrvatske opere „Ljubav i zloba”
+REMBRANDT|Nizozemski slikar „Noćne straže”
+MONET|Francuski impresionist, slikar „Lopoča”
+DALI|Salvador ..., nadrealist „Postojanosti pamćenja”
+RODIN|Kipar „Mislioca”
+GENERALIĆ|Ivan ..., ključni slikar hlebinske naive
+HLEBINE|Podravsko selo po kojem je nazvana škola naivne umjetnosti
+BUKOVAC|Vlaho ..., slikar rodom iz Cavtata
+CAVTAT|Rodno mjesto Vlahe Bukovca
+NIN|Grad Grgura Ninskog i crkve sv. Križa, „najmanje katedrale na svijetu”
+TROGIR|Grad s Radovanovim portalom
+RADOVAN|Majstor portala trogirske katedrale
+POREČ|Grad s Eufrazijevom bazilikom
+KORČULA|Otok i grad za koji se tvrdi da je rodno mjesto Marka Pola
+MOHOROVIČIĆ|Andrija ..., otkrivač granice Zemljine kore i plašta
+RUĐER|... Bošković, dubrovački znanstvenik, ime zagrebačkog instituta
+PENKALA|Slavoljub ..., izumitelj mehaničke olovke
+VRANČIĆ|Faust ..., autor nacrta padobrana „Homo volans”
+DARWIN|Charles ..., autor „Postanka vrsta”
+NEWTON|Isaac ..., formulirao zakon opće gravitacije
+GALILEI|Galileo ..., osuđen zbog zastupanja heliocentrizma
+CURIE|Marie ..., dvostruka dobitnica Nobelove nagrade
+MENDELJEJEV|Tvorac periodnog sustava elemenata
+PASTEUR|Louis ..., razvio cjepivo protiv bjesnoće
+FLEMING|Alexander ..., otkrio penicilin
+DNK|Molekula nasljeđa (kratica)
+ATOM|Najmanja čestica elementa koja zadržava njegova kemijska svojstva
+NEUTRON|Električki neutralna čestica atomske jezgre
+ŽIVA|Jedini metal tekuć pri sobnoj temperaturi
+ŽELJEZO|Kemijski element oznake Fe
+SREBRO|Kemijski element oznake Ag
+OLOVO|Kemijski element oznake Pb
+NATRIJ|Kemijski element oznake Na
+HELIJ|Plemeniti plin kojim se pune baloni
+DIJAMANT|Najtvrđi prirodni mineral, čisti ugljik
+KLOROFIL|Zeleni pigment biljaka
+FOTOSINTEZA|Proces kojim biljke uz pomoć svjetlosti stvaraju hranu
+HIPOTENUZA|Najduža stranica pravokutnog trokuta
+PITAGORA|Grčki matematičar poznatog poučka o pravokutnom trokutu
+EUKLID|Autor „Elemenata”, otac geometrije
+AMAZONA|Rijeka s najvećim protokom vode na svijetu
+MISISIPI|Rijeka uz koju se odvijaju pustolovine Toma Sawyera
+BAJKAL|Najdublje jezero na svijetu
+TITIKAKA|Jezero na granici Perua i Bolivije
+KILIMANDŽARO|Najviša planina Afrike
+ACONCAGUA|Najviši vrh Južne Amerike
+ISLAND|Otočna država kojoj je glavni grad Reykjavik
+CANBERRA|Glavni grad Australije
+OTTAWA|Glavni grad Kanade
+BRASILIA|Glavni grad Brazila
+ANKARA|Glavni grad Turske
+VARŠAVA|Glavni grad Poljske
+LISABON|Glavni grad Portugala
+DINARA|Planina na kojoj je najviši vrh Hrvatske
+SINJAL|Najviši vrh Hrvatske, na Dinari
+BIOKOVO|Planina iznad Makarske
+VELEBIT|Najduža hrvatska planina
+KORNATI|Otočje i nacionalni park kod Murtera
+MLJET|Otok s nacionalnim parkom te Velikim i Malim jezerom
+BRIJUNI|Otočje na kojem je Tito imao rezidenciju
+KRKA|Rijeka i nacionalni park sa Skradinskim bukom
+NERETVA|Rijeka čija je dolina poznata po mandarinama
+GOSPIĆ|Sjedište Ličko-senjske županije
+SMILJAN|Rodno selo Nikole Tesle
+KUMROVEC|Rodno selo Josipa Broza Tita
+TRAKOŠĆAN|Dvorac u Hrvatskom zagorju uz istoimeno jezero
+LICITAR|Ukrašeno srce od medenog tijesta
+ALKA|Viteška igra u Sinju
+MOREŠKA|Viteški ples s mačevima na Korčuli
+KLAPA|Dalmatinska pjevačka skupina a cappella
+TAMBURICA|Žičano glazbalo tipično za Slavoniju
+SFINGA|Kip lava s ljudskom glavom kod Gize
+PARTENON|Hram Atene na atenskoj Akropoli
+KOLOSEJ|Rimski Flavijev amfiteatar
+LOUVRE|Pariški muzej u kojem je „Mona Lisa”
+PRADO|Madridski muzej umjetnosti
+ESPERANTO|Umjetni jezik koji je osmislio Zamenhof
+LATINSKI|Jezik starih Rimljana
+SANSKRT|Klasični jezik Indije
+HIJEROGLIFI|Slikovno pismo starog Egipta
+ROSETTA|Kamen iz ..., ključ za odgonetanje hijeroglifa
+[strucna]
+ANTIGONA|Sofoklova junakinja koja je pokopala brata Polinika
+EDIP|Tebanski kralj koji je nesvjesno ubio oca i oženio majku
+SIZIF|Junak osuđen da vječno gura kamen uzbrdo
+PROMETEJ|Titan koji je ljudima donio vatru
+EPIKUR|Filozof koji je užitak smatrao najvišim dobrom
+DIOGEN|Kinik koji je, prema predaji, živio u bačvi
+KANT|Autor „Kritike čistoga uma”
+HEGEL|Autor „Fenomenologije duha”
+NIETZSCHE|Autor djela „Tako je govorio Zaratustra”
+SPINOZA|Autor „Etike” izložene geometrijskim redom
+DESCARTES|Filozof izreke „Mislim, dakle jesam”
+MACHIAVELLI|Autor „Vladara”
+ERAZMO|... Roterdamski, autor „Pohvale ludosti”
+PETRARCA|Talijanski pjesnik soneta posvećenih Lauri
+BOCCACCIO|Autor „Dekamerona”
+RABELAIS|Autor „Gargantue i Pantagruela”
+GOGOLJ|Autor „Mrtvih duša”
+PUŠKIN|Autor „Evgenija Onjegina”
+ČEHOV|Autor „Galeba” i „Triju sestara”
+IBSEN|Autor „Lutkine kuće”
+STRINDBERG|Švedski autor „Gospođice Julije”
+JOYCE|Autor „Uliksa”
+PROUST|Autor ciklusa „U traganju za izgubljenim vremenom”
+FAULKNER|Autor „Buke i bijesa”
+HEMINGWAY|Autor „Starca i mora”
+BORGES|Argentinski autor „Alepha”
+DRŽIĆ|Marin ..., autor „Dunda Maroja”
+HEKTOROVIĆ|Petar ..., autor „Ribanja i ribarskog prigovaranja”
+ZORANIĆ|Petar ..., autor „Planina”, prvog hrvatskog romana
+KOVAČIĆ|Ante ..., autor romana „U registraturi”
+MATOŠ|Antun Gustav ..., autor pjesme „Notturno”
+CESARIĆ|Dobriša ..., autor pjesme „Oblak”
+KRANJČEVIĆ|Silvije Strahimir ..., autor pjesme „Mojsije”
+MARINKOVIĆ|Ranko ..., autor romana „Kiklop”
+DESNICA|Vladan ..., autor „Proljeća Ivana Galeba”
+BRLIĆ|Ivana ...-Mažuranić, autorica „Priča iz davnine”
+MAŽURANIĆ|Ivan ..., autor „Smrti Smail-age Čengića”
+PRERADOVIĆ|Petar ..., autor pjesme „Rodu o jeziku”
+VRAZ|Stanko ..., ilirski pjesnik „Đulabija”
+GAJ|Ljudevit ..., vođa ilirskog pokreta i reformator pravopisa
+BERLIOZ|Skladatelj „Fantastične simfonije”
+WAGNER|Skladatelj ciklusa „Prsten Nibelunga”
+MAHLER|Skladatelj „Pjesme o zemlji”
+STRAVINSKI|Skladatelj „Posvećenja proljeća”
+DEBUSSY|Skladatelj „Mora” i „Mjesečine”
+SIBELIUS|Finski skladatelj „Finlandije”
+SMETANA|Češki skladatelj ciklusa „Moja domovina”
+PUCCINI|Skladatelj „Tosce” i „Madame Butterfly”
+ROSSINI|Skladatelj „Seviljskog brijača”
+BIZET|Skladatelj opere „Carmen”
+HAYDN|„Otac simfonije”, autor oratorija „Stvaranje”
+LUKAČIĆ|Ivan ..., autor zbirke „Sacrae cantiones”
+SORKOČEVIĆ|Luka ..., dubrovački skladatelj simfonija
+CARAVAGGIO|Barokni slikar „Poziva sv. Mateja”
+VERMEER|Slikar „Djevojke s bisernom naušnicom”
+BRUEGEL|Pieter ..., slikar „Lovaca u snijegu”
+BOSCH|Hieronymus ..., slikar „Vrta zemaljskih užitaka”
+GOYA|Slikar „Trećeg svibnja 1808.”
+TURNER|Engleski slikar „Kiše, pare i brzine”
+KLIMT|Slikar „Poljupca”
+MUNCH|Slikar „Krika”
+KANDINSKI|Pionir apstrakcije, autor knjige „O duhovnom u umjetnosti”
+MALEVIČ|Autor „Crnog kvadrata”
+MAGRITTE|Belgijski nadrealist slike „Ovo nije lula”
+MEDULIĆ|Andrija ..., renesansni slikar iz Zadra zvan Schiavone
+KLOVIĆ|Julije ..., minijaturist zvan „Michelangelo minijature”
+LAURANA|Franjo ..., renesansni kipar rodom iz Vrane
+DALMATINAC|Juraj ..., graditelj šibenske katedrale
+FIRENTINAC|Nikola ..., dovršio šibensku katedralu
+PALLADIO|Andrea ..., arhitekt vila u Venetu
+BERNINI|Kipar „Zanosa sv. Terezije”
+DONATELLO|Kipar brončanog „Davida” u Firenci
+FIBONACCI|Matematičar niza 1, 1, 2, 3, 5, 8…
+GAUSS|„Princ matematike”, normalna razdioba nosi njegovo ime
+EULER|Matematičar po kojem je nazvan broj e
+LEIBNIZ|Neovisno o Newtonu razvio infinitezimalni račun
+HEISENBERG|Fizičar načela neodređenosti
+PLANCK|Fizičar po kojem je nazvana konstanta h
+BOHR|Fizičar modela atoma s elektronima na stazama
+FARADAY|Otkrivač elektromagnetske indukcije
+MAXWELL|Autor jednadžbi elektromagnetizma
+PRELOG|Vladimir ..., nobelovac za kemiju 1975.
+RUŽIČKA|Lavoslav ..., nobelovac za kemiju 1939.
+ŠTAMPAR|Andrija ..., utemeljitelj Škole narodnog zdravlja

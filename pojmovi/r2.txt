@@ -1,0 +1,320 @@
+[opca]
+ROCK|Glazbeni žanr električnih gitara
+ROLL|Rock and ...
+BLUES|Žanr iz kojeg je izrastao rock
+JAZZ|Glazba iz New Orleansa sklona improvizaciji
+METAL|Žestoki rock žanr
+POP|Popularna glazba
+BEND|Glazbeni sastav
+PJEVAČ|Onaj koji pjeva u bendu
+GITARIST|Svirač gitare
+BUBNJAR|Svirač bubnjeva
+BASIST|Svirač bas-gitare
+KLAVIJATURIST|Svirač klavijatura
+PALICE|Njima bubnjar udara po bubnjevima
+TRZALICA|Plastična pločica za sviranje gitare
+ŽICA|Električna gitara najčešće ih ima šest
+HIT|Pjesma koja je postala jako popularna
+REFREN|Dio pjesme koji se ponavlja
+STIH|Redak teksta pjesme
+BALADA|Spora, nježna pjesma
+SPOT|Videozapis uz pjesmu
+STADION|Najveća koncertna mjesta
+OBOŽAVATELJ|Vjerni ljubitelj benda
+AUTOGRAM|Potpis zvijezde
+KAZETA|Magnetofonska vrpca u kućištu
+VINIL|Materijal gramofonskih ploča
+SLUŠALICE|Nose se na ušima za slušanje glazbe
+GLAZBA|Umjetnost tonova
+LEGENDA|Glazbenik koji je obilježio jedno doba
+LIVERPOOL|Grad iz kojeg potječu Beatlesi
+FREDDIE|... Mercury, pjevač Queena
+YOKO|... Ono, Lennonova supruga
+IMAGINE|Lennonova pjesma o svijetu bez granica
+HELP|Pjesma i film Beatlesa iz 1965.
+SUBMARINE|„Yellow ...”, pjesma Beatlesa
+ANGIE|Balada Rolling Stonesa
+WALL|„The ...”, album Pink Floyda
+MOON|„The Dark Side of the ...”, album Pink Floyda
+PRINCE|Glazbenik albuma „Purple Rain”
+TINA|... Turner, „kraljica rock and rolla”
+STING|Pjevač i basist Policea
+POLICE|Bend pjesme „Roxanne”
+STRAITS|Dire ..., bend pjesme „Sultans of Swing”
+KNOPFLER|Mark ..., gitarist Dire Straitsa
+AEROSMITH|Bend Stevena Tylera
+TYLER|Steven ..., pjevač Aerosmitha
+GUNS|... N' Roses, bend pjesme „Sweet Child o' Mine”
+AXL|... Rose, pjevač Guns N' Rosesa
+SLASH|Gitarist s cilindrom iz Guns N' Rosesa
+SCORPIONS|Njemački bend pjesme „Wind of Change”
+EUROPE|Švedski bend pjesme „The Final Countdown”
+FOO|... Fighters, bend Davea Grohla
+GROHL|Dave ..., bubnjar Nirvane i vođa Foo Fightersa
+LINKIN|... Park, bend pjesme „In the End”
+GREEN|... Day, punk bend albuma „American Idiot”
+MUSE|Bend Matthewa Bellamyja
+COLDPLAY|Bend Chrisa Martina
+KILLERS|Bend pjesme „Mr. Brightside”
+ARCTIC|... Monkeys, bend iz Sheffielda
+STROKES|Njujorški bend Juliana Casablancasa
+WHITE|The ... Stripes, duo Jacka i Meg White
+BEATLEMANIJA|Ludilo za Beatlesima šezdesetih
+ROCKABILLY|Spoj rock and rolla i countryja
+SURF|... rock, žanr Dicka Dalea
+EXIT|Festival na Petrovaradinskoj tvrđavi
+INMUSIC|Zagrebački festival na Jarunu
+JARUN|Zagrebačko jezero na kojem se održava INmusic
+GIBONNI|Splitski kantautor, nekad pjevač Osmog putnika
+OSMI|... putnik, splitski hard rock bend
+BAJAGA|... i Instruktori, beogradski bend
+RIBLJA|... čorba, bend Bore Đorđevića
+DIVLJE|... jagode, bend iz Bihaća
+KUD|... Idijoti, pulski punk bend
+PIPS|..., Chips & Videoclips, zagrebački bend
+AKI|... Rahimovski, pjevač Parnog valjka
+BEBEK|Željko ..., pjevač Bijelog dugmeta
+ELEKTRIČNA|... gitara, glazbalo s magnetima
+AKUSTIČNA|... gitara, svira bez pojačala
+UNPLUGGED|MTV-jev koncert bez električnih glazbala
+MTV|Glazbena televizija pokrenuta 1981.
+KARAOKE|Pjevanje uz glazbenu podlogu i tekst na ekranu
+DUET|Pjesma koju pjevaju dvoje
+TRIO|Sastav od tri člana
+KVARTET|Sastav od četiri člana
+DEMO|Probna snimka pjesme
+STUDIO|Mjesto snimanja albuma
+PRODUCENT|Onaj koji vodi snimanje albuma
+TETOVAŽA|Crtež na koži omiljen među rockerima
+JAKNA|Kožna ..., rockerski odjevni predmet
+IROKEZA|Punkerska frizura
+ROLLING|... Stones
+LED|... Zeppelin
+DEEP|... Purple
+PINK|... Floyd
+BLACK|... Sabbath
+IRON|... Maiden
+JIMI|... Hendrix
+KURT|... Cobain
+ELTON|... John, pijanist pjesme „Rocket Man”
+BRUCE|... Springsteen
+GALLAGHER|Prezime braće Noela i Liama iz Oasisa
+ALBARN|Damon ..., pjevač Blura
+HETFIELD|James ..., pjevač Metallice
+ULRICH|Lars ..., bubnjar Metallice
+DICKINSON|Bruce ..., pjevač Iron Maidena
+OSBOURNE|Ozzy ...
+ANGUS|... Young, gitarist AC/DC-a u školskoj uniformi
+[teska]
+SOUNDS|„Pet ...”, album Beach Boysa
+BYRDS|Bend pjesme „Mr. Tambourine Man” (1965.)
+CROSBY|David ..., član Byrdsa i trija CSN
+STILLS|Stephen ..., član Buffalo Springfielda i trija CSN
+NASH|Graham ..., član Holliesa i trija CSN
+YOUNG|Neil ..., kanadski kantautor albuma „Harvest”
+HARVEST|Album Neila Younga iz 1972.
+MITCHELL|Joni ..., autorica albuma „Blue”
+JEFFERSON|... Airplane, bend pjesme „White Rabbit”
+LOVE|Bend Arthura Leeja
+CREEDENCE|... Clearwater Revival, bend Johna Fogertyja
+FOGERTY|John ..., pjevač Creedence Clearwater Revivala
+ALLMAN|... Brothers Band, južnjački rock bend
+LYNYRD|... Skynyrd, bend pjesme „Sweet Home Alabama”
+STEELY|... Dan, jazz-rock duo Beckera i Fagena
+FLEETWOOD|... Mac, bend albuma „Rumours”
+RUMOURS|Album Fleetwood Maca iz 1977.
+NICKS|Stevie ..., pjevačica Fleetwood Maca
+BOSTON|Bend pjesme „More Than a Feeling”
+JOURNEY|Bend pjesme „Don't Stop Believin'”
+KANSAS|Bend pjesme „Dust in the Wind”
+HEART|Bend sestara Wilson
+PETTY|Tom ..., vođa Heartbreakersa
+HALEN|Eddie Van ..., virtuoz tappinga
+ROTH|David Lee ..., pjevač Van Halena
+LEPPARD|Def ..., bend albuma „Hysteria”
+HYSTERIA|Album Def Lepparda iz 1987.
+POISON|Glam metal bend Breta Michaelsa
+WHITESNAKE|Bend Davida Coverdalea
+COVERDALE|David ..., pjevač Deep Purplea i Whitesnakea
+RAINBOW|Bend Ritchieja Blackmorea nakon Deep Purplea
+JUDAS|... Priest, bend Roba Halforda
+HALFORD|Rob ..., zvan „Bog metala”, pjevač Judas Priesta
+SLAYER|Thrash bend albuma „Reign in Blood”
+MEGADETH|Bend Davea Mustainea
+MUSTAINE|Dave ..., osnivač Megadetha, nekad gitarist Metallice
+ANTHRAX|Thrash bend iz New Yorka
+PANTERA|Bend gitarista Dimebaga Darrella
+SEPULTURA|Brazilski thrash metal bend
+TOOL|Bend albuma „Lateralus”
+FAITH|... No More, bend Mikea Pattona
+PATTON|Mike ..., pjevač Faith No Morea
+RAGE|... Against the Machine, bend Zacka de la Roche
+MORELLO|Tom ..., gitarist Rage Against the Machine
+ALICE|... in Chains, grunge bend Laynea Staleyja
+STALEY|Layne ..., pjevač Alice in Chains
+HOLE|Bend Courtney Love
+SMASHING|The ... Pumpkins, bend Billyja Corgana
+CORGAN|Billy ..., vođa Smashing Pumpkinsa
+REM|Bend Michaela Stipea
+STIPE|Michael ..., pjevač R.E.M.-a
+PAVEMENT|Indie bend Stephena Malkmusa
+BECK|Kantautor albuma „Odelay”
+WEEZER|Bend pjesme „Buddy Holly”
+HOLLY|Buddy ..., autor pjesme „Peggy Sue”
+VALENS|Ritchie ..., izvođač „La Bambe”
+COCHRAN|Eddie ..., autor pjesme „Summertime Blues”
+VINCENT|Gene ..., izvođač pjesme „Be-Bop-A-Lula”
+LITTLE|... Richard, izvođač pjesme „Tutti Frutti”
+LEWIS|Jerry Lee ..., izvođač pjesme „Great Balls of Fire”
+DOMINO|Fats ..., izvođač pjesme „Blueberry Hill”
+DIDDLEY|Bo ..., glazbenik po kojem je nazvan poznati ritam
+HALEY|Bill ..., izvođač pjesme „Rock Around the Clock”
+PERKINS|Carl ..., autor pjesme „Blue Suede Shoes”
+ORBISON|Roy ..., izvođač pjesme „Oh, Pretty Woman”
+EVERLY|Braća ..., duo pjesme „Bye Bye Love”
+MUDDY|... Waters, čikaški bluesman
+KING|B. B. ..., bluesman s gitarom Lucille
+LUCILLE|Ime gitare B. B. Kinga
+JOHNSON|Robert ..., bluesman legende o raskršću
+HOOKER|John Lee ..., izvođač pjesme „Boom Boom”
+WOLF|Howlin' ..., čikaški bluesman
+ANIMALS|Bend pjesme „House of the Rising Sun”
+BURDON|Eric ..., pjevač Animalsa
+ZOMBIES|Bend pjesme „She's Not There”
+SMALL|... Faces, mod bend Stevea Marriotta
+TRAFFIC|Bend Stevea Winwooda
+WINWOOD|Steve ..., član Traffica i Blind Faitha
+JETHRO|... Tull, bend s flautistom Ianom Andersonom
+ANDERSON|Ian ..., flautist Jethro Tulla
+URIAH|... Heep, britanski hard rock bend
+FREE|Bend pjesme „All Right Now”
+LIZZY|Thin ..., irski bend Phila Lynotta
+LYNOTT|Phil ..., basist i pjevač Thin Lizzyja
+ROXY|... Music, bend Bryana Ferryja
+FERRY|Bryan ..., pjevač Roxy Musica
+BOLAN|Marc ..., vođa T. Rexa
+SLADE|Glam bend pjesme „Merry Xmas Everybody”
+SWEET|Glam bend pjesme „Ballroom Blitz”
+GLAM|... rock, šljokičasti žanr ranih sedamdesetih
+MODS|Britanska supkultura na skuterima
+ROCKERI|Supkultura u kožnim jaknama na motorima
+SKA|Jamajkanski žanr koji su oživjeli Specials
+MADNESS|Ska bend pjesme „Our House”
+BLONDIE|Bend Debbie Harry
+HARRY|Debbie ..., pjevačica Blondie
+TALKING|... Heads, bend Davida Byrnea
+BYRNE|David ..., pjevač Talking Headsa
+DEVO|Bend s „energetskim kupolama” na glavama
+SIOUXSIE|... and the Banshees, post-punk bend
+DEPECHE|... Mode, bend iz Basildona
+ORDER|New ..., bend nastao iz Joy Divisiona
+EDGE|The ..., gitarist sastava U2
+SIMPLE|... Minds, škotski bend
+HUTCHENCE|Michael ..., pjevač INXS-a
+MIDNIGHT|... Oil, australski bend Petera Garretta
+KALEMBER|Vlado ..., pjevač Srebrnih krila
+KRILA|Srebrna ..., zagrebački pop-rock bend
+BULDOŽER|Slovenski bend Borisa Bele
+PLAVI|... orkestar, sarajevski bend
+LEB|... i sol, makedonski bend Vlatka Stefanovskog
+STEFANOVSKI|Vlatko ..., gitarist grupe Leb i sol
+KERBER|Niški hard rock bend
+GALIJA|Niški bend braće Milutinović
+MAJKE|Vinkovački bend Gorana Bare
+BARE|Goran ..., pjevač Majki
+[strucna]
+OLYMPIC|Londonski studio u kojem su snimali Stonesi i Led Zeppelin
+TRIDENT|Londonski studio u kojem je snimljen „Hey Jude”
+ELECTRIC|... Lady, Hendrixov njujorški studio
+MUSCLE|... Shoals, studio u Alabami
+STAX|Memphiški soul izdavač
+ATLANTIC|Izdavač Ahmeta Erteguna
+ELEKTRA|Izdavač Doorsa
+ISLAND|Izdavač Chrisa Blackwella
+BLACKWELL|Chris ..., osnivač Island Recordsa
+VIRGIN|Izdavač Richarda Bransona
+BRANSON|Richard ..., osnivač Virgina
+ROUGH|... Trade, londonski indie izdavač
+CREATION|... Records, izdavač Oasisa i My Bloody Valentinea
+MCGEE|Alan ..., osnivač Creation Recordsa
+SST|Izdavač Black Flaga
+GINN|Greg ..., gitarist Black Flaga i osnivač SST-a
+ROLLINS|Henry ..., pjevač Black Flaga
+MINUTEMEN|Punk trio iz San Pedra
+REPLACEMENTS|Bend Paula Westerberga
+WESTERBERG|Paul ..., vođa Replacementsa
+DISCHORD|Washingtonski izdavač Iana MacKayea
+MACKAYE|Ian ..., pjevač Minor Threata i Fugazija
+FUGAZI|Washingtonski post-hardcore bend
+KENNEDYS|Dead ..., bend Jella Biafre
+BIAFRA|Jello ..., pjevač Dead Kennedysa
+CRASS|Anarho-punk kolektiv iz Essexa
+DAMNED|Bend prvog britanskog punk singla „New Rose”
+STRANGLERS|Bend pjesme „Golden Brown”
+WIRE|Art-punk bend albuma „Pink Flag”
+GANG|... of Four, post-punk bend iz Leedsa
+FALL|Bend Marka E. Smitha
+ECHO|... and the Bunnymen, liverpoolski bend
+BAUHAUS|Gothic bend pjesme „Bela Lugosi's Dead”
+JESUS|The ... and Mary Chain, bend albuma „Psychocandy”
+PSYCHOCANDY|Prvi album Jesus and Mary Chaina
+RIDE|Shoegaze bend iz Oxforda
+SLOWDIVE|Shoegaze bend albuma „Souvlaki”
+ROSES|The Stone ..., bend iz Manchestera
+MADCHESTER|Scena Stone Rosesa i Happy Mondaysa
+MONDAYS|Happy ..., bend Shauna Rydera
+RYDER|Shaun ..., pjevač Happy Mondaysa
+SUEDE|Britpop bend Bretta Andersona
+PULP|Bend Jarvisa Cockera
+COCKER|Jarvis ..., pjevač Pulpa
+VERVE|Bend pjesme „Bitter Sweet Symphony”
+ASHCROFT|Richard ..., pjevač Vervea
+KNEBWORTH|Mjesto dvaju velikih koncerata Oasisa 1996.
+FAUST|Krautrock bend iz Wümmea
+CLUSTER|Krautrock duo Moebiusa i Roedeliusa
+HARMONIA|Krautrock supergrupa Clustera i Michaela Rothera
+POPOL|... Vuh, bend glazbe za Herzogove filmove
+TANGERINE|... Dream, berlinski elektronički bend
+SCHULZE|Klaus ..., rani bubnjar Tangerine Dreama
+GOBLIN|Talijanski bend glazbe za Argentove filmove
+MAGMA|Francuski bend izmišljenog jezika kobaïan
+VANDER|Christian ..., bubnjar i osnivač Magme
+SOFT|The ... Machine, canterburyjski bend
+WYATT|Robert ..., bubnjar Soft Machinea
+CARAVAN|Canterburyjski progresivni bend
+GONG|Bend Daevida Allena
+HENRY|... Cow, avangardni rock bend
+BEEFHEART|Captain ..., autor albuma „Trout Mask Replica”
+RESIDENTS|Anonimni bend s očnim jabučicama umjesto glava
+PERE|... Ubu, bend iz Clevelanda
+SUICIDE|Njujorški duo Alana Vege i Martina Reva
+NICO|Pjevačica na prvom albumu Velvet Undergrounda
+CALE|John ..., velški violist Velvet Undergrounda
+LOVERS|Modern ..., bend Jonathana Richmana
+RICHMAN|Jonathan ..., vođa Modern Loversa
+DOLLS|New York ..., protopunk bend
+THUNDERS|Johnny ..., gitarist New York Dollsa
+STAR|Big ..., bend Alexa Chiltona
+CHILTON|Alex ..., pjevač Big Stara
+SINCLAIR|John ..., menadžer sastava MC5
+IOMMI|Tony ..., gitarist Black Sabbatha
+BUTLER|Geezer ..., basist Black Sabbatha
+WARD|Bill ..., bubnjar Black Sabbatha
+SAXON|Britanski heavy metal bend iz Barnsleyja
+MAYHEM|Norveški black metal bend
+BATHORY|Švedski pionir black metala
+CELTIC|... Frost, švicarski ekstremni metal bend
+DEATH|Bend Chucka Schuldinera
+SCHULDINER|Chuck ..., „otac death metala”
+NAPALM|... Death, pioniri grindcorea
+GRINDCORE|Ekstremni žanr vrlo kratkih pjesama
+SLEEP|Stoner bend albuma „Dopesmoker”
+KYUSS|Pustinjski stoner bend Josha Hommea
+HOMME|Josh ..., vođa Queens of the Stone Age
+DISKOTON|Sarajevska diskografska kuća
+SUZY|Zagrebačka diskografska kuća
+HELIDON|Ljubljanska diskografska kuća
+CROATIA|... Records, nasljednik Jugotona
+SKC|Beogradski Studentski kulturni centar (kratica)
+KULUŠIĆ|Zagrebački klub novog vala
+VIS|Kratica za vokalno-instrumentalni sastav
