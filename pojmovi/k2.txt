@@ -1,0 +1,163 @@
+[opca]
+NJEGA|Briga o koži i kosi
+LJEPOTICA|Vrlo lijepa žena
+UMIVANJE|Pranje lica vodom
+UMIVAONIK|Kupaonski lavabo
+KUPAONICA|Prostorija s kadom i umivaonikom
+VLAŽNA|... maramica, za brzo čišćenje
+DNEVNA|... krema, nanosi se ujutro
+NOĆNA|... krema, nanosi se navečer
+SUHA|... koža, zateže i ljušti se
+MASNA|... koža, sjaji se
+DJEČJA|... krema, za nježnu kožu
+RUŽIČASTA|Boja čestog rumenila
+USNE|Na njih se nanosi ruž
+OBRAZI|Na njih se nanosi rumenilo
+ČELO|Dio lica iznad obrva
+JAGODICE|Istaknute kosti lica
+OČI|Ističu se maskarom
+DLAKE|Uklanjaju se depilacijom
+KOVRČAVA|... kosa, prirodno uvijena
+RAVNA|... kosa, bez valova
+VALOVITA|... kosa, blago uvijena
+GUSTA|... kosa, s mnogo vlasi
+VLAS|Jedna dlaka kose
+GUMICA|Za vezivanje kose
+ŠNALA|Kopča za kosu
+UKOSNICA|Igla za pričvršćivanje kose
+MAŠNA|Ukras od vrpce za kosu
+TURBAN|Ručnik omotan oko mokre kose
+OGRTAČ|Kupaći ... nakon tuširanja
+RUKE|Njeguju se kremom nakon pranja
+MIRISNA|... svijeća
+LJEKARNA|Trgovina u kojoj se prodaje i dermokozmetika
+TERMIN|Dogovoreno vrijeme kod frizera
+KAPA|... za tuširanje
+[teska]
+SEBOREJA|Prekomjerno lučenje sebuma
+FOLIKUL|Vrećica iz koje raste dlaka
+KORTEKS|Srednji sloj vlasi s pigmentom
+MEDULA|Središnji sloj vlasi
+ALOPECIJA|Gubitak kose
+MINOKSIDIL|Lijek koji potiče rast kose
+TRANSPLANTACIJA|Presađivanje kose
+FUE|Metoda presađivanja pojedinačnih folikula (kratica)
+IPL|Intenzivna pulsirajuća svjetlost za uklanjanje dlaka (kratica)
+ELEKTROLIZA|Trajno uklanjanje dlaka strujom
+ŠEĆERNA|... pasta, za depilaciju
+EPILATOR|Aparat koji čupa dlačice
+MIKROBLADING|Polutrajno iscrtavanje obrva
+LAMINACIJA|... obrva, oblikovanje i učvršćivanje dlačica
+PERMANENTNA|... šminka, tetoviranje obrva ili usana
+RADIOFREKVENCIJA|Zagrijavanje kože radi zatezanja
+ULTRAZVUK|... za čišćenje lica
+KAVITACIJA|Ultrazvučni tretman masnog tkiva
+LIMFNA|... drenaža, masaža za odvod tekućine
+AROMATERAPIJA|Uporaba eteričnih ulja za opuštanje
+REFLEKSOLOGIJA|Masaža točaka na stopalima
+TAJLANDSKA|... masaža
+HAMAM|Tursko parno kupatilo
+TALASOTERAPIJA|Liječenje morskom vodom i algama
+ALGE|Morske biljke u maskama
+BLATO|Ljekovito ... s Mrtvog mora
+MRTVO|... more, poznato po solima i blatu
+SMILJ|Dalmatinska biljka cijenjena u kozmetici
+RUŽMARIN|Mediteranska biljka u šamponima
+KADULJA|Dalmatinska biljka ljekovitog ulja
+NEVEN|Biljka umirujućih krema za djecu
+GAVEZ|Biljka iz koje se izvorno dobivao alantoin
+ČAJEVAC|... ulje, protiv akni
+ZELENI|... čaj, antioksidans u kremama
+SPIRULINA|Alga u maskama za lice
+PUŽEVA|... sluz, sastojak korejske kozmetike
+KOREJSKA|... kozmetika, poznata po njezi u više koraka
+ESENCIJA|Lagani tonik u korejskoj njezi
+AMPULA|Koncentrirani serum u maloj bočici
+PLATNENA|... maska, natopljena serumom
+VALJAK|... od žada za masažu lica
+DERMOKOZMETIKA|Kozmetika koja se prodaje u ljekarnama
+HIPOALERGENSKI|Smanjenog rizika od alergija
+KISELI|... plašt kože
+BARIJERA|Zaštitna ... kože
+MIKROBIOM|Zajednica mikroorganizama na koži
+OKLUZIV|Sastojak koji stvara film i sprječava isparavanje
+HUMEKTANT|Sastojak koji privlači vodu
+EMOLIJENS|Sastojak koji omekšava kožu
+ADSTRINGENT|Sastojak koji steže pore
+[strucna]
+BEZVODNI|... proizvodi, bez vode, poput balzama
+PETROLATUM|Drugi naziv za vazelin
+DIMETIKON|Najčešći silikon u kozmetici
+CIKLOPENTASILOKSAN|Hlapljivi silikon ograničen u EU-u
+SILOKSANI|Spojevi silicija i kisika u silikonima
+POLIKVATERNIJ|Kationski polimeri u regeneratorima
+KATIONSKI|... tenzidi, omekšivači kose
+ANIONSKI|... tenzidi, glavni pjenivači šampona
+NEIONSKI|... tenzidi, blagi i bez naboja
+AMFOTERNI|... tenzidi, poput kokamidopropil betaina
+BETAIN|Kokamidopropil ..., blagi tenzid
+SLS|Natrijev lauril sulfat (kratica)
+SLES|Natrijev laureth sulfat (kratica)
+GLUKOZIDI|Blagi tenzidi od šećera i masnih alkohola
+KELATOR|Tvar koja veže metale u proizvodu
+EDTA|Najpoznatiji kelator (kratica)
+PUFER|Održava stalni pH
+LIMUNSKA|... kiselina, regulator kiselosti
+TRIETANOLAMIN|Neutralizator karbomera
+LECITIN|Prirodni emulgator iz soje ili jaja
+POLISORBAT|Neionski solubilizator
+SOLUBILIZATOR|Otapa ulja u vodenoj fazi
+PEG|Polietilenglikol (kratica)
+ETOKSILACIJA|Postupak dobivanja PEG spojeva
+DIOKSAN|Nečistoća koja može nastati etoksilacijom
+NITROZAMINI|Nečistoće zabranjene u kozmetici
+CMR|Tvari kancerogene, mutagene ili reproduktivno toksične (kratica)
+NOAEL|Najveća doza bez opaženog štetnog učinka (kratica)
+CPSR|Izvješće o sigurnosti kozmetičkog proizvoda (kratica)
+PIF|Dokumentacija o kozmetičkom proizvodu (kratica)
+ODGOVORNA|... osoba, odgovara za proizvod na tržištu EU-a
+KONZERVACIJSKI|... test, provjera djelotvornosti konzervansa
+MIKROBIOLOŠKA|... čistoća proizvoda
+KRITIČNA|... valna duljina, mjera širine UVA zaštite
+FOTOSTABILNOST|Postojanost UV filtra na svjetlu
+HOMOSALAT|Organski UVB filtar
+OKTINOKSAT|Organski UVB filtar, etilheksil metoksicinamat
+BEMOTRIZINOL|Širokospektralni UV filtar, Tinosorb S
+RETINALDEHID|Oblik vitamina A djelotvorniji od retinola
+ADAPALEN|Retinoid za akne
+BENZOIL|... peroksid, protiv akni
+IZOTRETINOIN|Lijek za teške akne
+TRANEKSAMSKA|... kiselina, protiv hiperpigmentacije
+GLUTATION|Antioksidans povezan s posvjetljivanjem
+EKTOIN|Zaštitna molekula iz ekstremofilnih bakterija
+PHA|Polihidroksi kiseline (kratica)
+GLUKONOLAKTON|Blaga PHA kiselina
+MANDELIČNA|... kiselina, AHA iz gorkih badema
+MLIJEČNA|... kiselina, blaga AHA
+EGF|Epidermalni čimbenik rasta (kratica)
+MATRIKSIL|Komercijalni peptid protiv bora
+ARGIRELIN|Peptid zvan „botoks u bočici”
+KOENZIM|... Q10 u kremama protiv starenja
+RESVERATROL|Antioksidans iz grožđa
+IDEBENON|Sintetski analog koenzima Q10
+BIZMUT|... oksiklorid, sjajni pigment
+ULTRAMARIN|Plavi pigment
+KROMOV|... oksid, zeleni pigment
+KAOLIN|Bijela glina
+BENTONIT|Vulkanska glina koja upija masnoću
+SERICIT|Svilenkasti tinjac u puderima
+NITROCELULOZA|Osnova laka za nokte
+TOLUEN|Otapalo izbačeno iz mnogih lakova
+ETILACETAT|Otapalo laka za nokte
+METAKRILAT|Monomer gel lakova koji može izazvati alergiju
+TIOGLIKOLAT|Sastojak trajne ondulacije
+DISULFIDNE|... veze, kidaju se pri trajnoj ondulaciji
+CISTEIN|Aminokiselina bogata sumporom u keratinu
+PARAFENILENDIAMIN|Sastojak trajnih boja za kosu, čest alergen
+RESORCINOL|Sastojak oksidacijskih boja za kosu
+OKSIDACIJSKE|... boje za kosu, trajne
+INDIGO|Biljna boja za tamnu kosu
+GUERLAIN|Kuća parfema osnovana 1828.
+FRAGONARD|Parfumerija iz Grassea
+MOLINARD|Parfumerija iz Grassea osnovana 1849.
+GALIMARD|Parfumerija iz Grassea s korijenima u 1747.

@@ -1,0 +1,408 @@
+[opca]
+KOZMETIKA|Sredstva za njegu i uljepšavanje
+KREMA|Mazivo sredstvo za njegu kože
+RUŽ|Boja za usne
+MASKARA|Sredstvo za bojenje trepavica
+PUDER|Prah za ten
+PUDRIJERA|Kutijica s puderom i zrcalom
+ŠMINKA|Sredstva za uljepšavanje lica
+ŠMINKANJE|Nanošenje šminke
+PARFEM|Mirisna tekućina u bočici
+MIRIS|Ono što osjetimo nosom
+DEZODORANS|Sprječava neugodan miris znoja
+ŠAMPON|Sredstvo za pranje kose
+REGENERATOR|Omekšava kosu nakon pranja
+SAPUN|Sredstvo za pranje ruku
+GEL|... za tuširanje
+PASTA|... za zube
+ČETKICA|... za zube
+ČEŠALJ|Pribor za raščešljavanje kose
+ČETKA|... za kosu
+FEN|Sušilo za kosu
+UVIJAČ|Valjak za kovrčanje kose
+PEGLA|... za kosu, ravna kosu
+FRIZER|Majstor za šišanje i oblikovanje kose
+FRIZURA|Oblik u koji je složena kosa
+ŠIŠANJE|Skraćivanje kose
+PUNĐA|Kosa skupljena u čvor na zatiljku
+PLETENICA|Kosa isprepletena od tri pramena
+ŠIŠKE|Kosa koja pada na čelo
+KOVRČE|Uvijeni pramenovi kose
+BOJA|... za kosu
+PRAMENOVI|Posvijetljeni dijelovi kose
+PLAVUŠA|Žena svijetle kose
+BRIJANJE|Uklanjanje brade britvom
+BRIJAČ|Aparat ili majstor za brijanje
+BRITVA|Oštrica za brijanje
+PJENA|... za brijanje
+LOSION|... poslije brijanja
+BRADA|Dlake na donjem dijelu lica
+BRKOVI|Dlake iznad gornje usne
+DEPILACIJA|Uklanjanje dlačica
+VOSAK|Koristi se za depilaciju
+PINCETA|Za čupanje obrva
+OBRVE|Dlačice iznad očiju
+TREPAVICE|Dlačice na rubu kapaka
+KAPCI|Na njih se nanosi sjenilo
+SJENILO|Boja za kapke
+TUŠ|... za oči, tekuća olovka za rub kapka
+RUMENILO|Boja za obraze
+PODLOGA|Tekući puder za ujednačavanje tena
+KOREKTOR|Prikriva podočnjake i nepravilnosti
+PODOČNJACI|Tamni krugovi ispod očiju
+SJAJILO|... za usne
+BALZAM|... za usne, štiti od pucanja
+KIST|Kistić za nanošenje šminke
+SPUŽVICA|Za nanošenje pudera
+OGLEDALO|U njemu se gledamo dok se šminkamo
+NOKTI|Lakiraju se i oblikuju
+MANIKURA|Njega noktiju na rukama
+PEDIKURA|Njega noktiju na nogama
+TURPIJA|Za oblikovanje noktiju
+ACETON|Skida lak s noktiju
+KOŽA|Najveći organ ljudskog tijela
+LICE|Dio tijela na koji se nanosi šminka
+TEN|Boja i izgled kože lica
+PORE|Sitni otvori na koži
+BORE|Nabori na koži koji dolaze s godinama
+PRIŠTIĆ|Mala upaljena izraslina na koži
+AKNE|Kožni problem čest kod tinejdžera
+PJEGE|Smeđe točkice na koži
+MADEŽ|Tamna točka na koži
+PREPLANULOST|Tamnija boja kože od sunca
+SUNČANJE|Izlaganje suncu radi tamnije puti
+ZAŠTITNI|... faktor, oznaka SPF
+SPF|Oznaka zaštite od sunca na kremama (kratica)
+OPEKLINA|Posljedica predugog sunčanja
+SOLARIJ|Uređaj za umjetno tamnjenje
+MASKA|... za lice, nanosi se i ostavi djelovati
+PILING|Uklanjanje odumrlih stanica kože
+TONIK|Tekućina za čišćenje i osvježavanje lica
+SERUM|Koncentrirani pripravak za njegu lica
+KAMILICA|Biljka umirujućih pripravaka
+LAVANDA|Mirisna ljubičasta biljka
+RUŽA|Cvijet čija se vodica koristi u kozmetici
+ALOJA|Biljka umirujućeg gela
+KOKOS|... ulje, za kosu i kožu
+GLINA|Koristi se u maskama za lice
+VAZELIN|Mast za suhu kožu
+KOLONJSKA|... voda, lagani miris
+BOČICA|Spremnik parfema
+KOZMETIČARKA|Stručnjakinja za njegu lica
+VIZAŽIST|Stručnjak za šminku
+DROGERIJA|Trgovina kozmetike i sredstava za higijenu
+PARFUMERIJA|Trgovina parfemima
+HIGIJENA|Briga o čistoći tijela
+KUPKA|Pjenušava ... u kadi
+SAUNA|Vruća prostorija za znojenje
+MASAŽA|Opuštajući tretman tijela
+SPA|Centar za opuštanje i njegu
+TRETMAN|Postupak njege u salonu
+PERIKA|Umjetna kosa
+PIRSING|Nakit probijen kroz kožu
+NAUŠNICE|Nakit na ušima
+NAKIT|Prstenje, ogrlice i naušnice
+KANA|Biljna boja za kosu i kožu
+NIVEA|Krema u plavoj limenci
+AVON|Kozmetička tvrtka poznata po prodaji preko zastupnica
+CHANEL|Modna kuća parfema No. 5
+DIOR|Modna kuća parfema J'adore
+LUSH|Britanska tvrtka ručno rađene kozmetike
+DOVE|Sapun s „četvrtinom kreme”
+GILLETTE|Proizvođač britvica
+MICELARNA|... voda, skida šminku
+VATA|Za skidanje šminke
+VLASIŠTE|Koža glave na kojoj raste kosa
+PERUT|Ljuskice na vlasištu
+KOSA|Raste na glavi
+ĆELA|Glava bez kose
+SIJEDA|... kosa, bijeli pramenovi s godinama
+HIDRATACIJA|Opskrbljivanje kože vlagom
+KOLAGEN|Bjelančevina koja koži daje čvrstoću
+VITAMIN|... C, E ili A u kremama
+GLICERIN|Hidratantni sastojak sapuna i krema
+MENTOL|Osvježavajući sastojak paste za zube
+FLUOR|Element u pastama koji štiti zube
+ZUBI|Peru se pastom i četkicom
+IZBJELJIVANJE|... zubi
+LJEPOTA|Ono čemu služi kozmetika
+MANEKENKA|Model na modnoj reviji
+REVIJA|Modna ...
+MODA|Trenutačni ukus u odijevanju i izgledu
+MISS|Izbor za ... ljepote
+NECESER|Torbica za kozmetiku
+PALETA|Kutija s više boja sjenila
+NIJANSA|Ton boje šminke
+MAT|Završni izgled bez sjaja
+SJAJ|Ono što daje sjajilo
+GLITER|Svjetlucavi ukras za šminku
+LAŽNE|... trepavice, lijepe se na kapak
+LJEPILO|... za umjetne trepavice
+UMJETNI|... nokti
+NADOGRADNJA|... noktiju
+FRANCUSKA|... manikura, s bijelim vrhovima
+RUČNIK|Za brisanje nakon tuširanja
+KADA|U njoj se kupamo
+TUŠIRANJE|Pranje pod mlazom vode
+SPUŽVA|Za pranje tijela
+PLOVUČAC|Vulkanski kamen za stopala
+STOPALA|Njeguju se pri pedikuri
+PETE|Na njima koža najčešće otvrdne
+ŽULJ|Otvrdnuće kože od trenja
+ZNOJ|Izlučuje se pri vrućini
+PAZUH|Mjesto nanošenja dezodoransa
+SPREJ|... za kosu
+VIKLERI|Uvijači za kosu
+TRAJNA|... ondulacija, trajno kovrčanje kose
+FENIRANJE|Oblikovanje kose fenom
+BOJANJE|... kose
+SMEĐA|Boja kose između plave i crne
+RIĐA|Crvenkasta boja kose
+CRNKA|Žena tamne kose
+BRINETA|Žena smeđe kose
+[teska]
+HIJALURONSKA|... kiselina, hidratantni sastojak
+RETINOL|Oblik vitamina A u kremama protiv bora
+NIACINAMID|Oblik vitamina B3 u njezi kože
+KERATIN|Bjelančevina od koje je građena kosa
+MELANIN|Pigment koji boji kožu i kosu
+SEBUM|Masna izlučevina kože
+EPIDERMA|Vanjski sloj kože
+DERMIS|Sloj kože ispod epiderme
+ELASTIN|Bjelančevina koja koži daje elastičnost
+LANOLIN|Vosak iz ovčje vune
+PARAFIN|Vosak u tretmanima ruku
+SILIKONI|Sastojci koji kosi daju glatkoću i sjaj
+PARABENI|Konzervansi u kozmetici
+SULFATI|Pjeneći sastojci šampona
+TENZIDI|Površinski aktivne tvari za pranje
+EMULZIJA|Mješavina ulja i vode u kremama
+EMULGATOR|Tvar koja povezuje ulje i vodu
+KONZERVANS|Sprječava kvarenje proizvoda
+TALK|Mineral od kojeg se rade puderi
+CINK|... oksid, mineralni UV filtar
+TITANIJ|... dioksid, mineralni UV filtar
+UVA|Zrake koje najviše pridonose starenju kože (kratica)
+UVB|Zrake koje uzrokuju opekline (kratica)
+ARGANOVO|... ulje, iz Maroka
+JOJOBA|Biljno ulje nalik sebumu
+SHEA|... maslac, iz afričkog drveta
+KAKAO|... maslac, u balzamima za usne
+BADEMOVO|... ulje, za suhu kožu
+RICINUSOVO|... ulje, za trepavice i obrve
+UREA|Hidratantna tvar u kremama za stopala
+SALICILNA|... kiselina, protiv akni
+GLIKOLNA|... kiselina, AHA za piling
+AHA|Alfa-hidroksi kiseline (kratica)
+BHA|Beta-hidroksi kiseline (kratica)
+PEPTIDI|Kratki lanci aminokiselina u kremama protiv starenja
+ANTIOKSIDANS|Štiti kožu od slobodnih radikala
+SKVALAN|Lagano ulje, nekad od jetre morskog psa, danas biljnog podrijetla
+KOFEIN|Sastojak krema za podočnjake
+NOTE|Gornje, srednje i bazne ... parfema
+PIRAMIDA|Mirisna ..., raspored nota parfema
+BERGAMOT|Agrum, česta gornja nota parfema
+PAČULI|Zemljana bazna nota parfema
+VANILIJA|Slatka bazna nota parfema
+MOŠUS|Životinjska, danas sintetska bazna nota
+AMBRA|Topla bazna nota parfema
+JASMIN|Cvjetna nota parfema
+TUBEROZA|Bijeli cvijet intenzivnog mirisa u parfemima
+IRIS|Cvijet čiji se korijen koristi u parfemima
+SANDALOVINA|Drvena bazna nota parfema
+CEDAR|Drvena nota parfema
+OUD|Smola agarova drva, skupa nota parfema
+GRASSE|Francuski grad parfema
+TOALETNA|... voda, slabije koncentracije od parfemske
+PARFEMSKA|... voda, oznaka EDP
+PARFUMER|Stvaratelj mirisa
+DESTILACIJA|Postupak dobivanja eteričnih ulja parom
+ETERIČNA|... ulja, mirisni biljni ekstrakti
+ENFLEURAŽA|Stari postupak upijanja mirisa cvijeća u mast
+LAUDER|Estée ..., osnivačica kozmetičke tvrtke
+RUBINSTEIN|Helena ..., kozmetička poduzetnica
+ARDEN|Elizabeth ..., osnivačica salona „Red Door”
+REVLON|Američka tvrtka poznata po laku za nokte i ruževima
+MAYBELLINE|Marka nastala oko maskare
+CLINIQUE|Marka koju je 1968. pokrenula tvrtka Estée Lauder
+SHISEIDO|Japanska kozmetička tvrtka
+CLARINS|Francuska marka njege
+VICHY|Dermokozmetička marka nazvana po francuskom lječilištu
+BIODERMA|Francuska marka poznata po micelarnoj vodi
+EUCERIN|Dermokozmetička marka tvrtke Beiersdorf
+BEIERSDORF|Hamburška tvrtka koja proizvodi Niveu
+COTY|Tvrtka parfema osnovana 1904.
+COCO|... Chanel, modna dizajnerica
+MAX|... Factor, šminker holivudskih zvijezda
+KLEOPATRA|Egipatska kraljica koja se, prema legendi, kupala u mlijeku
+KOHL|Crna boja za oči iz starog Egipta
+CERUZA|Olovno bjelilo za lice u renesansi
+POMADA|Mast za oblikovanje kose
+BRILJANTIN|Sjajna mast za mušku kosu pedesetih
+MIKRODERMOABRAZIJA|Mehanički piling kristalima ili dijamantnom glavom
+LIFTING|Zatezanje kože lica
+BOTOKS|Injekcije botulinskog toksina protiv bora
+FILER|Ubrizgano punilo za usne ili bore
+LASER|Uklanjanje dlaka svjetlosnim snopom
+KEMIJSKI|... piling, kiselinom
+MEZOTERAPIJA|Ubrizgavanje aktivnih tvari u kožu
+DERMAROLER|Valjak s iglicama za kožu
+KONTURIRANJE|Sjenčanje lica tamnijim i svjetlijim tonovima
+OSVJETLJIVAČ|Proizvod za isticanje jagodica
+BRONZER|Puder za preplanuli izgled
+PRAJMER|Podloga ispod šminke
+FIKSATOR|Sprej koji učvršćuje šminku
+BALAYAGE|Tehnika ručnog posvjetljivanja pramenova
+OKSIDANS|Sredstvo za razvijanje boje kose
+AMONIJAK|Sastojak mnogih boja za kosu
+PEROKSID|Vodikov ... za posvjetljivanje kose
+KERATINSKO|... ravnanje kose
+EKSTENZIJE|Umetci za produljenje kose
+TUPIRANJE|Češljanje kose unatrag za volumen
+DREDOVI|Kosa smotana u konopce
+AFRO|Bujna kovrčava frizura
+BOB|Kratka ravna ženska frizura
+KUTIKULA|Kožica uz rub nokta
+TRAJNI|... lak, gel lak koji traje tjednima
+AKRIL|Materijal za nadogradnju noktiju
+DERMATOLOG|Liječnik za kožu
+TRIHOLOG|Stručnjak za kosu i vlasište
+KOZMETOLOG|Stručnjak za kozmetiku
+ROZACEJA|Kronično crvenilo lica
+EKCEM|Upalna bolest kože sa svrbežom
+PSORIJAZA|Kronična bolest kože s ljuskanjem
+HIPERPIGMENTACIJA|Tamne mrlje na koži
+CELULIT|Neravnine kože nalik narančinoj kori
+STRIJE|Ožiljci od istezanja kože
+MITESER|Začepljena pora s crnom točkicom
+FOTOSTARENJE|Starenje kože zbog sunca
+DEHIDRIRANA|... koža, kojoj nedostaje vode
+MJEŠOVITA|... koža, masna T-zona i suhi obrazi
+ZONA|T-..., čelo, nos i brada
+OSJETLJIVA|... koža, sklona crvenilu
+NEKOMEDOGENO|Ne začepljuje pore
+VEGANSKA|... kozmetika, bez sastojaka životinjskog podrijetla
+TESTIRANJE|... na životinjama, u EU zabranjeno za kozmetiku
+PALMINO|... ulje, sporno zbog krčenja šuma
+MIKROPLASTIKA|Sitne čestice plastike, nekad u pilinzima
+KAJAL|Olovka za unutarnji rub oka
+MAČJE|... oko, izvučena linija tuša
+SAMOPOTAMNJIVANJE|Dobivanje tamnije boje kože bez sunca
+DHA|Djelatna tvar samopotamnjivača (kratica)
+BRIJAČNICA|Muški frizerski salon
+ALAUN|Kamen za umirivanje kože nakon brijanja
+STIPSA|Drugi naziv za alaun
+TRIMER|Aparat za skraćivanje brade
+OPIUM|Parfem Yves Saint Laurenta iz 1977.
+JOY|Parfem Jeana Patoua iz 1930.
+PATOU|Jean ..., kreator parfema Joy
+SHALIMAR|Guerlainov parfem iz 1925.
+FAHRENHEIT|Diorov muški parfem iz 1988.
+KLEIN|Calvin ..., parfemi CK One i Obsession
+ARMANI|Giorgio ..., parfem Acqua di Giò
+FARINA|Johann Maria ..., tvorac kolonjske vode u Kölnu
+[strucna]
+INCI|Međunarodno nazivlje kozmetičkih sastojaka (kratica)
+CPNP|Europski portal za prijavu kozmetičkih proizvoda (kratica)
+GMP|Dobra proizvođačka praksa (kratica)
+PAO|Oznaka roka trajanja nakon otvaranja (kratica)
+ALERGENI|Mirisne tvari koje se moraju navesti na deklaraciji
+IFRA|Međunarodno udruženje za mirise (kratica)
+UREDBA|... (EZ) br. 1223/2009 o kozmetičkim proizvodima
+SCCS|Znanstveni odbor EU-a za sigurnost potrošača (kratica)
+CIR|Američki stručni odbor za procjenu kozmetičkih sastojaka (kratica)
+FDA|Američka agencija za hranu i lijekove (kratica)
+HLB|Ravnoteža hidrofilnosti i lipofilnosti emulgatora (kratica)
+LIPOFILNI|... sastojci, topljivi u mastima
+HIDROFILNI|... sastojci, topljivi u vodi
+AMFIFILNI|Molekule s hidrofilnim i lipofilnim dijelom
+MICELA|Nakupina molekula tenzida koja hvata masnoću
+CMC|Kritična micelarna koncentracija (kratica)
+LIPOSOM|Mjehurić od fosfolipida za prijenos aktivnih tvari
+NIOSOM|Neionski mjehurić za dostavu aktivnih tvari
+NANOEMULZIJA|Emulzija kapljica nanometarske veličine
+REOLOGIJA|Znanost o tečenju krema i gelova
+VISKOZNOST|Otpor tekućine tečenju
+TIKSOTROPIJA|Razrjeđivanje gela pri miješanju
+KARBOMER|Poliakrilni zgušnjivač gelova
+KSANTAN|Prirodna guma za zgušnjavanje
+CETIL|... alkohol, masni alkohol koji zgušnjava kreme
+CETEARIL|... alkohol, mješavina cetilnog i stearilnog
+STEARINSKA|... kiselina, masna kiselina u sapunima
+SAPONIFIKACIJA|Kemijska reakcija nastanka sapuna
+LUŽINA|Natrijev hidroksid za izradu sapuna
+TRIGLICERIDI|Esteri glicerola i masnih kiselina u uljima
+CERAMIDI|Lipidi koji grade barijeru kože
+SKVALEN|Sastojak sebuma, preteča skvalana
+FILAGRIN|Bjelančevina važna za barijeru kože
+NMF|Prirodni čimbenik vlažnosti kože (kratica)
+TEWL|Transepidermalni gubitak vode (kratica)
+KORNEOCITI|Odumrle stanice rožnatog sloja
+KERATINOCITI|Glavne stanice epiderme
+MELANOCITI|Stanice koje stvaraju melanin
+FIBROBLASTI|Stanice dermisa koje stvaraju kolagen
+TIROZINAZA|Enzim ključan za stvaranje melanina
+HIDROKINON|Sredstvo za posvjetljivanje kože, zabranjeno u kozmetici EU-a
+ARBUTIN|Posvjetljivač kože iz medvjetke
+KOJIČNA|... kiselina, posvjetljivač iz gljiva
+AZELAINSKA|... kiselina, protiv akni i rozaceje
+TRETINOIN|Retinoična kiselina na recept
+BAKUCHIOL|Biljna alternativa retinolu
+CENTELLA|... asiatica, umirujuća biljka u korejskoj kozmetici
+PANTENOL|Provitamin B5
+ALANTOIN|Umirujući sastojak izvorno iz gaveza
+BISABOLOL|Umirujući sastojak kamilice
+TOKOFEROL|Vitamin E
+ASKORBINSKA|... kiselina, vitamin C
+FERULINSKA|... kiselina, stabilizira vitamin C
+OKTOKRILEN|Organski UV filtar
+AVOBENZON|Organski UVA filtar
+OKSIBENZON|UV filtar sporan zbog utjecaja na koralje
+TINOSORB|Skupina fotostabilnih UV filtara
+PPD|Mjera zaštite od UVA zraka (kratica)
+ERITEM|Crvenilo kože od sunca
+FOTOTIP|Tip kože prema osjetljivosti na sunce
+FITZPATRICK|Ljestvica fototipova kože nosi njegovo ime
+FENOKSIETANOL|Čest konzervans u kozmetici
+METILIZOTIAZOLINON|Konzervans koji je čest alergen
+FORMALDEHID|Konzervans strogo ograničen u kozmetici
+TRIKLOSAN|Antibakterijski sastojak ograničen u EU-u
+MINERALNO|... ulje, derivat nafte
+LIMONEN|Mirisni alergen iz citrusa
+LINALOOL|Mirisni alergen iz lavande
+GERANIOL|Mirisni alergen iz ruže i geranija
+KUMARIN|Mirisna tvar s mirisom sijena
+VANILIN|Glavna mirisna tvar vanilije
+ALDEHIDI|Sintetske mirisne tvari po kojima je poznat Chanel No. 5
+HEDION|Sintetska mirisna tvar nalik jasminu
+AMBROKSAN|Sintetska zamjena za ambru
+GALAKSOLID|Sintetski mošus
+FIKSATIV|Tvar koja produljuje trajanje mirisa
+APSOLUT|Koncentrirani mirisni ekstrakt dobiven otapalom
+KONKRET|Voštani ekstrakt cvijeća
+CHYPRE|Mirisna obitelj bergamota, hrastove mahovine i pačulija
+GURMANSKA|... mirisna obitelj, slatki mirisi poput vanilije
+ORIJENTALNA|... mirisna obitelj, ambra i začini
+HRASTOVA|... mahovina, nota chypre parfema
+CIBET|Životinjska nota parfema
+KASTOREUM|Životinjska nota parfema iz dabra
+ROUDNITSKA|Edmond ..., parfumer Diorova Eau Sauvage
+BEAUX|Ernest ..., parfumer koji je stvorio Chanel No. 5
+JICKY|Guerlainov parfem iz 1889.
+HOUBIGANT|Kuća parfema Fougère Royale
+POIRET|Paul ..., prvi modni kreator s vlastitim parfemima
+NEFERTITI|Egipatska kraljica poznata po oslikanoj bisti
+MALAHIT|Zeleni mineral za sjenilo u starom Egiptu
+GALENIT|Olovni mineral za kohl
+GALEN|Rimski liječnik kojem se pripisuje hladna krema
+HLADNA|... krema, Galenova emulzija voska, ulja i vode
+POPEJA|Neronova žena koja se kupala u magarećem mlijeku
+BELADONA|Biljka kojom su žene širile zjenice
+ANTIMON|Polumetal u drevnim bojama za oči
+KARMIN|Crveni pigment od kukaca
+KOŠENILA|Kukac od kojeg se dobiva karmin
+OKER|Prirodni pigment od zemlje
+MIKA|Mineral koji daje sjaj sjenilima
+EPIKUTANI|... test, ispitivanje alergije na koži
+STABILNOST|Ispitivanje ... proizvoda tijekom roka trajanja
+NANOČESTICE|Sastojci koji se na deklaraciji označavaju s „(nano)”

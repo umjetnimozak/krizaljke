@@ -1,6 +1,6 @@
 # Križaljke
 
-Stranica za rješavanje križaljki na hrvatskom: tri težine (opća, teška, stručna), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i šest područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto). Za svaku od 567 kombinacija unaprijed su složene tri verzije, ukupno 1701 križaljka.
+Stranica za rješavanje križaljki na hrvatskom: tri težine (opća, teška, stručna), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i sedam područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika). Za svaku od 1143 kombinacije unaprijed su složene tri verzije, ukupno 3429 križaljki.
 
 Stranica: **https://umjetnimozak.github.io/krizaljke/**
 
@@ -18,7 +18,7 @@ Stranica: **https://umjetnimozak.github.io/krizaljke/**
    STRUMMER | Joe ..., pjevač Clasha
    ```
 
-   - **područja**: jedno ili više, odvojena zarezom: opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto
+   - **područja**: jedno ili više, odvojena zarezom: opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika
    - **težina**: opća, teška ili stručna
    - **veličina**: mala, srednja ili velika
    - **naziv** nije obavezan
@@ -36,7 +36,7 @@ Ako datoteka ima grešku, ona se preskače, a ostatak stranice se svejedno objav
 
 ## Kako urediti ugrađene pojmove
 
-Pojmovi su u mapi `pojmovi` (po jedna datoteka za svako područje, s odjeljcima `[opca]`, `[teska]` i `[strucna]`). Nakon izmjene treba ponovno složiti 1701 križaljku. Za to je potreban Node.js na računalu:
+Pojmovi su u mapi `pojmovi` (po jedna datoteka za svako područje, s odjeljcima `[opca]`, `[teska]` i `[strucna]`). Nakon izmjene treba ponovno složiti sve križaljke (traje desetak minuta). Za to je potreban Node.js na računalu:
 
 ```
 node alati/izgradi.js      # ponovno složi sve križaljke u stranica/data
@@ -49,7 +49,7 @@ Zatim pošalji promijenjene datoteke iz `stranica/data` na GitHub. Križaljke po
 ## Sadržaj repozitorija
 
 - `stranica/` – sama stranica (to se objavljuje)
-- `stranica/data/` – 1701 unaprijed složena križaljka
+- `stranica/data/` – 3429 unaprijed složenih križaljki, podijeljenih po težini, veličini i prvom području
 - `nove/` – ovdje dodaješ nove verzije
 - `pojmovi/` – baze pojmova i pitanja
 - `alati/` – skripte za slaganje i provjeru
