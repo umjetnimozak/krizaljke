@@ -48,18 +48,21 @@ button:focus-visible,.c:focus-visible,textarea:focus-visible,input:focus-visible
 .win{display:none;margin-top:12px;padding:14px;border:2px solid var(--ok);color:var(--ok);font-weight:600}.win.on{display:block}
 h2{font:800 22px/1.1 Bitter,Georgia,serif;margin:0 0 8px;padding-bottom:6px;border-bottom:3px solid var(--ink)}
 .clues section+section{margin-top:22px}
+li.cross{background:var(--word)}
+@media(min-width:900px){
+ .board{position:sticky;top:10px}
+ .wrap{max-height:calc(100vh - 260px);min-height:300px}
+ .clues{position:sticky;top:10px;height:calc(100vh - 20px);display:grid;grid-template-rows:minmax(0,1fr) minmax(0,1fr);gap:14px}
+ .clues section{position:relative;overflow-y:auto;overscroll-behavior:contain;background:var(--paper);border:2px solid var(--line);padding:0 6px 10px}
+ .clues section+section{margin-top:0}
+ .clues h2{position:sticky;top:0;z-index:1;background:var(--paper);margin:0 -6px 4px;padding:10px 10px 6px}
+}
+@media(min-width:1280px){.clues{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr)}}
 ol{list-style:none;margin:0;padding:0}
 li{display:flex;gap:10px;padding:7px 8px;cursor:pointer;border-bottom:1px solid var(--soft)}
 li b{min-width:1.8em;text-align:right;color:var(--red)}
 li.on{background:var(--sel)}li.done span{text-decoration:line-through;color:var(--mut)}
 #kb{position:fixed;opacity:0;width:1px;height:1px;left:0;top:0;border:0;padding:0;font-size:16px}
-.admin{max-width:1240px;margin:0 auto 40px;padding:0 max(3vw,10px)}
-.admin .box{background:var(--paper);border:2px dashed var(--ink);padding:18px}
-.admin p{margin:6px 0 12px;max-width:70ch}
-.admin pre{background:var(--soft);padding:12px;font-size:14px;overflow-x:auto;margin:0 0 8px}
-.admin .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0}
-.msg{font-size:15px;margin:8px 0}.msg.err{color:var(--red)}.msg.ok{color:var(--ok)}
-.uplist{margin-top:14px}.uplist li{cursor:default;align-items:center}.uplist li span{flex:1}
 footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 .loading{padding:40px;text-align:center;color:var(--mut)}
 @media(max-width:900px){main{grid-template-columns:minmax(0,1fr)}.pick .in{grid-template-columns:minmax(0,1fr)}}
@@ -85,31 +88,15 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 </div>
 <div class="clues"><section><h2>Vodoravno</h2><ol id="la"></ol></section><section><h2>Okomito</h2><ol id="ld"></ol></section></div>
 </main>
-<section class="admin" id="admin" hidden><div class="box">
- <h2>Provjera nove verzije</h2>
- <p>Ovdje možeš provjeriti datoteku prije nego što je dodaš na GitHub. Ništa se ne sprema. Datoteka je obična .txt datoteka u ovom obliku (područja: opća kultura, filmska kultura, rock&amp;roll, povijest, astronomija; težina: opća, teška, stručna; veličina: mala, srednja, velika). LJ, NJ i DŽ automatski idu u jedno polje; ako u nekoj riječi moraju ostati dva slova, stavi + između njih (npr. KON+JUNKTURA).</p>
- <pre id="tpl">područja: povijest, rock&amp;roll
-težina: teška
-veličina: mala
-naziv: Jesenska verzija
-GUBEC | Matija ..., vođa seljačke bune 1573.
-HENDRIX | Jimi ..., gitarist koji je zatvorio Woodstock
-STRUMMER | Joe ..., pjevač Clasha</pre>
- <div class="row"><button class="btn" id="cpy">Kopiraj predložak</button><label class="btn pri" style="display:inline-flex;align-items:center">Odaberi datoteku<input type="file" id="file" accept=".txt,.csv,text/plain" hidden></label></div>
- <div class="msg" id="umsg"></div>
- <div class="row" id="urow" hidden><button class="btn pri" id="uprev">Prikaži pregled</button></div>
- <p>Kad je datoteka u redu, na GitHubu je dodaj u mapu <strong>nove</strong> (Add file → Upload files). Nova verzija pojavit će se na stranici za minutu-dvije.</p>
- <h2 style="margin-top:20px">Dodane verzije</h2>
- <ol class="uplist" id="ulist"></ol>
-</div></section>
-<footer><a href="#provjera" id="tog" style="color:inherit">Provjera nove verzije</a> · LJ, NJ i DŽ zauzimaju jedno polje: utipkaj ih redom (npr. L pa J) ili dodirni tipku. Napredak se sprema u ovom pregledniku.</footer>
+
+<footer>LJ, NJ i DŽ zauzimaju jedno polje: utipkaj ih redom (npr. L pa J) ili dodirni tipku. Napredak se sprema u ovom pregledniku.</footer>
 <input id="kb" autocomplete="off" autocapitalize="characters" autocorrect="off" spellcheck="false" aria-label="Unos slova">
 <script src="gen.js"></script>
 <script>
 {
 const DIFF=[['opca','Opća'],['teska','Teška'],['strucna','Stručna']];
 const SIZE=[['mala','Mala','do 150 polja',150,15,17],['srednja','Srednja','do 250',250,21,23],['velika','Velika','do 400',400,28,30]];
-const TH=[['o','Opća kultura'],['f','Filmska kultura'],['r','Rock&roll'],['p','Povijest'],['a','Astronomija']];
+const TH=[['o','Opća kultura'],['f','Filmska kultura'],['r','Rock&roll'],['p','Povijest'],['a','Astronomija'],['m','Automoto']];
 const TNAME=Object.fromEntries(TH),DNAME=Object.fromEntries(DIFF),SNAME=Object.fromEntries(SIZE.map(s=>[s[0],s[1]]));
 const $=id=>document.getElementById(id),g=$('g'),kb=$('kb'),wrap=$('wrap');
 const LS={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
@@ -162,6 +149,7 @@ function start(p){
  $('ttl').innerHTML=`${esc(up&&up.naziv?up.naziv:'Verzija '+sel.v)}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${sel.t.map(t=>TNAME[t]).join(', ')}</span>`;
  cur={r:order[0].r,c:order[0].c,d:order[0].d};last=null;size();paint();wrap.scrollTop=0;wrap.scrollLeft=0;
 }
+function clueIntoView(li){const box=li.closest('section');if(!box)return;const head=box.querySelector('h2').offsetHeight;const t=li.offsetTop,b=t+li.offsetHeight;if(t<box.scrollTop+head+8||b>box.scrollTop+box.clientHeight-8){const top=Math.max(0,t-head-(box.clientHeight-head)/2+li.offsetHeight/2);box.scrollTo?box.scrollTo({top,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}):box.scrollTop=top}}
 function esc(s){return String(s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[m])}
 function size(){if(!P)return;const av=wrap.clientWidth-4;const cs=Math.max(26,Math.min(42,Math.floor(av/P.w)));wrap.style.setProperty('--cs',cs+'px')}
 const ro=new ResizeObserver(size);ro.observe(wrap);
@@ -173,7 +161,9 @@ function paint(){
  if(w){w.cells.forEach(([r,c])=>el[r][c].classList.add('hw'));$('cn').textContent=w.n+(w.d=='A'?' →':' ↓');$('ct').textContent=w.q+' ('+w.t.length+')'}
  const hc=el[cur.r][cur.c];hc.classList.add('hc');
  const solvedW=new Set(P.words.filter(x=>x.cells.every(([r,c])=>val[r][c]==sol[r][c])).map(x=>x.n+x.d));
- document.querySelectorAll('.clues li').forEach(li=>{const k=li.dataset.k;li.classList.toggle('on',!!w&&k==w.n+w.d);li.classList.toggle('done',solvedW.has(k))});
+ const xw=wordAt(cur.r,cur.c,cur.d=='A'?'D':'A');
+ document.querySelectorAll('.clues li').forEach(li=>{const k=li.dataset.k;li.classList.toggle('on',!!w&&k==w.n+w.d);li.classList.toggle('cross',!!xw&&k==xw.n+xw.d);li.classList.toggle('done',solvedW.has(k))});
+ if(innerWidth>=900)[w,xw].forEach(x=>{if(!x)return;const li=document.querySelector(`.clues li[data-k="${x.n}${x.d}"]`);if(li)clueIntoView(li)});
  let f=0;for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)if(sol[r][c]&&val[r][c])f++;
  $('pf').textContent=f;$('ps').textContent=solvedW.size;$('win').classList.toggle('on',solvedW.size==P.words.length);
  const wr=wrap.getBoundingClientRect(),cr=hc.getBoundingClientRect();
@@ -206,20 +196,7 @@ const conf=(btn,fn)=>{let t;const orig=btn.textContent;btn.onclick=()=>{if(!P)re
 conf($('ra'),()=>reveal(P.words.flatMap(w=>w.cells)));
 conf($('rs'),()=>{for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)val[r][c]='';for(const k in rev)delete rev[k];save();clearMarks();paint()});
 
-/* ---------- provjera nove verzije ---------- */
-let pending=null;
-const umsg=(t,cls)=>{$('umsg').className='msg '+(cls||'');$('umsg').textContent=t};
-$('file').onchange=async e=>{const f=e.target.files[0];e.target.value='';if(!f)return;$('urow').hidden=true;pending=null;
- const r=KrizGen.fromText(await f.text(),'pregled');if(r.errs.length){umsg(r.errs.slice(0,6).join(' '),'err');return}
- const u=r.cw;pending=u;$('urow').hidden=false;
- umsg(`Datoteka je u redu. Složeno: ${u.words.length} pojmova, ${u.cells} polja (${u.w}×${u.h}). ${r.left?`${r.left} pojmova nije stalo u mrežu.`:'Svi pojmovi su uvršteni.'} Kombinacija: ${DNAME[u.tezina]} · ${SNAME[u.velicina]} · ${u.teme.map(t=>TNAME[t]).join(', ')}.`,'ok')};
-$('uprev').onclick=()=>{if(!pending)return;sel={d:pending.tezina,s:pending.velicina,t:pending.teme,v:1};segs();start(pending);$('ttl').innerHTML=`Pregled (nije objavljeno)<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${sel.t.map(t=>TNAME[t]).join(', ')}</span>`;scrollTo({top:0,behavior:'smooth'})};
-$('cpy').onclick=async()=>{try{await navigator.clipboard.writeText($('tpl').textContent);$('cpy').textContent='Kopirano'}catch(e){$('cpy').textContent='Označi tekst i kopiraj ručno'}setTimeout(()=>$('cpy').textContent='Kopiraj predložak',2500)};
-function renderUploads(){$('ulist').innerHTML=uploads.length?uploads.map(u=>`<li><span><strong>${esc(u.naziv||'Bez naziva')}</strong> — ${DNAME[u.tezina]} · ${SNAME[u.velicina]} · ${u.teme.map(t=>TNAME[t]).join(', ')} · ${u.words.length} pojmova</span></li>`).join(''):'<li><span>Još nema dodanih verzija.</span></li>'}
-const showAdmin=()=>{$('admin').hidden=location.hash!=='#provjera';const a=$('admin');if(!a.hidden&&a.scrollIntoView)a.scrollIntoView({behavior:'smooth'})};
-addEventListener('hashchange',showAdmin);
-fetch('data/uploads.json').then(r=>r.ok?r.json():[]).then(a=>{uploads=Array.isArray(a)?a.filter(u=>u&&Array.isArray(u.words)):[];renderUploads();const v=sel.v;segs();if(v>3)load()}).catch(()=>renderUploads());
-showAdmin();
+fetch('data/uploads.json').then(r=>r.ok?r.json():[]).then(a=>{uploads=Array.isArray(a)?a.filter(u=>u&&Array.isArray(u.words)):[];const v=sel.v;segs();if(v>3)load()}).catch(()=>{});
 segs();load();
 }
 </script></body></html>

@@ -1,0 +1,136 @@
+[opca]
+OSOBNI|... automobil, vozilo za prijevoz putnika
+ŠLEPER|Vozilo za prijevoz pokvarenih automobila
+SALON|Auto ..., izložba novih modela
+LEASING|Najam vozila s mogućnošću otkupa
+OSIGURANJE|Obvezno ... od automobilske odgovornosti
+KASKO|Dobrovoljno osiguranje vozila od oštećenja
+TEHNIČKI|... pregled, redovita provjera ispravnosti vozila
+KILOMETRAŽA|Ukupno prijeđeni put vozila
+POTROŠNJA|Litara goriva na sto kilometara
+REZERVA|Lampica ... upozorava na malo goriva
+PROBUŠENA|... guma, „defekt”
+PUMPA|Njome se napuhuju gume
+TLAK|... u gumama, provjerava se na benzinskoj postaji
+ROMOBIL|Vozilo s dva kotača i ručkom koje se gura nogom
+TRAMVAJ|Gradsko vozilo javnog prijevoza na tračnicama
+TROLEJBUS|Autobus na električni pogon iz vodova
+VATROGASNO|... vozilo, crveno s ljestvama
+HITNA|... pomoć, vozilo za prijevoz bolesnika
+CISTERNA|Kamion za prijevoz tekućina
+KILOVAT|Jedinica snage motora
+KONJSKA|... snaga, stara mjera snage motora
+BRZINA|Mjeri se u kilometrima na sat
+OGRANIČENJE|... brzine, prometni znak s brojem
+ZNAK|Prometni ... uz cestu
+STOP|Osmerokutni prometni znak
+PRVENSTVO|... prolaza, pravilo tko prvi prolazi raskrižjem
+[teska]
+ROVER|Land ..., britanski proizvođač terenaca
+RANGE|... Rover, luksuzni terenac
+SMART|Mali gradski automobil za dvoje
+TWINGO|Renaultov gradski automobil
+YARIS|Toyotin mali model
+FOCUS|Fordov kompaktni model
+FIESTA|Fordov mali model
+PANDA|Fiatov mali model
+PUNTO|Fiatov model, nasljednik Una
+UNO|Fiatov model iz 1983.
+GIULIA|Alfa Romeov model
+ALPINE|Renaultova sportska marka iz Dieppea
+ESCORT|Fordov model uspješan u reliju sedamdesetih
+SIERRA|Fordov model osamdesetih
+TAUNUS|Fordov model iz Kölna
+KADETT|Opelov model, preteča Astre
+ASCONA|Opelov model, uspješan i u reliju
+MANTA|Opelov sportski kupe
+STOJADIN|Narodni naziv za Zastavu 101
+SKALA|Zastavin model, inačica 101
+FLORIDA|Zastavin model iz 1988.
+SAMARA|Ladin model s prednjim pogonom
+ŽIGULI|Izvorni naziv Ladinih modela u SSSR-u
+ZAPOROŽEC|Sovjetski mali automobil s motorom straga
+GAZ|Sovjetska tvornica automobila iz Nižnjeg Novgoroda
+KAMAZ|Ruski proizvođač kamiona, višestruki pobjednik Dakara
+IVECO|Talijanski proizvođač kamiona
+SCANIA|Švedski proizvođač kamiona
+MAN|Njemački proizvođač kamiona i autobusa
+DAF|Nizozemski proizvođač kamiona
+TIR|Kolokvijalno: kamion s poluprikolicom
+UNIMOG|Mercedesovo univerzalno terensko vozilo
+HUMMER|Civilna inačica vojnog Humveeja
+TRANSPORTER|Volkswagenov kombi
+RED|... Bull, momčad Formule 1
+BENETTON|Momčad s kojom je Schumacher osvojio prve naslove
+JORDAN|Irska momčad Formule 1 Eddieja Jordana
+MINARDI|Talijanska momčad Formule 1 iz Faenze
+SAUBER|Švicarska momčad Formule 1
+HAAS|Američka momčad Formule 1
+PIQUET|Nelson ..., brazilski trostruki prvak Formule 1
+BUTTON|Jenson ..., prvak Formule 1 2009.
+HILL|Damon ..., prvak Formule 1 1996.
+ROSBERG|Nico ..., prvak Formule 1 2016.
+SAINZ|Carlos ..., španjolski reli prvak i pobjednik Dakara
+PETERHANSEL|Stéphane ..., rekorder po pobjedama na Dakaru
+BAGNAIA|Francesco ..., talijanski prvak MotoGP-a
+TRIAL|Disciplina svladavanja prepreka motociklom bez spuštanja nogu
+SPEEDWAY|Utrke motocikala bez kočnica na zemljanom ovalu
+GORIČAN|Međimursko mjesto poznato po speedwayu
+KSENON|Plin u farovima s izbijanjem
+PARKIRNI|... senzori, pomažu pri parkiranju
+ISOFIX|Sustav pričvršćivanja dječje sjedalice
+[strucna]
+BALANSNE|... osovine, poništavaju vibracije motora
+REDNI|... motor, cilindri u nizu
+ZVJEZDASTI|... motor, cilindri raspoređeni oko vratila poput zraka
+NIKASIL|Prevlaka cilindara od nikla i silicijeva karbida
+KOVANI|... klipovi, otporniji od lijevanih
+TURBINA|Dio turbopunjača koji pokreće ispušni plin
+BAR|Jedinica tlaka punjenja
+ANTILAG|Sustav koji turbinu održava u vrtnji kad se otpusti gas
+SEKVENCIJALNI|... mjenjač, stupnjevi se mijenjaju redom
+LSD|Diferencijal s ograničenim proklizavanjem (kratica)
+BLOKADA|... diferencijala, zaključava kotače iste osovine
+REDUKTOR|Terenski ..., niži prijenos za strme uspone
+PUSHROD|Ovjes s potisnom šipkom u Formuli 1
+PULLROD|Ovjes s vučnom šipkom u Formuli 1
+NEOPRUŽENA|... masa, masa kotača i dijelova ispod opruge
+AKTIVNI|... ovjes, prvak s Williamsom 1992.
+TELESKOPSKA|... vilica, najčešći prednji ovjes motocikla
+TELELEVER|BMW-ov prednji ovjes motocikla
+PARALEVER|BMW-ov stražnji ovjes s kardanom
+NJIHALICA|Stražnja vilica motocikla
+PRIZEMNI|... učinak, usisavanje bolida uz tlo
+VENTURIJEVI|... kanali pod bolidom
+SUKNJE|Bočne pregrade koje su brtvile prizemni učinak
+VENTILATOR|Brabhamov bolid BT46B pokretao je ...
+BALAST|Dodatni teret u vozilu
+FIA|Međunarodna automobilistička federacija (kratica)
+FIM|Međunarodna motociklistička federacija (kratica)
+DFV|Cosworthov motor s najviše pobjeda u Formuli 1 (kratica)
+COSWORTH|Britanski proizvođač motora DFV
+DUCKWORTH|Keith ..., suosnivač Coswortha
+MATRA|Francuski konstruktor prvačkog bolida 1969.
+ALFETTA|Alfa Romeov bolid prvaka 1950.
+STRIJELE|Srebrne ..., Mercedesovi trkaći automobili tridesetih
+UNION|Auto ..., Mercedesov suparnik tridesetih
+ROSEMEYER|Bernd ..., vozač Auto Uniona tridesetih
+CARACCIOLA|Rudolf ..., Mercedesov vozač tridesetih
+NUVOLARI|Tazio ..., talijanski as tridesetih
+ASCARI|Alberto ..., prvak Formule 1 1952. i 1953.
+FARINA|Giuseppe ..., prvi prvak Formule 1 1950.
+HAWTHORN|Mike ..., prvi britanski prvak Formule 1
+GRAHAM|... Hill, jedini dobitnik Trostruke krune motosporta
+RINDT|Jochen ..., posmrtni prvak Formule 1 1970.
+PETERSON|Ronnie ..., švedski vozač Lotusa
+SCHECKTER|Jody ..., južnoafrički prvak Formule 1 1979.
+KEKE|... Rosberg, finski prvak Formule 1 1982.
+DUKE|Geoff ..., britanski motociklistički prvak pedesetih
+SURTEES|John ..., jedini svjetski prvak i na dva i na četiri kotača
+MIKKOLA|Hannu ..., reli prvak 1983. s Audijem Quattro
+BLOMQVIST|Stig ..., reli prvak 1984.
+VATANEN|Ari ..., reli prvak 1981.
+MOUTON|Michèle ..., najuspješnija žena u svjetskom reliju
+METANOL|Gorivo utrka IndyCara do sredine 2000-ih
+NITROMETAN|Gorivo dragstera
+DRAGSTER|Vozilo za utrke ubrzanja na četvrt milje

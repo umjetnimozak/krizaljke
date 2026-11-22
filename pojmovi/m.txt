@@ -1,0 +1,459 @@
+[opca]
+AUTOMOBIL|Vozilo na četiri kotača s motorom
+AUTO|Kraći naziv za automobil
+MOTOCIKL|Vozilo na dva kotača s motorom
+KOTAČ|Okrugli dio vozila koji se okreće
+GUMA|Pneumatik na kotaču
+VOLAN|Upravljač automobila
+KOČNICA|Dio koji usporava i zaustavlja vozilo
+PAPUČICA|Nožna komanda gasa, kočnice ili spojke
+GAS|Pritisneš ga za ubrzanje
+SPOJKA|Pedala koja se stišće pri promjeni brzine kod ručnog mjenjača
+MJENJAČ|Sklop za promjenu brzina
+BENZIN|Gorivo za Ottov motor
+DIZEL|Gorivo i motor nazvani po Rudolfu Dieselu
+SPREMNIK|Rezervoar za gorivo
+AKUMULATOR|Baterija u automobilu
+FAR|Prednje svjetlo automobila
+ŽMIGAVAC|Pokazivač smjera
+SIRENA|Zvučni signal hitnih vozila
+BRISAČI|Čiste vjetrobransko staklo
+VJETROBRAN|Prednje staklo automobila
+RETROVIZOR|Zrcalo za gledanje unatrag
+SIGURNOSNI|... pojas, vežemo ga pri vožnji
+ZRAČNI|... jastuk, napuhne se pri sudaru
+SJEDALO|Mjesto za sjedenje u autu
+PRTLJAŽNIK|Spremište za prtljagu
+HAUBA|Poklopac motora
+BRANIK|Odbojnik na prednjem i stražnjem dijelu auta
+KAROSERIJA|Vanjski oklop automobila
+ŠASIJA|Nosivi okvir vozila
+VRATA|Kroz njih ulazimo u auto
+KABRIOLET|Automobil s krovom koji se spušta
+LIMUZINA|Luksuzni automobil s izduženom kabinom
+KOMBI|Vozilo za prijevoz više putnika ili tereta
+KAMION|Teretno vozilo
+AUTOBUS|Vozilo javnog prijevoza za mnogo putnika
+TRAKTOR|Poljoprivredno vozilo
+TAKSI|Vozilo s vozačem koje se plaća po vožnji
+SKUTER|Mali motocikl s platformom za noge
+MOPED|Laki motocikl s malim motorom
+KACIGA|Zaštita za glavu motociklista
+VOZAČ|Onaj koji upravlja vozilom
+VOZAČKA|... dozvola, isprava za upravljanje vozilom
+REGISTRACIJA|Godišnja prijava vozila
+TABLICA|Registarska ... s oznakom grada
+AUTOŠKOLA|Mjesto gdje se uči voziti
+SEMAFOR|Svjetlosni signal na raskrižju
+RASKRIŽJE|Mjesto križanja cesta
+KRUŽNI|... tok, raskrižje u obliku kruga
+CESTA|Put za vozila
+AUTOCESTA|Brza cesta s više traka
+CESTARINA|Naknada za korištenje autoceste
+TUNEL|Prolaz kroz brdo
+PARKIRALIŠTE|Mjesto za ostavljanje automobila
+SERVIS|Redovito održavanje vozila
+MEHANIČAR|Majstor za popravak automobila
+DIZALICA|Podiže auto pri promjeni kotača
+REZERVNI|... kotač, za slučaj probušene gume
+ULJE|Maže dijelove motora
+ANTIFRIZ|Tekućina koja sprječava smrzavanje u hladnjaku
+HLADNJAK|Dio koji hladi motor
+ISPUH|Cijev kroz koju izlaze ispušni plinovi
+KATALIZATOR|Pročišćava ispušne plinove
+SVJEĆICA|Pali smjesu u benzinskom motoru
+KLIMA|Uređaj za hlađenje kabine
+NAVIGACIJA|Uređaj koji pokazuje put
+TEMPOMAT|Održava zadanu brzinu vožnje
+BRZINOMJER|Pokazuje brzinu vožnje
+KILOMETAR|Jedinica prijeđenog puta
+SNAGA|Iskazuje se u kilovatima ili konjskim snagama
+CILINDAR|Dio motora u kojem se kreće klip
+KLIP|Dio motora koji se giba u cilindru
+TURBO|Punjač koji povećava snagu motora
+HIBRID|Vozilo s benzinskim i električnim motorom
+ELEKTRIČNI|... automobil, pokreće ga baterija
+PUNJAČ|Mjesto za punjenje električnog automobila
+TESLA|Proizvođač električnih automobila Elona Muska
+FERRARI|Talijanski proizvođač sportskih automobila s propetim konjem
+LAMBORGHINI|Talijanski proizvođač sportskih automobila s bikom u znaku
+PORSCHE|Njemački proizvođač modela 911
+MERCEDES|Njemački proizvođač sa zvijezdom s tri kraka
+BMW|Bavarski proizvođač automobila i motocikala
+AUDI|Proizvođač s četiri karike u znaku
+VOLKSWAGEN|Proizvođač Bube i Golfa
+BUBA|Volkswagenov kultni model
+GOLF|Volkswagenov kompaktni model
+OPEL|Njemački proizvođač modela Corsa i Astra
+FORD|Proizvođač Modela T
+TOYOTA|Japanski proizvođač modela Corolla
+HONDA|Japanski proizvođač automobila i motocikala
+NISSAN|Japanski proizvođač modela Micra
+MAZDA|Japanski proizvođač modela MX-5
+SUZUKI|Japanski proizvođač automobila i motocikala
+YAMAHA|Japanski proizvođač motocikala i glazbala
+KAWASAKI|Japanski proizvođač motocikala Ninja
+DUCATI|Talijanski proizvođač motocikala iz Bologne
+VESPA|Talijanski kultni skuter
+HARLEY|...-Davidson, američki proizvođač motocikala
+FIAT|Talijanski proizvođač modela 500
+YUGO|Automobil iz Zastavine tvornice u Kragujevcu
+ZASTAVA|Tvornica „fiće” i Yuga
+FIĆA|Narodni naziv za Zastavu 750
+RENAULT|Francuski proizvođač modela Clio
+PEUGEOT|Francuski proizvođač s lavom u znaku
+ŠKODA|Češki proizvođač modela Octavia
+VOLVO|Švedski proizvođač poznat po sigurnosti
+JAGUAR|Britanski proizvođač s mačkom u znaku
+BENTLEY|Britanski proizvođač luksuznih automobila
+MINI|Mali britanski kultni automobil
+JEEP|Terenac podrijetlom iz Drugoga svjetskog rata
+LADA|Ruski proizvođač modela Niva
+NIVA|Ladin terenac
+DACIA|Rumunjski proizvođač modela Duster
+KIA|Južnokorejski proizvođač modela Sportage
+HYUNDAI|Južnokorejski proizvođač modela i30
+RIMAC|Hrvatski proizvođač električnog hiperautomobila
+NEVERA|Rimčev električni hiperautomobil
+MATE|... Rimac, osnivač tvrtke Rimac
+FORMULA|... 1, najpoznatije automobilističko natjecanje
+STAZA|Mjesto održavanja utrke
+UTRKA|Natjecanje u brzini
+BOLID|Trkaći automobil Formule 1
+PILOT|Vozač trkaćeg automobila
+BOKS|Mjesto zamjene guma tijekom utrke
+PODIJ|Mjesto proglašenja prvih triju
+KARIRANA|... zastava, znak kraja utrke
+SCHUMACHER|Michael ..., sedmerostruki prvak Formule 1
+HAMILTON|Lewis ..., sedmerostruki prvak Formule 1
+SENNA|Ayrton ..., brazilski prvak Formule 1
+VERSTAPPEN|Max ..., nizozemski prvak Formule 1
+MONZA|Talijanska staza zvana „hram brzine”
+MONAKO|Utrka Formule 1 ulicama Monte Carla
+RELI|Utrka po zemljanim, asfaltnim i snježnim cestama
+DAKAR|Najpoznatiji pustinjski reli
+MOTOGP|Svjetsko prvenstvo motociklističkih utrka
+ROSSI|Valentino ..., talijanska legenda MotoGP-a
+KARTING|Utrke malim vozilima, početak karijere mnogih vozača
+OLDTIMER|Stari, očuvani automobil
+KARAVAN|Automobil s produženim prtljažnim prostorom
+TERENAC|Vozilo za vožnju izvan ceste
+SUV|Sportsko terensko vozilo (kratica)
+SUDAR|Kad vozila udare jedno u drugo
+NESREĆA|Prometna ...
+POLICIJA|Prometna ... nadzire ceste
+RADAR|Mjeri brzinu vozila
+KAZNA|Plaća se za prebrzu vožnju
+ALKOTEST|Mjerenje alkohola u dahu vozača
+PJEŠAK|Sudionik u prometu koji hoda
+ZEBRA|Pješački prijelaz
+PROMET|Kretanje vozila po cestama
+GUŽVA|Mnoštvo vozila koja sporo napreduju
+KOLONA|Niz vozila jedno iza drugoga
+PRETICANJE|Prelaženje sporijeg vozila
+PAUK|Narodni naziv za vozilo koje odvozi nepropisno parkirane automobile
+LIMARIJA|Popravak oštećene karoserije
+LAK|Završni sloj boje na karoseriji
+FELGA|Metalni obruč kotača
+ZIMSKE|... gume, za snijeg i led
+LANCI|Stavljaju se na kotače po snijegu
+MOTORIST|Vozač motocikla
+BAJKER|Kolokvijalno: motociklist
+CHOPPER|Motocikl s izduženom prednjom vilicom
+ENDURO|Motocikl za vožnju po terenu
+MOTOKROS|Utrke motocikala po zemljanoj stazi sa skokovima
+BENZINSKA|... postaja, mjesto točenja goriva
+NAFTA|Sirovina od koje se dobivaju benzin i dizel
+AUTOPLIN|Ukapljeni naftni plin kao gorivo za automobile
+VOZILO|Općeniti naziv za automobil, kamion ili motocikl
+PRIKOLICA|Vuče se iza automobila
+KAMPER|Vozilo za stanovanje na putovanju
+ZRAČNICA|Unutarnja guma kotača
+ŠOFER|Profesionalni vozač
+[teska]
+KARBURATOR|Uređaj koji je miješao gorivo i zrak prije ubrizgavanja
+UBRIZGAVANJE|Sustav koji gorivo dozira u motor pod tlakom
+BREGASTA|... osovina, upravlja ventilima
+VENTIL|Otvara i zatvara usis i ispuh cilindra
+RADILICA|Koljenasto vratilo koje gibanje klipa pretvara u vrtnju
+ZAMAŠNJAK|Teški kotač koji ujednačava vrtnju motora
+DIFERENCIJAL|Omogućuje različitu brzinu vrtnje kotača u zavoju
+KARDAN|Osovina koja prenosi snagu na stražnje kotače
+AMORTIZER|Prigušuje titranje ovjesa
+OVJES|Sustav koji povezuje kotače s karoserijom
+OPRUGA|Elastični dio ovjesa
+STABILIZATOR|Smanjuje naginjanje vozila u zavoju
+SERVO|...-upravljač, olakšava okretanje volana
+ABS|Sustav protiv blokiranja kotača pri kočenju (kratica)
+ESP|Elektronički program stabilnosti (kratica)
+TURBOPUNJAČ|Pogoni ga ispušni plin, a tlači zrak u motor
+KOMPRESOR|Mehanički punjač zraka
+INTERKULER|Hladi stlačeni zrak iz turbopunjača
+ALTERNATOR|Puni akumulator dok motor radi
+ANLASER|Elektromotor kojim se pokreće motor
+RAZVODNIK|Razvodi visoki napon na svjećice
+REMEN|Zupčasti ... razvoda
+KVAČILO|Drugi naziv za spojku
+AUTOMATSKI|... mjenjač, sam mijenja stupnjeve prijenosa
+DSG|Volkswagenov mjenjač s dvostrukom spojkom (kratica)
+POGON|... na sva četiri kotača
+QUATTRO|Audijev pogon na sva četiri kotača
+ZAKRETNI|... moment, mjeri se u njutnmetrima
+OBUJAM|Radni ... motora, u kubičnim centimetrima
+KUBIKAŽA|Kolokvijalno: radni obujam motora
+OKTANSKI|... broj, mjera otpornosti benzina na detonaciju
+OTTO|Nikolaus ..., tvorac četverotaktnog benzinskog motora
+DIESEL|Rudolf ..., izumitelj motora s kompresijskim paljenjem
+DAIMLER|Gottlieb ..., pionir automobila i motocikla
+BENZ|Karl ..., autor prvog patentiranog automobila 1886.
+BERTHA|... Benz, prva osoba koja je 1888. automobilom prešla dugo putovanje
+MAYBACH|Wilhelm ..., Daimlerov konstruktor
+WANKEL|Felix ..., izumitelj rotacijskog motora
+BOXER|Motor s vodoravno suprotstavljenim cilindrima
+DVOTAKTNI|... motor, poput onog u Trabantu
+TRABANT|Istočnonjemački automobil s karoserijom od duroplasta
+WARTBURG|Istočnonjemački automobil iz Eisenacha
+TRAKA|Pokretna ..., Fordova inovacija u proizvodnji
+CHEVROLET|Proizvođač modela Corvette
+CORVETTE|Chevroletov sportski automobil
+MUSTANG|Fordov sportski model predstavljen 1964.
+CADILLAC|Američki proizvođač luksuznih automobila
+CHRYSLER|Jedan od „velike trojke” iz Detroita
+DETROIT|„Grad motora”
+DODGE|Proizvođač modela Charger i Viper
+BUGATTI|Proizvođač modela Veyron i Chiron
+VEYRON|Bugattijev hiperautomobil iz 2005.
+MCLAREN|Britanski proizvođač i momčad Formule 1
+ASTON|... Martin, automobil Jamesa Bonda
+MASERATI|Talijanski proizvođač s trozupcem u znaku
+ALFA|... Romeo, talijanski proizvođač iz Milana
+LANCIA|Talijanski proizvođač modela Delta Integrale
+PININFARINA|Talijanska dizajnerska kuća mnogih Ferrarija
+GIUGIARO|Giorgetto ..., dizajner prvog Golfa
+BERTONE|Talijanska dizajnerska kuća Lamborghinija Countach
+COUNTACH|Lamborghinijev model sa škarastim vratima
+ENZO|... Ferrari, osnivač tvrtke
+FERRUCCIO|... Lamborghini, proizvođač traktora koji je počeo raditi sportske automobile
+SUBARU|Japanski proizvođač s Plejadama u znaku
+LEXUS|Toyotina luksuzna marka
+PRIUS|Toyotin hibrid iz 1997.
+LEAF|Nissanov električni automobil
+CIVIC|Hondin kompaktni model
+COROLLA|Toyotin model, jedan od najprodavanijih automobila
+SPAČEK|Narodni naziv za Citroën 2CV
+SEAT|Španjolski proizvođač modela Ibiza
+TATRA|Češki proizvođač kamiona i aerodinamičnih automobila
+MOSKVIČ|Sovjetski automobil
+TAM|Mariborska tvornica kamiona i autobusa
+TOMOS|Koparski proizvođač mopeda
+LAUDA|Niki ..., austrijski prvak Formule 1 koji je preživio požar 1976.
+HUNT|James ..., prvak Formule 1 1976.
+PROST|Alain ..., „Profesor”, četverostruki prvak Formule 1
+MANSELL|Nigel ..., britanski prvak Formule 1 1992.
+ALONSO|Fernando ..., španjolski dvostruki prvak Formule 1
+VETTEL|Sebastian ..., četverostruki prvak Formule 1
+CLARK|Jim ..., škotski dvostruki prvak Formule 1
+FANGIO|Juan Manuel ..., petorostruki prvak Formule 1
+MOSS|Stirling ..., slavni vozač koji nikad nije osvojio naslov prvaka
+VILLENEUVE|Gilles ..., kanadski vozač Ferrarija
+LECLERC|Charles ..., monegaški vozač Formule 1
+SILVERSTONE|Britanska staza prve utrke Svjetskog prvenstva Formule 1 1950.
+SPA|...-Francorchamps, belgijska staza sa zavojem Eau Rouge
+NORDSCHLEIFE|Sjeverna petlja Nürburgringa, „Zeleni pakao”
+SUZUKA|Japanska staza u obliku osmice
+INTERLAGOS|Staza u São Paulu
+IMOLA|Staza na kojoj je 1994. poginuo Senna
+MANS|Le ..., 24-satna utrka
+INDIANAPOLIS|Utrka na 500 milja na ovalu
+DAYTONA|Floridska staza poznata po utrci od 500 milja
+NASCAR|Američko prvenstvo „stock car” utrka
+POLE|... position, prva startna pozicija
+DRS|Sustav otvaranja stražnjeg krila za lakše pretjecanje (kratica)
+DIFUZOR|Aerodinamički dio pod stražnjim dijelom bolida
+KRILO|Aerodinamički dio koji pritišće bolid uz stazu
+ŠIKANA|Niz kratkih zavoja za usporavanje
+WRC|Svjetsko reli prvenstvo (kratica)
+LOEB|Sébastien ..., deveterostruki svjetski reli prvak
+OGIER|Sébastien ..., francuski višestruki reli prvak nakon Loeba
+MCRAE|Colin ..., škotski reli prvak 1995.
+KANKKUNEN|Juha ..., četverostruki svjetski reli prvak
+SAFARI|Reli u Keniji
+AGOSTINI|Giacomo ..., motociklist s najviše svjetskih naslova u brzinskim utrkama
+LORENZO|Jorge ..., španjolski prvak MotoGP-a
+STONER|Casey ..., australski dvostruki prvak MotoGP-a
+DOOHAN|Mick ..., peterostruki prvak klase 500 ccm
+SHEENE|Barry ..., britanski prvak klase 500 ccm sedamdesetih
+MUGELLO|Toskanska staza MotoGP-a
+GTI|Oznaka sportskih izvedbi Golfa
+SKYLINE|Nissanov model, preteča GT-R-a
+SUPRA|Toyotin sportski model
+CELICA|Toyotin sportski kupe
+DEFENDER|Land Roverov terenac
+WRANGLER|Jeepov terenac
+PAJERO|Mitsubishijev terenac
+MITSUBISHI|Japanski proizvođač modela Lancer Evolution
+LANCER|Mitsubishijev reli model
+IMPREZA|Subarujev reli model
+KUPE|Automobil s dvoja vrata i sportskom linijom
+HEČBEK|Automobil sa stražnjim vratima koja se otvaraju prema gore
+ROADSTER|Otvoreni dvosjed
+MONOVOLUMEN|Obiteljsko vozilo s jednim volumenom karoserije
+VILICA|Prednji ovjes motocikla
+LANAC|Prijenos snage na stražnji kotač motocikla
+SUPERBIKE|Prvenstvo sportskih motocikala izvedenih iz serijskih
+GOLDWING|Hondin turistički motocikl
+FIREBLADE|Hondin sportski motocikl
+MONSTER|Ducatijev motocikl bez oplate
+PANIGALE|Ducatijev superbike
+BONNEVILLE|Triumphov klasični motocikl
+TRIUMPH|Britanski proizvođač motocikala
+NORTON|Britanski proizvođač motocikla Commando
+ENFIELD|Royal ..., proizvođač motocikla Bullet
+APRILIA|Talijanski proizvođač motocikala iz Noalea
+KTM|Austrijski proizvođač motocikala „ready to race”
+HUSQVARNA|Švedski proizvođač motocikala i motornih pila
+LAMBRETTA|Talijanski skuter, Vespin suparnik
+LAMBDA|... sonda, mjeri kisik u ispušnim plinovima
+ADBLUE|Otopina uree za dizelske motore
+OBD|Dijagnostički priključak vozila (kratica)
+HOMOLOGACIJA|Službeno odobrenje tipa vozila
+TAHOGRAF|Bilježi vrijeme vožnje vozača kamiona
+OKRETOMJER|Pokazuje broj okretaja motora
+[strucna]
+CUGNOT|Nicolas-Joseph ..., konstruktor parnog vozila iz 1769.
+FARDIER|Cugnotovo parno vozilo
+LENOIR|Étienne ..., konstruktor motora s unutarnjim izgaranjem 1860.
+ATKINSON|Ciklus s produženom ekspanzijom, čest kod hibrida
+MILLER|Ciklus s kasnim zatvaranjem usisnog ventila
+STIRLING|Motor s vanjskim izgaranjem
+CARNOT|Ciklus idealnog toplinskog stroja
+STEHIOMETRIJSKI|... omjer, idealan omjer zraka i goriva
+DETONACIJA|Nekontrolirano izgaranje, „lupanje” motora
+KOMPRESIJSKI|... omjer, odnos obujma cilindra prije i poslije sabijanja
+HOD|Put klipa od donje do gornje mrtve točke
+PROVRT|Promjer cilindra
+DOHC|Dvije bregaste osovine u glavi motora (kratica)
+OHV|Ventili u glavi pokretani podiznim šipkama (kratica)
+DESMODROMIKA|Ducatijev sustav mehaničkog zatvaranja ventila
+VANOS|BMW-ov sustav promjenjivog razvoda
+VTEC|Hondin sustav promjenjivog razvoda (kratica)
+VALVETRONIC|BMW-ov sustav regulacije snage hodom ventila, bez zaklopke
+COMMON|... rail, dizelsko ubrizgavanje iz zajedničkog voda pod visokim tlakom
+TDI|Volkswagenova oznaka dizela s izravnim ubrizgavanjem (kratica)
+ZAKLOPKA|Leptirasta ... regulira dovod zraka
+USISNA|... grana, razvodi zrak cilindrima
+WASTEGATE|Ventil koji ograničava tlak turbopunjača
+ROOTS|Vrsta mehaničkog kompresora s dva rotora
+HIDRODINAMIČKI|... pretvarač momenta u automatskom mjenjaču
+PLANETARNI|... prijenos, osnova klasičnog automatskog mjenjača
+CVT|Kontinuirano promjenjivi mjenjač (kratica)
+SINKRON|Prsten koji izjednačava brzine zupčanika pri promjeni stupnja
+TORSEN|Samoblokirajući diferencijal s pužnim zupčanicima
+VISKOZNA|... spojka, prenosi moment silikonskim uljem
+HALDEX|Spojka pogona na sve kotače mnogih Volkswagenovih modela
+MCPHERSON|Ovjes s amortizerskom nogom
+MULTILINK|Ovjes s više vodilica
+TORZIJSKA|... greda, stražnji ovjes jednostavnih automobila
+HIDROPNEUMATSKI|... ovjes Citroënovih modela
+PANHARD|... šipka, bočno vodi kruti most
+WATTOV|... mehanizam, vodi kruti stražnji most
+ACKERMANN|Geometrija zakretanja kotača nosi njegovo ime
+KASTER|Nagib osi zakretanja kotača gledano sa strane
+KONVERGENCIJA|Usmjerenost kotača prema unutra
+PODUPRAVLJANJE|Kad automobil u zavoju skreće manje od zadanog
+NADUPRAVLJANJE|Kad stražnji dio automobila u zavoju klizi prema van
+AKVAPLANING|Gubitak prianjanja zbog vodenog sloja
+DRIFT|Kontrolirano bočno klizanje kroz zavoj
+MEĐUGAS|Dodavanje gasa pri spuštanju stupnja prijenosa
+TRAG|Razmak kotača iste osovine
+MEĐUOSOVINSKI|... razmak, udaljenost prednje i stražnje osovine
+KLIRENS|Udaljenost najniže točke vozila od tla
+MONOCOQUE|Samonosiva školjka trkaćeg automobila
+KARBON|Kompozitni materijal šasije bolida Formule 1
+KEVLAR|Aramidno vlakno u zaštitnoj opremi vozača
+HALO|Zaštitni luk iznad kokpita bolida Formule 1
+HANS|Sustav zaštite glave i vrata vozača (kratica)
+CHAPMAN|Colin ..., osnivač Lotusa
+LOTUS|Britanski proizvođač Colina Chapmana
+COOPER|Britanski konstruktor koji je u Formulu 1 uveo motor iza vozača
+BRABHAM|Jack ..., prvak Formule 1 u bolidu vlastite konstrukcije
+TYRRELL|Momčad s bolidom na šest kotača
+GURNEY|Dan ..., vozač po kojem je nazvan rub na stražnjem krilu
+ECCLESTONE|Bernie ..., dugogodišnji gospodar Formule 1
+TODT|Jean ..., šef Ferrarijeve momčadi u Schumacherovo doba
+BRAWN|Ross ..., vlasnik momčadi prvaka 2009.
+NEWEY|Adrian ..., konstruktor prvačkih bolida Williamsa, McLarena i Red Bulla
+MURRAY|Gordon ..., konstruktor McLarena F1
+BOSCH|Njemački proizvođač sustava ubrizgavanja i svjećica
+MICHELIN|Francuski proizvođač guma s Bibendumom
+BIBENDUM|Michelinov čovječuljak od guma
+PIRELLI|Talijanski dobavljač guma Formule 1
+DUNLOP|John Boyd ..., izumitelj zračne gume za bicikl
+GOODYEAR|Charles ..., izumitelj vulkanizacije gume
+VULKANIZACIJA|Postupak stvrdnjavanja gume sumporom
+BRIDGESTONE|Japanski proizvođač guma
+ISSIGONIS|Alec ..., konstruktor Minija
+LEDWINKA|Hans ..., konstruktor Tatre
+JARAY|Paul ..., pionir aerodinamike automobila
+LEVASSOR|Émile ..., pionir automobila iz tvrtke Panhard et Levassor
+DION|De ...-Bouton, rani francuski proizvođač automobila
+ROLLS|Charles ..., suosnivač Rolls-Roycea
+ROYCE|Henry ..., suosnivač Rolls-Roycea
+DUESENBERG|Američki proizvođač luksuznih automobila dvadesetih i tridesetih
+TUCKER|Preston ..., proizvođač modela 48 iz 1948.
+ZAGATO|Talijanska karoserijska kuća poznata po krovu s „dvostrukim mjehurom”
+GHIA|Talijanska karoserijska kuća iz Torina
+TORINO|Grad Fiata
+LINGOTTO|Fiatova tvornica s probnom stazom na krovu
+MIRAFIORI|Fiatova tvornica u Torinu
+WOLFSBURG|Grad Volkswagenove tvornice
+INGOLSTADT|Grad Audija
+ZUFFENHAUSEN|Dio Stuttgarta s Porscheovom tvornicom
+MARANELLO|Sjedište Ferrarija
+MODENA|Grad Maseratija
+MOLSHEIM|Sjedište Bugattija u Alsaceu
+GOODWOOD|Imanje s festivalom brzine
+PIKES|... Peak, utrka uzbrdo u Coloradu
+TARGA|... Florio, sicilijanska cestovna utrka
+MILLE|... Miglia, talijanska utrka na tisuću milja
+CARRERA|... Panamericana, meksička cestovna utrka
+BENNETT|Kup Gordona ..., rane međunarodne automobilske utrke
+GRUPA|... B, reli kategorija ukinuta nakon 1986.
+STRATOS|Lancijin reli automobil sedamdesetih
+DELTA|Lancia ... Integrale, reli automobil šest uzastopnih naslova konstruktora
+HAILWOOD|Mike ..., motociklist zvan „Mike the Bike”
+NIETO|Ángel ..., španjolski prvak u nizu motociklističkih klasa
+SCHWANTZ|Kevin ..., prvak klase 500 ccm 1993.
+RAINEY|Wayne ..., trostruki prvak klase 500 ccm
+SPENCER|Freddie ..., prvak klasa 500 i 250 ccm 1985.
+MCGUINNESS|John ..., višestruki pobjednik TT utrke na Otoku Man
+SNAEFELL|Planinski dio staze TT utrke na Otoku Man
+BROUGH|... Superior, motocikl T. E. Lawrencea
+VINCENT|Britanski proizvođač motocikla Black Shadow
+MUNRO|Burt ..., rekorder s Indianom na slanoj ravnici Bonneville
+INDIAN|Američki proizvođač motocikala osnovan 1901.
+KNUCKLEHEAD|Harleyjev motor iz 1936.
+SHOVELHEAD|Harleyjev motor iz 1966.
+GILERA|Talijanski proizvođač motocikala iz Arcorea
+BENELLI|Talijanski proizvođač motocikala iz Pesara
+AGUSTA|MV ..., proizvođač motocikala s kojim je Agostini osvajao naslove
+GUZZI|Moto ..., proizvođač iz Mandella del Lario
+BIMOTA|Talijanski proizvođač motocikala iz Riminija
+IMV|Novomeška tvornica vozila (kratica)
+CIMOS|Koparski proizvođač dijelova i licencnih Citroëna
+PRELUK|Riječka ulična staza za utrke
+GROBNIK|Automotodrom kod Rijeke
+LITIJ|Metal na kojem se temelje baterije električnih automobila
+REKUPERACIJA|Povrat energije pri kočenju
+INVERTER|Pretvara istosmjernu struju baterije u izmjeničnu za motor
+ASINKRONI|... motor, indukcijski pogon ranih Tesla
+CHADEMO|Japanski standard brzog punjenja
+CCS|Kombinirani sustav punjenja (kratica)
+GORIVNA|... ćelija, iz vodika proizvodi struju
+MIRAI|Toyotin automobil na vodik
+ZAZOR|Razmak ventila koji se podešava
+SEMERING|Brtva na vratilu
+BRTVA|... glave, između bloka i glave motora
+KARTER|Donje kućište motora s uljem
+SVORNJAK|Spaja klip s klipnjačom
+KLIPNJAČA|Spaja klip s koljenastim vratilom

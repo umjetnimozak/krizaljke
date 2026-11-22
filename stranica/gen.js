@@ -93,8 +93,8 @@
 
   // ---- čitanje datoteke s novom verzijom (zajedničko za stranicu i GitHub skriptu) ----
   const SIZES = { mala: { maxCells: 150, maxW: 15, maxH: 17 }, srednja: { maxCells: 250, maxW: 21, maxH: 23 }, velika: { maxCells: 400, maxW: 28, maxH: 30 } };
-  const THEMES = ['o', 'f', 'r', 'p', 'a'];
-  const ALIAS = { 'opća kultura': 'o', 'opca kultura': 'o', 'opća': 'o', 'opca': 'o', 'filmska kultura': 'f', 'film': 'f', 'filmska': 'f', 'rock&roll': 'r', 'rock and roll': 'r', 'rock': 'r', 'rocknroll': 'r', 'povijest': 'p', 'astronomija': 'a' };
+  const THEMES = ['o', 'f', 'r', 'p', 'a', 'm'];
+  const ALIAS = { 'opća kultura': 'o', 'opca kultura': 'o', 'opća': 'o', 'opca': 'o', 'filmska kultura': 'f', 'film': 'f', 'filmska': 'f', 'rock&roll': 'r', 'rock and roll': 'r', 'rock': 'r', 'rocknroll': 'r', 'povijest': 'p', 'astronomija': 'a', 'automoto': 'm', 'auto-moto': 'm', 'auto moto': 'm' };
   const DAL = { 'opća': 'opca', 'opca': 'opca', 'teška': 'teska', 'teska': 'teska', 'stručna': 'strucna', 'strucna': 'strucna' };
   function parse(txt) {
     const meta = {}, rows = [], errs = [];
