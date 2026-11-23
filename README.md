@@ -2,7 +2,7 @@
 
 Stranica za rješavanje križaljki na hrvatskom: tri težine (opća, teška, stručna), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i sedam područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika). Za svaku od 1143 kombinacije unaprijed su složene tri verzije, ukupno 3429 križaljki.
 
-Stranica: **https://umjetnimozak.github.io/krizaljke/**
+Stranica: **https://mojekrizaljke.eu**
 
 ## Kako dodati novu verziju križaljke
 
