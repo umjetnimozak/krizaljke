@@ -95,7 +95,8 @@
   const SIZES = { mala: { maxCells: 150, maxW: 15, maxH: 17 }, srednja: { maxCells: 250, maxW: 21, maxH: 23 }, velika: { maxCells: 400, maxW: 28, maxH: 30 } };
   const THEMES = ['o', 'f', 'r', 'p', 'a', 'm', 'k'];
   const ALIAS = { 'opća kultura': 'o', 'opca kultura': 'o', 'opća': 'o', 'opca': 'o', 'filmska kultura': 'f', 'film': 'f', 'filmska': 'f', 'rock&roll': 'r', 'rock and roll': 'r', 'rock': 'r', 'rocknroll': 'r', 'povijest': 'p', 'astronomija': 'a', 'automoto': 'm', 'auto-moto': 'm', 'auto moto': 'm', 'kozmetika': 'k' };
-  const DAL = { 'opća': 'opca', 'opca': 'opca', 'teška': 'teska', 'teska': 'teska', 'stručna': 'strucna', 'strucna': 'strucna' };
+  // natpisi na stranici: lagana (opca), srednja (teska), teška (strucna)
+  const DAL = { 'lagana': 'opca', 'opća': 'opca', 'opca': 'opca', 'srednja': 'teska', 'teška': 'strucna', 'teska': 'strucna', 'stručna': 'strucna', 'strucna': 'strucna' };
   function parse(txt) {
     const meta = {}, rows = [], errs = [];
     String(txt).replace(/^\uFEFF/, '').split(/\r?\n/).forEach((line, i) => {
@@ -112,7 +113,7 @@
     const t = [...new Set(tRaw.split(',').map(x => ALIAS[x.trim().toLowerCase()]).filter(Boolean))];
     if (!t.length) errs.push('Nedostaje ili nije prepoznat redak „područja:”.');
     if (tRaw.split(',').some(x => x.trim() && !ALIAS[x.trim().toLowerCase()])) errs.push('Neko područje nije prepoznato: ' + tRaw);
-    const d = DAL[(meta['tezina'] || '').toLowerCase()]; if (!d) errs.push('Težina mora biti opća, teška ili stručna.');
+    const d = DAL[(meta['tezina'] || '').toLowerCase()]; if (!d) errs.push('Težina mora biti lagana, srednja ili teška.');
     const s = (meta['velicina'] || '').toLowerCase(); if (!SIZES[s]) errs.push('Veličina mora biti mala, srednja ili velika.');
     if (rows.length < 5) errs.push('Potrebno je barem 5 pojmova.');
     return { t, d, s, naziv: meta['naziv'] || '', rows, errs };

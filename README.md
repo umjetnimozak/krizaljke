@@ -1,6 +1,6 @@
 # Križaljke
 
-Stranica za rješavanje križaljki na hrvatskom: tri težine (opća, teška, stručna), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i sedam područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika). Za svaku od 1143 kombinacije unaprijed su složene tri verzije, ukupno 3429 križaljki.
+Stranica za rješavanje križaljki na hrvatskom: tri težine (lagana, srednja, teška), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i sedam područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika). Za svaku od 1143 kombinacije unaprijed su složene tri verzije, ukupno 3429 križaljki.
 
 Stranica: **https://mojekrizaljke.eu**
 
@@ -10,7 +10,7 @@ Stranica: **https://mojekrizaljke.eu**
 
    ```
    područja: povijest, rock&roll
-   težina: teška
+   težina: srednja
    veličina: mala
    naziv: Jesenska verzija
    GUBEC | Matija ..., vođa seljačke bune 1573.
@@ -19,7 +19,7 @@ Stranica: **https://mojekrizaljke.eu**
    ```
 
    - **područja**: jedno ili više, odvojena zarezom: opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika
-   - **težina**: opća, teška ili stručna
+   - **težina**: lagana, srednja ili teška
    - **veličina**: mala, srednja ili velika
    - **naziv** nije obavezan
    - Svaki pojam je u svom retku: `ODGOVOR | pitanje`. Umjesto `|` može i `;`.
@@ -36,7 +36,7 @@ Ako datoteka ima grešku, ona se preskače, a ostatak stranice se svejedno objav
 
 ## Kako urediti ugrađene pojmove
 
-Pojmovi su u mapi `pojmovi` (po jedna datoteka za svako područje, s odjeljcima `[opca]`, `[teska]` i `[strucna]`). Nakon izmjene treba ponovno složiti sve križaljke (traje desetak minuta). Za to je potreban Node.js na računalu:
+Pojmovi su u mapi `pojmovi` (po jedna datoteka za svako područje, s odjeljcima `[opca]`, `[teska]` i `[strucna]`, koji odgovaraju težinama lagana, srednja i teška). Nakon izmjene treba ponovno složiti sve križaljke (traje desetak minuta). Za to je potreban Node.js na računalu:
 
 ```
 node alati/izgradi.js      # ponovno složi sve križaljke u stranica/data
