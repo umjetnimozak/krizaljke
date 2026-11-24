@@ -68,6 +68,54 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 @media(max-width:900px){main{grid-template-columns:minmax(0,1fr)}.pick .in{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:600px){.bar{position:sticky;top:0;z-index:5;margin:8px 0}.wrap{max-height:70vh}}
 @media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
+.pbox{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin-top:10px;padding:12px;border:2px dashed var(--ink);background:var(--paper)}
+.pbox label{display:flex;gap:8px;align-items:center;min-height:44px;cursor:pointer}.pbox input{width:20px;height:20px;accent-color:var(--red)}
+.pnote{font-size:13px;color:var(--mut)}
+#printArea{position:absolute;left:-10000px;top:0;visibility:hidden;width:186mm;font:8.6pt/1.28 "Libre Franklin",Arial,sans-serif;color:#000;background:#fff}
+.sk{display:grid;margin:0 auto;width:max-content}
+#printArea .pg{display:flex;justify-content:center;margin:0 0 3mm}#printArea .pg svg{display:block}
+#printArea .pc{column-gap:4mm;column-rule:.3mm solid #bbb;line-height:1.18}
+#printArea .pc h3{font:800 1.25em Bitter,Georgia,serif;margin:0 0 .6mm;break-after:avoid}
+#printArea .pc h3+ol{margin-bottom:2mm}
+#printArea .pc ol{list-style:none;margin:0;padding:0}
+#printArea .pc li{display:flex;gap:1.2mm;padding:.15mm 0;break-inside:avoid;border:0;background:none;cursor:default}
+#printArea .pc li b{min-width:4.2mm;text-align:right;font-weight:800;color:#000}
+#printArea .ph{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:.4mm solid #000;padding-bottom:2mm;margin-bottom:3mm}
+#printArea .ph .brand{font:800 8.5pt "Libre Franklin",sans-serif}#printArea .ph .brand i{font-style:normal;color:#d7262e}
+#printArea .ph h1{font:800 17pt/1.05 Bitter,Georgia,serif;margin:.8mm 0 0}#printArea .ph .sub{font-size:8.5pt;margin-top:.8mm}
+.sk>div{position:relative;box-sizing:border-box}
+.sk .L{outline:.3mm solid #000;outline-offset:-.15mm;display:flex;align-items:center;justify-content:center;font:700 5mm "Libre Franklin",Arial,sans-serif}
+.sk .L.dg{font-size:3.6mm}
+.sk .Q{outline:.3mm solid #000;outline-offset:-.15mm;z-index:1;background:#e6e6e6;display:flex;flex-direction:column}
+.sk .q{flex:1 1 0;min-height:0;overflow:hidden;display:flex;align-items:center;justify-content:center;text-align:center;padding:.3mm .5mm;line-height:1.05;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word;position:relative}
+.sk .q+.q{border-top:.25mm solid #000}
+.sk .q i{position:absolute;width:0;height:0;border:1.1mm solid transparent}
+.sk .q i.A{right:-1.6mm;top:50%;margin-top:-1.1mm;border-left-color:#000;z-index:2}
+.sk .q i.D{bottom:-1.6mm;left:50%;margin-left:-1.1mm;border-top-color:#000;z-index:2}
+@media print{
+ @page{size:A4 portrait;margin:12mm 12mm 14mm}
+ :root{color-scheme:light}
+ html,body{background:#fff!important;color:#000!important}
+ body>*:not(#printArea){display:none!important}
+ #printArea{position:static;visibility:visible;width:auto}
+ .ph{display:flex;justify-content:space-between;align-items:flex-end;gap:10mm;border-bottom:1.2pt solid #000;padding-bottom:2.5mm;margin-bottom:4mm}
+ .ph .brand{font:800 9pt "Libre Franklin",sans-serif;letter-spacing:.02em}.ph .brand i{font-style:normal;color:#d7262e}
+ .ph h1{font:800 19pt/1.05 Bitter,Georgia,serif;margin:1mm 0 0}
+ .ph .sub{font-size:9pt;margin-top:1mm}
+ .ph .fill{font-size:9pt;line-height:2.1;white-space:nowrap}.ph .fill span{display:inline-block;width:38mm;border-bottom:.6pt solid #000;margin-left:2mm}
+ .pg{display:flex;justify-content:center;margin:0 0 4mm}.pg svg{display:block}
+ .pc{column-count:3;column-gap:6mm;column-rule:.4pt solid #bbb}
+ .pc h3{font:800 10.5pt Bitter,Georgia,serif;margin:0 0 1.2mm;break-after:avoid}
+ .pc h3+ol{margin-bottom:3mm}
+ .pc ol{list-style:none;margin:0;padding:0}
+ .pc li{display:flex;gap:1.6mm;padding:.35mm 0;break-inside:avoid}
+ .pc li b{min-width:5mm;text-align:right;font-weight:800;color:#000}
+ .pc li{border-bottom:.3pt solid #ddd;background:none!important}
+ .pc li.done span{text-decoration:none;color:#000}
+ .psol{break-before:page;text-align:center}
+ .psol h2{font:800 14pt Bitter,Georgia,serif;margin:0 0 4mm;text-align:left;border-bottom:1.2pt solid #000;padding-bottom:2mm}
+ .pfoot{margin-top:3mm;font-size:7.5pt;color:#444;text-align:right}
+}
 </style></head><body>
 <header><h1>Križaljke</h1><p>Odaberi težinu, veličinu i jedno ili više područja, pa rješavaj. Svaka kombinacija ima tri verzije.</p></header>
 <div class="pick"><div class="in">
@@ -82,7 +130,12 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
  <div class="wrap" id="wrap"><div class="grid" id="g"><div class="loading">Učitavanje križaljke…</div></div></div>
  <div class="bar"><button id="prev" aria-label="Prethodni pojam">‹</button><b id="cn">–</b><span id="ct"></span><button id="next" aria-label="Sljedeći pojam">›</button></div>
  <div class="keys" aria-label="Hrvatska slova"><button class="k">Č</button><button class="k">Ć</button><button class="k">Đ</button><button class="k">Š</button><button class="k">Ž</button><button class="k">LJ</button><button class="k">NJ</button><button class="k">DŽ</button><button class="k" id="dir" title="Promijeni smjer" aria-label="Promijeni smjer">⇄</button></div>
- <div class="tools"><button class="pri" id="chk">Provjeri</button><button id="rl">Otkrij slovo</button><button id="rw">Otkrij riječ</button><button id="ra">Otkrij sve</button><button id="rs">Kreni ispočetka</button></div>
+ <div class="tools"><button class="pri" id="chk">Provjeri</button><button id="rl">Otkrij slovo</button><button id="rw">Otkrij riječ</button><button id="ra">Otkrij sve</button><button id="rs">Kreni ispočetka</button><button id="pr">Ispiši</button></div>
+ <div class="pbox" id="pbox" hidden>
+  <label><input type="checkbox" id="pMine"> S mojim upisanim slovima</label>
+  <button class="btn pri" id="pGo">Ispiši (A4)</button>
+  <span class="pnote">Za PDF u prozoru ispisa odaberi „Spremi kao PDF”.</span>
+ </div>
  <div class="stat">Popunjeno: <strong id="pf">0</strong> / <span id="pt">0</span> polja · Riješeno: <strong id="ps">0</strong> / <span id="pn">0</span> pojmova</div>
  <div class="win" id="win">Bravo! Križaljka je točno riješena.</div>
 </div>
@@ -90,6 +143,7 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 </main>
 
 <footer>LJ, NJ i DŽ zauzimaju jedno polje: utipkaj ih redom (npr. L pa J) ili dodirni tipku. Napredak se sprema u ovom pregledniku.</footer>
+<div id="printArea"></div>
 <input id="kb" autocomplete="off" autocapitalize="characters" autocorrect="off" spellcheck="false" aria-label="Unos slova">
 <script src="gen.js"></script>
 <script>
@@ -193,6 +247,48 @@ const reveal=cells=>{cells.forEach(([r,c])=>{if(val[r][c]!=sol[r][c]){val[r][c]=
 $('rl').onclick=()=>{if(P){reveal([[cur.r,cur.c]]);focusKb()}};
 $('rw').onclick=()=>{if(!P)return;const w=wordAt(cur.r,cur.c,cur.d);if(w)reveal(w.cells)};
 const conf=(btn,fn)=>{let t;const orig=btn.textContent;btn.onclick=()=>{if(!P)return;if(btn.dataset.a){fn();btn.textContent=orig;delete btn.dataset.a;clearTimeout(t)}else{btn.dataset.a=1;btn.textContent='Sigurno? Dodirni opet';t=setTimeout(()=>{btn.textContent=orig;delete btn.dataset.a},3000)}}};
+/* ---------- ispis ---------- */
+$('pr').onclick=()=>{$('pbox').hidden=!$('pbox').hidden};
+$('pGo').onclick=()=>{buildPrint();try{window.print()}catch(e){}};
+addEventListener('beforeprint',()=>{if(P&&!$('printArea').dataset.fresh)buildPrint();delete $('printArea').dataset.fresh});
+function gridSVG(letters,cs){
+ const W=P.w,H=P.h,u=10,num={};let o='';P.words.forEach(w=>num[w.r*1000+w.c]=w.n);
+ for(let r=0;r<H;r++)for(let c=0;c<W;c++){if(!sol[r][c])continue;const x=c*u,y=r*u;
+  o+=`<rect x="${x}" y="${y}" width="${u}" height="${u}" fill="#fff" stroke="#000" stroke-width="0.5"/>`;
+  if(num[r*1000+c])o+=`<text x="${x+0.7}" y="${y+3.2}" font-size="3" font-family="Libre Franklin,Arial,sans-serif">${num[r*1000+c]}</text>`;
+  const L=letters(r,c);if(L)o+=`<text x="${x+u/2}" y="${y+u*0.74}" font-size="${L.length>1?4.4:6.2}" text-anchor="middle" font-weight="700" font-family="Libre Franklin,Arial,sans-serif">${L}</text>`}
+ return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 ${W*u+1} ${H*u+1}" style="width:${(W*cs).toFixed(2)}mm;height:${(H*cs).toFixed(2)}mm">${o}</svg>`;
+}
+function buildPrint(){
+ if(!P)return;const A=$('printArea'),up=sel.v>3?myUploads()[sel.v-4]:null,mine=$('pMine').checked;
+ const title=esc(up&&up.naziv?up.naziv:'Verzija '+sel.v),sub=`${DNAME[sel.d]} · ${SNAME[sel.s]} · ${sel.t.map(t=>TNAME[t]).join(', ')}`;
+ const head=`<div class="ph"><div><div class="brand">KRIŽALJKE <i>·</i> mojekrizaljke.eu</div><h1>${title}</h1><div class="sub">${sub} · ${P.words.length} pojmova</div></div></div>`;
+ const MM=96/25.4,PAGE=258; // visina korisnog dijela A4 u mm
+ if(sel.s=='mala'){
+  // klasična (švedska) mreža: pitanje stoji u praznom polju ispred početka riječi
+  const GW=P.w+1,GH=P.h+1,Q={};
+  P.words.forEach(w=>{const k=w.d=='A'?(w.r+1)*1000+w.c:w.r*1000+w.c+1;(Q[k]=Q[k]||{})[w.d]=w});
+  const cs=Math.min(186/GW,248/GH,16);let g='';
+  for(let r=0;r<GH;r++)for(let c=0;c<GW;c++){
+   const L=r>0&&c>0?sol[r-1][c-1]:null,q=Q[r*1000+c];
+   if(L){const v=mine?val[r-1][c-1]:'';g+=`<div class="L${v.length>1?' dg':''}">${v}</div>`}
+   else if(q){g+=`<div class="Q">${['A','D'].filter(d=>q[d]).map(d=>`<div class="q"><span>${esc(q[d].q)}</span><i class="${d}"></i></div>`).join('')}</div>`}
+   else g+='<div></div>';
+  }
+  A.innerHTML=head+`<div class="sk" style="grid-template-columns:repeat(${GW},${cs.toFixed(2)}mm);grid-auto-rows:${cs.toFixed(2)}mm">${g}</div>`;
+  const max=Math.min(7,cs*0.48),min=3.2;
+  A.querySelectorAll('.q').forEach(q=>{const sp=q.firstChild;let f=max;q.style.fontSize=f+'pt';while(f>min&&(sp.scrollHeight>q.clientHeight||sp.scrollWidth>q.clientWidth)){f-=0.2;q.style.fontSize=f+'pt'}});
+ }else{
+  // srednja i velika: mreža i pitanja ispod, sve stisnuto na jednu stranicu
+  const li=w=>`<li><b>${w.n}</b><span>${esc(w.q)} (${w.t.length})</span></li>`,by=d=>P.words.filter(w=>w.d==d);
+  const cols=sel.s=='velika'?4:3,clues=`<h3>Vodoravno</h3><ol>${by('A').map(li).join('')}</ol><h3>Okomito</h3><ol>${by('D').map(li).join('')}</ol>`;
+  let cs=Math.min(186/P.w,9),fs=8;
+  const render=()=>{A.innerHTML=head+`<div class="pg">${gridSVG((r,c)=>mine?val[r][c]:'',cs)}</div><div class="pc" style="column-count:${cols};font-size:${fs}pt">${clues}</div>`;return A.scrollHeight/MM};
+  // naizmjence smanjuj mrežu i slova dok sve ne stane na A4
+  for(let i=0;i<80&&render()>PAGE;i++){if(fs>6.2&&(i%2==0||cs<=4.6))fs-=0.2;else if(cs>4.6)cs-=0.15;else if(fs>5.2)fs-=0.2;else break}
+ }
+ A.dataset.fresh=1;
+}
 conf($('ra'),()=>reveal(P.words.flatMap(w=>w.cells)));
 conf($('rs'),()=>{for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)val[r][c]='';for(const k in rev)delete rev[k];save();clearMarks();paint()});
 
