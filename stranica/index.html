@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="hr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Križaljke</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;800&family=Bitter:wght@700;800&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,600;0,700;1,400&family=Fira+Sans:wght@600;700&family=Libre+Franklin:wght@400;600;800&family=Bitter:wght@700;800&display=swap" rel="stylesheet">
 <style>
 /* VOICE: vedri nedjeljni novinski prilog, jasan i bez ukrasa
    IDEA: kiosk križaljki — odabereš svezak, otvoriš ga i rješavaš
@@ -93,6 +93,30 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 .sk .q i{position:absolute;width:0;height:0;border:1.1mm solid transparent}
 .sk .q i.A{right:-1.6mm;top:50%;margin-top:-1.1mm;border-left-color:#000;z-index:2}
 .sk .q i.D{bottom:-1.6mm;left:50%;margin-left:-1.1mm;border-top-color:#000;z-index:2}
+/* ---------- izgled „Novine”: krem papir, crna tinta, serifni naslovi ---------- */
+:root,:root[data-theme]{color-scheme:light;--bg:#f3efe4;--paper:#fbf9f3;--ink:#1a1714;--mut:#6b645a;--blk:#1a1714;--line:#1a1714;--red:#8c1c13;--sel:#f2d98a;--word:#efe6cf;--soft:#00000014}
+body{font-family:Gelasio,Georgia,serif}
+header{background:var(--bg);color:var(--ink);text-align:center;border-bottom:4px double var(--ink);padding:22px 16px 14px}
+header h1{font:700 clamp(38px,6vw,64px)/1 Gelasio,Georgia,serif;letter-spacing:-.01em}
+header h1::after{content:"";display:block;margin:10px auto 0;width:min(520px,80%);border-top:1px solid var(--ink)}
+header p{font:italic 15px Gelasio,serif;opacity:1;margin:8px auto 0}
+.pick{background:var(--bg);border-bottom:1px solid var(--ink)}
+.grp b{font:700 11px "Fira Sans",sans-serif;text-transform:uppercase;letter-spacing:.12em}
+.seg button,button.k,.tools button,.btn{font-family:Gelasio,serif;border:1px solid var(--ink);background:transparent}
+.seg button[aria-pressed=true],.seg button.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tools button.pri{background:var(--red);border-color:var(--red)}
+.title,h2{font-family:Gelasio,serif}
+.wrap{border:3px solid var(--ink);box-shadow:none;background:var(--paper)}
+.c{font-family:Gelasio,serif;border-color:#1a1714}
+.c sup{font-family:"Fira Sans",sans-serif}
+.bar{background:var(--paper);color:var(--ink);border-top:2px solid var(--ink);border-bottom:2px solid var(--ink)}
+.bar b{background:var(--ink)}
+.bar button{border-color:var(--ink)}
+.clues section{background:var(--paper)!important;border:1px solid var(--ink)!important}
+.clues h2{background:var(--paper)!important;border-bottom:3px double var(--ink);font-size:20px;text-transform:uppercase;letter-spacing:.08em}
+li b{color:var(--ink)}
+li{font-size:15.5px}
+
 @media print{
  @page{size:A4 portrait;margin:12mm 12mm 14mm}
  :root{color-scheme:light}
