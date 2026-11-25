@@ -1,0 +1,803 @@
+BITI|Postojati, egzistirati|L
+GDJE|Upitni prilog za mjesto|L
+SADA|U ovom trenutku|L
+ONDA|U ono vrijeme; zatim|L
+KADA|Posuda za kupanje; i vremenski veznik|L
+REĆI|Izgovoriti, kazati|L
+ZBOG|Prijedlog koji izriče uzrok|L
+LJUDI|Množina od čovjek|L
+ZATO|Prilog: iz tog razloga|L
+NEGO|Poredbeni i suprotni veznik|L
+OVAJ|Pokazna zamjenica za blizinu|L
+TVOJ|Posvojna zamjenica, drugo lice|L
+MAMA|Majka, odmila|L
+TATA|Otac, odmila|L
+NEKA|Čestica za izricanje dopuštanja ili želje|S
+OPET|Ponovno|L
+SVOJ|Povratno-posvojna zamjenica|L
+ŽENA|Odrasla osoba ženskog spola|L
+PRVI|Redni broj od jedan|L
+OTAC|Roditelj muškog spola|L
+DOĆI|Stići, pristići|L
+NAĆI|Pronaći|L
+KROZ|Prijedlog: ... prozor, ... šumu|L
+OSIM|Prijedlog: izuzev|L
+AUTO|Kraći naziv za automobil|L
+MALI|Koji nije velik|L
+DATI|Pokloniti, predati|L
+BROJ|Znamenka, količina|L
+ONAJ|Pokazna zamjenica za udaljenost|L
+IPAK|Unatoč tome|L
+TADA|U ono vrijeme|L
+SRCE|Organ koji pumpa krv|L
+MOĆI|Biti u stanju nešto učiniti|L
+GRAD|Veće naselje; i led koji pada s neba|L
+HALO|Pozdrav na telefonu|L
+PRED|Prijedlog: ispred|L
+KRAJ|Završetak|L
+VANI|Izvana, na otvorenom|L
+BRAT|Muško dijete istih roditelja|L
+PLAN|Zamisao kako nešto ostvariti|L
+BROD|Plovilo za prijevoz po moru|L
+LICE|Prednji dio glave|L
+SMRT|Kraj života|L
+ŠEST|Broj iza pet|L
+ČUTI|Opažati sluhom|L
+IAKO|Dopusni veznik|L
+PIĆE|Ono što se pije|L
+KUĆA|Zgrada za stanovanje|L
+ISTI|Jednak, nepromijenjen|L
+IGRA|Zabava s pravilima|L
+STAN|Prostor za stanovanje u zgradi|L
+KRIV|Koji je skrivio|L
+FILM|Pokretne slike snimljene kamerom|L
+BOLJI|Komparativ od dobar|L
+LEĐA|Stražnja strana trupa|L
+URED|Prostorija za rad s papirima|L
+KĆER|Kći, u kolokvijalnom obliku|L
+CURA|Djevojka|L
+KRALJ|Okrunjeni vladar|L
+GLAS|Zvuk koji izlazi iz grla; i izborni listić|L
+ZNAK|Oznaka, simbol|L
+USTA|Otvor za jelo i govor|L
+KLJUČ|Otključava bravu|L
+OSAM|Broj iza sedam|L
+ČAST|Ugled, poštenje|L
+BIĆE|Živo stvorenje|L
+PIVO|Piće od ječma i hmelja|L
+VODA|H₂O|L
+VRAG|Đavao|L
+TRAG|Otisak koji netko ostavi|L
+RADO|S voljom, sa zadovoljstvom|L
+KUDA|Upitni prilog za smjer|L
+KOLA|Automobil, kolokvijalno; i zaprežno vozilo|L
+BEBA|Novorođenče|L
+ZRAK|Smjesa plinova koju udišemo|L
+ITKO|Bilo tko|S
+ČUDO|Neobjašnjiv, nevjerojatan događaj|L
+STOL|Namještaj za objedovanje|L
+VEZA|Spoj, poveznica|L
+GLUP|Neinteligentan|L
+KLUB|Udruga ljudi istih interesa|L
+BRAK|Bračna zajednica|L
+TEST|Provjera znanja|L
+PLES|Ritmično kretanje uz glazbu|L
+POĆI|Krenuti|L
+OBJE|Jedna i druga|L
+ŠALA|Vic, dosjetka|L
+RUKA|Ud od ramena do šake|L
+PITA|Pecivo s nadjevom, npr. od jabuka|L
+ZVUK|Ono što čujemo|L
+STAR|Koji nije mlad|L
+DAMA|Gospođa; i šahovska figura|L
+PITI|Gutati tekućinu|L
+VLAK|Prijevozno sredstvo na tračnicama|L
+BAKA|Majka roditelja|L
+MORE|Velika slana voda|L
+DJED|Otac roditelja|L
+VOĐA|Predvodnik|L
+VINO|Piće od grožđa|L
+MESO|Hrana od životinjskog mišića|L
+SPOJ|Sastanak dvoje zaljubljenih; i veza|L
+META|Cilj u koji se gađa|L
+NOĆU|Tijekom noći|L
+VRAT|Dio tijela između glave i trupa|L
+UJAK|Majčin brat|L
+KOSA|Dlake na glavi|L
+KRUG|Lik kojem je opseg 2rπ|L
+PARK|Javni zeleni prostor|L
+ČLAN|Pripadnik skupine|L
+TRIK|Smicalica, varka|L
+DUGA|Šareni luk na nebu nakon kiše|L
+ČIST|Koji nije prljav|L
+DRVO|Biljka s deblom|L
+BOJA|Crvena, plava, zelena…|L
+MILJA|Mjera za duljinu od oko 1,6 km|L
+PLUS|Znak zbrajanja|L
+NADA|Vjera u bolje; i žensko ime|L
+DUŠA|Nematerijalni dio čovjeka|L
+NEBO|Svod iznad nas|L
+TREN|Trenutak|L
+MOST|Prijelaz preko rijeke|L
+PRST|Dio šake|L
+RIBA|Životinja koja diše škrgama|L
+ULAZ|Mjesto kroz koje se ulazi|L
+SELO|Seosko naselje|L
+UDAR|Snažan udarac|L
+TETA|Očeva ili majčina sestra|L
+ISUS|Središnji lik kršćanstva|L
+ADAM|Prvi čovjek prema Bibliji|L
+SARA|Abrahamova žena|S
+JELO|Hrana pripremljena za obrok|L
+KIŠA|Oborina u kapima|L
+AMEN|Završna riječ molitve|L
+RUPA|Udubina, otvor|L
+OTOK|Kopno okruženo vodom|L
+MLAD|Koji nije star|L
+POLJE|Obrađena zemlja|L
+DRAG|Mio, omiljen|L
+ŽELJA|Ono što želimo|L
+KAVA|Napitak od prženih zrna|L
+SVET|Posvećen, svetački|L
+RANA|Ozljeda na koži|L
+FONT|Vrsta slova na računalu|L
+KAMP|Mjesto za šatore|L
+LJETO|Najtoplije godišnje doba|L
+PARA|Isparena voda; i sitni novac|L
+STIL|Način izražavanja|L
+NOGA|Ud kojim hodamo|L
+STAV|Mišljenje, gledište|L
+GRLO|Prednji dio vrata|L
+OKUS|Osjetilo na jeziku|L
+KROV|Gornji dio kuće|L
+STOP|Prometni znak za zaustavljanje|L
+GOLF|Sport s palicom i rupama|L
+HRPA|Gomila|L
+UKUS|Okus; i osjećaj za lijepo|L
+GOST|Posjetitelj|L
+SILA|Snaga|L
+MRAK|Tama|L
+MUKA|Patnja; i mučnina|L
+TLAK|Pritisak; i krvni tlak|L
+SLAB|Koji nije jak|L
+PRSA|Prednji dio trupa|L
+KRUH|Pečeni proizvod od brašna|L
+NIVO|Razina|S
+PULS|Otkucaji srca na zapešću|L
+KOŽA|Najveći organ tijela|L
+KINO|Dvorana za prikazivanje filmova|L
+RAME|Dio tijela između vrata i ruke|L
+GROB|Mjesto ukopa|L
+VOLJA|Htijenje|L
+KOST|Dio kostura|L
+TEMA|Predmet razgovora|L
+LUKA|Mjesto pristajanja brodova|L
+JAJE|Kokoš ga snese|L
+ŠTAP|Duga tanka drvena šipka|L
+PLIN|Tvar u plinovitom stanju|L
+FACA|Lice, kolokvijalno; i važna osoba|S
+PAPA|Poglavar Katoličke crkve|L
+GAĆE|Donje rublje|L
+LANE|Mladunče srne|L
+LORD|Engleski plemićki naslov|L
+NULA|Broj koji označava ništa|L
+ROBA|Proizvodi za prodaju|L
+BAZA|Temelj; i vojno uporište|L
+KAOS|Potpuni nered|L
+BOCA|Staklena posuda za piće|L
+HRAM|Svetište|L
+SRAM|Stid|L
+ALAT|Oruđe za rad|L
+SKUP|Okupljanje ljudi; i koji puno košta|L
+SKOK|Odraz od tla|L
+FAKS|Fakultet, kolokvijalno; i telefaks|L
+JAKI|Snažni|L
+SIĆI|Spustiti se|L
+BRDO|Uzvisina manja od planine|L
+UŽAS|Strava|L
+OPIS|Prikaz riječima|L
+IVAN|Muško ime; ... Gundulić, autor „Osmana”|L
+GUMA|Elastičan materijal; i automobilski pneumatik|L
+ALFA|Prvo slovo grčkog alfabeta|L
+ŠTIT|Zaštita od udaraca|L
+BUKA|Glasna galama|L
+LIST|Dio biljke; i stranica|L
+KAUČ|Sofa, ležaj|L
+PETI|Redni broj od pet|L
+RIMA|Slaganje glasova na kraju stihova|L
+UMAK|Gusta tekućina uz jelo|L
+VOĆE|Jabuke, kruške, šljive…|L
+KRIŽ|Simbol kršćanstva|L
+TRUD|Napor|L
+VILA|Luksuzna kuća; i biće iz bajke|L
+MRAZ|Smrznuta rosa|L
+TONA|Tisuću kilograma|L
+PILA|Alat za piljenje|L
+DISK|Okrugla ploča; i memorija računala|L
+TUĆI|Udarati|L
+ZONA|Područje|L
+MARS|„Crveni planet”|L
+ZMAJ|Bajkovito biće koje bljuje vatru|L
+BLOK|Bilježnica; i niz zgrada|L
+SUZA|Kap iz oka|L
+FAZA|Stupanj razvoja|L
+ŠUMA|Područje gusto obraslo drvećem|L
+GROF|Plemićki naslov|L
+RUŽA|Cvijet s trnjem|L
+GUMB|Puce; i tipka|L
+PILE|Mladunče kokoši|L
+ČAŠA|Posuda za piće|L
+IRIS|Šarenica oka; i cvijet perunika|S
+PRAH|Prašina, puder|L
+MARŠ|Vojnička koračnica|L
+MINA|Eksplozivna naprava|L
+LIFT|Dizalo|L
+KILA|Kilogram, kolokvijalno|L
+ZIMA|Najhladnije godišnje doba|L
+HOBI|Omiljena zanimacija|L
+SOLO|Izvedba jednog glazbenika|L
+DRUG|Prijatelj, suborac|L
+MRLJA|Fleka|L
+ORAO|Ptica grabljivica s grba|L
+GLAD|Potreba za hranom|L
+RANČ|Američko imanje sa stokom|L
+GORA|Šumovito brdo|L
+TAMA|Mrak|L
+ČELO|Dio lica iznad obrva|L
+SJAJ|Blještavilo|L
+GRUB|Neotesan|L
+ĐAVO|Vrag|L
+JUHA|Tekuće jelo|L
+KAPA|Pokrivalo za glavu|L
+ULOG|Novac stavljen na igru|L
+TOST|Prepečeni kruh|L
+SPAS|Spašavanje|L
+ŽICA|Tanka metalna nit|L
+BABA|Starica; i baka|L
+CRTA|Linija|L
+FOND|Zaklada|L
+GRAH|Mahunarka za varivo|L
+RASA|Pasmina|L
+IGLU|Eskimska kuća od snijega|L
+MACA|Mačka, odmila|L
+MANA|Nedostatak|L
+MITO|Podmićivanje|L
+TVRD|Koji nije mek|L
+LAVA|Užarena masa iz vulkana|L
+JAZZ|Džez, u izvornom pisanju|S
+LIGA|Natjecanje više klubova|L
+SLOM|Lom, krah|L
+ČIPS|Prženi listići krumpira|L
+MUNJA|Bljesak pri grmljavini|L
+KOMA|Duboka nesvijest|L
+UNUK|Sinov ili kćerin sin|L
+MAKS|Maksimum, kolokvijalno|S
+OSIP|Crvenilo na koži|L
+PETA|Stražnji dio stopala|L
+PERO|Pokrivalo ptica; i nalivpero|L
+KVAR|Oštećenje stroja|L
+POST|Uzdržavanje od hrane|L
+BUBA|Kukac; i Volkswagenov kultni auto|L
+SAKO|Gornji dio odijela|L
+MEDO|Medvjed, odmila|L
+GLUH|Koji ne čuje|L
+TUGA|Žalost|L
+KUKA|Savijeni metalni držač|L
+UZOR|Primjer za ugled|L
+RAST|Rastenje|L
+UGAO|Kut|L
+SALA|Velika dvorana|L
+MASA|Količina tvari|L
+HURA|Uzvik oduševljenja|L
+PEĆI|Spremati jelo u pećnici|L
+MAIL|Elektronička pošta|L
+KUMA|Svjedokinja na vjenčanju|L
+MOTO|Geslo; i motocikl|L
+PAUK|Životinja s osam nogu koja plete mrežu|L
+KEKS|Suho pecivo|L
+ŽABA|Vodozemac koji krekeće|L
+MAPA|Karta; i fascikl|L
+STUP|Stupac koji nešto drži|L
+PLAČ|Plakanje|L
+TENK|Oklopno vozilo|L
+UDIO|Dio koji nekome pripada|L
+ŠATL|Svemirski šatl|S
+DOZA|Količina lijeka|L
+SLOJ|Naslaga|L
+TRKA|Utrka|L
+ŠARM|Čar|L
+ČULO|Osjetilo|L
+BOKS|Borilački sport šakama|L
+ŠTOS|Trik, fora|S
+KOZA|Domaća životinja s bradicom|L
+ŠAKA|Dlan sa prstima|L
+ZNOJ|Izlučuje se pri vrućini|L
+MUHA|Kukac koji zuji|L
+ČVOR|Uzao na užetu|L
+TVAR|Materija|L
+ULOV|Ono što je ulovljeno|L
+ZBOR|Pjevački sastav|L
+IZUM|Izumljena naprava|L
+GROM|Prasak pri munji|L
+OPAK|Zao|L
+BETA|Drugo slovo grčkog alfabeta|L
+TUČA|Fizički obračun|L
+MAST|Masnoća|L
+IGLA|Šivaći pribor|L
+KUGA|Crna smrt|L
+IRAK|Država s Bagdadom|L
+RODA|Ptica koja „donosi djecu”|L
+UPAD|Upadanje|L
+SLUH|Osjetilo kojim čujemo|L
+RING|Borilište za boks|L
+SOVA|Noćna ptica velikih očiju|L
+KLAN|Rod, pleme|L
+JANJE|Mladunče ovce|L
+ZORA|Svitanje|L
+UVOD|Početni dio|L
+ZRNO|Sjemenka žitarice|L
+GNJEV|Bijes|L
+FRKA|Nevolja, kolokvijalno|S
+SLON|Najveća kopnena životinja|L
+UBOD|Ubod ose ili igle|L
+BLOG|Internetski dnevnik|L
+SUĐE|Posuđe|L
+OČUH|Majčin muž koji nije otac|L
+KULT|Štovanje|L
+LINK|Poveznica|L
+KRDO|Stado|L
+ULJEZ|Nepozvani gost|L
+DEKA|Deset grama|L
+JUDA|Izdajica iz Biblije|L
+PRAG|Glavni grad Češke|L
+DIVA|Slavna pjevačica|L
+POLO|Sport na konjima; i majica s ovratnikom|L
+PLOD|Voće s biljke|L
+REPA|Korjenasto povrće|L
+LUPA|Povećalo|L
+MATI|Majka|L
+DVOR|Prebivalište vladara|L
+OČAJ|Potpuna beznadnost|L
+NIŽI|Komparativ od nizak|L
+UJNA|Ujakova žena|L
+SPOL|Muški ili ženski|L
+TRUP|Torzo|L
+BRUS|Kamen za oštrenje|S
+OVCA|Životinja koja daje vunu|L
+FOTO|Fotografija, kao prvi dio riječi|L
+BIRO|Ured|S
+SPIS|Dokument|L
+PSIĆ|Malo pseto|L
+GAMA|Treće slovo grčkog alfabeta|L
+LUNA|Mjesec, latinski|L
+RULJA|Svjetina|L
+ESEJ|Kraći prozni rad o nekoj temi|L
+ZEUS|Vrhovni grčki bog|L
+DORA|Žensko ime; ... Pejačević|L
+BUDA|Utemeljitelj budizma|L
+ORAH|Plod s tvrdom ljuskom|L
+TRAČ|Ogovaranje|L
+TITL|Prijevod na dnu ekrana|L
+SPOT|Glazbeni video|L
+KVIZ|Natjecanje u znanju|L
+KLIK|Pritisak na tipku miša|L
+MUZA|Božica nadahnuća|L
+STIH|Redak pjesme|L
+EDEN|Rajski vrt|L
+MODA|Trenutni stil odijevanja|L
+ČILI|Ljuta papričica; i država u Južnoj Americi|L
+SUŠI|Japansko jelo od riže i ribe|L
+ROZA|Ružičasta boja|L
+MISA|Bogoslužje|L
+DLAN|Unutarnja strana šake|L
+URIN|Mokraća|L
+KOLO|Kotač; i narodni ples|L
+PAKT|Ugovor, savez|L
+GRAL|Sveti ..., legendarna čaša|S
+UNOS|Unošenje podataka|L
+KUPA|Pehar; i rijeka|L
+BAND|Bend, glazbeni sastav|L
+HERA|Grčka božica, Zeusova žena|L
+BORA|Nabor na koži|L
+OSMI|Redni broj od osam|L
+KNEZ|Plemićki naslov|L
+AZIL|Utočište|L
+SONG|Pjesma, engleski|S
+CENT|Stoti dio eura|L
+IDOL|Kumir|L
+IRAC|Stanovnik Irske|L
+ŽIRI|Ocjenjivački sud|L
+BLAG|Nježan, umjeren|L
+PUSA|Poljubac|L
+VIKA|Galama|L
+ŠLAG|Tučeno vrhnje|L
+TURA|Krug, obilazak|L
+PIRE|Kaša od krumpira|L
+JAMA|Rupa u zemlji|L
+KRPA|Komad tkanine za brisanje|L
+RUTA|Put, smjer|L
+IRAN|Država s Teheranom|L
+JANG|Jin i ...|S
+AIDS|Sindrom stečene imunodeficijencije (kratica)|S
+SAGA|Obiteljska priča kroz naraštaje|L
+REMI|Neriješeno|S
+ŠANK|Pult u kafiću|L
+LIRA|Žičano glazbalo; i stara talijanska valuta|L
+OLGA|Žensko ime|L
+KORA|Vanjski sloj kruha ili drveta|L
+TITO|Josip Broz ...|L
+SENF|Gorušica|L
+DRES|Sportska odjeća|L
+LULA|Za pušenje duhana|L
+KLIN|Čavao|L
+ALAH|Bog u islamu|L
+PUNČ|Napitak od voća i alkohola|S
+DEVA|Životinja s grbama|L
+DEMO|Probna snimka|L
+SMAK|... svijeta|S
+LAKI|Lagani|L
+PONI|Mali konj|L
+ČEDO|Dijete|S
+EMIL|Muško ime|L
+RIŽA|Žitarica za rižoto|L
+SODA|Gazirana voda|L
+ŽILA|Krvna žila|L
+STID|Sram|L
+MIMO|Pokraj, uz|S
+TRON|Prijestolje|L
+DEBI|Prvi nastup|S
+KREM|Krema; i bjelkasta boja|L
+TELE|Mladunče krave|L
+BLEF|Varka u kartama|S
+DOGA|Velika pasmina psa|S
+GALA|Svečana priredba|L
+KLON|Genetska kopija|L
+OMOT|Ambalaža|L
+DŽABE|Besplatno, kolokvijalno|S
+JATO|Skupina ptica|L
+GIPS|Sadra|L
+KULA|Toranj|L
+LOGO|Znak tvrtke|L
+VUDU|Kult s Haitija|S
+CUGA|Piće, kolokvijalno|S
+KRIK|Vrisak|L
+JOGA|Indijska vježba tijela i uma|L
+ATOM|Najmanja čestica elementa|L
+GRIZ|Krupica|L
+PLAV|Boje neba|L
+TANK|Spremnik; i tenk|S
+BUHA|Kukac koji skače|L
+POEN|Bod|L
+ŽITO|Pšenica|L
+ŠTAB|Zapovjedništvo|L
+GURU|Duhovni učitelj|L
+ZREO|Dozrio|L
+SKEČ|Kratki komični prizor|L
+HIPI|Pripadnik pokreta šezdesetih|L
+UMOR|Iscrpljenost|L
+SNOB|Umišljen čovjek|S
+VLAS|Jedna dlaka kose|L
+ARES|Grčki bog rata|S
+GRAM|Tisućinka kilograma|L
+KANU|Uski čamac s veslom|L
+IMUN|Otporan na bolest|L
+TUNA|Velika morska riba|L
+BURE|Bačva|L
+BROŠ|Ukrasna igla|S
+KLJUN|Ptičja usta|L
+HERC|Jedinica frekvencije|S
+VENA|Krvna žila koja vodi krv u srce|L
+IGOR|Muško ime|L
+DREN|Grm crvenih bobica|S
+PUMA|Američka zvijer|L
+ODIN|Vrhovni nordijski bog|S
+OKNO|Prozorsko staklo|S
+NATO|Vojni savez kojem je Hrvatska pristupila 2009.|L
+ETER|Hlapljiva tekućina; i radijski valovi|S
+SAKE|Japansko rižino vino|S
+GUST|Koji nije rijedak|L
+MLIN|Postrojenje za mljevenje žita|L
+POZA|Držanje tijela|L
+TEĆI|Kretati se kao tekućina|L
+ŠEVA|Ptica pjevica|S
+STEP|Ples s klepetanjem cipela|S
+GETO|Izolirana gradska četvrt|S
+SUMA|Zbroj|L
+ČETA|Vojna postrojba|S
+MEGA|Golem, kao prvi dio riječi|L
+KAŠA|Gusto mekano jelo|L
+JEZA|Strah, drhtaj|L
+SALO|Svinjska mast|L
+ŠPIL|Špil karata|L
+BALA|Svežanj sijena|S
+VAZA|Posuda za cvijeće|L
+SVOD|Nebeski ...|L
+BILJE|Biljke|L
+ČEST|Koji se često događa|L
+DUET|Pjesma za dvoje|L
+KRST|Križ|S
+LOZA|Vinova ...|L
+TVOR|Životinja neugodna mirisa|L
+GONG|Udaraljka od metalne ploče|L
+JANA|Žensko ime|L
+UPIT|Pitanje|L
+MAČE|Mladunče mačke|L
+OČIT|Jasan, vidljiv|L
+UPIS|Prijava u školu|L
+BRIDŽ|Kartaška igra|S
+OPAL|Poludragi kamen|S
+SUŠA|Dugo razdoblje bez kiše|L
+URAN|Sedmi planet od Sunca|L
+LOTO|Igra na sreću s brojevima|L
+VIZA|Dozvola za ulazak u državu|L
+HALA|Velika dvorana|L
+MRAV|Kukac iz mravinjaka|L
+ARON|Mojsijev brat|S
+ŠKRT|Tvrdica|L
+VUNA|Ovčje runo|L
+ŠEIK|Arapski poglavar|L
+PULT|Stalak, tezga|L
+ŠAPA|Životinjska noga|L
+FLEŠ|Bljeskalica|S
+UVOZ|Suprotno od izvoz|L
+VRAČ|Čarobnjak, šaman|S
+LAMA|Južnoamerička životinja; i tibetski redovnik|L
+NOTA|Glazbeni znak|L
+ROLA|Smotuljak|L
+ADUT|Jača karta|S
+SLUZ|Ljepljiva tekućina|S
+KAIŠ|Remen|L
+ŠKOT|Stanovnik Škotske|L
+ZELJE|Lisnato povrće|S
+SPIN|Vrtnja|S
+KRUT|Neelastičan|L
+LIJA|Lisica|S
+SNOP|Svežanj klasja|S
+BACH|Skladatelj „Brandenburških koncerata”|S
+MLAZ|Brz tok tekućine|L
+VETO|Pravo zabrane|L
+LEĆA|Staklo koje lomi svjetlost; i mahunarka|L
+UZAK|Tijesan|L
+GRAB|Listopadno stablo|S
+KRIM|Poluotok u Crnom moru|L
+JEKA|Odjek|L
+KARO|Boja u kartama|S
+ARKA|Noina ...|S
+RANG|Stupanj, položaj|L
+INAT|Prkos|L
+OCAT|Kiseli začin|L
+KANA|Biljna boja za kosu|S
+SOJA|Mahunarka|L
+UTEG|Teg|S
+OGANJ|Vatra|S
+NETO|Čista težina|L
+TRAP|Podvozje|S
+OVAN|Mužjak ovce|L
+GNOJ|Organsko gnojivo; i sekret|S
+HULJA|Nitkov|S
+STAŽ|Radni ...|L
+TORA|Židovski zakon|S
+UDES|Nesreća|S
+MULA|Križanac konja i magarca|L
+KOLT|Revolver|S
+TRIO|Trojac|L
+PIPA|Slavina|L
+UROK|Uroci, čarolija|S
+RUNA|Staro germansko slovo|S
+EDEM|Oteklina|S
+GRBA|Izbočina na leđima|L
+STOG|Plast sijena|L
+OBRT|Zanat|L
+KAKI|Žućkastozelena boja; i voćka|S
+TAST|Ženin otac|L
+GRAF|Grafikon|L
+PLUG|Oruđe za oranje|L
+TABU|Zabrana|L
+LOŽA|Balkon u kazalištu|L
+AURA|Ozračje, sjaj|L
+EURO|Valuta Hrvatske od 2023.|L
+JAUK|Jecaj|S
+GAZA|Pojas ... na Bliskom istoku|L
+SLAP|Vodopad|L
+EMIR|Arapski vladar|L
+PAUN|Ptica raskošnog repa|L
+TAVA|Posuda za prženje|L
+FOKA|Morski sisavac|L
+UKOR|Prijekor|L
+OMČA|Petlja|S
+GUJA|Zmija|S
+TEZA|Tvrdnja|L
+KUNA|Valuta prije eura; i životinja|L
+MORŽ|Morski sisavac s kljovama|L
+PAŠA|Turski dostojanstvenik; i ispaša|S
+VAGA|Uređaj za vaganje|L
+TRNJE|Grmlje s trnovima|L
+USNA|Rub usta|L
+ALPE|Gorski lanac s Mont Blancom|L
+KRAN|Dizalica|L
+OAZA|Zelenilo u pustinji|L
+NAPA|Usisivač pare iznad štednjaka|S
+RUNO|Zlatno ...|S
+UJED|Ugriz|L
+ŠEMA|Shema|S
+KASA|Blagajna|L
+KOKS|Gorivo od ugljena|S
+SIPA|Glavonožac s crnilom|S
+EROS|Bog ljubavi|S
+KLOR|Kemijski element oznake Cl|S
+VOLT|Jedinica napona|L
+KIST|Za slikanje|L
+ŠINA|Tračnica|S
+UGALJ|Ugljen|S
+JETI|Snježni čovjek|S
+KRMA|Stražnji dio broda|L
+BIFE|Mali ugostiteljski lokal|L
+JAVA|Indonezijski otok|S
+BLIC|Bljeskalica|S
+BERN|Glavni grad Švicarske|L
+RIVA|Obalna šetnica|L
+KROS|Trčanje po terenu|L
+HLAD|Sjena, hladovina|L
+ŽANR|Književna ili glazbena vrsta|L
+NIŠA|Udubljenje u zidu|S
+ŠOLJA|Šalica|S
+TREF|Boja u kartama|S
+ŽUPA|Župnija|L
+KILT|Škotska suknja|L
+URNA|Posuda za pepeo; i glasačka kutija|L
+KLIF|Strma obala|S
+GIHT|Bolest zglobova|S
+KROM|Kemijski element oznake Cr|S
+SRNA|Šumska životinja|L
+HRĐA|Rđa|L
+ŠUPA|Drvarnica|L
+OSLO|Glavni grad Norveške|L
+UNCA|Mjera za masu|S
+UROD|Žetva|L
+TAKT|Mjera u glazbi; i obzir|L
+ŠIBA|Prut|S
+UDAH|Udisaj|L
+KRAS|Vapnenačko tlo|S
+OPUS|Djelo|S
+ZBIR|Zbroj|L
+JUTA|Biljno vlakno|S
+OPAT|Poglavar samostana|S
+TUBA|Limeno glazbalo|L
+BURA|Hladan vjetar|L
+LASO|Uže s omčom|L
+KROJ|Krojenje|L
+VRBA|Stablo uz vodu|L
+LIPA|Stablo; i stoti dio kune|L
+NAUM|Namjera|S
+KIVI|Voće; i novozelandska ptica|L
+LOBI|Interesna skupina|S
+PANO|Ploča za oglase|S
+KRAH|Slom|S
+OHOL|Umišljen|S
+UZDA|Remenje za konja|L
+SOFA|Kauč|L
+BAUK|Strašilo|S
+HORA|Narodni ples|S
+TRUT|Mužjak pčele|S
+DUEL|Dvoboj|L
+KRAK|Ogranak|S
+OLUK|Žlijeb|S
+RUHO|Odjeća|S
+SLOG|Dio riječi|L
+ŠILO|Šiljasti alat|S
+CINK|Kemijski element oznake Zn|S
+FRIZ|Ukrasni pojas na zidu|T
+SMOG|Zagađen zrak|L
+USUD|Sudbina|S
+NEON|Plemeniti plin u reklamama|S
+AVET|Sablast|S
+DEPO|Skladište|S
+RUDA|Mineral za vađenje metala|L
+DUNJA|Žuta voćka|L
+GROG|Topli napitak s rumom|S
+GNOM|Patuljak|S
+SMEĐ|Boje čokolade|L
+GMAZ|Zmija, gušter, kornjača…|L
+LAĐA|Brod|L
+APEL|Poziv|S
+BANJA|Toplice|S
+OMEN|Znamenje|T
+BINA|Pozornica|S
+LAIK|Nestručnjak|L
+PURA|Purica|L
+OVAL|Jajolik oblik|S
+ŠUGA|Kožna bolest|S
+WATT|Vat, izvorno|S
+KANT|Autor „Kritike čistoga uma”|S
+NERV|Živac|L
+BARD|Pjesnik|S
+OZON|Plin koji štiti od UV zraka|L
+EDIP|Tebanski kralj iz grčkih mitova|S
+FIDŽI|Otočna država u Pacifiku|S
+SMUK|Spust na skijama|S
+LAOS|Država s Vientianeom|S
+DŽUDO|Japanska borilačka vještina|L
+HVAT|Mjera za duljinu|T
+RAGA|Indijski glazbeni oblik|T
+URAR|Majstor za satove|S
+LJAMA|Lama, južnoamerička životinja|S
+BROM|Kemijski element oznake Br|S
+ŠPEK|Slanina|S
+UKAZ|Naredba|T
+PORA|Otvor na koži|L
+TRUN|Mrvica|S
+UDAV|Zmija udavica|S
+AMON|Egipatski bog|T
+RADŽA|Indijski kralj|S
+GRIL|Roštilj|L
+AZOT|Dušik|T
+KMET|Seljak vezan uz zemlju|S
+SLAN|Pun soli|L
+KLAS|Plod žitarice|L
+VIME|Kravlja mliječna žlijezda|S
+VLAT|Stabljika trave|S
+IBIS|Sveta egipatska ptica|T
+OBOA|Drveno puhačko glazbalo|S
+SAĆE|Pčelinje ...|S
+SLJEZ|Ljekovita biljka|T
+SAVA|Rijeka kroz Zagreb|L
+SIGA|Sedra u špiljama|T
+ZEBA|Ptica pjevica|S
+UŠĆE|Mjesto gdje rijeka utječe|L
+ŠUND|Bezvrijedna literatura|S
+ANDE|Gorje u Južnoj Americi|L
+BOEM|Boem, bohem|S
+MJED|Slitina bakra i cinka|S
+NERC|Krzno vrijedne životinje|S
+RVAČ|Sportaš u hrvanju|S
+TVID|Vunena tkanina|T
+UMNI|Duhovni, intelektualni|S
+OKER|Žutosmeđa boja|S
+OPEL|Proizvođač Corse i Astre|L
+PION|Pijun; i čestica|T
+VUČA|Šlepanje|S
+HMELJ|Biljka za pivo|S
+OBOD|Rub|S
+POET|Pjesnik|S
+STRM|Okomit, nagnut|L
+SVAT|Svadbeni gost|S
+ZVRK|Čigra|S
+ELAN|Polet|S
+VAMP|Zavodnica|S
+FUGA|Polifona skladba|S
+OPNA|Tanka kožica|S
+ALGA|Morska biljka|L
+KURD|Pripadnik naroda iz Kurdistana|S
+ŠIJA|Zatiljak|S
+ANIS|Začinska biljka|S
+CVAT|Cvjetanje|S
+SRAZ|Sudar|S
+UREZ|Zarez u drvu|S
+ATOL|Koraljni otok|S
+ETIL|Kemijska skupina|T
+FEUD|Feud, posjed|T
+MRVA|Mrvica|L
+OKOV|Željezni dijelovi vrata|T
+BONN|Grad na Rajni, bivši glavni grad|S
+JUGO|Topli južni vjetar|L
+DUŽD|Mletački poglavar|T
+HREN|Ljuti korijen|S
+NIKL|Kemijski element oznake Ni|S
+TISA|Rijeka; i drvo|S
+MAUR|Pripadnik naroda iz sjeverne Afrike|S
+FILC|Pust, tkanina|S
+OMAN|Država na Arapskom poluotoku|S
+URAL|Planine između Europe i Azije|L
+HODŽA|Muslimanski vjerski službenik|S
+NJIVA|Obrađena zemlja|L
+MOŠT|Mlado vino|S
+FIGA|Smokva; i gesta|S
+PUDL|Pasmina psa|S
+ALKA|Viteška igra u Sinju|L
+KELT|Pripadnik drevnog naroda|S
+ORAČ|Onaj koji ore|S
+GROŠ|Sitni novac|S
+SMUĐ|Riječna riba|S
+GUŠA|Ptičje grlo|S
+OŠIT|Dijafragma|T
+ULAR|Konjska oglavina|T

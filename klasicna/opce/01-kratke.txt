@@ -1,0 +1,388 @@
+# Opće riječi: ODGOVOR|pitanje|težina (L lagana, S srednja, T teška)
+NE|Odrična čestica|L
+SE|Povratna zamjenica, kraći oblik|S
+NA|Prijedlog uz lokativ i akuzativ|L
+TI|Osobna zamjenica, drugo lice jednine|L
+ZA|Prijedlog koji označava namjenu|L
+MI|Osobna zamjenica, prvo lice množine|L
+LI|Upitna čestica|S
+JA|Osobna zamjenica, prvo lice jednine|L
+ALI|Suprotni veznik|L
+OD|Prijedlog uz genitiv: ... jutra do mraka|L
+AKO|Pogodbeni veznik|L
+SA|Prijedlog „s” ispred riječi koja počinje na s, z, š, ž|S
+KAO|Poredbeni veznik|L
+PA|Veznik: „... ipak”|L
+ON|Osobna zamjenica, treće lice muškog roda|L
+JOŠ|Prilog: i dalje, i nadalje|L
+KAD|Vremenski veznik i prilog|L
+IZ|Prijedlog uz genitiv: ... grada|L
+ILI|Rastavni veznik|L
+MOJ|Posvojna zamjenica, prvo lice|L
+TKO|Upitna zamjenica za osobe|L
+DO|Prijedlog: od ... do|L
+ZAR|Upitna čestica koja izražava čuđenje|S
+VI|Osobna zamjenica, drugo lice množine|L
+JER|Uzročni veznik|L
+SAD|Prilog: u ovom trenutku|L
+TU|Prilog: na ovom mjestu|L
+NI|Niječni veznik: ... jedan ... drugi|S
+SVI|Cijela skupina ljudi|L
+PO|Prijedlog: ... danu, ... noći|L
+VEĆ|Prilog: ranije nego što se očekivalo|L
+BAŠ|Prilog: upravo, točno|L
+BEZ|Prijedlog koji označava nedostatak|L
+DOK|Vremenski veznik; i lučko pristanište|L
+ONI|Osobna zamjenica, treće lice množine|L
+ŽAO|„Biti ...”, osjećati sućut ili kajanje|L
+TAJ|Pokazna zamjenica|L
+DAN|Vrijeme od izlaska do zalaska Sunca|L
+PUT|Staza, cesta; i putovanje|L
+KOD|Šifra; i prijedlog uz genitiv|L
+DVA|Broj iza jedan|L
+IĆI|Kretati se pješice|L
+IME|Riječ kojom se netko naziva|L
+TRI|Broj iza dva|L
+EVO|Uzvik kojim se nešto pokazuje|L
+OKO|Organ vida|L
+NO|Suprotni veznik, isto što i ali|S
+ČAK|Prilog koji pojačava: ... i to|S
+BOK|Pozdrav; i strana tijela|L
+MA|Uzvik: „..., nema veze!”|S
+POD|Donja ploha sobe|L
+NAŠ|Posvojna zamjenica, prvo lice množine|L
+NOĆ|Vrijeme od sumraka do zore|L
+PAR|Dvoje zajedno|L
+DIO|Komad cjeline|L
+UZ|Prijedlog: ... rijeku, ... more|L
+TIP|Vrsta; i kolokvijalno momak|L
+STO|Deset desetica|L
+VAN|Prilog: napolje|L
+PET|Broj prstiju na ruci|L
+IZA|Prijedlog suprotan „ispred”|L
+SIN|Muško dijete u odnosu na roditelje|L
+BOG|Vrhovno biće|L
+BAR|Ugostiteljski lokal; i jedinica tlaka|L
+SAT|Šezdeset minuta|L
+TEK|Prilog: ... sada, ... onda|S
+KRV|Crvena tekućina u žilama|L
+AHA|Uzvik kojim se izražava shvaćanje|L
+RAT|Oružani sukob|L
+SAN|Ono što sanjamo|L
+MUŽ|Suprug|L
+ŽIV|Koji nije mrtav|L
+LUD|Koji je izgubio razum|L
+UĆI|Suprotno od izaći|L
+RED|Poredak; i niz ljudi koji čekaju|L
+UM|Razum, pamet|L
+DOM|Kuća, obitelj, ognjište|L
+ETO|Uzvik: ... vidiš!|L
+PAS|„Čovjekov najbolji prijatelj”|L
+SIR|Mliječni proizvod|L
+ŠEF|Nadređeni na poslu|L
+LOŠ|Suprotno od dobar|L
+RAD|Posao, trud|L
+MOĆ|Snaga, vlast|L
+NAD|Prijedlog suprotan „pod”|L
+BOL|Neugodan osjećaj pri ozljedi|L
+PUN|Suprotno od prazan|L
+DUH|Utvara, sablast; i duša|L
+TV|Televizija (kratica)|L
+MIR|Stanje bez rata|L
+NIZ|Red stvari jedna za drugom|L
+DAR|Poklon|L
+LJUT|Srdit; i pun začina|L
+DON|Španjolski naslov za gospodina|S
+KĆI|Žensko dijete u odnosu na roditelje|L
+ČAJ|Napitak od osušenog lišća|L
+NOS|Organ njuha|L
+SUD|Ustanova koja sudi|L
+NOŽ|Oštrica s drškom|L
+ENO|Uzvik kojim se pokazuje na nešto udaljeno|L
+CILJ|Ono čemu težimo|L
+DNK|Molekula nasljeđa (kratica)|S
+ZID|Pregrada od cigle ili kamena|L
+LET|Kretanje kroz zrak|L
+TAD|Kraći oblik od „tada”|S
+LIK|Osoba u romanu ili filmu|L
+OBA|Jedan i drugi|L
+POL|Kraj Zemljine osi; i spol|S
+DUG|Novac koji treba vratiti|L
+LAŽ|Neistina|L
+ZAO|Pakostan, opak|L
+JAK|Snažan|L
+KONJ|Domaća životinja za jahanje|L
+RAK|Rakovica; i zodijački znak|L
+MAČ|Oružje s dugom oštricom|L
+FER|Pošten, korektan|L
+RAJ|Mjesto vječnog blaženstva|L
+KAT|Etaža zgrade|L
+LOV|Traženje i hvatanje divljači|L
+GAD|Gmaz, ali i pogrdno za odvratnu osobu|S
+SOK|Napitak od voća|L
+LED|Smrznuta voda|L
+WC|Zahod (kratica)|L
+ČAS|Trenutak; i školski sat|L
+ČIN|Postupak; i vojni stupanj|S
+BAS|Najdublji muški glas|L
+VRH|Najviša točka planine|L
+RIM|Glavni grad Italije|L
+VIC|Šala, dosjetka|L
+BRZ|Hitar, žustar|L
+ROB|Čovjek lišen slobode|L
+PAD|Padanje|L
+SEF|Blagajna za novac i dragocjenosti|L
+NOV|Koji nije star|L
+VRT|Ograđeni prostor s cvijećem i povrćem|L
+DAH|Udah ili izdah|L
+DIM|Ono što izlazi iz dimnjaka|L
+VAL|Talas na moru|L
+REZ|Posjekotina|L
+KAP|Mala količina tekućine|L
+FIN|Uglađen, profinjen|L
+TLO|Zemlja pod nogama|L
+TOP|Teško artiljerijsko oruđe|L
+UHO|Organ sluha|L
+ROK|Krajnje vrijeme za nešto|L
+JAO|Uzvik boli|L
+BOJ|Bitka|S
+EVA|Prva žena prema Bibliji|L
+CAR|Vladar carstva|L
+ŠOK|Snažan potres osjećaja|L
+HIT|Vrlo popularna pjesma|L
+GOL|Pogodak u nogometu|L
+VUK|Zvijer iz bajke o Crvenkapici|L
+JUG|Strana svijeta suprotna sjeveru|L
+ANA|Žensko ime|L
+LUK|Povrće koje tjera suze; i oružje za strijele|L
+ULJE|Masnoća iz maslina|L
+REP|Stražnji produžetak tijela životinje|L
+KUT|Ugao|L
+UŽE|Debeo konop|L
+LEŠ|Mrtvo tijelo|S
+PAT|Neriješen ishod u šahu|S
+POP|Svećenik; i glazbeni žanr|L
+TUŠ|Mlaz vode za pranje tijela|L
+DNO|Najniži dio posude ili mora|L
+SET|Skup stvari; i dio teniskog meča|L
+WEB|Mreža stranica na internetu|L
+SOL|Natrijev klorid|L
+TON|Zvuk određene visine|L
+MED|Slatki proizvod pčela|L
+ZUB|Njime grizemo|L
+GAS|Plin; i papučica za ubrzanje|L
+KAJ|Kajkavska riječ za „što”|S
+VID|Osjetilo kojim gledamo|L
+DŽEP|Mali spremnik na odjeći|L
+KUM|Svjedok na vjenčanju ili krštenju|L
+KIT|Najveći morski sisavac|L
+KIP|Kiparsko djelo|L
+ROD|Obitelj, loza; i gramatička kategorija|L
+LAK|Koji nije težak|L
+MIT|Predaja o bogovima i junacima|L
+ČIP|Mikroelektronički sklop|L
+ZEC|Dugouha životinja|L
+EGO|Ja, vlastita osoba (lat.)|S
+ŠAH|Igra s kraljem i damom|L
+MIŠ|Mali glodavac; i računalni pokazivač|L
+LAV|„Kralj životinja”|L
+BUS|Kratica za autobus|L
+TOK|Tijek rijeke|L
+MEČ|Natjecanje, utakmica|L
+FAN|Obožavatelj|L
+ROG|Tvrda izraslina na glavi životinje|L
+BAL|Svečani ples|L
+BIK|Mužjak goveda|L
+SMS|Kratka tekstualna poruka (kratica)|L
+CD|Kompaktni disk (kratica)|L
+ŠAL|Topli odjevni predmet oko vrata|L
+AS|Karta s jednim znakom; i majstor u nečemu|S
+DVD|Digitalni videodisk (kratica)|L
+UN|Ujedinjeni narodi (kratica)|S
+VEŠ|Rublje|S
+VOZ|Vlak, u drugim štokavskim krajevima|S
+CRN|Boje ugljena|L
+MEK|Koji nije tvrd|L
+RUB|Kraj, ivica|L
+PUK|Vojna postrojba|S
+VIS|Otok s gradovima Visom i Komižom|S
+TIK|Nesvjesni trzaj mišića|S
+RUŽ|Boja za usne|L
+DŽIN|Rakija od borovice|S
+GEN|Nositelj nasljednih osobina|L
+KOŠ|Pleteni spremnik; i obruč u košarci|L
+DOB|Životna starost|L
+DIV|Golem čovjek iz bajke|L
+BON|Kupon, vrijednosni listić|L
+DŽIP|Terensko vozilo|L
+TRG|Gradski prostor okružen kućama|L
+CRV|Beskralježnjak koji puzi|L
+RUS|Pripadnik naroda iz Rusije|L
+SOS|Međunarodni znak za pomoć|L
+RUM|Žestoko piće od šećerne trske|L
+ROJ|Mnoštvo pčela|L
+NIT|Konac|L
+SRŽ|Bit, jezgra; i koštana ...|S
+BOD|Jedinica u bodovanju|L
+ZET|Sestrin muž ili kćerin muž|L
+BIČ|Remen za tjeranje konja|L
+TEN|Boja i izgled kože lica|L
+PEĆ|Uređaj za grijanje ili pečenje|L
+VEO|Prozirna tkanina preko lica nevjeste|L
+JIN|... i jang|S
+ZEN|Pravac japanskog budizma|S
+ODA|Svečana pjesma|S
+HOD|Hodanje|L
+DIN|Buka, galama|T
+SUH|Koji nije mokar|L
+ŽIG|Pečat|L
+TRN|Bodlja na grani|L
+ŠUT|Udarac lopte prema golu|L
+EHO|Jeka|S
+ČIR|Gnojna upala|S
+GRČ|Nehotično stezanje mišića|L
+TUP|Koji nije oštar|L
+NAR|Šipak, plod|S
+ŽEĐ|Potreba za vodom|L
+SIT|Koji nije gladan|L
+NIL|Rijeka na kojoj leži Kairo|L
+ČEP|Zatvarač boce|L
+MAT|Kraj šahovske partije; i bez sjaja|L
+USB|Standard za priključak računala (kratica)|L
+HAD|Grčko podzemlje|T
+KAN|Mongolski vladar|S
+KAL|Blato|T
+EKG|Snimka rada srca (kratica)|S
+ŠUM|Tiho šuštanje|L
+LOM|Prijelom|L
+AKT|Dokument; i umjetnička slika nagog tijela|S
+BEČ|Glavni grad Austrije|L
+SAG|Tepih|S
+GRM|Niska razgranata biljka|L
+JAD|Tuga, nevolja|S
+VRČ|Posuda s ručkom za tekućinu|L
+GEL|Gusta prozirna tvar|L
+PIK|Boja u kartama|S
+DŽEM|Ukuhano voće|L
+HOL|Predvorje|L
+BEK|Obrambeni igrač|S
+TOR|Ograđeni prostor za ovce|S
+MAK|Crveni cvijet|L
+ZOV|Poziv|S
+JAZ|Provalija; i razlika|S
+ŽAR|Užareni ugljen; i strast|L
+BOR|Zimzeleno crnogorično drvo|L
+MAH|Zamah krila|S
+MOL|Pristanište; i durska ljestvica u glazbi|S
+BEŽ|Svijetlosmeđe boje|L
+GRK|Stanovnik Grčke|L
+ERA|Doba, razdoblje|L
+FEN|Sušilo za kosu|L
+DŽEZ|Glazba iz New Orleansa|L
+PANJ|Ostatak posječenog stabla|L
+VIR|Kovitlac vode|L
+SOJ|Vrsta, soja|S
+RIS|Divlja mačka s čupercima na ušima|L
+KRŠ|Kamenit teren|S
+TOV|Hranjenje životinja za klanje|T
+GRB|Znak države ili obitelji|L
+HIR|Mušica, kapric|S
+ETA|Grčko slovo|S
+OSA|Kukac koji bode|L
+CID|Španjolski junak El ...|T
+MAG|Čarobnjak|L
+MULJ|Blatni talog na dnu vode|L
+ROV|Iskopani jarak|L
+GAJ|Mali šumarak|S
+ABS|Sustav protiv blokiranja kotača (kratica)|S
+DUO|Dvojac izvođača|L
+ŽULJ|Otvrdnuće kože|L
+ČAR|Šarm|L
+IBM|Američka računalna tvrtka (kratica)|S
+AUT|Izlazak lopte izvan igrališta|L
+BOA|Velika zmija davica|S
+PEH|Loša sreća|L
+EP|Junački spjev|S
+PC|Osobno računalo (kratica)|L
+VEZ|Ukrasni šav na tkanini|L
+EU|Europska unija (kratica)|L
+MALJ|Veliki čekić|S
+PUŽ|Spora životinja s kućicom|L
+HRT|Hrvatska radiotelevizija (kratica)|L
+SOM|Velika riječna riba|S
+BIS|Ponavljanje na zahtjev publike|L
+EMU|Velika australska ptica|S
+KAS|Brzi hod konja|S
+LIM|Tanka metalna ploča|L
+BEG|Turski plemićki naslov|T
+TRK|Trčanje|L
+BRK|Dlaka iznad usne|L
+ĆUD|Narav|S
+KOB|Sudbina, usud|S
+KELJ|Povrće srodno kupusu|L
+PUČ|Nasilno preuzimanje vlasti|S
+INČ|Palac, jedinica za duljinu|S
+SIV|Boje pepela|L
+NOJ|Ptica koja ne leti, gura glavu u pijesak|L
+GAZ|Plitki prijelaz preko rijeke|T
+DOL|Udolina|S
+HUM|Brežuljak; i najmanji grad u Istri|S
+VONJ|Miris, zadah|S
+ŽUČ|Gorka tekućina iz jetre|S
+IVA|Žensko ime; i vrsta vrbe|S
+JOD|Kemijski element oznake I|S
+ŽAD|Zeleni ukrasni kamen|S
+CEH|Udruženje obrtnika|S
+SUP|Ptica strvinar|S
+REŠ|Hrskav, dobro pečen|S
+KOR|Pjevački zbor|S
+ČAD|Crni talog dima|S
+BAN|Hrvatski namjesnik|L
+JEŽ|Životinja s bodljama|L
+RIT|Močvarno tlo uz rijeku|S
+ĐAK|Učenik|L
+PIR|Svadbena gozba|S
+ŽUT|Boje limuna|L
+ARA|Velika šarena papiga|S
+TIL|Prozirna mrežasta tkanina|S
+ČIK|Opušak|S
+ZOB|Žitarica, hrana za konje|L
+VAT|Jedinica snage|S
+MUK|Potpuna tišina|S
+HUN|Pripadnik Atilina naroda|S
+ION|Električki nabijen atom|S
+ŽAL|Šljunčana obala|S
+ALT|Duboki ženski glas|S
+DUR|Glazbeni rod, suprotno od mol|S
+ĐON|Potplat cipele|S
+SRP|Oruđe za žetvu|L
+ŽIR|Plod hrasta|L
+ČUN|Mali čamac|S
+ČUNJ|Kegla|S
+GNU|Afrička antilopa|S
+AGA|Turski naslov|T
+PUH|Glodavac koji dugo spava|L
+NIN|Grad Grgura Ninskog|S
+OIB|Osobni identifikacijski broj (kratica)|L
+PDV|Porez na dodanu vrijednost (kratica)|L
+KEC|As u kartama|S
+LCD|Vrsta zaslona s tekućim kristalima (kratica)|S
+PAŽ|Plemićki sluga, mladić|S
+RAŽ|Žitarica za tamni kruh|L
+ČEH|Stanovnik Češke|L
+KIČ|Bezvrijedna ukrasna roba|S
+TUĐ|Koji nije svoj|L
+BUK|Slap, slapište|S
+PAG|Otok poznat po siru i čipki|L
+RAB|Otok poznat po Rapskoj torti|S
+RĐA|Hrđa|S
+LOJ|Životinjska mast|S
+KOP|Kopanje|S
+PDF|Format elektroničkih dokumenata (kratica)|L
+DŽUL|Jedinica za energiju|S
+KUB|Kocka; i treća potencija|S
+BDP|Bruto domaći proizvod (kratica)|S
+RIĐ|Crvenkastosmeđ|S
+KRF|Grčki otok|S
+GOT|Pripadnik germanskog naroda|S
+VOL|Uškopljeni bik|S
