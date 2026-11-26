@@ -92,8 +92,8 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
  .clues h2{position:sticky;top:0;z-index:1;background:var(--paper);margin:0 -6px 4px;padding:10px 10px 6px}
 }
 @media(pointer:coarse) and (min-width:1280px) and (min-height:501px){.clues{grid-template-rows:auto}}
-/* tablet vodoravno: okvir mreže visok koliko i cijela mreža (srednja i velika stanu bez listanja) */
-@media(pointer:coarse) and (min-width:900px) and (min-height:501px){.wrap{max-height:none;min-height:0}.board{position:static}}
+/* tablet vodoravno i laptop: okvir mreže visok koliko i cijela mreža, mreža centrirana */
+@media(min-width:900px) and (min-height:501px){.wrap{max-height:none;min-height:0}.board{position:static}.grid{margin:0 auto}}
 @media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
 .pbox{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin-top:10px;padding:12px;border:2px dashed var(--ink);background:var(--paper)}
 .pbox label{display:flex;gap:8px;align-items:center;min-height:44px;cursor:pointer}.pbox input{width:20px;height:20px;accent-color:var(--red)}
