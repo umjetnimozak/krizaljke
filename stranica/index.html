@@ -23,6 +23,7 @@ header p{margin:6px 0 0;font-size:15px;opacity:.95;max-width:62ch}
 .seg button small{font-weight:400;color:var(--mut);margin-left:4px}
 .seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}.seg button[aria-pressed=true] small{color:inherit;opacity:.75}
 .seg button.chip[aria-pressed=true]{background:var(--red);border-color:var(--red);color:#fff}
+.grp.full{grid-column:1/-1}
 .verrow{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:end}
 .verrow .note{font-size:14px;color:var(--mut);padding-bottom:10px}
 main{max-width:1240px;margin:0 auto;padding:18px max(3vw,10px) 40px;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:28px;align-items:start}
@@ -136,7 +137,7 @@ li{font-size:15.5px}
 <div class="pick"><div class="in">
  <div class="grp"><b>Težina</b><div class="seg" id="sd"></div></div>
  <div class="grp"><b>Veličina</b><div class="seg" id="ss"></div></div>
- <div class="grp"><b>Područja (jedno do tri)</b><div class="seg" id="st"></div></div>
+ <div class="grp full"><b>Područja (jedno do tri)</b><div class="seg" id="st"></div></div>
  <div class="verrow"><div class="grp"><b>Križaljka</b><div class="seg" id="sv"></div></div><div class="note" id="vnote"></div></div>
 </div></div>
 <main>
