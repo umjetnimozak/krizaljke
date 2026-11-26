@@ -94,6 +94,9 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 @media(pointer:coarse) and (min-width:1280px) and (min-height:501px){.clues{grid-template-rows:auto}}
 /* tablet vodoravno i laptop: okvir mreže visok koliko i cijela mreža, mreža centrirana */
 @media(min-width:900px) and (min-height:501px){.wrap{max-height:none;min-height:0}.board{position:static}.grid{margin:0 auto}}
+/* laptop: mreža i sve ispod nje poravnati s odabirom iznad (isti lijevi i desni rub), stupac pitanja širi */
+@media(min-width:900px) and (pointer:fine){main{width:calc(100% - 2*max(4vw,14px));padding:18px 0 40px}}
+@media(min-width:1280px) and (pointer:fine){main{grid-template-columns:minmax(0,660px) minmax(0,1fr)}}
 /* laptop: okviri Vodoravno/Okomito niži za visinu jednog slova pitanja */
 @media(min-width:900px) and (pointer:fine){.clues{height:calc(100vh - 20px - 16px)}}
 @media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
