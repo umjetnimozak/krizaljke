@@ -67,7 +67,12 @@ li.on{background:var(--sel)}li.done span{text-decoration:line-through;color:var(
 footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
 .loading{padding:40px;text-align:center;color:var(--mut)}
 @media(max-width:900px){main{grid-template-columns:minmax(0,1fr)}.pick .in{grid-template-columns:minmax(0,1fr)}}
-@media(max-width:600px){.bar{position:sticky;top:0;z-index:5;margin:8px 0}.wrap{max-height:70vh}}
+@media(max-width:600px){.bar{position:sticky;top:0;z-index:5;margin:8px 0}.wrap{max-height:70vh}
+ .grid{margin:0 auto}
+ /* pitanja: okvir s otprilike 7 pitanja, ostala se listaju prstom (visinu postavlja fitClues) */
+ .clues section{position:relative;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;background:var(--paper);border:2px solid var(--line);padding:0 6px}
+ .clues h2{position:sticky;top:0;z-index:1;background:var(--paper);margin:0 -6px 4px;padding:10px 10px 6px}
+}
 @media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
 .pbox{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin-top:10px;padding:12px;border:2px dashed var(--ink);background:var(--paper)}
 .pbox label{display:flex;gap:8px;align-items:center;min-height:44px;cursor:pointer}.pbox input{width:20px;height:20px;accent-color:var(--red)}
@@ -223,23 +228,26 @@ function start(p){
  $('la').innerHTML=by('A').map(li).join('');$('ld').innerHTML=by('D').map(li).join('');
  $('pt').textContent=document.querySelectorAll('#g .c:not(.x)').length;$('pn').textContent=P.words.length;
  $('ttl').innerHTML=`Križaljka ${sel.v}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${tnames()}</span>`;
- cur={r:order[0].r,c:order[0].c,d:order[0].d};last=null;size();paint();wrap.scrollTop=0;wrap.scrollLeft=0;
+ cur={r:order[0].r,c:order[0].c,d:order[0].d};last=null;fitClues();document.querySelectorAll('.clues section').forEach(x=>x.scrollTop=0);size();paint();wrap.scrollTop=0;wrap.scrollLeft=0;
 }
 function clueIntoView(li){const box=li.closest('section');if(!box)return;const head=box.querySelector('h2').offsetHeight;const t=li.offsetTop,b=t+li.offsetHeight;if(t<box.scrollTop+head+8||b>box.scrollTop+box.clientHeight-8){const top=Math.max(0,t-head-(box.clientHeight-head)/2+li.offsetHeight/2);box.scrollTo?box.scrollTo({top,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}):box.scrollTop=top}}
 function esc(s){return String(s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[m])}
 function size(){if(!P)return;const av=wrap.clientWidth-4;const cs=Math.max(26,Math.min(42,Math.floor(av/P.w)));wrap.style.setProperty('--cs',cs+'px')}
 const ro=new ResizeObserver(size);ro.observe(wrap);
+// na mobitelu okvir pitanja visok je točno 7 pitanja (pitanja mogu biti u više redaka)
+function fitClues(){const mob=innerWidth<=600;document.querySelectorAll('.clues section').forEach(sec=>{const li=sec.querySelectorAll('li');sec.style.maxHeight=mob&&li.length>7?(li[7].offsetTop+2)+'px':''})}
+addEventListener('resize',()=>{clearTimeout(fitClues.t);fitClues.t=setTimeout(fitClues,150)});
 const wordAt=(r,c,d)=>P.words.find(w=>w.d==d&&w.cells.some(([a,b])=>a==r&&b==c));
 const save=()=>{const done=P.words.every(w=>w.cells.every(([r,c])=>val[r][c]==sol[r][c]));const was=(LS.get('kriz3-p-'+P.id)||{}).done;LS.set('kriz3-p-'+P.id,{v:val,r:rev,done});if(done!=!!was)segs()};
 function paint(){
  const w=wordAt(cur.r,cur.c,cur.d);
  for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++){const d=el[r]&&el[r][c];if(!d)continue;d.lastChild.textContent=val[r][c];d.classList.toggle('dg',val[r][c].length>1);d.classList.remove('hw','hc');d.classList.toggle('rev',!!rev[r+','+c])}
- if(w){w.cells.forEach(([r,c])=>el[r][c].classList.add('hw'));$('cn').textContent=w.n+(w.d=='A'?' →':' ↓');$('ct').textContent=w.q+' ('+w.t.length+')'}
+ if(w){w.cells.forEach(([r,c])=>el[r][c].classList.add('hw'));$('cn').textContent=w.n+(w.d=='A'?' →':' ↓');$('ct').textContent=w.q}
  const hc=el[cur.r][cur.c];hc.classList.add('hc');
  const solvedW=new Set(P.words.filter(x=>x.cells.every(([r,c])=>val[r][c]==sol[r][c])).map(x=>x.n+x.d));
  const xw=wordAt(cur.r,cur.c,cur.d=='A'?'D':'A');
  document.querySelectorAll('.clues li').forEach(li=>{const k=li.dataset.k;li.classList.toggle('on',!!w&&k==w.n+w.d);li.classList.toggle('cross',!!xw&&k==xw.n+xw.d);li.classList.toggle('done',solvedW.has(k))});
- if(innerWidth>=900)[w,xw].forEach(x=>{if(!x)return;const li=document.querySelector(`.clues li[data-k="${x.n}${x.d}"]`);if(li)clueIntoView(li)});
+ if(innerWidth>=900||innerWidth<=600)[w,xw].forEach(x=>{if(!x)return;const li=document.querySelector(`.clues li[data-k="${x.n}${x.d}"]`);if(li)clueIntoView(li)});
  let f=0;for(let r=0;r<P.h;r++)for(let c=0;c<P.w;c++)if(sol[r][c]&&val[r][c])f++;
  $('pf').textContent=f;$('ps').textContent=solvedW.size;$('win').classList.toggle('on',solvedW.size==P.words.length);
  const wr=wrap.getBoundingClientRect(),cr=hc.getBoundingClientRect();
