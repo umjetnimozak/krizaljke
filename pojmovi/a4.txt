@@ -1,0 +1,581 @@
+[opca]
+ZVIJEZDE|Svijetle točke na noćnom nebu
+PLANETI|Tijela koja kruže oko Sunca
+MJESECI|Prirodni sateliti planeta
+SUNČEV|... sustav
+SVEMIRSKI|... brod
+ŠATL|Svemirski brod za višekratnu uporabu
+ASTRONAUTI|Ljudi koji putuju u svemir
+KACIGA|Dio skafandera na glavi
+KISIK|Plin koji astronauti nose u bocama
+LANSIRNA|... rampa
+RAMPA|Lansirna ...
+START|Polijetanje rakete
+SLIJETANJE|Spuštanje letjelice na tlo
+ZEMLJIN|... satelit je Mjesec
+DIVOVSKI|... planet, Jupiter
+OKRUGAO|Oblik planeta
+KUGLA|Planeti su oblika ...
+KRUG|Mjesec u uštapu izgleda kao ...
+SVJETLO|Brzina ... je oko 300 000 km/s
+BRZINA|... svjetlosti
+ZVJEZDANO|... nebo
+ZVJEZDICA|Mala zvijezda
+SJAJ|Svjetlost zvijezde
+TREPERENJE|Zvijezde ... zbog atmosfere
+NOĆNO|... nebo
+VEDRO|Nebo bez oblaka
+TAMA|Mrak potreban za promatranje
+MRAK|Tama
+SOL|Sunce (lat.)
+ASTRO|Prvi dio riječi koji znači zvijezda
+KOZMO|Prvi dio riječi koji znači svemir
+VANZEMALJAC|Biće s drugog planeta
+LETEĆI|... tanjur
+TANJUR|Leteći ...
+VELIKI|... medvjed, zviježđe
+MALI|... medvjed, zviježđe sa Sjevernjačom
+ZVIJEŽĐA|Skupine zvijezda na nebu
+ZODIJAČKI|... znak
+ZNAK|Horoskopski ...
+LAV|Zodijački znak između Raka i Djevice
+TJEDAN|Sedam dana; dani su nazvani po nebeskim tijelima
+NEDJELJA|U engleskom „Sunčev dan”
+PONEDJELJAK|U mnogim jezicima „Mjesečev dan”
+GODIŠNJE|... doba
+PROLJEĆE|Godišnje doba nakon ekvinocija u ožujku
+LJETO|Najtoplije godišnje doba
+JESEN|Godišnje doba od rujanske ravnodnevice
+ZIMA|Najhladnije godišnje doba
+OŽUJAK|Mjesec proljetne ravnodnevice
+LIPANJ|Mjesec ljetnog suncostaja
+PROSINAC|Mjesec zimskog suncostaja
+ZVJEZDAN|Pun zvijezda
+SUNČAN|Pun sunca
+SUNČEVA|... svjetlost
+ZRAKE|Sunčeve ...
+TOPLINA|Sunce daje svjetlost i ...
+ENERGIJA|Sunce je izvor ... za život
+SOLARNA|... ploča
+PLOČE|Solarne ... na satelitu
+VRTNJA|Okretanje Zemlje oko osi
+OKRETANJE|Zemljino ... oko osi traje dan
+NAGIB|... Zemljine osi uzrok je godišnjih doba
+SJEVER|Sjevernjača pokazuje ...
+JUG|Južni križ pokazuje ...
+ISTOK|Strana na kojoj izlazi Sunce
+ZAPAD|Strana na kojoj zalazi Sunce
+STRANE|... svijeta
+POLOVICA|Mjesec u prvoj i zadnjoj četvrti vidi se kao ...
+ČETVRT|Prva ili zadnja ... Mjeseca
+RASTUĆI|... Mjesec, prije uštapa
+PADAJUĆI|... Mjesec, nakon uštapa
+VUKODLAK|Prema praznovjerju zavija na puni Mjesec
+ZAVIJANJE|Vukovi ... na Mjesec
+ŽELJA|Zamisli je kad vidiš zvijezdu padalicu
+PADALICA|Zvijezda ...
+SVEMIRSKO|... putovanje
+PUTNIK|Svemirski ...
+TURIST|Svemirski ..., plaća let u svemir
+NULTA|... gravitacija
+LEBDJETI|Astronauti ... u bestežinskom stanju
+HRANA|Astronauti jedu ... iz tube
+TUBA|Ambalaža za astronautsku hranu
+TRENING|Priprema astronauta
+CENTRIFUGA|Uređaj za trening astronauta
+NEBESKI|... svod
+NEBESKO|... tijelo
+TIJELO|Nebesko ...
+KRUŽITI|Planeti ... oko Sunca
+VRTJETI|Zemlja se ... oko osi
+PUTANJA|Staza planeta oko Sunca
+VRUĆE|Sunce je jako ...
+HLADAN|Svemir je ...
+VAKUUM|Prazan prostor bez zraka
+TIŠINA|U svemiru vlada ... jer nema zraka
+KRATERI|Udubine na Mjesečevoj površini
+PRAH|Mjesečev ... (regolit)
+STOPA|Armstrongova ... na Mjesecu
+ZASTAVICA|Američka ... na Mjesecu
+KORAK|„Mali ... za čovjeka...”
+ČOVJEČANSTVO|„... veliki skok za ...”
+SKOK|„... veliki ... za čovječanstvo”
+
+[teska]
+ZMIJONOSAC|Trinaesto zviježđe na ekliptici
+ZMIJA|Zviježđe koje drži Zmijonosac
+KOČIJAŠ|Zviježđe s Kapelom
+VOLAR|Zviježđe s Arkturom
+DELFIN|Malo zviježđe u obliku dupina
+STRIJELA|Malo zviježđe kod Labuda
+LISICA|Zviježđe s maglicom Bučicom (Dumbbell)
+ŽIRAFA|Zviježđe u blizini Sjevernjače
+RIS|Slabo zviježđe između Kočijaša i Velikog medvjeda
+GUŠTERICA|Zviježđe između Labuda i Andromede
+KEFEJ|Zviježđe nazvano po Kasiopejinu mužu
+ŽDRAL|Zviježđe južnog neba nazvano po ptici
+FENIKS|Zviježđe nazvano po mitskoj ptici
+PAUN|Zviježđe južnog neba s Peacockom
+TUKAN|Zviježđe s Malim Magellanovim oblakom
+KAMELEON|Zviježđe kod južnog nebeskog pola
+KENTAUR|Zviježđe s Alfom Kentaura
+VUK|Zviježđe uz Kentaura
+OLTAR|Zviježđe južnog neba (Ara)
+KRUNA|Sjeverna ... ili Južna ..., zviježđa
+ŠESTAR|Malo zviježđe južnog neba
+RAVNALO|Zviježđe Norma
+KIPAR|Zviježđe Sculptor
+PEĆ|Zviježđe Fornax
+KOMPAS|Zviježđe Pyxis
+KRMA|Zviježđe Puppis
+JEDRA|Zviježđe Vela
+KOBILICA|Zviježđe s Kanopusom
+GOLUB|Zviježđe Columba
+ZEC|Zviježđe ispod Oriona
+PAS|Veliki ... ili Mali ..., zviježđa
+JEDNOROG|Zviježđe između Velikog i Malog psa
+SEKSTANT|Zviježđe kod Lava
+PEHAR|Zviježđe Crater
+GAVRAN|Zviježđe Corvus
+HIDRA|Najveće zviježđe neba
+BERENIKINA|... kosa, zviježđe
+KOSA|Berenikina ..., zviježđe
+LOVAČKI|... psi, zviježđe
+ORAO|Zviježđe s Altairom
+KIT|Zviježđe s Mirom
+ERIDAN|Zviježđe rijeka s Achernarom
+MIKROSKOP|Zviježđe južnog neba
+OKTANT|Zviježđe s južnim nebeskim polom
+MUŠICA|Zviježđe Musca
+ZLATNA|... riba, zviježđe s Velikim Magellanovim oblakom
+RIBA|Zlatna ..., Leteća ..., zviježđa
+SLIKAR|Zviježđe Pictor
+SAT|Zviježđe Horologium
+MREŽICA|Zviježđe Reticulum
+ALFERAC|Najsjajnija zvijezda Andromede (Alpheratz)
+MIRFAK|Najsjajnija zvijezda Perzeja
+DENEBOLA|Zvijezda u repu Lava
+ALGIEBA|Dvojna zvijezda u Lavu
+ALNILAM|Srednja zvijezda Orionova pojasa
+ALNITAK|Zvijezda Orionova pojasa
+MINTAKA|Zvijezda Orionova pojasa
+BELATRIKS|Zvijezda u Orionovu ramenu
+SAIF|Zvijezda u Orionovoj nozi
+DUBHE|Zvijezda Velikih kola
+MERAK|Zvijezda Velikih kola koja s Dubheom pokazuje Sjevernjaču
+ALIOT|Najsjajnija zvijezda Velikog medvjeda
+ALKAID|Zvijezda na kraju rude Velikih kola
+SHEDAR|Najsjajnija zvijezda Kasiopeje
+ALDERAMIN|Najsjajnija zvijezda Kefeja
+ELNATH|Zvijezda na rogu Bika
+ALCYONE|Najsjajnija zvijezda Vlašića
+MAJA|Zvijezda Vlašića; i grčka nimfa
+ELEKTRA|Zvijezda Vlašića
+ACRUX|Najsjajnija zvijezda Južnog križa
+HADAR|Druga zvijezda Kentaura (Beta)
+SHAULA|Zvijezda na žalcu Škorpiona
+NUNKI|Zvijezda Strijelca
+RASALHAGUE|Najsjajnija zvijezda Zmijonosca
+ALFARD|Najsjajnija zvijezda Hidre
+ALPHECCA|Najsjajnija zvijezda Sjeverne krune
+VINDEMIATRIX|Zvijezda u Djevici, „beračica grožđa”
+SHEPARD|Alan ..., prvi Amerikanac u svemiru
+GLENN|John ..., prvi Amerikanac u Zemljinoj orbiti
+TITOV|German ..., drugi čovjek u orbiti
+BELKA|Pas koji se 1960. vratio živ iz orbite
+STRELKA|Belkina suputnica u svemiru 1960.
+KOROLJOV|Sergej ..., glavni sovjetski konstruktor raketa
+BRAUN|Wernher von ..., konstruktor rakete Saturn V
+LOVELL|Jim ..., zapovjednik Apolla 13
+CERNAN|Eugene ..., posljednji čovjek na Mjesecu
+SCHMITT|Harrison ..., geolog na Mjesecu (Apollo 17)
+CONRAD|Pete ..., treći čovjek na Mjesecu
+BEAN|Alan ..., astronaut i slikar, Apollo 12
+TRANQUILLITATIS|Mare ..., mjesto slijetanja Apolla 11
+SPOKOJSTVA|More ..., mjesto slijetanja Apolla 11
+KOLUMBIJA|Zapovjedni modul Apolla 11; i šatl koji se raspao 2003.
+CHALLENGER|Šatl koji je eksplodirao 1986.
+DISCOVERY|Šatl koji je ponio Hubble
+ATLANTIS|Šatl posljednjeg leta 2011.
+ENDEAVOUR|Šatl nazvan po Cookovu brodu
+ENTERPRISE|Probni šatl nazvan po brodu iz „Zvjezdanih staza”
+DRAGON|SpaceX-ova svemirska kapsula
+STARSHIP|SpaceX-ova golema raketa
+MUSK|Elon ..., osnivač SpaceX-a
+BEZOS|Jeff ..., osnivač Blue Origina
+ROSETTA|ESA-ina sonda kometa Čurjumov-Gerasimenko
+JUICE|ESA-ina sonda za Jupiterove ledene mjesece
+EUCLID|ESA-in teleskop za tamnu tvar i tamnu energiju
+PLANCK|ESA-in satelit za pozadinsko zračenje
+CHANDRAYAAN|Indijska lunarna misija koja je sletjela 2023.
+CHANGE|Kineski lunarni program (Chang'e, bez apostrofa)
+ZHURONG|Kineski rover na Marsu
+TIANWEN|Kineska misija na Mars
+YUTU|Kineski lunarni rover, „Žadni zec”
+MANGALYAAN|Indijska misija na Mars 2013.
+KEPLEROV|... zakoni gibanja planeta
+NEWTONOV|... zakon gravitacije
+SVJETLOSNE|... godine
+GODINE|Svjetlosne ...
+UDALJENOST|Razmak između nebeskih tijela
+JEDINICA|Astronomska ..., udaljenost Zemlja–Sunce
+KILOMETAR|Tisuću metara
+OPSERVATORIJ|Zvjezdarnica
+KUPOLA|Okretni krov zvjezdarnice
+GALILEJEV|... teleskop, s rastresnim okularom
+MONTAŽA|Postolje teleskopa
+STATIV|Tronožac za teleskop
+TRAŽILO|Mali teleskop za usmjeravanje velikoga
+ZVJEZDANA|... karta
+KARTA|Zvjezdana ...
+KATALOG|Messierov ..., popis maglica
+GALAKSIJE|Zvjezdani otoci svemira
+SPIRALA|Oblik Mliječne staze
+KRAKOVI|Spiralni ... galaksije
+SREDIŠTE|... galaksije u smjeru Strijelca
+POJEHALI|„Krenuli smo”, Gagarinov uzvik pri polijetanju
+PLESECK|Ruski sjeverni kozmodrom
+VOSTOČNI|Novi ruski kozmodrom na Dalekom istoku
+WENCHANG|Kineski kozmodrom na otoku Hainanu
+JIUQUAN|Kineski kozmodrom u pustinji Gobi
+TANEGASHIMA|Japanski kozmodrom
+VANDENBERG|Kalifornijska baza za lansiranje u polarnu orbitu
+BOCA|... Chica, SpaceX-ova baza Starbase u Teksasu
+STARBASE|SpaceX-ova baza u Teksasu
+JAXA|Japanska svemirska agencija
+ISRO|Indijska svemirska agencija
+CNSA|Kineska svemirska agencija
+ROSKOSMOS|Ruska svemirska agencija
+KENNEDY|Svemirski centar ... na Floridi
+JOHNSON|Svemirski centar ... u Houstonu
+GODDARD|Robert ..., pionir raketa na tekuće gorivo
+CIOLKOVSKI|Konstantin ..., otac kozmonautike
+OBERTH|Hermann ..., njemački pionir raketne tehnike
+NOORDUNG|Herman Potočnik ..., zamislio svemirsku postaju
+POTOČNIK|Herman ... Noordung
+PEENEMUNDE|Njemački raketni centar V-2 (bez preglasa)
+STUPANJ|Dio rakete koji se odbacuje
+STUPNJEVI|Raketa Saturn V imala je tri ...
+POTISNIK|Pomoćni raketni motor
+MLAZNICA|Ispušni dio raketnog motora
+KEROZIN|Raketno gorivo prvog stupnja Saturna V
+HIDRAZIN|Gorivo za manevarske motore
+OKSIDANS|Tvar koja omogućuje izgaranje goriva
+ORBITALNA|... brzina
+DRUGA|... kozmička brzina, brzina oslobađanja
+OSLOBAĐANJA|Brzina ... od Zemljine teže
+PRISTAJANJE|Spajanje letjelice s postajom
+ŠETNJA|Svemirska ... izvan letjelice
+KANADARM|Robotska ruka na šatlu i ISS-u
+ZARJA|Prvi modul ISS-a 1998.
+UNITY|Prvi američki modul ISS-a
+ZVEZDA|Ruski servisni modul ISS-a
+KIBO|Japanski modul ISS-a
+TIANHE|Glavni modul kineske postaje Tiangong
+SHENZHOU|Kineska letjelica s posadom
+YANG|... Liwei, prvi kineski tajkonaut
+SHARMAN|Helen ..., prva Britanka u svemiru
+RIDE|Sally ..., prva Amerikanka u svemiru
+CHAWLA|Kalpana ..., astronautkinja poginula u Columbiji
+MCAULIFFE|Christa ..., učiteljica poginula u Challengeru
+PESQUET|Thomas ..., francuski astronaut ESA-e
+CRISTOFORETTI|Samantha ..., talijanska astronautkinja
+GERST|Alexander ..., njemački astronaut ESA-e
+HADFIELD|Chris ..., astronaut koji je na ISS-u pjevao „Space Oddity”
+VELIKA|... crvena pjega na Jupiteru
+PJEGE|Sunčeve ..., tamna područja na Suncu
+CIKLUS|Sunčev ... od oko 11 godina
+MAKSIMUM|Razdoblje najveće Sunčeve aktivnosti
+MINIMUM|Razdoblje najmanje Sunčeve aktivnosti
+OLUJA|Geomagnetska ...
+POLARNA|... svjetlost
+TUNGUSKI|... događaj 1908.
+SIBIR|Područje Tunguske eksplozije
+DINOSAURA|Izumiranje ... nakon udara asteroida
+JUKATAN|Poluotok s kraterom Chicxulub
+IRIDIJ|Element čiji sloj svjedoči o udaru asteroida
+ALVAREZ|Luis i Walter ..., hipoteza o udaru asteroida
+HOBA|Najveći poznati meteorit, u Namibiji
+ŽELJEZNI|... meteorit, od nikla i željeza
+KAMENI|... meteorit, hondrit
+HONDRIT|Kameni meteorit s hondrama
+HONDRE|Zrnca u kamenim meteoritima
+TEKTIT|Staklo nastalo pri udaru meteorita
+MOLDAVIT|Zeleni tektit iz Češke
+VLTAVA|Rijeka po kojoj je nazvan moldavit
+MARSOVSKI|... meteorit ALH84001
+KANALI|Schiaparellijevi ... na Marsu, optička varka
+LICE|... na Marsu, igra svjetla u Cydoniji
+CYDONIA|Područje Marsa s „licem”
+VALLES|... Marineris, golemi kanjon na Marsu
+MARINERIS|Valles ..., kanjon na Marsu
+HELLAS|Veliki udarni bazen na Marsu
+GALE|Krater u kojem je sletio Curiosity
+JEZERO|Krater u kojem je sletio Perseverance
+UTOPIJA|... Planitia, ravnica na Marsu
+ARABIA|... Terra, visoravan na Marsu
+THARSIS|Vulkansko područje Marsa
+PRAŠINA|Marsovske oluje ...
+LED|Na Marsovim polovima ima ...
+VODA|Tekuća ... nekad je tekla Marsom
+MAXWELL|... Montes, najviše planine Venere
+ISHTAR|... Terra, kontinent na Veneri
+APHRODITE|... Terra, najveće uzvišenje Venere
+KALORIS|Bazen ..., golemi krater na Merkuru
+SPUTNIK|... Planitia, ledena ravnica na Plutonu
+SRCE|Plutonovo ..., svijetla ravnica u obliku srca
+TOMBAUGHOVA|... Regio, Plutonovo srce
+LOKI|Najaktivniji vulkan na Iou
+PELE|Vulkan na Iou nazvan po havajskoj božici
+GEJZIRI|Encelad izbacuje ... vode
+TIGROVE|... pruge na Enceladu
+PRUGE|Tigrove ... na Enceladu
+KRAKEN|... Mare, metansko more na Titanu
+LIGEIA|... Mare, more na Titanu
+JEZERA|Metanska ... na Titanu
+RETROGRADNA|... vrtnja Venere
+STAKLENIK|Učinak ... na Veneri
+UGLJIČNI|... dioksid u atmosferi Venere
+SUMPORNA|... kiselina u oblacima Venere
+OLUJE|Jupiterove ...
+AMONIJAK|Plin u oblacima Jupitera
+POJASEVI|Svijetli i tamni ... na Jupiteru
+ZONE|Svijetli pojasevi Jupitera
+CASSINIJEV|... procjep u Saturnovim prstenovima
+PROCJEP|Cassinijev ...
+ŠESTEROKUT|Oblak oblika ... na Saturnovu polu
+NAGNUT|Uran je ... gotovo za 98 stupnjeva
+BOČNO|Uran se vrti ...
+VJETROVI|Najjači ... Sunčeva sustava pušu na Neptunu
+ŽARIŠTE|Sunce je u jednom ... elipse
+POLUOS|Velika ... elipse
+RAZDOBLJE|Ophodno ...
+VREMENSKA|... zona
+ZONA|Vremenska ...
+PRIJESTUPNI|... dan, 29. veljače
+VELJAČA|Mjesec s prijestupnim danom
+SEKUNDA|Prijestupna ...
+ATOMSKI|... sat
+USKRSNI|Datum ... ovisi o proljetnom uštapu
+
+[strucna]
+HIMALIJA|Jupiterov nepravilni mjesec, najveći u svojoj skupini
+METIDA|Unutarnji Jupiterov mjesec
+TEBA|Jupiterov mjesec unutar Ioove orbite
+ELARA|Jupiterov nepravilni mjesec
+PASIFAJA|Retrogradni Jupiterov mjesec
+KARME|Retrogradni Jupiterov mjesec
+ANANKA|Retrogradni Jupiterov mjesec
+LEDA|Jupiterov mjesec nazvan po Zeusovoj ljubavnici
+DIONA|Saturnov mjesec
+TETIJA|Saturnov mjesec s velikim kraterom Odisejem
+REJA|Drugi najveći Saturnov mjesec
+HIPERION|Spužvasti Saturnov mjesec
+FEBA|Retrogradni Saturnov mjesec
+PANDORA|Saturnov mjesec pastir prstena F
+PROMETEJ|Saturnov mjesec pastir prstena F
+PAN|Saturnov mjesec u Enckeovu procjepu
+ATLAS|Saturnov mjesec; i titan koji drži nebo
+JANUS|Saturnov koorbitalni mjesec
+EPIMETEJ|Saturnov mjesec koji s Janusom dijeli orbitu
+ARIEL|Uranov mjesec
+UMBRIEL|Tamni Uranov mjesec
+KORDELIJA|Uranov mjesec pastir prstena epsilon
+OFELIJA|Uranov mjesec pastir
+PUK|Uranov mjesec nazvan po Shakespeareovu vilenjaku
+PROTEJ|Drugi najveći Neptunov mjesec
+LARISA|Neptunov unutarnji mjesec
+NIKTA|Plutonov mali mjesec
+KERBER|Plutonov mali mjesec
+STIKS|Plutonov najmanji poznati mjesec
+DISNOMIJA|Eridin mjesec
+NAMAKA|Haumein mjesec
+HIJAKA|Haumein veći mjesec
+KVAOAR|Patuljasti planet Kuiperova pojasa (Quaoar)
+ORK|Transneptunsko tijelo, „anti-Pluton” (Orcus)
+VANT|Mjesec Orka
+GONGGONG|Transneptunsko tijelo nazvano po kineskom bogu vode
+PALADA|Drugi otkriveni asteroid
+JUNONA|Treći otkriveni asteroid
+HIGIJA|Četvrti najveći asteroid
+EROS|Asteroid na koji je sletjela sonda NEAR
+ITOKAWA|Asteroid s kojeg je Hayabusa donijela uzorke
+APOFIS|Asteroid koji će 2029. proći vrlo blizu Zemlje
+DIDIM|Asteroid sustava koji je ispitivala misija DART
+DIMORF|Mjesečić u koji je udarila sonda DART
+DART|NASA-ina misija skretanja asteroida udarom
+PSIHA|Metalni asteroid, cilj NASA-ine sonde (Psyche)
+LUCY|Sonda za Jupiterove trojance
+IDA|Asteroid s mjesecom Daktilom
+DAKTIL|Prvi otkriveni mjesec asteroida
+GASPRA|Prvi asteroid snimljen izbliza (Galileo)
+MATILDA|Asteroid koji je proletjela sonda NEAR
+LEVY|Shoemaker-..., komet koji je udario u Jupiter 1994.
+HALEBOPP|Sjajni komet iz 1997. (spojeno)
+HYAKUTAKE|Sjajni komet iz 1996.
+NEOWISE|Komet vidljiv golim okom 2020.
+TEMPEL|Komet u koji je udarila sonda Deep Impact
+WILD|Komet s kojeg je Stardust prikupio prašinu
+ENCKE|Komet s najkraćim poznatim ophodom
+OUMUAMUA|Prvo poznato međuzvjezdano tijelo, 2017.
+BORISOV|Prvi poznati međuzvjezdani komet, 2019.
+LEONIDI|Studeni meteorski roj iz Leona
+GEMINIDI|Prosinački meteorski roj
+KVADRANTIDI|Siječanjski meteorski roj
+LIRIDI|Travanjski meteorski roj
+ORIONIDI|Listopadski roj od Halleyeva kometa
+DRAKONIDI|Listopadski roj iz Zmaja
+RADIJANT|Točka iz koje naizgled izviru meteori
+BUČICA|Planetarna maglica M27 u Lisici
+SOVA|Planetarna maglica M97 u Velikom medvjedu
+ORLOVA|... maglica M16 sa „Stupovima stvaranja”
+STUPOVI|... stvaranja, slika iz Orlove maglice
+TRIFID|Maglica M20 u Strijelcu
+ROZETA|Maglica u Jednorogu
+VEO|Maglica ..., ostatak supernove u Labudu
+KARINA|Maglica Eta ... na južnom nebu
+TARANTULA|Maglica u Velikom Magellanovu oblaku
+HELIKS|Planetarna maglica u Vodenjaku, „Božje oko”
+MAČJE|... oko, planetarna maglica u Zmaju
+CIGARA|Galaksija M82 u Velikom medvjedu
+CENTAURUS|... A, radiogalaksija na južnom nebu
+KENTAURA|Alfa ..., najbliži zvjezdani sustav
+STEPHAN|...ov kvintet, skupina galaksija
+LANIAKEA|Superskup galaksija kojem pripada Mliječna staza
+ATRAKTOR|Veliki ..., gravitacijska anomalija
+PRAZNINA|Golemo područje svemira bez galaksija
+FILAMENTI|Niti kozmičke mreže
+MREŽA|Kozmička ..., raspored galaksija
+DEGENERACIJA|Kvantni tlak koji drži bijelog patuljka
+FERMIONI|Čestice podložne Paulijevu načelu
+PAULI|Wolfgang ..., načelo isključenja
+HAWKINGOVO|... zračenje crnih rupa
+ISPARAVANJE|... crnih rupa zbog Hawkingova zračenja
+EVENT|„... Horizon Telescope”, snimio sjenu crne rupe
+DREYER|John ..., sastavljač kataloga NGC
+CALDWELL|Patrick Moore ..., autor kataloga od 109 objekata
+MOORE|Patrick ..., britanski popularizator astronomije
+LEVERRIER|Urbain ..., izračunao položaj Neptuna (spojeno)
+ADAMS|John Couch ..., neovisno predvidio Neptun
+PIAZZI|Giuseppe ..., otkrio Ceres 1801.
+OLBERS|Paradoks tamnog noćnog neba
+LOCKYER|Norman ..., otkrio helij u Sunčevu spektru
+JANSSEN|Jules ..., neovisno uočio helijevu liniju
+HELIJ|Element otkriven najprije na Suncu
+HUGGINS|William ..., pionir zvjezdane spektroskopije
+SECCHI|Angelo ..., rana klasifikacija zvijezda
+HUMASON|Milton ..., Hubbleov suradnik
+TRUMPLER|Robert ..., otkrio međuzvjezdanu ekstinkciju
+JANSKY|Karl ..., otac radioastronomije
+REBER|Grote ..., graditelj prvog radioteleskopa u dvorištu
+HULST|Hendrik van de ..., predvidio liniju 21 cm
+VODIKOVA|... linija od 21 cm
+DRAKE|Frank ..., jednadžba o izvanzemaljskim civilizacijama
+FERMIJEV|... paradoks: gdje su svi?
+OZMA|Projekt ..., prvo traženje izvanzemaljskih signala
+WOW|Signal ..., zagonetni radijski signal 1977.
+TABBY|Zvijezda ..., KIC 8462852
+POLARIMETRIJA|Mjerenje polarizacije svjetlosti nebeskih tijela
+BOLOMETAR|Instrument za mjerenje ukupnog zračenja
+SPEKTROGRAF|Instrument koji snima spektar
+EŠELE|Vrsta difrakcijske rešetke visokog razlučivanja (franc. échelle)
+REŠETKA|Difrakcijska ... u spektrografu
+PRIZMA|Staklo koje rastavlja svjetlost
+RAZLUČIVANJE|Sposobnost razlikovanja bliskih detalja
+SEEING|Mutnja slike zbog atmosfere (engl.)
+APOKROMAT|Leća s ispravljenom kromatskom aberacijom
+ABERACIJA|Pogreška optičke slike; i prividni pomak zvijezda
+BRADLEY|James ..., otkrio aberaciju svjetlosti
+GREGORY|James ..., izumio reflektor s konkavnim sekundarom
+CASSEGRAIN|Reflektor s konveksnim sekundarnim zrcalom
+RITCHEY|...-Chrétien, izvedba teleskopa poput Hubblea
+MAKSUTOV|Katadioptrijski teleskop s meniskusom
+MENISKUS|Leća konkavno-konveksnog oblika
+SCHMIDTOVA|... kamera za širokokutna snimanja
+BLINK|Usporedni ... komparator kojim je otkriven Pluton
+KOMPARATOR|Uređaj za usporedbu fotografskih ploča
+HARVARDSKA|... klasifikacija spektara
+PICKERING|Edward ..., ravnatelj Harvardske zvjezdarnice
+RAČUNALICE|Harvardske ..., žene koje su klasificirale zvijezde
+FLEMING|Williamina ..., otkrila maglicu Konjska glava
+MAURY|Antonia ..., klasifikacija spektralnih linija
+YERKES|Zvjezdarnica s najvećim refraktorom na svijetu
+LICK|Zvjezdarnica na planini Hamilton
+PALOMAR|Planina s teleskopom od 200 inča
+WILSON|Mount ..., Hubbleova zvjezdarnica
+HOOKER|Teleskop od 100 inča na Mount Wilsonu
+PULKOVO|Glavna ruska zvjezdarnica kod Sankt Peterburga
+GREENWICH|Zvjezdarnica nultog meridijana
+MERIDIJAN|Nulti ... prolazi kroz Greenwich
+FLAMSTEED|John ..., prvi kraljevski astronom
+URANIBORG|Braheova zvjezdarnica na otoku Hvenu
+HVEN|Otok Tychonove zvjezdarnice
+MARAGHA|Perzijska srednjovjekovna zvjezdarnica
+JANTAR|... Mantar, kameni astronomski instrumenti u Jaipuru
+ASTROLAB|Srednjovjekovni astronomski instrument
+ARMILARNA|... sfera, model nebeskih krugova
+GNOMON|Štap sunčanog sata
+KVADRANT|Instrument za mjerenje visine zvijezda
+ANTIKITERA|Mehanizam iz ..., antičko astronomsko računalo
+MEHANIZAM|... s Antikitere
+NEBRA|Disk iz ..., brončanodobni prikaz neba
+NEWGRANGE|Irska grobnica osvijetljena na zimski suncostaj
+CHICHEN|... Itzá, piramida sa sjenom zmije na ekvinocij
+KUKULKAN|Piramida u Chichén Itzi
+DRESDENSKI|... kodeks, majanske tablice Venere
+KODEKS|Dresdenski ...
+SOTIS|Egipatski naziv Sirijusa
+HELIJAKALNI|... izlaz, prvo jutarnje pojavljivanje zvijezde
+DEKANI|Egipatske zvijezde koje dijele noć
+GRAVITACIJSKI|... valovi, otkriveni 2015.
+VALOVI|Gravitacijski ...
+KAGRA|Japanski detektor gravitacijskih valova
+LISA|Planirani svemirski detektor gravitacijskih valova
+STAPANJE|... dviju crnih rupa
+ČIRP|Zvuk rastuće frekvencije pri stapanju crnih rupa (engl. chirp)
+MULTIGLASNIČKA|... astronomija, više vrsta signala
+ICECUBE|Detektor neutrina na Južnom polu
+KAMIOKANDE|Japanski detektor neutrina
+KOSHIBA|Masatoshi ..., Nobel za neutrine iz supernove
+SANDULEAK|Zvijezda koja je eksplodirala kao SN 1987A
+TYCHOVA|... supernova 1572.
+KEPLEROVA|... supernova 1604.
+RAKOVICA|Maglica, ostatak supernove iz 1054. (narodno)
+FOTONI|Čestice svjetlosti
+GAMA|... bljesak, najsnažnija eksplozija
+BLJESAK|Gama ...
+VELA|Sateliti ... koji su otkrili gama bljeskove
+SWIFT|NASA-in satelit za gama bljeskove
+INTEGRAL|ESA-in gama-opservatorij
+ROSAT|Njemački rendgenski satelit
+UHURU|Prvi rendgenski satelit 1970.
+GIACCONI|Riccardo ..., otac rendgenske astronomije
+CYGNUS|... X-1, prvi kandidat za crnu rupu
+SCORPIUS|... X-1, prvi izvanSunčev rendgenski izvor
+SGR|... A*, crna rupa u središtu Mliječne staze
+POWEHI|Havajsko ime crne rupe u M87
+HOLMBERG|Erik ..., švedski istraživač galaksija
+ARP|Halton ..., atlas neobičnih galaksija
+TULLY|...-Fisher, odnos sjaja i brzine vrtnje galaksija
+FABER|...-Jackson, odnos za eliptične galaksije
+HUBBLEOV|... niz, klasifikacija galaksija u obliku viljuške
+VILJUŠKA|Hubbleova ..., dijagram oblika galaksija
+LENTIKULARNA|Galaksija tipa S0
+NEPRAVILNA|... galaksija bez određenog oblika
+STARBURST|Galaksija s burnim stvaranjem zvijezda (engl.)
+AKTIVNA|... galaktička jezgra
+MLAZ|Relativistički ... iz jezgre galaksije
+TORUS|Prašinasti prsten oko aktivne jezgre
+UJEDINJENI|... model aktivnih galaksija
+ŠUMA|Lymanova ..., apsorpcijske linije u spektru kvazara
+GUNN|...-Peterson, korito u spektru dalekih kvazara
+SUNJAJEV|...-Zeldovič, učinak na pozadinsko zračenje
+ZELDOVIČ|Jakov ..., sovjetski astrofizičar
+SAHAROV|Andrej ..., uvjeti za višak materije nad antimaterijom
+ANTIMATERIJA|Tvar od antičestica
+WIMP|Hipotetska čestica tamne tvari (engl. kratica)
+AKSION|Hipotetska lagana čestica, kandidat za tamnu tvar
+MOND|Teorija modificirane Newtonove dinamike (kratica)
+MILGROM|Mordehai ..., autor MOND-a
+KVINTESENCIJA|Promjenjivi oblik tamne energije
+MULTIVERZUM|Mnoštvo svemira

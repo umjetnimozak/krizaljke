@@ -1,0 +1,91 @@
+name: Nove križaljke
+
+on:
+  schedule:
+    # svake noći oko 3:17 po hrvatskom vremenu (02:17 UTC zimi)
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+    inputs:
+      broj:
+        description: 'Najviše novih križaljki po težini i veličini (9 usporednih poslova)'
+        default: '5'
+      minuta:
+        description: 'Najviše minuta po poslu'
+        default: '25'
+      najmanje:
+        description: 'Stani kad svaka kombinacija ima barem ovoliko (0 = ne gledaj)'
+        default: '0'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  slaganje:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        tezina: [opca, teska, strucna]
+        velicina: [mala, srednja, velika]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Složi križaljke
+        env:
+          TEZINA: ${{ matrix.tezina }}
+          VELICINA: ${{ matrix.velicina }}
+          MINUTA: ${{ inputs.minuta || '25' }}
+          NAJMANJE: ${{ inputs.najmanje || '0' }}
+        run: node klasicna/nocna.js ${{ inputs.broj || '5' }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.tezina }}-${{ matrix.velicina }}
+          path: stranica/data/${{ matrix.tezina }}-${{ matrix.velicina }}-*.json
+          if-no-files-found: ignore
+
+  spremanje:
+    needs: slaganje
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: novo
+          pattern: data-*
+          merge-multiple: true
+      - name: Spremi u repozitorij
+        run: |
+          mkdir -p stranica/data
+          if [ -d novo ]; then cp novo/*.json stranica/data/; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stranica/data
+          if git diff --cached --quiet; then echo "Nema novih križaljki."; exit 0; fi
+          git commit -m "Nove križaljke $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: stranica
+
+  objava:
+    needs: spremanje
+    if: always() && needs.spremanje.result == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -132,11 +132,11 @@ li{font-size:15.5px}
  .pfoot{margin-top:3mm;font-size:7.5pt;color:#444;text-align:right}
 }
 </style></head><body>
-<header><h1>Križaljke</h1><p>Klasične križaljke s općim pojmovima i pojmovima iz odabranog područja. Nove križaljke stižu svake noći.</p></header>
+<header><h1>Križaljke</h1><p>Klasične križaljke s općim pojmovima i pojmovima iz jednog do tri odabrana područja. Nove križaljke stižu svake noći.</p></header>
 <div class="pick"><div class="in">
  <div class="grp"><b>Težina</b><div class="seg" id="sd"></div></div>
  <div class="grp"><b>Veličina</b><div class="seg" id="ss"></div></div>
- <div class="grp"><b>Područje</b><div class="seg" id="st"></div></div>
+ <div class="grp"><b>Područja (jedno do tri)</b><div class="seg" id="st"></div></div>
  <div class="verrow"><div class="grp"><b>Križaljka</b><div class="seg" id="sv"></div></div><div class="note" id="vnote"></div></div>
 </div></div>
 <main>
@@ -169,7 +169,8 @@ const TH=[['o','Opća kultura'],['f','Filmska kultura'],['r','Rock&roll'],['p','
 const TNAME=Object.fromEntries(TH),DNAME=Object.fromEntries(DIFF),SNAME=Object.fromEntries(SIZE.map(s=>[s[0],s[1]]));
 const $=id=>document.getElementById(id),g=$('g'),kb=$('kb'),wrap=$('wrap');
 const LS={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
-let sel=Object.assign({d:'opca',s:'mala',t:'o',v:1},LS.get('kriz-odabir4')||{});if(!TNAME[sel.t])sel.t='o';
+let sel=Object.assign({d:'opca',s:'mala',t:'o',v:1},LS.get('kriz-odabir4')||{});if(typeof sel.t!='string'||!sel.t||[...sel.t].some(c=>!TNAME[c]))sel.t='o';
+const tnames=()=>[...sel.t].map(c=>TNAME[c]).join(', ');
 const cache={};let P=null,sol,val,rev,el,order,cur;
 
 // klasične križaljke: data/{težina}-{veličina}-{područje}.json, popis {id,v,datum,w,h,words}
@@ -179,7 +180,7 @@ const isDone=p=>(LS.get('kriz3-p-'+p.id)||{}).done;
 function segs(){
  $('sd').innerHTML=DIFF.map(([k,n])=>`<button data-k="${k}" aria-pressed="${sel.d==k}">${n}</button>`).join('');
  $('ss').innerHTML=SIZE.map(([k,n,h])=>`<button data-k="${k}" aria-pressed="${sel.s==k}">${n}<small>${h}</small></button>`).join('');
- $('st').innerHTML=TH.map(([k,n])=>`<button data-k="${k}" aria-pressed="${sel.t==k}">${n}</button>`).join('');
+ $('st').innerHTML=TH.map(([k,n])=>`<button data-k="${k}" aria-pressed="${sel.t.includes(k)}">${n}</button>`).join('');
  const L=list();
  $('sv').innerHTML=L.map(p=>`<button data-k="${p.v}" aria-pressed="${sel.v==p.v}" title="Dodano ${p.datum||''}">${p.v}${isDone(p)?' ✓':''}</button>`).join('');
  const n=L.length;$('vnote').textContent=n?`${n} križaljk${n%10==1&&n%100!=11?'a':n%10>=2&&n%10<=4&&(n%100<10||n%100>=20)?'e':'i'} za ovaj odabir`:'';
@@ -188,7 +189,11 @@ function segs(){
 const pick=()=>{const L=list();const p=L.find(p=>!isDone(p))||L[0];sel.v=p?p.v:1};
 $('sd').onclick=e=>{const b=e.target.closest('button');if(b){sel.d=b.dataset.k;sel.v=0;change()}};
 $('ss').onclick=e=>{const b=e.target.closest('button');if(b){sel.s=b.dataset.k;sel.v=0;change()}};
-$('st').onclick=e=>{const b=e.target.closest('button');if(b){sel.t=b.dataset.k;sel.v=0;change()}};
+// do tri područja; slova se drže u redoslijedu popisa TH (tako se zovu i datoteke)
+$('st').onclick=e=>{const b=e.target.closest('button');if(!b)return;const k=b.dataset.k;let t=sel.t;
+ if(t.includes(k)){if(t.length==1)return;t=t.replace(k,'')}
+ else{if(t.length>=3){$('vnote').textContent='Najviše tri područja. Prvo isključi jedno od odabranih.';return}t+=k}
+ sel.t=TH.map(x=>x[0]).filter(c=>t.includes(c)).join('');sel.v=0;change()};
 $('sv').onclick=e=>{const b=e.target.closest('button');if(b){sel.v=+b.dataset.k;change()}};
 function change(){segs();load()}
 async function load(){
@@ -216,7 +221,7 @@ function start(p){
  const li=w=>`<li data-k="${w.n}${w.d}"><b>${w.n}</b><span>${esc(w.q)} (${w.t.length})</span></li>`;
  $('la').innerHTML=by('A').map(li).join('');$('ld').innerHTML=by('D').map(li).join('');
  $('pt').textContent=document.querySelectorAll('#g .c:not(.x)').length;$('pn').textContent=P.words.length;
- $('ttl').innerHTML=`Križaljka ${sel.v}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${TNAME[sel.t]}</span>`;
+ $('ttl').innerHTML=`Križaljka ${sel.v}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${tnames()}</span>`;
  cur={r:order[0].r,c:order[0].c,d:order[0].d};last=null;size();paint();wrap.scrollTop=0;wrap.scrollLeft=0;
 }
 function clueIntoView(li){const box=li.closest('section');if(!box)return;const head=box.querySelector('h2').offsetHeight;const t=li.offsetTop,b=t+li.offsetHeight;if(t<box.scrollTop+head+8||b>box.scrollTop+box.clientHeight-8){const top=Math.max(0,t-head-(box.clientHeight-head)/2+li.offsetHeight/2);box.scrollTo?box.scrollTo({top,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}):box.scrollTop=top}}
@@ -277,7 +282,7 @@ function gridSVG(letters,cs){
 }
 function buildPrint(){
  if(!P)return;const A=$('printArea'),mine=$('pMine').checked;
- const title='Križaljka '+sel.v,sub=`${DNAME[sel.d]} · ${SNAME[sel.s]} · ${TNAME[sel.t]}`;
+ const title='Križaljka '+sel.v,sub=`${DNAME[sel.d]} · ${SNAME[sel.s]} · ${tnames()}`;
  const head=`<div class="ph"><div><div class="brand">KRIŽALJKE <i>·</i> mojekrizaljke.eu</div><h1>${title}</h1><div class="sub">${sub} · ${P.words.length} pojmova</div></div></div>`;
  const MM=96/25.4,PAGE=258; // visina korisnog dijela A4 u mm
   // mreža i pitanja ispod, sve stisnuto na jednu stranicu A4

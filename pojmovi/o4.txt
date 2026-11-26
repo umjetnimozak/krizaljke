@@ -1,0 +1,644 @@
+[opca]
+HRVATSKA|Lijepa naša domovino
+FRANCUSKA|Država s Eiffelovim tornjem
+ITALIJA|Država u obliku čizme
+ŠPANJOLSKA|Država flamenka i koride
+NJEMAČKA|Država s glavnim gradom Berlinom
+AUSTRIJA|Država s glavnim gradom Bečom
+MAĐARSKA|Država s glavnim gradom Budimpeštom
+SLOVENIJA|Sjeverozapadna susjeda Hrvatske
+SRBIJA|Država s glavnim gradom Beogradom
+BOSNA|... i Hercegovina
+GRČKA|Kolijevka demokracije
+TURSKA|Država na dva kontinenta
+RUSIJA|Najveća država svijeta
+KINA|Najmnogoljudnija država do 2023.
+INDIJA|Najmnogoljudnija država od 2023.
+JAPAN|Zemlja izlazećeg sunca
+BRAZIL|Najveća južnoamerička država
+ARGENTINA|Država tanga
+MEKSIKO|Država tekile i sombrera
+KANADA|Država javorova lista
+AUSTRALIJA|Kontinent-država s klokanima
+EGIPAT|Država piramida
+MAROKO|Afrička država s Casablancom
+NORVEŠKA|Država fjordova
+ŠVEDSKA|Država IKEA-e i Nobela
+FINSKA|Zemlja tisuća jezera
+DANSKA|Država Lega i Andersena
+IRSKA|Smaragdni otok
+ŠKOTSKA|Zemlja kiltova i gajdi
+ŠVICARSKA|Država satova i čokolade
+BELGIJA|Država pralina i Bruxellesa
+NIZOZEMSKA|Zemlja tulipana i vjetrenjača
+PORTUGAL|Država fada
+POLJSKA|Država Chopina i Kopernika
+ČEŠKA|Država s glavnim gradom Pragom
+UKRAJINA|Država s glavnim gradom Kijevom
+KLOKAN|Australski tobolčar
+KOALA|Australski tobolčar koji jede eukaliptus
+PANDA|Crno-bijeli kineski medvjed
+ZEBRA|Prugasti afrički konj
+NOSOROG|Životinja s rogom na nosu
+NILSKI|... konj
+GORILA|Najveći majmun
+ČIMPANZA|Čovjeku najsrodniji majmun
+DEVA|Pustinjska životinja s grbom
+LAMA|Južnoamerička životinja koja pljuje
+MEDVJED|Velika zvijer koja spava zimi
+JELEN|Šumska životinja s rogovljem
+SRNA|Ženka srndaća
+VJEVERICA|Glodavac koji skuplja lješnjake
+JEŽ|Životinja s bodljama
+KRTICA|Životinja koja kopa pod zemljom
+ŠIŠMIŠ|Leteći sisavac
+LABUD|Bijela ptica dugog vrata
+RODA|Ptica koja prema priči donosi djecu
+GOLUB|Ptica mira
+VRANA|Crna ptica
+LASTAVICA|Ptica selica, vjesnik proljeća
+PAPIGA|Ptica koja oponaša govor
+FLAMINGO|Ružičasta ptica
+NOJ|Najveća ptica
+MORSKI|... pas
+DUPIN|Delfin
+MEDUZA|Morska žarnica
+RAK|Životinja s kliještima
+ŠKOLJKA|Morski mekušac s ljušturom
+PUŽ|Životinja s kućicom
+KOMARAC|Kukac koji bode
+MUHA|Dosadni kukac
+BUBAMARA|Crvena buba s točkicama
+PAUK|Ima osam nogu
+TULIPAN|Nizozemski cvijet
+SUNCOKRET|Cvijet koji se okreće prema Suncu
+LJILJAN|Bijeli cvijet čistoće
+KARANFIL|Cvijet za zapućak
+MASLAČAK|Žuti cvijet koji postaje paperjasta kugla
+VISIBABA|Prvi proljetni cvijet
+LAVANDA|Ljubičasta mirisna biljka s Hvara
+KAKTUS|Bodljikava pustinjska biljka
+HRAST|Drvo sa žirom
+BUKVA|Drvo bjelogorične šume
+BOR|Crnogorično drvo
+JELA|Božićno drvce
+LIPA|Drvo čiji se cvijet pije kao čaj
+VRBA|Drvo uz rijeku
+PALMA|Tropsko drvo s kokosima
+BREZA|Drvo bijele kore
+KESTEN|Plod koji se peče u jesen
+ORAH|Plod s tvrdom ljuskom
+LJEŠNJAK|Plod za Nutellu
+BADEM|Plod za marcipan
+JAGODA|Crveno proljetno voće
+TREŠNJA|Crveno ljetno voće s košticom
+ŠLJIVA|Voće za pekmez i rakiju
+MARELICA|Narančasto voće s košticom
+BRESKVA|Voće baršunaste kore
+KRUŠKA|Voće oblika žarulje
+LUBENICA|Velika ljetna voćka
+DINJA|Slatka žuta voćka
+ANANAS|Tropska voćka s krunom
+BANANA|Žuta tropska voćka
+KIVI|Smeđa dlakava voćka; i ptica
+SMOKVA|Dalmatinsko voće
+MANDARINA|Neretvansko voće
+KUPUS|Povrće za sarmu
+MRKVA|Narančasto povrće
+LUK|Povrće koje tjera suze
+ČEŠNJAK|Bijeli luk
+PAPRIKA|Povrće za punjenje
+KRASTAVAC|Povrće za salatu
+SALATA|Zelena ... uz ručak
+GRAH|Mahunarka za varivo
+GRAŠAK|Zeleno mahunasto povrće
+KUKURUZ|Žitarica s klipom
+PŠENICA|Žitarica za kruh
+RIŽA|Žitarica za rižoto
+TJESTENINA|Špageti, makaroni
+ŠPAGETI|Duga tanka tjestenina
+SARMA|Kupus punjen mesom
+GULAŠ|Mesno varivo s paprikom
+ČEVAPI|Mljeveno meso sa žara
+PALAČINKE|Tanke slatke ili slane plosnice
+FRITULE|Božićne slatke kuglice
+KROFNA|Pečivo s marmeladom
+BUREK|Pita s mesom
+SIR|Mliječni proizvod
+JAJE|Kokoš ga snese
+PRŠUT|Sušeni svinjski but
+KULEN|Slavonska kobasica
+JUHA|Prvo jelo ručka
+DORUČAK|Jutarnji obrok
+RUČAK|Podnevni obrok
+VEČERA|Večernji obrok
+ŠKOLARAC|Učenik osnovne škole
+UČENIK|Onaj koji uči u školi
+RAZRED|Skupina učenika; i prostorija
+PLOČA|Školska ... za kredu
+KREDA|Piše po ploči
+SPUŽVA|Briše ploču
+TORBA|Školska ...
+BILJEŽNICA|Teka
+GUMICA|Briše olovku
+RAVNALO|Crta ravne crte
+ŠESTAR|Crta krugove
+KALKULATOR|Računalo za računanje
+ODMOR|Školski ... između sati
+PRAZNICI|Ljetni ...
+OCJENA|Petica ili jedinica
+PETICA|Najbolja ocjena
+DIPLOMA|Svjedodžba o završenom studiju
+FAKULTET|Visoko učilište
+PROFESOR|Nastavnik na fakultetu
+STUDENT|Polaznik fakulteta
+ZNANOST|Sustavno znanje
+POKUS|Eksperiment
+LABORATORIJ|Prostorija za pokuse
+MIKROSKOP|Uređaj za gledanje sitnoga
+TELESKOP|Uređaj za gledanje dalekoga
+POVEĆALO|Leća koja povećava
+NOVINE|Dnevni list
+ČASOPIS|Tjednik ili mjesečnik
+VIJESTI|Dnevne ... na televiziji
+REKLAMA|Oglas
+FILM|Djelo za kino
+SERIJA|Film u nastavcima
+KINO|Mjesto gdje se gledaju filmovi
+PREDSTAVA|Kazališna izvedba
+GLUMAC|Igra ulogu
+PJESMA|Uglazbljeni stihovi
+PJESMICA|Mala pjesma
+SLIKA|Djelo slikara
+KIP|Djelo kipara
+ARHITEKT|Projektira zgrade
+GRADITELJ|Onaj koji gradi
+ZIDAR|Gradi zidove
+STOLAR|Radi s drvom
+KROJAČ|Šije odjeću
+POSTOLAR|Popravlja cipele
+PEKAR|Peče kruh
+MESAR|Prodaje meso
+RIBAR|Lovi ribu
+SELJAK|Radi na polju
+VATROGASAC|Gasi požare
+POLICAJAC|Čuva red
+POŠTAR|Raznosi pisma
+KUHAR|Kuha u restoranu
+KONOBAR|Poslužuje goste
+PILOT|Upravlja zrakoplovom
+MORNAR|Plovi brodom
+VOJNIK|Pripadnik vojske
+SUDAC|Sudi u sudu ili na utakmici
+ODVJETNIK|Brani na sudu
+ZUBAR|Stomatolog
+LJEKARNIK|Prodaje lijekove
+VETERINAR|Liječi životinje
+NOGOMETAŠ|Igrač nogometa
+VRATAR|Brani gol
+GOL|Pogodak u nogometu
+LOPTA|Okrugla igračka za nogomet
+STADION|Mjesto utakmice
+UTAKMICA|Susret dviju momčadi
+KARTON|Žuti ili crveni ... u nogometu
+PENAL|Jedanaesterac
+KORNER|Udarac iz kuta
+DINAMO|Zagrebački nogometni klub
+HAJDUK|Splitski nogometni klub
+VATERPOLO|Igra s loptom u bazenu
+ODBOJKA|Igra preko mreže
+BAZEN|Mjesto za plivanje
+SKIJE|Za spuštanje niz snijeg
+SANJKE|Za spuštanje niz brijeg zimi
+KLIZALJKE|Za vožnju po ledu
+MEDALJA|Nagrada za prvo, drugo ili treće mjesto
+ZLATNA|... medalja
+TROFEJ|Pehar za pobjednika
+PRVENSTVO|Natjecanje za naslov prvaka
+SVJETSKO|... prvenstvo
+RUKOMETAŠ|Igrač rukometa
+KOŠARKAŠ|Igrač košarke
+TENISAČ|Igrač tenisa
+REKET|Palica za tenis
+MREŽA|... na teniskom terenu
+TRKAČ|Atletičar koji trči
+SKOK|... u dalj
+BACANJE|... kugle
+ŠAHIST|Igrač šaha
+KRALJ|Najvažnija figura u šahu
+DAMA|Najjača figura u šahu
+LOVAC|Šahovska figura koja ide dijagonalno
+TOP|Šahovska figura kula
+SKAKAČ|Šahovska figura konj
+PIJUN|Najslabija šahovska figura
+MAT|Kraj partije šaha
+
+[teska]
+WELLINGTON|Glavni grad Novog Zelanda
+PRETORIJA|Upravni glavni grad Južnoafričke Republike
+ABUJA|Glavni grad Nigerije
+ADIS|... Abeba, glavni grad Etiopije
+ABEBA|Adis ..., glavni grad Etiopije
+AKRA|Glavni grad Gane
+DAKAR|Glavni grad Senegala
+RABAT|Glavni grad Maroka
+TUNIS|Glavni grad Tunisa
+ALŽIR|Glavni grad Alžira
+TRIPOLI|Glavni grad Libije
+KARTUM|Glavni grad Sudana
+KINŠASA|Glavni grad DR Konga
+LUANDA|Glavni grad Angole
+HARARE|Glavni grad Zimbabvea
+DAMASK|Glavni grad Sirije
+BEJRUT|Glavni grad Libanona
+AMAN|Glavni grad Jordana
+RIJAD|Glavni grad Saudijske Arabije
+DOHA|Glavni grad Katara
+MASKAT|Glavni grad Omana
+KABUL|Glavni grad Afganistana
+ISLAMABAD|Glavni grad Pakistana
+DELHI|New ..., glavni grad Indije
+KATMANDU|Glavni grad Nepala
+DAKA|Glavni grad Bangladeša
+HANOJ|Glavni grad Vijetnama
+MANILA|Glavni grad Filipina
+DŽAKARTA|Glavni grad Indonezije
+KUALA|... Lumpur
+TAJPEJ|Glavni grad Tajvana
+ULAN|... Bator, glavni grad Mongolije
+ASTANA|Glavni grad Kazahstana
+TBILISI|Glavni grad Gruzije
+JEREVAN|Glavni grad Armenije
+BAKU|Glavni grad Azerbajdžana
+KIŠINJEV|Glavni grad Moldavije
+MINSK|Glavni grad Bjelorusije
+VILNIUS|Glavni grad Litve
+RIGA|Glavni grad Latvije
+TALLINN|Glavni grad Estonije
+BRATISLAVA|Glavni grad Slovačke
+VADUZ|Glavni grad Lihtenštajna
+VALLETTA|Glavni grad Malte
+NIKOZIJA|Glavni grad Cipra
+ANDORA|Država i glavni grad u Pirinejima
+SARAJEVO|Glavni grad BiH
+PRIŠTINA|Glavni grad Kosova
+CARACAS|Glavni grad Venezuele
+QUITO|Glavni grad Ekvadora
+MONTEVIDEO|Glavni grad Urugvaja
+ASUNCION|Glavni grad Paragvaja (bez naglaska)
+SUCRE|Ustavni glavni grad Bolivije
+PAZ|La ..., sjedište bolivijske vlade
+MANAGUA|Glavni grad Nikaragve
+WASHINGTON|Glavni grad SAD-a
+OTELO|Shakespeareov ljubomorni Maur
+MACBETH|Shakespeareova tragedija o škotskom kralju
+LEAR|Kralj ..., Shakespeareova tragedija
+JULIJA|Romeova ljubav
+OFELIJA|Hamletova ljubav
+DESDEMONA|Otelova supruga
+FAUST|Goetheov junak koji je prodao dušu
+MEFISTO|Vrag u „Faustu”
+DON|... Kihot
+KIHOT|Don ..., vitez tužnoga lika
+SANČO|... Pansa, Don Kihotov štitonoša
+DULCINEJA|Don Kihotova dama
+ROSINANTE|Don Kihotov konj
+SHYLOCK|Lihvar iz „Mletačkog trgovca”
+PENELOPA|Odisejeva vjerna žena
+TELEMAH|Odisejev sin
+KIKLOP|Jednooki div iz „Odiseje”
+POLIFEM|Kiklop kojeg je Odisej oslijepio
+ITAKA|Odisejev otok
+RASKOLJNIKOV|Junak „Zločina i kazne”
+ZLOČIN|„... i kazna”
+KAZNA|„Zločin i ...”
+KARENJINA|Ana ..., Tolstojeva junakinja
+RAT|„... i mir”
+BOVARY|Gospođa ..., Flaubertova junakinja
+VALJEAN|Jean ..., junak „Jadnika”
+JADNICI|Hugoov roman o Jeanu Valjeanu
+QUASIMODO|Zvonar crkve Notre-Dame
+ESMERALDA|Ciganka u koju je zaljubljen Quasimodo
+GATSBY|Veliki ..., Fitzgeraldov junak
+FITZGERALD|F. Scott ..., autor „Velikog Gatsbyja”
+STARAC|„... i more”, Hemingwayeva novela
+MORE|„Starac i ...”
+MOBY|... Dick, bijeli kit
+DICK|Moby ...
+AHAB|Kapetan koji lovi Mobyja Dicka
+MELVILLE|Herman ..., autor „Mobyja Dicka”
+TWAIN|Mark ..., autor „Toma Sawyera”
+SAWYER|Tom ..., Twainov dječak
+HUCK|... Finn, Tomov prijatelj
+OLIVER|... Twist, Dickensov siroče
+TWIST|Oliver ...
+COPPERFIELD|David ..., Dickensov junak
+SCROOGE|Škrtac iz „Božićne priče”
+ALISA|... u zemlji čudesa
+ČUDESA|Alisa u zemlji ...
+GULLIVER|Swiftov putnik u Liliput
+ROBINZON|... Crusoe, brodolomac
+PETKO|Robinzonov sluga
+MONTECRISTO|Grof ... (spojeno)
+MUŠKETIRI|Dumasovi „Tri ...”
+DARTAGNAN|Dumasov mušketir iz Gaskonje (bez apostrofa)
+DUMAS|Alexandre ..., autor „Tri mušketira”
+VERNE|Jules ..., autor „20 000 milja pod morem”
+NEMO|Kapetan podmornice Nautilus
+NAUTILUS|Podmornica kapetana Nema
+FOGG|Phileas ..., oko svijeta u 80 dana
+HOLMES|Sherlock ..., detektiv iz Baker Streeta
+DOYLE|Arthur Conan ..., tvorac Sherlocka Holmesa
+CHRISTIE|Agatha ..., kraljica krimića
+MARPLE|Gospođica ..., detektivka Agathe Christie
+STOKER|Bram ..., autor „Drakule”
+SHELLEY|Mary ..., autorica „Frankensteina”
+POE|Edgar Allan ..., autor „Gavrana”
+GAVRAN|Poeova pjesma
+KISELINA|Tvar pH-vrijednosti manje od 7
+LUŽINA|Tvar pH-vrijednosti veće od 7
+PROTON|Pozitivno nabijena čestica jezgre
+ELEKTRON|Negativno nabijena čestica
+MOLEKULA|Skupina povezanih atoma
+ELEMENT|Tvar od jedne vrste atoma
+SPOJ|Tvar od više elemenata
+VODIK|Najlakši element
+UGLJIK|Element života, C
+DUŠIK|Plin kojeg u zraku ima najviše
+KALCIJ|Element za kosti
+KALIJ|Element, K
+MAGNEZIJ|Element, Mg
+SUMPOR|Žuti element, S
+FOSFOR|Element na šibicama
+KLOR|Element za dezinfekciju bazena
+JOD|Element u soli protiv gušavosti
+PLATINA|Plemenita kovina, Pt
+BAKAR|Crvenkasti metal za žice
+CINK|Metal za pocinčavanje
+KOSITAR|Metal za lemljenje
+NIKAL|Metal, Ni
+KROM|Metal za sjajne prevlake
+VOLFRAM|Metal žarne niti
+TITANIJ|Lagan i čvrst metal, Ti
+NEON|Plin u svjetlećim reklamama
+ARGON|Plemeniti plin, Ar
+OZON|Troatomni kisik
+GRAVITACIJA|Sila teže
+INERCIJA|Tromost tijela
+ENERGIJA|Sposobnost obavljanja rada
+SNAGA|Rad u jedinici vremena
+VAT|Jedinica snage
+DŽUL|Jedinica energije
+NJUTN|Jedinica sile
+PASKAL|Jedinica tlaka
+AMPER|Jedinica jakosti struje
+VOLT|Jedinica napona
+HERC|Jedinica frekvencije
+KELVIN|Jedinica apsolutne temperature
+CELZIJ|Švedski fizičar temperaturne ljestvice
+STANICA|Osnovna jedinica života
+JEZGRA|Središte stanice
+GEN|Nositelj nasljedne osobine
+KROMOSOM|Čovjek ih ima 46
+EVOLUCIJA|Darwinova teorija razvoja vrsta
+BAKTERIJA|Jednostanični mikroorganizam
+VIRUS|Uzročnik gripe
+CJEPIVO|Štiti od zarazne bolesti
+ANTIBIOTIK|Lijek protiv bakterija
+PENICILIN|Prvi antibiotik
+INZULIN|Hormon gušterače
+GUŠTERAČA|Žlijezda koja luči inzulin
+JETRA|Najveća žlijezda u tijelu
+BUBREG|Organ koji pročišćava krv
+ŽELUDAC|Organ probave
+MOZAK|Organ mišljenja
+ŽIVAC|Prenosi podražaje
+MIŠIĆ|Pokreće tijelo
+KRALJEŽNICA|Okosnica tijela
+LUBANJA|Kosti glave
+REBRA|Kosti prsnog koša
+KOŽA|Najveći organ tijela
+KRVNA|... grupa
+PLAZMA|Tekući dio krvi
+HEMOGLOBIN|Prenosi kisik u krvi
+ARHIPELAG|Skupina otoka
+FJORD|Uski morski zaljev u Norveškoj
+DELTA|Ušće rijeke u više rukavaca
+ESTUARIJ|Lijevkasto ušće rijeke
+KANJON|Duboka riječna dolina
+GEJZIR|Izvor vruće vode koji šiklja
+LEDENJAK|Glečer
+GLEČER|Ledena rijeka u planinama
+LAGUNA|Plitko more odvojeno od pučine
+ATOL|Koraljni otok u obliku prstena
+KORALJ|Morski organizam grebena
+GREBEN|Veliki koraljni ... u Australiji
+TAJGA|Sjeverna crnogorična šuma
+TUNDRA|Hladna ravnica bez drveća
+STEPA|Travnata ravnica
+SAVANA|Afrička travnata ravnica
+PRAŠUMA|Tropska kišna šuma
+MONSUN|Sezonski vjetar s kišom
+TAJFUN|Tropska oluja na Pacifiku
+URAGAN|Tropska oluja na Atlantiku
+TORNADO|Pijavica na kopnu
+BURA|Jak hladan vjetar na Jadranu
+JUGO|Topao vlažan vjetar s juga
+MAESTRAL|Ljetni vjetar s mora
+TRAMONTANA|Sjeverni vjetar na Jadranu
+KRŠ|Vapnenački teren s ponikvama
+PONIKVA|Udubina u kršu
+ŠPILJA|Podzemna šupljina
+STALAKTIT|Siga koja visi sa stropa
+STALAGMIT|Siga koja raste s poda
+SIGA|Kamena tvorevina u špilji
+SEDRA|Vapnenačke barijere na Plitvicama
+SLAP|Vodopad
+EKVATOR|Polutnik
+POLUTNIK|Ekvator
+MERIDIJAN|Podnevnik
+PARALELA|Usporednica
+TROPI|Područje oko ekvatora
+ARKTIČKI|... krug
+OBRATNICA|Rakova ili Jarčeva ...
+MONT|... Blanc, najviši vrh Alpa
+BLANC|Mont ...
+ELBRUS|Najviši vrh Kavkaza
+MATTERHORN|Alpski vrh u obliku piramide
+TRIGLAV|Najviši vrh Slovenije
+ETNA|Najviši aktivni vulkan Europe
+STROMBOLI|Vulkan „svjetionik Sredozemlja”
+FUDŽI|Sveta japanska planina
+MAUNA|... Kea, havajski vulkan
+SENAT|Gornji dom parlamenta
+PARLAMENT|Zakonodavno tijelo
+USTAV|Temeljni zakon države
+REFERENDUM|Narodno izjašnjavanje
+IZBORI|Glasanje za zastupnike
+GLASAČ|Birač
+KANDIDAT|Onaj tko se natječe na izborima
+STRANKA|Politička organizacija
+VLADA|Izvršna vlast
+MINISTAR|Član vlade
+PREMIJER|Predsjednik vlade
+
+[strucna]
+NAZOR|Vladimir ..., autor „Velog Jože”
+JOŽE|Veli ..., Nazorov div
+KOZARAC|Josip ..., autor „Mrtvih kapitala”
+KUMIČIĆ|Eugen ..., autor „Urote zrinsko-frankopanske”
+NOVAK|Vjenceslav ..., autor „Posljednjih Stipančića”
+GJALSKI|Ksaver Šandor ..., autor „Pod starim krovovima”
+LESKOVAR|Janko ..., autor „Sjene ljubavi”
+VOJNOVIĆ|Ivo ..., autor „Dubrovačke trilogije”
+EKVINOCIJ|Vojnovićeva drama
+DOMJANIĆ|Dragutin ..., kajkavski pjesnik
+GALOVIĆ|Fran ..., pjesnik „Z mojih bregov”
+ŠIMIĆ|Antun Branko ..., pjesnik „Preobraženja”
+VIDRIĆ|Vladimir ..., pjesnik „Pejzaža”
+GORAN|Ivan ... Kovačić, autor „Jame”
+JAMA|Goranova poema
+TADIJANOVIĆ|Dragutin ..., pjesnik „Dugog puta”
+PARUN|Vesna ..., pjesnikinja „Zore i vihora”
+SLAMNIG|Ivan ..., pjesnik i prozaik
+ŠOLJAN|Antun ..., autor „Kratkog izleta”
+FABRIO|Nedjeljko ..., autor „Vježbanja života”
+ŠEGEDIN|Petar ..., autor „Djece božje”
+UGREŠIĆ|Dubravka ..., autorica „Štefice Cvek”
+DRAKULIĆ|Slavenka ..., spisateljica i novinarka
+TOMIĆ|Ante ..., autor „Što je muškarac bez brkova”
+FERIĆ|Zoran ..., autor „Mišolovke Walta Disneya”
+JERGOVIĆ|Miljenko ..., autor „Sarajevskog Marlbora”
+KOVAČ|Mirko ..., autor „Vrata od utrobe”
+GLEMBAJEVI|Krležina drama o zagrebačkoj patricijskoj obitelji
+LEDA|Krležina komedija
+FILIP|... Latinovicz, Krležin slikar
+LATINOVICZ|Filip ..., junak Krležina romana
+BALADE|„... Petrice Kerempuha”
+KEREMPUH|Petrica ..., Krležin kajkavski lik
+ZASTAVE|Krležin višesvežnjani roman
+KOLAR|Slavko ..., autor „Breze”
+HLAPIĆ|Šegrt ..., junak Ivane Brlić-Mažuranić
+ŠEGRT|... Hlapić
+GITA|Hlapićeva prijateljica
+POTJEH|Junak „Priča iz davnine”
+REGOČ|Div iz „Priča iz davnine”
+STRIBOR|Šuma ...
+KOSJENKA|Vila iz priče o Regoču
+KVRŽICA|Pero ..., Lovrakov junak
+LOVRAK|Mato ..., autor „Vlaka u snijegu”
+TALES|Filozof koji je smatrao da je sve od vode
+ANAKSIMANDAR|Filozof apeirona
+ANAKSIMEN|Filozof koji je pralačelo vidio u zraku
+HERAKLIT|„Sve teče”
+PARMENID|Elejski filozof bitka
+ZENON|Elejac poznat po paradoksima
+DEMOKRIT|Filozof atoma
+EMPEDOKLO|Filozof četiriju elemenata
+PROTAGORA|„Čovjek je mjera svih stvari”
+PLOTIN|Utemeljitelj novoplatonizma
+BOETIJE|Autor „Utjehe filozofije”
+ANSELMO|Autor ontološkog dokaza Božjeg postojanja
+ABELARD|Srednjovjekovni filozof, Heloizin ljubavnik
+AVEROES|Arapski komentator Aristotela
+AVICENA|Perzijski liječnik i filozof
+MAJMONID|Židovski srednjovjekovni filozof
+PASCAL|„Misli”, i jedinica tlaka
+BERKELEY|„Biti znači biti opažen”
+FICHTE|Njemački idealist, „Ja i ne-Ja”
+SCHELLING|Filozof prirode, Hegelov prijatelj
+FEUERBACH|Kritičar religije, utjecao na Marxa
+ENGELS|Marxov suradnik
+COMTE|Utemeljitelj pozitivizma
+MILL|John Stuart ..., „O slobodi”
+BENTHAM|Utemeljitelj utilitarizma
+BERGSON|Filozof élan vitala
+PEIRCE|Utemeljitelj pragmatizma
+DEWEY|Američki pragmatist i pedagog
+RUSSELL|Bertrand ..., logičar i pacifist
+FREGE|Utemeljitelj moderne logike
+CARNAP|Logički pozitivist Bečkog kruga
+QUINE|Američki filozof „Dvije dogme empirizma”
+KUHN|Thomas ..., „Struktura znanstvenih revolucija”
+ADORNO|Filozof Frankfurtske škole
+HORKHEIMER|Suosnivač Frankfurtske škole
+MARCUSE|„Jednodimenzionalni čovjek”
+HABERMAS|Filozof komunikativnog djelovanja
+ARENDT|Hannah ..., „Banalnost zla”
+BEAUVOIR|Simone de ..., „Drugi spol”
+FOUCAULT|„Nadzor i kazna”
+DERRIDA|Utemeljitelj dekonstrukcije
+DELEUZE|Francuski filozof „Anti-Edipa”
+BARTHES|„Smrt autora”
+LACAN|Francuski psihoanalitičar
+LEVINAS|Filozof lica drugoga
+RICOEUR|Francuski hermeneutičar
+GADAMER|„Istina i metoda”
+RAWLS|„Teorija pravednosti”
+NOZICK|„Anarhija, država i utopija”
+SINGER|Peter ..., „Oslobođenje životinja”
+CHOMSKY|Lingvist generativne gramatike
+SAUSSURE|Utemeljitelj strukturalne lingvistike
+VAN|... Gogh, slikar „Suncokreta”
+GOGH|Vincent van ...
+EYCK|Jan van ..., slikar „Gentskog oltara”
+DURER|Albrecht ..., njemački renesansni grafičar (bez preglasa)
+CRANACH|Lucas ..., njemački renesansni slikar
+GRUNEWALD|Matthias ..., „Isenheimski oltar” (bez preglasa)
+MANTEGNA|Andrea ..., „Mrtvi Krist”
+GIORGIONE|Venecijanski slikar „Oluje”
+TINTORETTO|Venecijanski slikar „Posljednje večere”
+VERONESE|Paolo ..., „Gozba u Levijevoj kući”
+GRECO|El ..., slikar iz Toleda
+VELAZQUEZ|Diego ..., „Las Meninas” (bez naglaska)
+MENINAS|Las ..., Velázquezova slika
+MURILLO|Španjolski barokni slikar iz Seville
+ZURBARAN|Španjolski slikar redovnika (bez naglaska)
+POUSSIN|Francuski klasicistički slikar
+WATTEAU|Slikar „Ukrcaja za Kiteru”
+FRAGONARD|Slikar „Ljuljačke”
+BOUCHER|Rokoko slikar Madame de Pompadour
+INGRES|Slikar „Velike odaliske”
+GERICAULT|Slikar „Splava Meduze” (bez naglaska)
+CONSTABLE|Engleski slikar „Kola za sijeno”
+FRIEDRICH|Caspar David ..., „Lutalica nad morem magle”
+BLAKE|William ..., pjesnik i slikar
+ROSSETTI|Dante Gabriel ..., prerafaelit
+MILLAIS|Prerafaelitski slikar „Ofelije”
+WHISTLER|Slikar „Majke”
+SARGENT|John Singer ..., „Madame X”
+CEZANNE|Slikar „Mont Sainte-Victoire” (bez naglaska)
+PISSARRO|Impresionist pariških bulevara
+SISLEY|Englesko-francuski impresionist
+MORISOT|Berthe ..., impresionistica
+CASSATT|Mary ..., američka impresionistica
+LAUTREC|Toulouse-..., slikar Moulin Rougea
+SIGNAC|Paul ..., poentilist
+BONNARD|Pierre ..., nabist
+VUILLARD|Édouard ..., nabist (bez naglaska)
+DERAIN|André ..., fovist (bez naglaska)
+VLAMINCK|Maurice de ..., fovist
+BRAQUE|Georges ..., suosnivač kubizma
+LEGER|Fernand ..., kubist (bez naglaska)
+DUCHAMP|Marcel ..., „Fontana”
+ARP|Hans ..., dadaist
+ERNST|Max ..., nadrealist
+MIRO|Joan ..., katalonski nadrealist (bez naglaska)
+CHIRICO|Giorgio de ..., metafizičko slikarstvo
+KLEE|Paul ..., slikar Bauhausa
+SCHIELE|Egon ..., bečki ekspresionist
+KOKOSCHKA|Oskar ..., bečki ekspresionist
+NOLDE|Emil ..., njemački ekspresionist
+KIRCHNER|Ernst Ludwig ..., „Die Brücke”
+MARC|Franz ..., „Plavi jahač”
+JAHAČ|Plavi ..., umjetnička skupina
+MONDRIAN|Piet ..., slikar pravokutnika osnovnih boja
+LICHTENSTEIN|Roy ..., pop-art u stilu stripa
+HOCKNEY|David ..., „Veći pljusak”
+BASQUIAT|Jean-Michel ..., njujorški neoekspresionist
+HARING|Keith ..., grafiti-umjetnik
+BANKSY|Anonimni britanski ulični umjetnik
+KOONS|Jeff ..., „Balonski pas”
+HIRST|Damien ..., morski pas u formaldehidu
+KAHLO|Frida ..., meksička slikarica
+RIVERA|Diego ..., meksički muralist

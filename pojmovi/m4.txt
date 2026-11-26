@@ -1,0 +1,556 @@
+[opca]
+CLIO|Mali Renaultov model
+MEGANE|Renaultov kompaktni model (bez naglaska)
+CAPTUR|Renaultov mali SUV
+ASTRA|Opelov kompaktni model
+CORSA|Opelov mali model
+INSIGNIA|Opelov veći model
+POLO|Mali Volkswagenov model
+PASSAT|Volkswagenova limuzina srednje klase
+TIGUAN|Volkswagenov SUV
+TOURAN|Volkswagenov monovolumen
+ARTEON|Volkswagenov kupe s četvero vrata
+OCTAVIA|Najprodavanija Škoda
+FABIA|Mala Škoda
+SUPERB|Najveća Škodina limuzina
+KODIAQ|Škodin veliki SUV nazvan po medvjedu
+IBIZA|Seatov mali model nazvan po otoku
+LEON|Seatov kompaktni model
+CUPRA|Seatova sportska marka
+CITROEN|Francuska automobilska marka s dvostrukim ševronom (bez preglasa)
+ŠEVRON|Znak Citroëna
+LAV|Znak Peugeota
+ZVIJEZDA|Znak Mercedesa s tri kraka
+PROPELER|Prema legendi, BMW-ov znak
+KRUGOVI|Četiri ... Audija
+BIK|Znak Lamborghinija
+KONJIĆ|Propeti ..., znak Ferrarija
+MUNJA|Znak Opela
+SAAB|Švedska marka nastala iz proizvođača zrakoplova
+POLESTAR|Volvova električna marka
+GEELY|Kineski vlasnik Volva
+TATA|Indijski vlasnik Jaguara i Land Rovera
+LAND|... Rover
+ISUZU|Japanski proizvođač kamioneta
+INFINITI|Nissanova luksuzna marka
+ACURA|Hondina luksuzna marka
+GENESIS|Hyundaijeva luksuzna marka
+CAYENNE|Porscheov SUV
+MACAN|Porscheov manji SUV
+PANAMERA|Porscheova limuzina
+TAYCAN|Porscheov električni sportaš
+VOŽNJA|Upravljanje vozilom
+VOZITI|Upravljati automobilom
+PARKIRATI|Ostaviti auto na parkiralištu
+SKRENUTI|Promijeniti smjer vožnje
+KOČITI|Usporavati vozilo
+UBRZATI|Povećati brzinu
+PRETJECATI|Prolaziti pokraj sporijeg vozila
+TRUBITI|Davati zvučni znak
+TRUBA|Zvučni signal automobila
+SIGNAL|Znak drugom vozaču
+POJAS|Sigurnosni ... u autu
+JASTUK|Zračni ...
+SJEDALICA|Dječja ... u autu
+PREDNJE|... svjetlo
+STRAŽNJE|... svjetlo
+SVJETLA|Farovi i žmigavci
+MAGLENKA|Svjetlo za maglu
+STOPSVJETLO|Svjetlo koje se pali pri kočenju (spojeno)
+RUČNA|... kočnica
+POLUGA|... mjenjača
+BRZINE|Mjenjač ima pet ili šest ...
+RIKVERC|Vožnja unatrag (razgovorno)
+UNATRAG|Hod ...
+LER|Prazni hod mjenjača (razgovorno)
+GORIVO|Benzin ili dizel
+TOČENJE|... goriva
+LITRA|Gorivo se toči na ...
+CIJENA|... goriva
+TANK|Spremnik goriva (razgovorno)
+PUN|... rezervoar
+PRAZAN|... rezervoar
+ŠLEP|Vuča pokvarenog auta
+VUČA|Šlepanje
+KVAR|Razlog odlaska na servis
+POKVAREN|Auto koji ne radi
+GARAŽA|Kućica za auto
+AUTOPRAONICA|Mjesto za pranje automobila
+PRANJE|... auta
+CABRIO|Kabriolet (kraće)
+PICKUP|Kamionet s otvorenim teretnim sandukom (engl.)
+KAMIONET|Mali teretni automobil
+DOSTAVNO|... vozilo
+DOSTAVA|Prijevoz robe do kupca
+MINIBUS|Mali autobus
+ŠKOLSKI|Žuti ... autobus u SAD-u
+KAMIONDŽIJA|Vozač kamiona
+PUTNIK|Onaj koji se vozi, a ne vozi
+SUVOZAČ|Onaj koji sjedi pokraj vozača
+ZADNJE|... sjedalo
+KROV|Gornji dio automobila
+PANORAMSKI|... krov
+KROVNI|... nosač
+NOSAČ|... za bicikle
+KUKA|Vučna ... za prikolicu
+AUTORADIO|Radio u automobilu
+ZVUČNICI|Iz njih svira glazba u autu
+KAMERA|... za vožnju unatrag
+SENZORI|Parkirni ...
+ZASLON|Ekran na ploči automobila
+KLJUČEVI|... od auta
+DALJINSKI|... ključ
+ALARM|Zaštita od krađe
+KRAĐA|Otuđenje automobila
+LOPOV|Kradljivac auta
+SAMOVOZEĆI|Auto bez vozača
+AUTONOMNI|... automobil, samovozeći
+ROBOTAKSI|Taksi bez vozača
+STRUJA|Pogoni električni auto
+BATERIJA|Akumulator električnog auta
+DOMET|Koliko daleko auto može prijeći na jednom punjenju
+PUNJENJE|Dopunjavanje baterije
+KABEL|... za punjenje
+UTIČNICA|Priključak za punjenje kod kuće
+PUNIONICA|Mjesto za punjenje električnih auta
+EKOLOŠKI|Prihvatljiv za okoliš
+EMISIJE|Ispušni plinovi
+SMOG|Gradsko onečišćenje od prometa
+BICIKL|Vozilo na dva kotača bez motora
+BICIKLIST|Vozač bicikla
+MOTORI|Motocikli (razgovorno)
+JAKNA|Kožna ... motorista
+RUKAVICE|Zaštita za ruke motorista
+ČIZME|Obuća motorista
+VIZIR|Prozirni štitnik na kacigi
+AUTOSALON|Izložba novih automobila
+SAJAM|Auto... u Ženevi
+ŽENEVA|Grad nekoć najpoznatijeg autosalona
+KUPNJA|... novog auta
+RABLJENI|... automobil, polovnjak
+POLOVNJAK|Rabljeni auto
+OGLAS|Prodajni ... za auto
+PRODAVAČ|Onaj koji prodaje aute
+KREDIT|Zajam za kupnju auta
+RATA|Mjesečna ... za auto
+GARANCIJA|Jamstvo proizvođača
+JAMSTVO|Garancija
+PREGLED|Tehnički ...
+ISPIT|Vozački ...
+INSTRUKTOR|Učitelj vožnje
+POLIGON|Vježbalište autoškole
+KANDIDAT|Polaznik autoškole
+PROMETNIK|Prometni policajac
+ZVIŽDALJKA|Prometnikova ...
+KONTROLA|Prometna ...
+KAMERE|Prometne ... snimaju prekršaje
+PREKRŠAJ|Kršenje prometnih propisa
+GLOBA|Novčana kazna
+ZAPISNIK|... o prometnoj nesreći
+EUROPSKO|... izvješće o nesreći
+OSIGURAVATELJ|Tvrtka koja osigurava auto
+ŠTETA|Oštećenje na autu
+OGREBOTINA|Mala šteta na laku
+UDUBLJENJE|Ulegnuće na limu
+LIM|Materijal karoserije
+ČELIK|Materijal od kojeg su karoserije
+ALUMINIJ|Lagani metal za felge
+PLASTIKA|Materijal branika
+GUMENI|... tepisi u autu
+MIRIS|Osvježivač zraka daje ... u autu
+OSVJEŽIVAČ|Mirisna jelkica u autu
+JELKICA|Mirisna ... na retrovizoru
+KOCKICE|Plišane ... na retrovizoru
+NALJEPNICA|Ukras na stražnjem staklu
+STAKLO|Vjetrobransko ...
+STRUGALICA|Alat za skidanje leda sa stakla
+LED|Zimi ga se struže sa stakla
+SNIJEG|Zimi otežava vožnju
+POLEDICA|Led na cesti
+MAGLA|Smanjuje vidljivost na cesti
+VIDLJIVOST|Koliko daleko vozač vidi
+
+[teska]
+NORRIS|Lando ..., McLarenov vozač
+PIASTRI|Oscar ..., australski vozač McLarena
+RUSSELL|George ..., Mercedesov vozač
+PEREZ|Sergio ..., meksički vozač Formule 1 (bez naglaska)
+BOTTAS|Valtteri ..., finski vozač
+RAIKKONEN|Kimi ..., „Ledeni čovjek” (bez preglasa)
+HAKKINEN|Mika ..., dvostruki prvak s McLarenom (bez preglasa)
+COULTHARD|David ..., škotski vozač McLarena
+BARRICHELLO|Rubens ..., Schumacherov momčadski kolega
+MASSA|Felipe ..., brazilski vozač Ferrarija
+WEBBER|Mark ..., Vettelov kolega u Red Bullu
+RICCIARDO|Daniel ..., nasmijani Australac
+GASLY|Pierre ..., francuski vozač
+OCON|Esteban ..., francuski vozač
+ALBON|Alexander ..., tajlandski vozač
+HULKENBERG|Nico ..., njemački vozač (bez preglasa)
+STROLL|Lance ..., kanadski vozač Formule 1
+TSUNODA|Yuki ..., japanski vozač
+ZHOU|Guanyu ..., prvi kineski vozač Formule 1
+HADJAR|Isack ..., francuski vozač Formule 1
+ANTONELLI|Andrea Kimi ..., mladi Mercedesov vozač
+BEARMAN|Oliver ..., britanski vozač Formule 1
+BORTOLETO|Gabriel ..., brazilski vozač Formule 1
+HORNER|Christian ..., dugogodišnji šef Red Bulla
+WOLFF|Toto ..., šef Mercedesa
+VASSEUR|Frédéric ..., francuski šef momčadi u Formuli 1 (bez naglaska)
+MARKO|Helmut ..., dugogodišnji savjetnik Red Bulla
+ZANDVOORT|Nizozemska staza u dinama
+HUNGARORING|Staza kod Budimpešte
+SPIELBERG|Austrijska staza Red Bull Ringa
+BAKU|Ulična staza u Azerbajdžanu
+SINGAPUR|Noćna ulična utrka
+JEDDAH|Brza ulična staza u Saudijskoj Arabiji
+LOSAIL|Katarska staza
+YAS|... Marina, staza u Abu Dhabiju
+MIAMI|Utrka na Floridi od 2022.
+AUSTIN|Grad Circuit of the Americas
+MONTREAL|Staza Gillesa Villeneuvea
+MELBOURNE|Australska Velika nagrada u Albert Parku
+SAKHIR|Staza u Bahreinu
+SHANGHAI|Kineska staza
+CATALUNYA|Staza kod Barcelone
+PAUL|... Ricard, francuska staza
+HOCKENHEIM|Njemačka staza
+NURBURGRING|Njemačka staza u Eifelu (bez preglasa)
+ESTORIL|Portugalska staza
+JEREZ|Španjolska staza
+SEPANG|Malezijska staza
+SAFETY|... car, sigurnosni automobil
+GUME|Meke, srednje i tvrde ... u Formuli 1
+MEKANE|Najbrže gume
+TVRDE|Najizdržljivije gume
+KIŠNE|Gume za mokru stazu
+SLICK|Glatka guma bez šara (engl.)
+KVALIFIKACIJE|Utrka za startnu poziciju
+SPRINT|Kratka utrka subotom
+KRUG|Najbrži ...
+PITSTOP|Zaustavljanje u boksu (spojeno)
+MOMČAD|Tim u Formuli 1
+KONSTRUKTOR|Proizvođač bolida
+PRVAK|Svjetski ...
+TITULA|Naslov prvaka
+BODOVI|Dodjeljuju se prvoj desetorici
+POBJEDNIK|Prvi na cilju
+CILJ|Kraj utrke
+START|Početak utrke
+SEMAFORI|Pet crvenih svjetala na startu
+ŽUTA|... zastava, opasnost
+CRVENA|... zastava, prekid utrke
+PLAVA|... zastava, propusti bržeg
+CRNA|... zastava, diskvalifikacija
+PROMETNI|... znak
+ZNAKOVI|Prometni ...
+TROKUT|Oblik znaka opasnosti
+OSMEROKUT|Oblik znaka STOP
+OBILAZNICA|Cesta oko grada
+ODMORIŠTE|Mjesto za odmor uz autocestu
+NAPLATNE|... kućice na autocesti
+KUĆICE|Naplatne ...
+ENC|Elektronička naplata cestarine (kratica)
+VINJETA|Naljepnica za korištenje autocesta u nekim zemljama
+TRAK|Prometna traka
+PROMETNICA|Cesta
+VIJADUKT|Most preko doline
+SERPENTINE|Zavoji planinske ceste
+ZAVOJ|Krivina na cesti
+NIZBRDICA|Cesta koja se spušta
+UZBRDICA|Cesta koja se penje
+LEŽEĆI|... policajac, izbočina na cesti
+POLICAJAC|Ležeći ...
+JEDNOSMJERNA|... ulica
+PJEŠAČKI|... prijelaz
+PRIJELAZ|Pješački ...
+NOGOSTUP|Pločnik
+PLOČNIK|Staza za pješake uz cestu
+BICIKLISTIČKA|... staza
+HAK|Hrvatski autoklub (kratica)
+AMK|Auto-moto klub (kratica)
+POMOĆ|HAK-ova ... na cesti
+PRSLUK|Reflektirajući ... u autu
+PRIBOR|Prva pomoć: ... u autu
+APOTEKA|Auto... (kutija prve pomoći)
+ŽARULJE|Rezervne ... u autu
+SAJLA|Uže za vuču
+UŽE|... za vuču
+KLJUČ|... za kotače
+PROFIL|Dubina šara na gumi
+ŠARE|Utori na gumi
+LJETNE|... gume
+CJELOGODIŠNJE|... gume, za sva godišnja doba
+ČAVLI|Gume s ... za led (šiljci)
+ŠILJCI|Čavli na zimskim gumama
+BALANSIRANJE|Uravnoteženje kotača
+CENTRIRANJE|Podešavanje geometrije kotača
+GEOMETRIJA|... ovjesa
+VULKANIZER|Majstor za gume
+LIMAR|Majstor za karoseriju
+LAKIRER|Majstor koji boja auto
+ELEKTRIČAR|Auto... za instalacije
+DIJAGNOSTIKA|Računalna provjera kvara
+LAMPICA|Upozoravajuća ... na ploči
+PLOČA|Instrumentna ...
+INSTRUMENTI|Pokazivači na ploči
+MJERAČ|... goriva
+TEMPERATURA|... motora
+TERMOSTAT|Regulira temperaturu rashladne tekućine
+VODENA|... pumpa u motoru
+GLAVA|... motora
+POKLOPAC|... ventila
+FILTAR|Zračni ili uljni ...
+PELUD|Filtar za ... u kabini
+DISK|Kočni ...
+PLOČICE|Kočne ...
+ČELJUST|Kočna ...
+BUBANJ|Kočni ... na stražnjim kotačima starijih auta
+TEKUĆINA|Kočna ...
+GRANTURISMO|Udoban sportski automobil za duga putovanja (spojeno)
+SUPERAUTOMOBIL|Iznimno brz i skup sportski automobil
+HIPERAUTOMOBIL|Automobil iznad razine superautomobila
+CHIRON|Bugattijev nasljednik Veyrona
+TOURBILLON|Bugattijev hibridni nasljednik Chirona
+KOENIGSEGG|Švedski proizvođač hiperautomobila
+JESKO|Koenigseggov hiperautomobil
+AGERA|Koenigseggov model iz 2010-ih
+PAGANI|Talijanski proizvođač hiperautomobila
+ZONDA|Paganijev prvi model
+HUAYRA|Paganijev model nazvan po bogu vjetra
+SPEEDTAIL|McLarenov hiperautomobil s tri sjedala
+GORDON|... Murray, dizajner McLarena F1
+LAFERRARI|Ferrarijev hibridni hiperautomobil
+TESTAROSSA|Ferrari iz 80-ih s crvenim poklopcima motora
+DINO|Ferrarijeva marka nazvana po Enzovu sinu
+SPIDER|Otvoreni sportski automobil (tal.)
+BERLINETTA|Zatvoreni sportski kupe (tal.)
+PUROSANGUE|Ferrarijev automobil s četvero vrata
+ROMA|Ferrari nazvan po talijanskoj prijestolnici
+PORTOFINO|Ferrarijev kabriolet nazvan po ligurskom mjestu
+CYBERTRUCK|Teslin kamionet od nehrđajućeg čelika
+AUTOPILOT|Teslin sustav pomoći u vožnji
+GIGAFACTORY|Teslina golema tvornica (engl.)
+LUCID|Američki proizvođač luksuznih električnih limuzina
+RIVIAN|Američki proizvođač električnih kamioneta
+XPENG|Kineski proizvođač električnih automobila
+XIAOMI|Kineski proizvođač mobitela koji radi i automobile
+VERNE|Rimčev projekt robotaksija
+SVETA|Mjesto u kojem Rimac gradi kampus (Sveta Nedelja)
+NEDELJA|Sveta ..., sjedište Rimca
+CONCEPT|... One, prvi Rimčev automobil
+JAMES|... May, voditelj „Top Geara”
+MAY|James ..., voditelj „Top Geara”
+TOPGEAR|Britanska automobilska emisija (spojeno)
+CLARKSON|Jeremy ..., voditelj „Top Geara”
+HAMMOND|Richard ..., voditelj koji je slupao Rimca 2017.
+STIG|Anonimni vozač iz „Top Geara”
+GRANDTOUR|Emisija Clarksona, Hammonda i Maya (spojeno)
+MARQUEZ|Marc ..., španjolski prvak MotoGP-a (bez naglaska)
+PEDROSA|Dani ..., španjolski vozač MotoGP-a
+QUARTARARO|Fabio ..., francuski prvak MotoGP-a 2021.
+MARTIN|Jorge ..., prvak MotoGP-a 2024.
+MIR|Joan ..., prvak MotoGP-a 2020.
+BASTIANINI|Enea ..., talijanski vozač MotoGP-a
+ACOSTA|Pedro ..., mladi španjolski vozač MotoGP-a
+SIMONCELLI|Marco ..., talijanski vozač poginuo 2011.
+BIAGGI|Max ..., talijanski vozač, „Rimski car”
+CAPIROSSI|Loris ..., talijanski vozač motocikala
+GIBERNAU|Sete ..., Rossijev suparnik
+DOVIZIOSO|Andrea ..., Ducatijev vozač
+VALENTINO|... Rossi, „Doktor”
+DOKTOR|Nadimak Valentina Rossija
+TAVULLIA|Rossijevo rodno mjesto
+ASSEN|Nizozemska staza „katedrala motociklizma”
+MISANO|Talijanska staza nazvana po Simoncelliju
+SACHSENRING|Njemačka staza MotoGP-a
+PHILLIP|... Island, australska staza MotoGP-a
+VALENCIA|Završna utrka MotoGP-a u Španjolskoj
+ARAGON|Španjolska staza MotoGP-a
+MOTEGI|Japanska staza MotoGP-a
+TOURIST|Isle of Man ... Trophy
+REA|Jonathan ..., višestruki prvak superbikea
+FOGARTY|Carl ..., britanski prvak superbikea
+BAUTISTA|Álvaro ..., Ducatijev prvak superbikea (bez naglaska)
+RAZGATLIOGLU|Toprak ..., turski prvak superbikea
+CAIROLI|Antonio ..., talijanski prvak motokrosa
+HERLINGS|Jeffrey ..., nizozemski prvak motokrosa
+SUPERKROS|Motokros na umjetnoj stazi na stadionu
+NAKED|Motocikl bez oplate (engl.)
+SPORTSKI|... motocikl s oplatom
+TURISTIČKI|... motocikl za duga putovanja
+KRUZER|Motocikl za opuštenu vožnju
+CAFE|... racer, preinačeni klasični motocikl
+SKREMBLER|Klasični motocikl za lakši teren (scrambler)
+ADVENTURE|Putni enduro motocikl (engl.)
+AFRICA|... Twin, Hondin putni motocikl
+TWIN|Africa ..., Honda
+TENERE|Yamahin putni motocikl (bez naglaska)
+HAYABUSA|Suzukijev brzi motocikl nazvan po sokolu
+NINJA|Kawasakijeva serija sportskih motocikala
+SPORTSTER|Manji Harley-Davidsonov model
+FATBOY|Harley-Davidsonov model (spojeno)
+SOFTAIL|Harley-Davidsonova serija sa skrivenim amortizerom
+PANHEAD|Harley-Davidsonov motor iz 1948.
+EVOLUTION|Harley-Davidsonov motor iz 1984.
+MILWAUKEE|Grad Harley-Davidsona
+DAVIDSON|Harley-...
+SIDECAR|Bočna prikolica motocikla (engl.)
+
+[strucna]
+GIACOSA|Dante ..., konstruktor Fiata 500
+TOPOLINO|Fiat 500 iz 1936., „mišić”
+MULTIPLA|Fiatov neobični monovolumen
+BARCHETTA|Fiatov mali roadster
+CINQUECENTO|Fiat 500 (tal.)
+AGNELLI|Obitelj vlasnika Fiata
+STELLANTIS|Koncern nastao spajanjem FCA i PSA
+BERTONI|Flaminio ..., dizajner Citroëna DS
+TRACTION|... Avant, Citroën s prednjim pogonom iz 1934.
+AVANT|Traction ..., Citroën
+MEHARI|Citroënov plastični terenac
+AMI|Citroënov električni mikroautomobil
+GORDINI|Renaultov sportski odjel
+ESPACE|Renaultov monovolumen iz 1984.
+TWIZY|Renaultov električni dvosjed
+ZOE|Renaultov električni mali auto
+BEETLE|Buba (engl.)
+SCIROCCO|Volkswagenov sportski kupe nazvan po vjetru
+CORRADO|Volkswagenov kupe s kraja 80-ih
+PHAETON|Volkswagenova luksuzna limuzina
+TOUAREG|Volkswagenov veliki SUV
+BULLI|Nadimak Volkswagenova kombija
+KARMANN|... Ghia, Volkswagenov kupe
+PIECH|Ferdinand ..., Porscheov unuk i šef VW-a (bez preglasa)
+WINTERKORN|Martin ..., šef VW-a tijekom afere Dieselgate
+DIESELGATE|Afera s lažiranjem emisija 2015.
+AUTOUNION|Prethodnik Audija (spojeno)
+HORCH|August ..., osnivač Audija
+NSU|Njemačka marka s Wankelovim motorom
+QUANDT|Obitelj većinskih vlasnika BMW-a
+ISETTA|Mali BMW-ov „mjehurić” s vratima sprijeda
+NEUE|... Klasse, nova BMW-ova platforma
+BAVARIA|Pokrajina BMW-ova sjedišta (engl.)
+MUNCHEN|Grad BMW-a (bez preglasa)
+STUTTGART|Grad Mercedesa i Porschea
+SINDELFINGEN|Mercedesova tvornica kraj Stuttgarta
+GULLWING|Mercedes 300 SL s vratima kao krila galeba
+GALEB|Vrata kao krila ...
+PAGODA|Mercedes SL s udubljenim krovom
+UHLENHAUT|Rudolf ..., konstruktor Mercedesa
+SILBERPFEIL|Srebrna strijela (njem.)
+AUFRECHT|Hans Werner ..., suosnivač AMG-a
+BRABUS|Njemačka tvrtka za preinake Mercedesa
+ALPINA|Tvrtka za preinake BMW-a
+RUF|Tvrtka koja gradi automobile na Porscheovoj osnovi
+SINGER|Tvrtka koja restaurira Porsche 911
+GEMBALLA|Njemački tuner Porschea
+LAMBO|Lamborghini (razgovorno)
+MIURA|Lamborghini iz 1966. sa srednjim motorom
+DIABLO|Lamborghini iz 1990.
+MURCIELAGO|Lamborghini nazvan po biku (bez naglaska)
+GALLARDO|Najprodavaniji Lamborghini svojeg doba
+HURACAN|Lamborghini nasljednik Gallarda (bez naglaska)
+AVENTADOR|Lamborghinijev V12 nasljednik Murciélaga
+URUS|Lamborghinijev SUV
+STANZANI|Paolo ..., inženjer Miure i Countacha
+GANDINI|Marcello ..., dizajner Miure i Countacha
+DALLARA|Gian Paolo ..., inženjer Miure i graditelj šasija
+TOLEMAN|Momčad u kojoj je Senna debitirao 1984.
+LIGIER|Francuska momčad Formule 1
+ARROWS|Britanska momčad koja nikad nije pobijedila
+STEWART|Jackie ..., „Leteći Škot”
+SHADOW|Američka momčad Formule 1 iz 70-ih
+SPYKER|Nizozemska marka i momčad Formule 1
+MIDLAND|Kratkotrajna momčad Formule 1 iz 2006.
+SUPERAGURI|Japanska momčad 2006.–2008. (spojeno)
+TORO|... Rosso, nekadašnja druga Red Bullova momčad
+ROSSO|Toro ...
+ALPHATAURI|Ime druge Red Bullove momčadi 2020.–2023. (spojeno)
+MARUSSIA|Ruska momčad Formule 1, kasnije Manor
+MANOR|Britanska momčad, nasljednica Marussije
+CATERHAM|Britanska marka i momčad Formule 1
+BIANCHI|Jules ..., vozač teško ozlijeđen u Suzuki 2014.
+RATZENBERGER|Roland ..., poginuo u Imoli dan prije Senne
+TAMBURELLO|Zavoj u Imoli gdje je poginuo Senna
+EAU|... Rouge, slavni zavoj u Spa
+ROUGE|Eau ..., zavoj u Spa
+PARABOLICA|Završni zavoj Monze
+LESMO|Par zavoja u Monzi
+MAGGOTTS|Brzi zavoji u Silverstoneu
+COPSE|Zavoj u Silverstoneu
+BECKETTS|Niz zavoja u Silverstoneu
+LOEWS|Najsporiji zavoj u Monaku (stari naziv)
+PORTIER|Zavoj u Monaku prije tunela
+RASCASSE|Zavoj u Monaku pred ciljem
+MIRABEAU|Zavoj u Monaku
+SAINTE|... Dévote, prvi zavoj u Monaku
+DEVOTE|Sainte ..., prvi zavoj u Monaku (bez naglaska)
+ESSES|Niz S-zavoja u Suzuki
+SPOON|Zavoj „Žlica” u Suzuki
+OSAMICA|Suzuka je staza u obliku ...
+KARUSEL|Zavoj Karussell na Nordschleifeu
+BUSSTOP|Šikana na staroj stazi Spa (spojeno)
+TARZAN|Prvi zavoj Zandvoorta
+CORKSCREW|Slavni zavoj na stazi Laguna Seca
+LAGUNA|... Seca, kalifornijska staza
+SEBRING|Floridska staza s utrkom od 12 sati
+WATKINS|... Glen, staza u državi New York
+GLEN|Watkins ...
+BRANDS|... Hatch, britanska staza
+HATCH|Brands ...
+DONINGTON|Britanska staza Velike nagrade Europe 1993.
+KYALAMI|Južnoafrička staza
+ZOLDER|Belgijska staza na kojoj je poginuo Gilles Villeneuve
+JARAMA|Španjolska staza kod Madrida
+ANDERSTORP|Švedska staza
+ZELTWEG|Austrijsko mjesto staze Österreichring
+OSTERREICHRING|Stara austrijska staza (bez preglasa)
+AVUS|Berlinska staza s nagnutim zavojem
+BREMGARTEN|Švicarska staza Velike nagrade do 1954.
+PESCARA|Najdulja staza Formule 1 ikad, 1957.
+REIMS|Francuska staza na javnim cestama
+ROUEN|Francuska staza Velike nagrade 1950-ih i 60-ih
+TIN|... Lizzie, nadimak Forda T
+LIZZIE|Tin ..., Ford T
+HIGHLAND|... Park, Fordova tvornica pokretne trake
+SLOAN|Alfred ..., dugogodišnji šef General Motorsa
+EDSEL|Fordov promašeni model iz 1958.
+PINTO|Fordov model poznat po zapaljivom spremniku
+THUNDERBIRD|Fordov luksuzni kupe iz 1955.
+IACOCCA|Lee ..., otac Mustanga i spasitelj Chryslera
+DELOREAN|John ..., osnivač tvrtke s vratima galeba
+NADER|Ralph ..., autor knjige „Nesigurno pri bilo kojoj brzini”
+CORVAIR|Chevrolet sa stražnjim motorom koji je kritizirao Nader
+CAMARO|Chevroletov odgovor na Mustang
+IMPALA|Chevroletov model iz 1958.
+BELAIR|Chevrolet iz 50-ih (spojeno)
+FIREBIRD|Pontiacov sportski kupe
+GTO|Pontiac, prvi muscle car (kratica)
+MUSCLE|... car, snažan američki automobil
+CHARGER|Dodgeov muscle car
+VIPER|Dodgeov sportaš s motorom V10
+HEMI|Chryslerov motor s polukuglastim komorama
+COBRA|Shelbyjev sportski automobil
+SHELBY|Carroll ..., graditelj Cobre
+MILES|Ken ..., vozač Forda GT40 kod Le Mansa 1966.
+PONTIAC|Ugašena marka General Motorsa
+OLDSMOBILE|Ugašena marka General Motorsa
+BUICK|Marka General Motorsa
+PLYMOUTH|Ugašena Chryslerova marka
+STUDEBAKER|Ugašeni američki proizvođač
+PACKARD|Luksuzna američka marka do 1958.
+HUDSON|Američka marka s modelom Hornet
+NASH|Američka marka koja je proizvodila Metropolitan
+MORRIS|Britanska marka modela Minor
+MINOR|Morris ..., britanski narodni auto
+LEYLAND|British ..., britanski automobilski koncern
+SPITFIRE|Triumphov mali roadster
+HEALEY|Austin-..., britanski roadster
+SUNBEAM|Britanska marka s modelom Tiger
+HILLMAN|Britanska marka s modelom Imp
+VAUXHALL|Opelova britanska marka
+CORTINA|Britanski Fordov model iz 60-ih
+CAPRI|Fordov europski kupe
+GRANADA|Fordova velika limuzina iz 70-ih
+ANGLIA|Mali britanski Ford, leteći auto iz „Harryja Pottera”

@@ -1,0 +1,598 @@
+[opca]
+POVIJEST|Znanost o prošlosti
+PROŠLOST|Ono što je bilo
+STOLJEĆE|Razdoblje od sto godina
+DESETLJEĆE|Razdoblje od deset godina
+EPOHA|Razdoblje u povijesti
+DOBA|Kameno ..., željezno ...
+ERA|Razdoblje, epoha
+GODINA|Razdoblje od 365 dana
+DATUM|Dan, mjesec i godina događaja
+KALENDAR|Julijanski ili gregorijanski ...
+RAT|Oružani sukob država
+MIR|Suprotno od rata
+BITKA|Oružani okršaj vojski
+VOJSKA|Oružane snage
+VOJNIK|Pripadnik vojske
+GENERAL|Visoki vojni zapovjednik
+ADMIRAL|Zapovjednik mornarice
+MORNARICA|Ratna flota
+FLOTA|Skup brodova
+ZAPOVJEDNIK|Onaj koji vodi vojsku
+CARICA|Vladarica carstva
+KRALJICA|Supruga kralja ili vladarica
+PRINC|Kraljev sin
+PRINCEZA|Kraljeva kći
+VOJVODA|Plemićka titula iznad grofa
+GROF|Plemićka titula
+BARUN|Plemićka titula
+DINASTIJA|Vladarska obitelj
+NASLJEDNIK|Onaj tko nasljeđuje prijestolje
+KRUNIDBA|Svečano stupanje na prijestolje
+DIKTATOR|Vladar s neograničenom vlašću
+TIRANIN|Okrutan vladar
+VLADAR|Onaj koji vlada
+CAREVINA|Carstvo
+KOLONIJE|Prekomorski posjedi
+OSVAJANJE|Zauzimanje tuđih zemalja
+OTKRIĆE|Pronalazak novih zemalja ili izuma
+ISTRAŽIVAČ|Onaj koji otkriva nove krajeve
+KOLUMBO|Kristofor ..., otkrio Ameriku 1492.
+VESPUCCI|Amerigo ..., po kojem je Amerika dobila ime
+COOK|James ..., istraživač Pacifika
+MARCO|... Polo, putnik u Kinu
+POLO|Marco ..., venecijanski putnik
+SVILA|Put ... povezivao je Kinu i Europu
+PIRAMIDA|Grobnica faraona
+SFINGA|Kip lava s ljudskom glavom kod Gize
+HIJEROGLIFI|Egipatsko slikovno pismo
+NIL|Rijeka egipatske civilizacije
+FARAONI|Vladari starog Egipta
+ZEUS|Vrhovni grčki bog
+OLIMP|Planina grčkih bogova
+ATENA|Grčka božica mudrosti; i glavni grad Grčke
+OLIMPIJSKE|... igre, nastale u antičkoj Grčkoj
+GLADIJATOR|Borac u rimskoj areni
+KOLOSEJ|Rimski amfiteatar
+RIM|Vječni grad
+CEZARI|Rimski carevi
+TOGA|Rimska odjeća
+DIOKLECIJAN|Rimski car koji je sagradio palaču u Splitu
+PALAČA|Dioklecijanova ... u Splitu
+SPLIT|Grad izrastao iz Dioklecijanove palače
+PULA|Grad s rimskom Arenom
+ARENA|Rimski amfiteatar u Puli
+ZADAR|Grad sv. Donata
+NIN|Grad prvih hrvatskih kraljeva
+KNIN|Zvonimirov grad
+DUBROVNIK|Republika sv. Vlaha
+STON|Grad sa zidinama i solanom
+ZIDOVI|Stonski ..., obrambeni sustav na Pelješcu
+GLAGOLJICA|Staro slavensko pismo
+BAŠĆANSKA|... ploča
+PLOČA|Bašćanska ..., spomenik pismenosti
+KRK|Otok na kojem je pronađena Bašćanska ploča
+ĆIRILICA|Pismo nazvano po Ćirilu
+LATINICA|Pismo rimskog porijekla
+VITEZOVI|Ratnici u oklopu
+OKRUGLI|... stol kralja Arthura
+ARTHUR|Kralj Okruglog stola
+EXCALIBUR|Mač kralja Arthura
+ROBINHOOD|Odmetnik iz Sherwooda (spojeno)
+SHERWOOD|Šuma Robina Hooda
+VIKING|Skandinavski ratnik i moreplovac
+DRAKAR|Vikinški brod
+INDIJANAC|Starosjedilac Amerike
+TOTEM|Indijanski stup s likovima
+TIPI|Indijanski šator
+KAUBOJ|Govedar Divljeg zapada
+ZAPAD|Divlji ...
+ZLATNA|... groznica
+GROZNICA|Zlatna ... na Klondikeu
+REVOLUCIONAR|Sudionik revolucije
+POBUNA|Ustanak protiv vlasti
+USTANAK|Pobuna naroda
+SELJACI|Gubec je vodio bunu ...
+BUNA|Seljačka ... 1573.
+SLOBODA|Libertas na hrvatskom
+NEZAVISNOST|Samostalnost države
+DRŽAVA|Politička zajednica s vlašću na teritoriju
+GRANICA|Crta između država
+MAPA|Zemljovid
+ZEMLJOVID|Karta
+KARTOGRAF|Onaj koji izrađuje karte
+GLOBUS|Model Zemlje
+PUTOVANJE|Kolumbovo ... preko Atlantika
+BROD|Plovilo
+JEDRENJAK|Brod na jedra
+GALIJA|Brod na vesla
+VESLAČ|Robovi su bili ... na galijama
+SIDRO|Brodsko željezo za pristajanje
+PIRAT|Morski razbojnik
+BLAGO|Ono što pirati zakapaju
+ŠKRINJA|Sanduk s blagom
+DUKAT|Stari zlatnik
+ZLATNIK|Zlatna kovanica
+NOVAC|Sredstvo plaćanja
+KOVANICA|Metalni novac
+FORINT|Valuta Mađarske, nekoć i Hrvatske
+ZASTAVA|Simbol države na jarbolu
+HIMNA|„Lijepa naša” je hrvatska ...
+ŠAHOVNICA|Crveno-bijeli hrvatski grb
+SABOR|Hrvatski parlament
+BANSKI|... dvori, sjedište hrvatske vlade
+DVORI|Banski ..., na Markovu trgu
+MARKOV|... trg u Zagrebu
+JELAČIĆ|Ban Josip ..., trg u Zagrebu
+TRG|Ban Jelačić ima svoj ... u Zagrebu
+ZAGREBAČKA|... katedrala
+FRANJEVCI|Red svetog Franje
+BENEDIKTINCI|Red svetog Benedikta
+PAPA|Poglavar Katoličke crkve
+VATIKAN|Papina država
+BISKUP|Crkveni poglavar biskupije
+KARDINAL|Visoki crkveni dostojanstvenik u crvenom
+CRKVA|Vjerska zajednica i zgrada za molitvu
+KRIŽARSKI|... ratovi
+JERUZALEM|Sveti grad triju religija
+MUZEJ|Ovdje se čuvaju povijesni predmeti
+ARHEOLOGIJA|Znanost o materijalnim ostacima prošlosti
+ISKAPANJE|Arheološko ...
+KULE|Tvrđave s ...
+GRAD|Naselje sa zidinama u srednjem vijeku
+PLEMIĆI|Viši sloj u feudalizmu
+SLUGA|Onaj koji služi gospodaru
+ROB|Neslobodan čovjek u antici
+ROPSTVO|Stanje neslobode
+UKIDANJE|... ropstva
+SJEVER|... protiv Juga u Američkom građanskom ratu
+JUG|Konfederacija u američkom građanskom ratu
+GRAĐANSKI|... rat, sukob unutar države
+PRVI|... svjetski rat
+DRUGI|... svjetski rat
+BERLIN|Grad podijeljen zidom
+PAD|... Berlinskog zida 1989.
+EURO|Valuta Hrvatske od 2023.
+SCHENGEN|Prostor bez graničnih kontrola, Hrvatska od 2023.
+PRETPOVIJEST|Doba prije pisanih izvora
+LOVAC|Pračovjek je bio ... i skupljač
+VATRA|Prvo veliko otkriće pračovjeka
+SJEKIRA|Kameno oruđe pračovjeka
+ŠPILJA|Pećina
+CRTEŽI|Špiljski ... u Lascauxu
+MAMUT|Dlakavi slon ledenog doba
+DINOSAURI|Izumrli gmazovi, živjeli prije ljudi
+ŽELJEZNO|... doba
+BRONCA|Slitina bakra i kositra
+BAKAR|Metal bakrenog doba
+KOSITAR|Metal koji s bakrom daje broncu
+ZLATO|Plemenita kovina faraonskih grobnica
+MASKA|Zlatna ... Tutankamona
+KINA|Zemlja Velikog zida
+TERAKOTA|Glinena vojska prvog kineskog cara
+JAPAN|Zemlja samuraja
+INDIJA|Zemlja Gandhija i Taj Mahala
+TAJMAHAL|Mauzolej u Agri (spojeno)
+MEKSIKO|Zemlja Asteka
+PERU|Zemlja Inka
+MACHUPICCHU|Grad Inka u Andama (spojeno)
+ANDE|Planine Inka
+ATLANTIDA|Legendarni potonuli otok
+KONJ|Trojanski ...
+HERKUL|Grčki junak dvanaest djela
+MEDUZA|Gorgona čiji pogled pretvara u kamen
+PERZEJ|Junak koji je ubio Meduzu
+MINOTAUR|Biće pola čovjek pola bik
+LABIRINT|Minotaurovo boravište
+TEZEJ|Junak koji je ubio Minotaura
+IKAR|Sin Dedalov koji je preblizu letio Suncu
+DEDAL|Graditelj labirinta
+KRILA|Ikarova ... od voska
+
+[teska]
+SOKRAT|Atenski filozof osuđen na smrt kukutom
+PLATON|Sokratov učenik, autor „Države”
+ARISTOTEL|Učitelj Aleksandra Velikog
+KUKUTA|Otrov koji je popio Sokrat
+DELFI|Mjesto Apolonova proročišta
+PROROČIŠTE|Mjesto gdje su bogovi davali odgovore
+PARTENON|Hram na atenskoj Akropoli
+ATENJANI|Stanovnici Atene
+SPARTANCI|Ratnici iz Sparte
+FALANGA|Zbijeni bojni red grčkih hoplita
+HOPLIT|Teško naoružani grčki pješak
+TRIJERA|Grčki ratni brod s tri reda vesala
+HOMER|Pjesnik „Ilijade”
+ILIJADA|Homerov ep o Trojanskom ratu
+ODISEJA|Homerov ep o Odisejevu povratku
+ODISEJ|Itački kralj, smislio drvenog konja
+AHILEJ|Grčki junak ranjiv u petu
+HEKTOR|Trojanski junak
+PRIJAM|Kralj Troje
+SCHLIEMANN|Heinrich ..., otkrio Troju
+ETRUŠČANI|Narod u Italiji prije Rimljana
+KONZUL|Jedan od dvojice godišnjih rimskih poglavara
+TRIBUN|Pučki ... u Rimu
+PATRICIJ|Rimski plemić
+PLEBEJAC|Pripadnik rimskog puka
+CENTURION|Zapovjednik stotine rimskih vojnika
+KOHORTA|Deseti dio rimske legije
+VIA|... Appia, rimska cesta
+APIJEVA|... cesta, Via Appia
+LIMES|Utvrđena granica Rimskog Carstva
+BRITANIJA|Rimska provincija na otoku
+DALMACIJA|Rimska provincija na istočnom Jadranu
+PANONIJA|Rimska provincija između Drave i Dunava
+ISTRA|Poluotok s Pulom
+CICERON|Rimski govornik i državnik
+VERGILIJE|Pjesnik „Eneide”
+ENEIDA|Vergilijev ep
+ENEJA|Trojanski junak, predak Rimljana
+OVIDIJE|Pjesnik „Metamorfoza”, prognan u Tomi
+HORACIJE|Pjesnik „Carpe diem”
+SENEKA|Neronov učitelj, stoik
+MARKO|... Aurelije, car filozof
+AURELIJE|Marko ..., car filozof
+KOMOD|Car gladijator, sin Marka Aurelija
+VESPAZIJAN|Car koji je počeo graditi Kolosej
+TIT|Car koji je kao vojskovođa osvojio Jeruzalem 70.
+DOMICIJAN|Posljednji car iz dinastije Flavijevaca
+TEODOZIJE|Car koji je kršćanstvo proglasio državnom vjerom
+HONORIJE|Car Zapadnog Rimskog Carstva u Raveni
+RAVENA|Grad bizantskih mozaika i Teodorikova grobnica
+AUGUSTUL|Romul ..., posljednji zapadnorimski car
+KARLOVAC|Grad-tvrđava osnovan 1579. kao zvijezda
+ZVIJEZDA|Tlocrt karlovačke tvrđave
+NIKOLA|... Šubić Zrinski, junak Sigeta
+FRAN|... Krsto Frankopan, pogubljen 1671.
+KRSTO|Fran ... Frankopan
+WIENER|„... Neustadt”, mjesto pogubljenja Zrinskog i Frankopana
+NEUSTADT|Wiener ..., gdje su pogubljeni Zrinski i Frankopan
+OZALJ|Grad Zrinskih i Frankopana na Kupi
+ČAKOVEC|Grad Zrinskih u Međimurju
+MEĐIMURJE|Kraj između Mure i Drave
+TRAKOŠĆAN|Dvorac Draškovića u Hrvatskom zagorju
+VELIKI|... Tabor, dvorac u Zagorju
+TABOR|Veliki ..., zagorski dvorac
+MEDVEDGRAD|Srednjovjekovna utvrda na Medvednici
+KAPTOL|Crkveni dio starog Zagreba
+GRADEC|Slobodni kraljevski grad, dio starog Zagreba
+BULA|Zlatna ..., povelja Bele IV.
+BELA|... IV., kralj koji je bježao pred Tatarima
+TATARI|Provalili u Hrvatsku 1242.
+GRIČ|Brdo starog Zagreba
+TOP|Grički ... puca u podne
+LOTRŠČAK|Kula s Gričkim topom
+KAMENITA|... vrata, svetište u Zagrebu
+SVETIŠTE|Marija Bistrica je hrvatsko ...
+BISTRICA|Marija ..., najveće hrvatsko marijansko svetište
+KAŠTELA|Niz utvrda između Splita i Trogira
+TROGIR|Grad na otočiću, pod zaštitom UNESCO-a
+ŠIBENIK|Grad katedrale sv. Jakova
+JURAJ|... Dalmatinac, graditelj šibenske katedrale
+DALMATINAC|Juraj ..., graditelj
+EUFRAZIJANA|Bazilika u Poreču
+POREČ|Grad Eufrazijeve bazilike
+HVAR|Otok s najstarijim komunalnim kazalištem u Europi
+KAZALIŠTE|Hvarsko ... iz 1612.
+KORČULA|Otok i grad Marka Pola, prema predaji
+MORESKA|Viteški ples na Korčuli
+SINJ|Grad Alke
+ALKA|Viteška igra u Sinju u spomen na obranu 1715.
+ALKAR|Natjecatelj u Sinjskoj alki
+VUČEDOL|Nalazište poznato po golubici
+GOLUBICA|Vučedolska ..., posuda u obliku ptice
+KRAPINA|Nalazište pračovjeka u Zagorju
+GORJANOVIĆ|Dragutin ...-Kramberger, otkrio krapinskog pračovjeka
+APOKSIOMEN|Grčki brončani kip izvađen iz mora kod Lošinja
+LOŠINJ|Otok kod kojeg je pronađen Apoksiomen
+DIOKLECIJANOVA|... palača u Splitu
+MARULIĆ|Marko ..., autor „Judite”
+JUDITA|Marulićev ep iz 1501.
+GUNDULIĆ|Ivan ..., autor „Osmana”
+OSMAN|Gundulićev ep
+DRŽIĆ|Marin ..., autor „Dunda Maroja”
+MAROJE|Dundo ...
+HEKTOROVIĆ|Petar ..., „Ribanje i ribarsko prigovaranje”
+ZORANIĆ|Petar ..., „Planine”
+VRANČIĆ|Faust ..., konstruktor padobrana
+PADOBRAN|Vrančićev izum
+TESLA|Nikola ..., izumitelj izmjenične struje
+SANTAMARIA|Kolumbov najveći brod (spojeno)
+PINTA|Jedan od Kolumbovih brodova
+IZABELA|Kastiljska kraljica, Kolumbova pokroviteljica
+REKONKVISTA|Kršćansko preuzimanje Pirenejskog poluotoka
+GRANADA|Posljednje maursko uporište, palo 1492.
+MAURI|Muslimani u srednjovjekovnoj Španjolskoj
+ALHAMBRA|Maurska palača u Granadi
+CORTES|Hernán ..., osvajač Asteka (bez naglaska)
+DRAKE|Francis ..., engleski gusar i moreplovac
+RALEIGH|Walter ..., engleski dvoranin i istraživač
+MAYFLOWER|Brod engleskih hodočasnika 1620.
+JAMESTOWN|Prva trajna engleska naseobina u Americi
+FILADELFIJA|Grad Deklaracije nezavisnosti
+FRANKLIN|Benjamin ..., izumitelj gromobrana
+GROMOBRAN|Franklinov izum
+YORKTOWN|Posljednja velika bitka Američkog rata za nezavisnost
+LAFAYETTE|Francuski markiz u Američkom ratu za nezavisnost
+LUIZIJANA|Teritorij koji su SAD kupile od Francuske 1803.
+ALAMO|Misija u Teksasu opsjednuta 1836.
+CROCKETT|Davy ..., pao kod Alama
+GRANT|Ulysses S. ..., general Sjevera
+LEE|Robert E. ..., general Juga
+KONFEDERACIJA|Savez južnih država
+APPOMATTOX|Mjesto Leejeve predaje 1865.
+BOOTH|John Wilkes ..., Lincolnov ubojica
+CUSTER|General poražen kod Little Bighorna
+BIGHORN|Little ..., bitka 1876.
+BIK|Sjedeći ..., poglavica Sijuksa
+SIJUKSI|Indijansko pleme Sjedećeg Bika
+GERONIMO|Poglavica Apača
+APAČI|Indijansko pleme Geronima
+ELLIS|... Island, useljenički otok kod New Yorka
+KIP|... slobode
+SLOBODE|Kip ...
+PROHIBICIJA|Zabrana alkohola u SAD-u 1920–1933.
+CAPONE|Al ..., čikaški gangster
+CHICAGO|Grad Ala Caponea
+CRNI|... četvrtak, slom burze 1929.
+ČETVRTAK|Crni ..., 1929.
+NEWDEAL|Rooseveltov program izlaska iz krize (spojeno)
+TRUMAN|Predsjednik SAD-a koji je naredio bacanje atomske bombe
+EISENHOWER|Zapovjednik savezničkog iskrcavanja, kasnije predsjednik
+MONTGOMERY|Britanski general pobjednik kod El Alameina
+ALAMEIN|El ..., bitka u Egiptu 1942.
+ROMMEL|Pustinjska lisica
+LISICA|Pustinjska ..., Rommel
+DUNKERQUE|Luka evakuacije savezničke vojske 1940.
+BLITZ|Njemačko bombardiranje Londona
+LUFTWAFFE|Njemačko ratno zrakoplovstvo
+ENIGMA|Njemački stroj za šifriranje
+TURING|Alan ..., razbio Enigmu
+BLETCHLEY|... Park, središte britanskih dešifranata
+GAULLE|Charles de ..., vođa Slobodne Francuske
+VICHY|Grad suradničke francuske vlade
+MUSSOLINI|Talijanski fašistički diktator
+DUCE|Mussolinijev naslov
+FAŠIZAM|Mussolinijev pokret
+NACIZAM|Hitlerova ideologija
+GESTAPO|Tajna policija Trećeg Reicha
+REICH|Treći ..., nacistička Njemačka
+AUSCHWITZ|Najveći nacistički logor smrti
+ANNE|... Frank, autorica dnevnika iz skrovišta
+DNEVNIK|„... Anne Frank”
+AMSTERDAM|Grad u kojem se skrivala Anne Frank
+LENJINGRAD|Grad pod opsadom gotovo 900 dana
+ŽUKOV|Sovjetski maršal koji je zauzeo Berlin
+KATJUŠA|Sovjetski raketni bacač
+STALJINGRADSKA|... bitka
+PAULUS|Njemački feldmaršal predan kod Staljingrada
+IWO|... Jima, otok bitke 1945.
+OKINAWA|Otok najkrvavije bitke na Pacifiku 1945.
+NAGASAKI|Drugi grad pogođen atomskom bombom
+KAMIKAZE|Japanski piloti samoubojice
+HIROHITO|Japanski car tijekom Drugog svjetskog rata
+MACARTHUR|Američki general na Pacifiku
+NIMITZ|Američki admiral na Pacifiku
+YAMAMOTO|Japanski admiral, planer napada na Pearl Harbor
+ZAVJESA|Željezna ...
+ŽELJEZNA|... zavjesa
+BLOKADA|Berlinska ... 1948.
+ZRAČNI|... most za Berlin
+VARŠAVSKI|... ugovor, istočni vojni savez
+KOREJSKI|... rat 1950.–1953.
+MCCARTHY|Senator koji je lovio komuniste
+SPUTNJIK|Prvi umjetni satelit 1957.
+LAJKA|Pas u svemiru 1957.
+SVINJSKI|Zaljev ..., neuspjela invazija na Kubu
+ZALJEV|... svinja
+HRUŠČOV|Sovjetski vođa za kubanske krize
+BREŽNJEV|Sovjetski vođa od 1964. do 1982.
+PRAŠKO|... proljeće 1968.
+PROLJEĆE|Praško ... ili Hrvatsko ...
+DUBČEK|Alexander ..., vođa Praškog proljeća
+SOLIDARNOST|Poljski sindikat Lecha Wałęse
+WALESA|Lech ..., vođa Solidarnosti (bez naglaska)
+GDANSK|Brodogradilište gdje je nastala Solidarnost
+BARŠUNASTA|... revolucija u Čehoslovačkoj
+HAVEL|Václav ..., češki predsjednik i pisac
+JELJCIN|Prvi predsjednik Rusije
+MAASTRICHT|Ugovor o Europskoj uniji iz 1992.
+APARTHEID|Rasna segregacija u Južnoj Africi
+SOWETO|Predgrađe Johannesburga, poprište ustanka 1976.
+ROBBEN|... Island, Mandelin zatvor
+NASSER|Egipatski predsjednik koji je nacionalizirao Sueski kanal
+SUESKI|... kanal
+SUEZ|Kriza 1956. oko kanala
+BEGIN|Izraelski premijer potpisnik Camp Davida
+SADAT|Egipatski predsjednik potpisnik Camp Davida
+ARAFAT|Vođa PLO-a
+HOMEINI|Vođa Iranske revolucije 1979.
+ŠAH|Iranski vladar svrgnut 1979.
+
+[strucna]
+URUK|Sumerski grad kralja Gilgameša
+LAGAŠ|Sumerski grad-država
+ELAM|Drevno kraljevstvo jugozapadnog Irana
+SUZA|Glavni grad Elama i perzijska prijestolnica
+NINIVA|Asirska prijestolnica
+AŠURBANIPAL|Asirski kralj s velikom knjižnicom u Ninivi
+SANHERIB|Asirski kralj koji je opsjedao Jeruzalem
+KALDEJCI|Narod Novobabilonskog Carstva
+LIDIJA|Kraljevstvo Kreza
+KREZ|Lidijski kralj poznat po bogatstvu
+KSENOFONT|Autor „Anabaze”
+ANABAZA|Ksenofontovo djelo o povlačenju Desettisućnih
+PLATEJA|Bitka 479. pr. Kr. protiv Perzijanaca
+MIKALA|Bitka iste godine kad i Plateja
+DELSKI|... savez pod vodstvom Atene
+TEMISTOKLO|Atenski vojskovođa kod Salamine
+MILTIJAD|Pobjednik kod Maratona
+ALKIBIJAD|Atenski vojskovođa koji je mijenjao strane
+LISANDAR|Spartanski pobjednik Peloponeskog rata
+EPAMINONDA|Tebanski vojskovođa pobjednik kod Leuktre
+LEUKTRA|Bitka 371. pr. Kr. u kojoj je poražena Sparta
+HEJRONEJA|Bitka u kojoj je Filip II. pobijedio Grke
+ISOS|Bitka Aleksandra protiv Darija 333. pr. Kr.
+GRANIK|Prva Aleksandrova pobjeda nad Perzijancima
+HIDASP|Aleksandrova bitka protiv Pora u Indiji
+BUKEFAL|Aleksandrov konj
+DIJADOSI|Aleksandrovi nasljednici
+PTOLEMEJ|Aleksandrov general, osnivač egipatske dinastije
+ANTIGONIDI|Dinastija koja je vladala Makedonijom
+PIR|Epirski kralj skupih pobjeda
+PIROVA|... pobjeda, preskupo plaćena
+GRAKHI|Braća pučki tribuni u Rimu
+MARIJE|Rimski vojskovođa i reformator vojske
+SULA|Rimski diktator, Marijev suparnik
+KATILINA|Urotnik protiv kojeg je govorio Ciceron
+KATON|Rimljanin koji je govorio da Kartagu treba razoriti
+VERCINGETORIKS|Galski vođa poražen kod Alezije
+ALEZIJA|Galska utvrda koju je opsjeo Cezar
+FILIPI|Bitka 42. pr. Kr. u kojoj su poraženi Cezarovi ubojice
+TEUTOBURŠKA|... šuma, poraz Varovih legija
+VAR|Rimski vojskovođa poražen u Teutoburškoj šumi
+ARMINIJE|Germanski vođa pobjednik nad Varom
+MASADA|Židovska utvrda kod Mrtvog mora
+BAR|... Kohba, vođa židovskog ustanka
+SEPTIMIJE|... Sever, car iz Afrike
+KARAKALA|Car koji je dao građanstvo svim slobodnima
+AURELIJAN|Car koji je pokorio Palmiru
+PALMIRA|Grad kraljice Zenobije
+ZENOBIJA|Kraljica Palmire
+GALIJEN|Car u doba krize 3. stoljeća
+PROB|Car rodom iz Sirmija
+MAKSIMIJAN|Dioklecijanov suvladar
+GALERIJE|Car progonitelj kršćana, Dioklecijanov nasljednik
+LICINIJE|Konstantinov suvladar i suparnik
+MILVIJSKI|... most, bitka 312.
+JULIJAN|Car Otpadnik
+VALENT|Car poginuo kod Adrijanopola
+NIKA|Ustanak u Carigradu 532.
+TEODORA|Justinijanova supruga
+AJA|... Sofija, carigradska crkva
+SOFIJA|Aja ..., u Istanbulu
+VIZIGOTI|Germanski narod koji je opljačkao Rim 410.
+OSTROGOTI|Teodorikov narod
+LANGOBARDI|Narod koji je osvojio Italiju 568.
+ALBOIN|Langobardski kralj
+KARLOVINZI|Dinastija Karla Velikog
+MEROVINZI|Franačka dinastija prije Karolinga
+PIPIN|... Mali, otac Karla Velikog
+AACHEN|Prijestolnica Karla Velikog
+OTON|... I. Veliki, pobjednik na Lechu
+LECH|Bitka na rijeci ... 955. protiv Mađara
+SALIJCI|Njemačka carska dinastija 11. stoljeća
+ŠTAUFOVCI|Dinastija Fridrika Barbarosse
+BARBAROSA|Nadimak Fridrika I. (crvenobradi)
+GVELFI|Papinska stranka u srednjovjekovnoj Italiji
+GIBELINI|Carska stranka u srednjovjekovnoj Italiji
+HANZA|Savez trgovačkih gradova sjeverne Europe
+CRECY|Bitka 1346. engleskih strijelaca protiv Francuza (bez naglaska)
+ŽAKERIJA|Seljački ustanak u Francuskoj 1358.
+WAT|... Tyler, vođa engleskog seljačkog ustanka 1381.
+HUS|Jan ..., češki reformator spaljen u Konstanzu
+HUSITI|Sljedbenici Jana Husa
+ŽIŽKA|Jan ..., husitski vojskovođa
+KONSTANZ|Grad koncila 1414.–1418.
+SHIZMA|Raskol u Crkvi
+FIRENCA|Grad Medicija
+SAVONAROLA|Firentinski propovjednik spaljen 1498.
+BORGIA|Obitelj pape Aleksandra VI.
+MACHIAVELLI|Autor „Vladara”
+SFORZA|Milanska vladarska obitelj
+DUŽD|Poglavar Mletačke Republike
+DOMAGOJ|Hrvatski knez 9. stoljeća, „najgori knez Slavena” po Mlečanima
+SEDESLAV|Hrvatski knez prije Branimira
+ZDESLAV|Trpimirov sin, knez 878.–879.
+STJEPAN|... Držislav, ... II., imena hrvatskih vladara
+GVOZD|Planina na kojoj je poginuo posljednji hrvatski kralj
+SVAČIĆ|Petar ..., posljednji kralj hrvatske krvi
+DIMITRIJE|... Zvonimir, hrvatski kralj
+KAČIĆI|Gusarska obitelj iz Omiša
+OMIŠ|Grad gusara na ušću Cetine
+NERETVANI|Slavensko pleme koje je Mlecima naplaćivalo prolaz
+PAGANIJA|Neretvanska kneževina
+GUDUSKANI|Pleme oko Krbave i Like u ranom srednjem vijeku
+BIJELI|... Hrvati, prema Porfirogenetovoj predaji
+BRATOVŠTINA|Srednjovjekovna vjerska udruga laika
+STATUT|Gradski zakonik, npr. Vinodolski
+VINODOLSKI|... zakon iz 1288.
+ISTARSKI|... razvod, međašna isprava
+RAZVOD|Istarski ..., isprava o granicama
+POLJIČKI|... statut, zakonik Poljica
+POLJICA|Kneževina između Splita i Omiša
+KORČULANSKI|... statut iz 1214.
+MATIJA|... Korvin, ugarsko-hrvatski kralj
+KORVIN|Matija ..., kralj
+JAGELOVIĆI|Dinastija Ludovika II. palog kod Mohača
+CETINGRAD|Mjesto izbora Habsburgovaca 1527.
+JURIŠIĆ|Nikola ..., branitelj Kisega 1532.
+KISEG|Utvrda koju je obranio Jurišić
+KLIŠKI|... uskoci
+SISAČKA|... bitka 1593.
+EGGENBERG|Ruprecht ..., zapovjednik kod Siska
+ŽITVA|Mir na ...i 1606.
+SVETOGOTARDSKA|Bitka 1664. protiv Osmanlija
+VAŠVARSKI|... mir 1664.
+UROTA|Zrinsko-frankopanska ...
+TEREZIJANSKI|... kotar, ured za Hrvatsku
+HRVATSKO|... kraljevsko vijeće 1767.
+REGNIKOLARNI|Zemaljski (lat. izvedenica), npr. ... deputacija
+ILIRIZAM|Hrvatski narodni preporod
+GAJ|Ljudevit ..., vođa ilirskog pokreta
+DANICA|Ilirski književni tjednik
+VRAZ|Stanko ..., ilirski pjesnik
+PRERADOVIĆ|Petar ..., pjesnik „Roda o jeziku”
+MAŽURANIĆ|Ivan ..., ban pučanin
+PUČANIN|Ban ..., Ivan Mažuranić
+ČENGIĆ|„Smrt Smail-age ...”
+SVIBANJSKA|... deklaracija 1917.
+NARODNO|... vijeće SHS 1918.
+VIDOVDAN|Dan donošenja ustava 1921.
+ORJUNA|Jugoslavenska nacionalistička organizacija 1920-ih
+OBZNANA|Zabrana komunističke partije 1920.
+PUNIŠA|... Račić, atentator u Skupštini 1928.
+RAČIĆ|Puniša ..., ubojica Stjepana Radića
+SPORAZUM|... Cvetković–Maček 1939.
+STEPINAC|Alojzije ..., zagrebački nadbiskup
+BABUR|Osnivač Mogulskog Carstva
+AKBAR|Mogulski car tolerancije
+ŠAHDŽAHAN|Mogulski car koji je dao sagraditi Taj Mahal (spojeno)
+AURANGZEB|Posljednji veliki mogulski car
+SAFAVIDI|Iranska dinastija šaha Abasa
+ABAS|... Veliki, safavidski šah
+TIMUR|Tamerlan
+TAMERLAN|Osvajač iz Samarkanda
+SAMARKAND|Timurova prijestolnica
+ANKARA|Bitka 1402. u kojoj je Timur zarobio Bajazita
+BAJAZIT|Sultan zarobljen kod Ankare
+MEHMED|... II. Osvajač, zauzeo Carigrad 1453.
+OSVAJAČ|Nadimak Mehmeda II.
+SELIM|Sultan koji je osvojio Egipat 1517.
+KUBLAJ|... -kan, osnivač dinastije Yuan
+YUAN|Mongolska dinastija u Kini
+ZHENG|... He, kineski admiral 15. stoljeća
+TAIPING|Veliki ustanak u Kini sredinom 19. stoljeća
+SUN|... Jat-sen, otac moderne Kine
+KUOMINTANG|Kineska nacionalistička stranka
+ČANG|... Kaj-šek, vođa Kuomintanga
+MARŠ|Dugi ..., Maov pohod 1934.–1935.
+PERRY|Komodor koji je 1853. otvorio Japan
+SATSUMA|Japanska kneževina, poprište pobune 1877.
+BOLIVAR|Simón ..., osloboditelj Južne Amerike (bez naglaska)
+SAN|... Martín, osloboditelj Argentine i Čilea
+MARTIN|San ..., južnoamerički osloboditelj
+HIDALGO|Svećenik koji je pokrenuo meksički ustanak 1810.
+JUAREZ|Benito ..., meksički predsjednik (bez naglaska)
+ZAPATA|Emiliano ..., vođa Meksičke revolucije
+VILLA|Pancho ..., meksički revolucionar
+TOUSSAINT|... Louverture, vođa haićanske revolucije
+HAITI|Prva crnačka republika, 1804.
+LIVINGSTONE|Škotski istraživač Afrike
+STANLEY|Novinar koji je pronašao Livingstonea
+BERLINSKA|... konferencija 1884.–1885. o podjeli Afrike
+ADUA|Bitka 1896. u kojoj je Etiopija porazila Italiju
+MENELIK|Etiopski car pobjednik kod Adue
+SELASIJE|Haile ..., etiopski car
+RODEZIJA|Kolonija nazvana po Cecilu Rhodesu

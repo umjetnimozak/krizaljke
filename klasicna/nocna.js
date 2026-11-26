@@ -3,7 +3,7 @@
 const S=require('./slozi.js');
 const COUNT=+process.argv[2]||12,END=Date.now()+(+process.env.MINUTA||25)*60000,MIN=+process.env.NAJMANJE||0;
 const general=S.approved(),day=Math.floor(Date.now()/864e5);
-const combos=[];for(const d of Object.keys(S.DIFF).filter(d=>!process.env.TEZINA||d==process.env.TEZINA))for(const s of Object.keys(S.SIZES))for(const t of S.THEMES)combos.push({d,s,t,n:S.readCombo(d,s,t).length});
+const combos=[];for(const d of Object.keys(S.DIFF).filter(d=>!process.env.TEZINA||d==process.env.TEZINA))for(const s of Object.keys(S.SIZES).filter(s=>!process.env.VELICINA||s==process.env.VELICINA))for(const t of S.themeSets())combos.push({d,s,t,n:S.readCombo(d,s,t).length});
 let made=0,tries=0;
 while(made<COUNT&&Date.now()<END){
   combos.sort((a,b)=>a.n-b.n||((a.d+a.s+a.t+day).length%3)-((b.d+b.s+b.t+day).length%3)||Math.random()-.5);

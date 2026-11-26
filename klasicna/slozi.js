@@ -12,16 +12,20 @@ function approved(){
   const rej=new Set(fs.readFileSync(path.join(__dirname,'opce/odbijeno.lst'),'utf8').split('\n').map(x=>x.trim()).filter(Boolean));
   return [...A.values()].filter(w=>!rej.has(w.a)&&!BLOCK.test(w.a)).map(w=>({...w,f:F[w.a]||10}));
 }
+// t: jedno ili više područja (npr. 'r' ili 'fr'); pojmovi se spajaju, duplikati se izbacuju
 function themeWords(t,d){
-  const out=[],dir=path.join(__dirname,'../pojmovi');let cur;
-  for(const f of fs.readdirSync(dir).filter(f=>new RegExp('^'+t+'\\d*\\.txt$').test(f)))
-    for(const l of fs.readFileSync(path.join(dir,f),'utf8').split('\n')){
-      const m=l.match(/^\[(\w+)\]/);if(m){cur=m[1];continue}
-      if(cur!=d||!l.trim())continue;const[a,q]=l.split('|');const a2=G.norm(a),tk=G.tok(a2);
-      if(tk.length<3||!q)continue;out.push({a:a2,t:tk,key:a2,score:+process.env.TEMA_BOD||12,q:q.trim(),theme:t});
-    }
+  const out=[],seen=new Set(),dir=path.join(__dirname,'../pojmovi');
+  for(const th of t){let cur;
+    for(const f of fs.readdirSync(dir).filter(f=>new RegExp('^'+th+'\\d*\\.txt$').test(f)))
+      for(const l of fs.readFileSync(path.join(dir,f),'utf8').split('\n')){
+        const m=l.match(/^\[(\w+)\]/);if(m){cur=m[1];continue}
+        if(cur!=d||!l.trim())continue;const[a,q]=l.split('|');const a2=G.norm(a),tk=G.tok(a2);
+        if(tk.length<3||!q||seen.has(a2))continue;seen.add(a2);out.push({a:a2,t:tk,key:a2,score:+process.env.TEMA_BOD||12,q:q.trim(),theme:th});
+      }}
   return out;
 }
+// sve kombinacije od 1 do 3 područja, slova u redoslijedu THEMES
+function themeSets(){const T=THEMES,out=[];for(let i=0;i<T.length;i++){out.push(T[i]);for(let j=i+1;j<T.length;j++){out.push(T[i]+T[j]);for(let k=j+1;k<T.length;k++)out.push(T[i]+T[j]+T[k])}}return out}
 const file=(d,s,t)=>path.join(DATA,`${d}-${s}-${t}.json`);
 const readCombo=(d,s,t)=>fs.existsSync(file(d,s,t))?JSON.parse(fs.readFileSync(file(d,s,t))):[];
 
@@ -54,4 +58,4 @@ function add(d,s,t,p,extra={}){
   list.push({id:`${d}-${s}-${t}-${v}`,v,datum:extra.datum||new Date().toISOString().slice(0,10),w:p.w,h:p.h,words:p.words.map(w=>[w.n,w.r,w.c,w.d,w.a,w.q])});
   fs.mkdirSync(DATA,{recursive:true});fs.writeFileSync(file(d,s,t),JSON.stringify(list));return v;
 }
-module.exports={SIZES,DIFF,THEMES,approved,themeWords,readCombo,make,check,add,file};
+module.exports={SIZES,DIFF,THEMES,themeSets,approved,themeWords,readCombo,make,check,add,file};

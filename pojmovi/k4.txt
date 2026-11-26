@@ -1,0 +1,531 @@
+[opca]
+LOREAL|Francuska kozmetička tvrtka, „Zato što vrijedite” (bez apostrofa)
+GARNIER|Kozmetička marka za kosu i kožu iz L'Oréalove grupe
+LANCOME|Francuska luksuzna kozmetička marka (bez naglaska)
+SEPHORA|Lanac parfumerija iz Pariza
+DOUGLAS|Njemački lanac parfumerija
+MULLER|Lanac drogerija (bez preglasa)
+BIPA|Austrijski lanac drogerija
+ROSSMANN|Njemački lanac drogerija
+GUCCI|Talijanska modna kuća iz Firence
+PRADA|Talijanska modna kuća iz Milana
+VERSACE|Modna kuća s glavom Meduze
+VALENTINO|Talijanska modna kuća poznata po crvenoj boji
+HERMES|Francuska modna kuća poznata po torbama (bez naglaska)
+ŠKARICE|Male škare za nokte
+GRICKALICA|Alat za rezanje noktiju
+KLIJEŠTA|... za zanoktice
+ZANOKTICA|Kožica uz nokat
+LAK|... za nokte
+ODLAKIVAČ|Sredstvo za skidanje laka
+VALJCI|Kolutovi za uvijanje kose
+RAVNANJE|... kose peglom
+SUŠILO|Fen
+SUŠENJE|... kose fenom
+REP|Konjski ...
+KONJSKI|... rep, frizura
+KIKICE|Dva repića ili pletenice
+PAŽ|Ravna kratka frizura sa šiškama
+KRATKA|... kosa
+DUGA|... kosa
+TANKA|... kosa
+OŠTEĆENA|... kosa
+ISPUCALI|... vrhovi kose
+VRHOVI|Ispucali ...
+KORIJENI|Izrasli ... kose
+IZRAST|Izrasli dio obojene kose
+FRIZERKA|Žena koja šiša i češlja
+SALON|Frizerski ...
+ŠIŠATI|Rezati kosu
+ČEŠLJATI|Uređivati kosu češljem
+OPRATI|... kosu
+MITI|Prati (staro)
+KUPATI|... se u kadi
+SOL|... za kupanje
+KUGLICE|Šumeće ... za kupanje
+PJENUŠAVA|... kupka
+ULJE|... za tijelo
+MLIJEKO|... za tijelo
+MASLAC|... za tijelo
+KREMICA|Mala krema
+TUBA|Ambalaža kreme
+LONČIĆ|Posudica za kremu
+STAKLENKA|Staklena posuda za kremu
+POKLON|Parfem je čest ...
+SET|Poklon-... kozmetike
+UZORAK|Mala probna bočica
+TESTER|Probna bočica parfema u trgovini
+MIRISATI|Širiti miris
+SVJEŽ|Takav je miris citrusa
+SLADAK|Takav je miris vanilije
+CVJETNI|... miris
+VOĆNI|... miris
+DRVENASTI|... miris
+CITRUSI|Limun, naranča i bergamot u parfemu
+LIMUN|Citrusna nota parfema
+NARANČA|Citrusna nota parfema
+MUŠKI|... parfem
+ŽENSKI|... parfem
+UNISEKS|Parfem za oba spola
+KUPAONSKI|... ormarić
+ORMARIĆ|Kupaonski ...
+POLICA|... za kozmetiku
+TORBICA|Kozmetička ...
+KOFERIĆ|Kozmetički ... vizažista
+ŠTAPIĆI|Vateni ... za uši
+JASTUČIĆI|Vateni ... za skidanje šminke
+MARAMICE|Vlažne ...
+PAPIRNATE|... maramice
+ZUBNA|... pasta
+KONAC|Zubni ...
+ČAČKALICA|Štapić za zube
+OSMIJEH|Bijeli ... nakon izbjeljivanja
+DAH|Svjež ... od mente
+METVICA|Menta
+MENTA|Okus zubne paste
+GRGLJANJE|Ispiranje grla
+SAPUNICA|Sapunasta voda
+MJEHURIĆI|Pjena u kadi
+GLATKA|... koža
+MEKANA|... koža
+NJEŽNA|... koža beba
+BLISTAV|... ten
+SVJEŽINA|Osjećaj nakon umivanja
+ČISTOĆA|Higijena
+ČIST|Opran
+UREDAN|Dotjeran
+DOTJERATI|Urediti se
+UREDITI|... frizuru
+NAŠMINKATI|... se
+ŠMINKER|Muškarac vizažist
+STILIST|Savjetnik za odijevanje i izgled
+IMIDŽ|Vanjski izgled osobe
+STIL|Način odijevanja i uređivanja
+TREND|Pomodni smjer
+ELEGANCIJA|Profinjenost
+GLAMUR|Raskoš i blještavilo
+CRVENI|... ruž
+CRVENE|... usne
+PUNE|... usne
+DUGE|... trepavice
+GUSTE|... obrve
+TAMNE|... sjene ispod očiju
+PODOČNJAK|Tamna sjena ispod oka
+UMOR|Uzrok podočnjaka
+SPAVANJE|San za ljepotu
+SAN|... za ljepotu
+VODA|Pij puno ... za lijepu kožu
+PLAVA|... kosa
+CRNA|... kosa
+SMEĐE|... oči
+PLAVE|... oči
+ZELENE|... oči
+BIJELI|... zubi
+ZUB|Dio usne šupljine koji se pere četkicom
+DESNI|Meso oko zubi
+JEZIK|Strugač za ...
+NOS|Dio lica s nosnicama
+UŠI|Na njima se nose naušnice
+VRAT|Dio tijela za ogrlicu
+DEKOLTE|Izrez i područje ispod vrata
+RAMENA|Dio tijela ispod vrata
+LEĐA|Masaža ...
+DLAN|Unutarnja strana šake
+ŠAKA|Ruka bez podlaktice
+PRSTI|Na njima su nokti
+PRSTEN|Nakit na prstu
+OGRLICA|Nakit oko vrata
+NARUKVICA|Nakit oko zapešća
+BROŠ|Nakit pričvršćen iglom
+SAT|Ručni ...
+NAOČALE|Sunčane ...
+SUNČANE|... naočale
+LEĆE|Kontaktne ...
+ŠEŠIR|Pokrivalo za glavu protiv sunca
+MARAMA|Pokrivalo za glavu ili vrat
+TRAKA|... za kosu
+OBRUČ|... za kosu
+KOPČA|Šnala za kosu
+MREŽICA|... za kosu
+KAPICA|... za tuširanje
+PAPUČE|Obuća u kupaonici
+KUPAĆI|... kostim
+SUNCOBRAN|Zaštita od sunca na plaži
+PLAŽA|Mjesto sunčanja
+HLAD|Sklonište od sunca
+
+[teska]
+MITSOUKO|Guerlainov chypre parfem iz 1919.
+ANGEL|Muglerov gurmanski parfem iz 1992.
+MUGLER|Thierry ..., modni kreator parfema „Angel”
+POISON|Diorov parfem iz 1985.
+OBSESSION|Parfem Calvina Kleina iz 1985.
+ETERNITY|Parfem Calvina Kleina iz 1988.
+JADORE|Diorov cvjetni parfem (bez apostrofa)
+SAUVAGE|Diorov muški parfem
+EROS|Versaceov muški parfem
+ACQUA|... di Giò, Armanijev parfem
+GIO|Acqua di ..., Armani
+ALIEN|Muglerov parfem s jasminom
+TRESOR|Lancômeov parfem (bez naglaska)
+LIBRE|Parfem Yves Saint Laurenta
+LAURENT|Yves Saint ...
+GIVENCHY|Modna kuća čija je muza bila Audrey Hepburn
+INTERDIT|Givenchyjev parfem stvoren za Audrey Hepburn
+KENZO|Japansko-francuska modna kuća
+ISSEY|... Miyake, japanski dizajner
+MIYAKE|Issey ..., „L'Eau d'Issey”
+GAULTIER|Jean Paul ..., parfem u bočici torza
+BURBERRY|Britanska modna kuća s karo uzorkom
+BOSS|Hugo ..., njemačka modna kuća
+HUGO|... Boss
+LACOSTE|Francuska marka s krokodilom
+DAVIDOFF|Švicarska marka parfema „Cool Water”
+JOOP|Njemačka marka parfema
+ESCADA|Njemačka modna kuća parfema
+MOSCHINO|Talijanska modna kuća
+BVLGARI|Talijanski draguljar i proizvođač parfema
+CARTIER|Francuski draguljar i proizvođač parfema
+TOM|... Ford, dizajner i marka parfema
+LANVIN|Najstarija francuska modna kuća koja još radi
+NINA|... Ricci, „L'Air du Temps”
+RICCI|Nina ...
+CACHAREL|Francuska marka parfema „Anaïs Anaïs”
+NARS|Šminkerska marka Françoisa Narsa
+BENEFIT|Kalifornijska šminkerska marka
+FENTY|Rihannina kozmetička marka
+KYLIE|Kozmetička marka Kylie Jenner
+HUDA|... Beauty, marka iz Dubaija
+TILBURY|Charlotte ..., britanska vizažistica i marka
+GLOSSIER|Američka marka minimalističke šminke
+ORDINARY|The ..., marka jednostavnih seruma
+CERAVE|Marka krema s ceramidima
+AVENE|Francuska marka termalne vode (bez naglaska)
+URIAGE|Francuska marka termalne vode iz Alpa
+NUXE|Francuska marka „Huile Prodigieuse”
+CAUDALIE|Francuska marka s ekstraktima grožđa
+WELEDA|Švicarska marka prirodne kozmetike
+KIEHLS|Njujorška marka njege iz 1851. (bez apostrofa)
+ORIGINS|Estée Lauderova marka prirodne njege
+OLAY|Marka kreme protiv starenja
+PONDS|Marka hladne kreme (bez apostrofa)
+LABELLO|Balzam za usne
+CARMEX|Balzam za usne u lončiću
+LISTERINE|Tekućina za ispiranje usta
+COLGATE|Marka zubne paste
+SIGNAL|Marka zubne paste
+ORALB|Marka četkica za zube (spojeno)
+SENSODYNE|Pasta za osjetljive zube
+PANTENE|Marka šampona
+SCHWARZKOPF|Njemačka marka za kosu
+WELLA|Njemačka marka za kosu
+SYOSS|Marka šampona i boja za kosu
+SMOKEY|... eyes, zadimljena šminka očiju (engl.)
+OMBRE|Prijelaz boje kose od tamne prema svijetloj (bez naglaska)
+SOMBRE|Blaži oblik ombréa
+BABYLIGHTS|Vrlo tanki pramenovi (engl.)
+STROBING|Isticanje lica osvjetljivačem (engl.)
+BAKING|Fiksiranje šminke slojem pudera (engl.)
+EYELINER|Olovka ili tuš za crtu oko oka (engl.)
+OLOVKA|... za oči ili usne
+KONTURA|Crta oko usana
+KISTOVI|Pribor za nanošenje šminke
+BEAUTYBLENDER|Spužvica u obliku jajeta (spojeno)
+PUFNA|Jastučić za puder
+TONIRANA|... krema, lagana podloga
+CUSHION|Kompaktna tekuća podloga u spužvici (engl.)
+KOMPAKTNI|... puder
+MINERALNI|... puder
+PRAH|Puder u ...
+TEKUĆI|... ruž
+MATIRAJUĆI|... puder protiv sjaja
+VODOOTPORNA|... maskara
+PRODUŽUJUĆA|... maskara za duže trepavice
+SVILENE|... trepavice, nadogradnja
+GELLAK|Trajni lak za nokte koji se suši UV svjetlom (spojeno)
+SHELLAC|Marka trajnog laka za nokte
+NAILART|Ukrašavanje noktiju (spojeno)
+TIPSE|Umjetni nastavci za nokte
+ŠABLONA|Predložak za francusku manikuru
+BAZA|Prvi sloj laka
+NADLAK|Završni sloj laka
+SUŠAČ|Sredstvo za brže sušenje laka
+FREZA|Električni alat za obradu noktiju
+POLIRKA|Turpija za sjaj noktiju
+ZANOKTICE|Kožice uz nokte
+UNDERCUT|Frizura s obrijanim stranama (engl.)
+FADE|Postupni prijelaz duljine kose na zatiljku (engl.)
+MULLET|Frizura kratka sprijeda, duga straga (engl.)
+PIXIE|Vrlo kratka ženska frizura (engl.)
+LOB|Duži bob (engl.)
+SLOJEVI|Kosa ošišana u ...
+STEPENICE|Kosa ošišana u ... (razgovorno)
+TANJENJE|Prorjeđivanje kose škarama
+RAZDJELJAK|Crta u kosi
+ZALIZAN|Glatko začešljan
+NATAPIRANA|Kosa podignuta tupiranjem
+FIGARO|Brijač (prema operi)
+BARBER|Brijač (engl.)
+SAPUNIĆ|Mali sapun
+LOJ|Masnoća od koje se nekad pravio sapun
+LUG|Pepeo za staro pranje
+PEPEO|Lug
+OCAT|Ispiranje kose ... za sjaj (bakin savjet)
+JAJE|Maska za kosu od ... (bakin savjet)
+MED|Prirodni sastojak maski za lice
+JOGURT|Hladna maska od ... za opekline
+KRASTAVAC|Kriške na očima protiv podočnjaka
+ŽLICA|Hladna ... protiv natečenih kapaka
+VREĆICE|Natečene ... ispod očiju
+OTEKLINE|Natečenost lica
+TERMALNA|... voda u spreju
+KOLOIDNA|... zob za osjetljivu kožu
+ZOB|Koloidna ... u kremama
+RIŽINA|... voda za sjaj kose
+RIŽA|Puder od ... u Japanu
+GEJŠA|Japanska zabavljačica bijelo napudranog lica
+KABUKI|Gusti kist nazvan po japanskom kazalištu
+SLOJEVITA|... njega u deset koraka
+TONER|Tonik (engl.)
+SHEET|... maska od tkanine (engl.)
+FLASTERI|... za mitesere
+GUASHA|Kineski kameni strugač za masažu lica (spojeno)
+ŽAD|Kamen od kojeg se izrađuju valjci za lice
+KVARC|Ružičasti ... za valjak za lice
+MIKROSTRUJA|Uređaj za zatezanje lica
+LED|... maska sa svjetlom za kožu
+SVJETLOSNA|... terapija
+KRIOTERAPIJA|Liječenje hladnoćom
+KISIKOVA|... terapija lica
+DERMAPEN|Uređaj s mikroiglicama
+MIKROIGLICE|Postupak poticanja kolagena ubodima
+PLAZMA|Vampirski tretman bogatom ... (PRP)
+VAMPIRSKI|... tretman lica plazmom
+BLEFAROPLASTIKA|Operacija kapaka
+RINOPLASTIKA|Operacija nosa
+LIPOSUKCIJA|Isisavanje masnoće
+FACELIFT|Zatezanje lica (engl.)
+IMPLANTAT|Umetak u estetskoj kirurgiji
+SILIKON|Materijal grudnih implantata
+ESTETSKA|... kirurgija
+PLASTIČNA|... kirurgija
+KIRURG|Liječnik koji operira
+TETOVIRANJE|Unošenje boje u kožu iglom
+TATTOO|Tetovaža (engl.)
+LASERSKO|... uklanjanje tetovaže
+UKLANJANJE|... dlačica
+DLAČICE|Male dlake na koži
+UROSLE|... dlačice nakon depilacije
+BRIJAĆI|... aparat
+ŽILET|Oštrica za brijanje
+OŠTRICA|Žilet
+BRITVICA|Mala britva
+POSLIJE|... brijanja, losion
+AFTERSHAVE|Losion poslije brijanja (engl.)
+ČEŠLJIĆ|Mali češalj za brkove
+ZALISCI|Dlake na obrazima uz uši
+KOZJA|... bradica
+BRADICA|Kozja ...
+NEOBRIJAN|S izraslom bradom
+STRNIŠTE|Kratka izrasla brada
+METROSEKSUALAC|Muškarac koji pomno njeguje izgled
+BRONZANA|... boja kože
+PREPLANULA|... koža
+ZLATNA|... preplanulost
+BIJELA|Nekad moderna ... put
+PUT|Boja kože, ten
+BLIJED|Bez boje u licu
+RUMEN|Crven u obraze
+RUMENE|... obraze
+PEGAVA|Koža s pjegicama
+PJEGICE|Male pjege na nosu
+MADEŽI|Smeđe točkice na koži
+MLADEŽ|Madež
+BRADAVICA|Izraslina na koži
+ŽULJEVI|Otvrdnuća na stopalima
+KURJE|... oko, bolno otvrdnuće na prstu
+OKO|Kurje ...
+ISPUCALE|... pete
+LAKTOVI|Suha koža na ...
+KOLJENA|Hrapava koža na ...
+DLAKAVOST|Pojačan rast dlaka
+HIRZUTIZAM|Muški raspored dlaka kod žena
+ĆELAVOST|Gubitak kose na tjemenu
+ZALIZI|Visoka čela zbog povlačenja kose
+TJEME|Vrh glave
+ZATILJAK|Stražnji dio glave
+SLJEPOOČNICE|Bočni dijelovi čela
+VJEĐE|Kapci
+KAPAK|Vjeđa
+USNICA|Usna
+KUTOVI|... usana
+NAZOLABIJALNE|... bore od nosa do usana
+BORICE|Male bore oko očiju
+VRANINE|... noge, bore oko očiju
+MIMIČKE|... bore od izraza lica
+PODBRADAK|Mesnati dio ispod brade
+OPUŠTENA|... koža
+ČVRSTA|... koža
+ELASTIČNA|... koža
+ZATEZANJE|Postupak za čvrstoću kože
+POMLAĐIVANJE|Postupak koji vraća mladolik izgled
+STARENJE|Proces koji uzrokuje bore
+
+[strucna]
+WALKER|Madam C. J. ..., prva američka samostvorena milijunašica s proizvodima za kosu
+FACTOR|Max ..., otac filmske šminke
+PANCAKE|Max Factorova podloga za film u boji (engl.)
+SCHUELLER|Eugène ..., osnivač L'Oréala
+BETTENCOURT|Obitelj većinskih vlasnika L'Oréala
+REVSON|Charles ..., osnivač Revlona
+LACHMAN|Charles ..., suosnivač Revlona (slovo L u imenu)
+WILLIAMS|Thomas Lyle ..., osnivač Maybellinea
+MABEL|Sestra po kojoj je nazvan Maybelline
+WERTHEIMER|Obitelj vlasnika Chanela
+POLGE|Jacques ..., Chanelov parfumer nakon Beauxa
+ELLENA|Jean-Claude ..., parfumer Hermèsa
+ROPION|Dominique ..., parfumer
+KURKDJIAN|Francis ..., parfumer „Baccarat Rouge 540”
+BACCARAT|... Rouge 540, parfem Kurkdjiana
+MALLE|Frédéric ..., izdavač parfema
+DIPTYQUE|Pariška marka mirisnih svijeća i parfema
+CREED|Kuća parfema „Aventus”
+AVENTUS|Creedov muški parfem
+BYREDO|Švedska marka parfema
+LELABO|Njujorška kuća parfema „Santal 33” (spojeno)
+SANTAL|... 33, parfem Le Labo
+MOLECULE|„... 01”, parfem s jednim sastojkom (Iso E Super)
+ISO|... E Super, sintetička drvenasta molekula
+CALONE|Molekula mirisa mora i dinje
+DIHIDROMIRCENOL|Svježa molekula muških parfema
+HELIOTROPIN|Mirisna molekula s notom badema i vanilije
+ETILVANILIN|Sintetička molekula jača od vanilina
+TONKA|Zrno s kumarinom
+OPOPONAKS|Slatka smola u orijentalnim parfemima
+TAMJAN|Smola za kađenje, nota parfema
+SMIRNA|Smola koju su donijeli mudraci, nota parfema
+BENZOIN|Smola s notom vanilije
+LABDANUM|Smola od bušina, temelj ambre
+MAHOVINA|Hrastova ..., temelj chyprea
+VETIVER|Korijen trave s dimnom notom
+PATCHOULI|Pačuli (engl.)
+NEROLI|Eterično ulje cvijeta gorke naranče
+PETITGRAIN|Ulje od lišća gorke naranče
+YLANG|...-ylang, tropski cvijet parfema
+GALBANUM|Zelena smola u parfemima
+ŠAFRAN|Začin i nota parfema
+KARDAMOM|Začinska nota parfema
+PAPAR|Ružičasti ..., nota parfema
+FREZIJA|Cvjetna nota parfema
+GARDENIJA|Bijeli cvijet u parfemima
+MAGNOLIJA|Cvjetna nota parfema
+ĐURĐICA|Cvijet nota „Diorissima”
+DIORISSIMO|Diorov parfem đurđice iz 1956.
+LJUBIČICA|Nota pudrastih parfema
+ORRIS|Korijen perunike u parfemima (engl.)
+PERUNIKA|Iris, čiji je korijen skupa sirovina
+MIMOZA|Žuti cvijet, nota parfema
+OSMANTUS|Cvijet s notom marelice
+FOUGERE|Obitelj parfema „paprat” (bez naglaska)
+PAPRAT|Fougère na hrvatskom
+AKORD|Skladni spoj mirisnih nota
+SILAŽ|Trag koji parfem ostavlja u prostoru (franc. sillage)
+POSTOJANOST|Trajanje parfema na koži
+DRYDOWN|Završna faza parfema na koži (engl.)
+APOKRINE|Žlijezde znojnice u pazuhu
+EKRINE|Žlijezde znojnice po cijelom tijelu
+LOJNICE|Žlijezde koje luče sebum
+ANTIPERSPIRANT|Sredstvo koje smanjuje znojenje
+ALUMINIJEV|... klorohidrat u antiperspirantu
+KLOROHIDRAT|Aluminijev ..., sastojak antiperspiranta
+HIPERHIDROZA|Pojačano znojenje
+BROMHIDROZA|Neugodan miris znoja
+KORINEBAKTERIJE|Bakterije koje uzrokuju miris znoja
+KOMEDON|Mitesersko začepljenje pore
+PAPULA|Mala izbočina na koži
+PUSTULA|Gnojni prištić
+CISTA|Duboka upalna tvorba kod akni
+CUTIBACTERIUM|Bakterija povezana s aknama
+DEMODEX|Grinja koja živi u folikulima
+MALASSEZIJA|Gljivica povezana s peruti
+KETOKONAZOL|Antimikotik u šamponima protiv peruti
+PIROKTON|... olamin, sastojak šampona protiv peruti
+CINKOV|... pirition protiv peruti
+SELENIJEV|... sulfid u šamponu protiv peruti
+KATRAN|Ugljeni ... u šamponima za psorijazu
+MELAZMA|Hormonske tamne mrlje na licu
+LENTIGO|Staračka pjega
+EFELIDE|Pjege (lat.)
+VITILIGO|Gubitak pigmenta u mrljama
+KELOID|Izrasli ožiljak
+OŽILJCI|Tragovi akni na koži
+ATROFIČNI|... ožiljci, udubljeni
+DERMATITIS|Upala kože
+KONTAKTNI|... dermatitis
+SENZIBILIZACIJA|Razvoj alergije na sastojak
+PATCH|... test, kožni test na alergene (engl.)
+PSORALEN|Fotosenzibilizirajuća tvar iz bergamota
+BERGAPTEN|Fototoksična tvar u ulju bergamota
+FUROKUMARINI|Fototoksični spojevi u citrusima
+CITRONELOL|Molekula mirisa ruže i geranije
+GERANIJ|Biljka s mirisom ruže
+DAMAŠČANSKA|... ruža za ružino ulje
+KAZANLAK|Bugarska dolina ruža
+ATAR|Ružino ulje (perz. izvedenica)
+HIDROLAT|Cvjetna voda nakon destilacije
+RUŽINA|... voda
+MACERACIJA|Natapanje biljaka u ulju
+EKSTRAKCIJA|Izdvajanje tvari otapalom
+SUPERKRITIČNI|... CO2 za ekstrakciju
+HEKSAN|Otapalo za dobivanje konkreta
+ALAMBIK|Posuda za destilaciju
+DESTILAT|Proizvod destilacije
+REKTIFIKACIJA|Ponovna destilacija za čistoću
+DEKANTIRANJE|Odlijevanje tekućine iznad taloga
+MACERAT|Ulje s biljnim ekstraktom
+TINKTURA|Alkoholni ekstrakt
+PČELINJI|... vosak u balzamima
+KANDELILA|Biljni vosak iz meksičke pustinje
+KARNAUBA|Palmin vosak, najtvrđi prirodni vosak
+OZOKERIT|Mineralni vosak
+CERESIN|Pročišćeni mineralni vosak
+MIKROKRISTALNI|... vosak u ružu
+RICINOLEINSKA|Glavna masna kiselina ricinusova ulja
+OLEINSKA|Masna kiselina maslinova ulja
+LINOLNA|Esencijalna masna kiselina
+PALMITINSKA|Zasićena masna kiselina
+MIRISTINSKA|Masna kiselina kokosa
+LAURINSKA|Glavna masna kiselina kokosova ulja
+KAPRILNA|Kratka masna kiselina kokosa
+IZOPROPIL|... miristat, emolijens
+MIRISTAT|Izopropil ..., emolijens
+PALMITAT|Askorbil ..., oblik vitamina C
+ETILHEKSIL|... glicerin, deodorantni sastojak
+PROPANDIOL|Biljni humektant i otapalo
+BUTILEN|... glikol, humektant
+PROPILEN|... glikol, humektant
+SORBITOL|Šećerni alkohol, humektant u pasti za zube
+KSILITOL|Šećerni alkohol koji ne uzrokuje karijes
+HIDROKSIAPATIT|Mineral zubne cakline u pastama
+CAKLINA|Najtvrđe tkivo u tijelu
+DENTIN|Tkivo ispod zubne cakline
+PLAK|Bakterijske naslage na zubima
+KAMENAC|Stvrdnute naslage na zubima
+FLUORID|Natrijev ... u pasti za zube
+ABRAZIV|Sredstvo za poliranje u pasti
+SILICIJEV|... dioksid, abraziv u pasti
+KARBAMID|... peroksid za izbjeljivanje zuba
+FOLIKULITIS|Upala dlačnih folikula
+ANAGEN|Faza rasta dlake
+KATAGEN|Prijelazna faza ciklusa dlake
+TELOGEN|Faza mirovanja dlake
+EFLUVIJ|Telogeni ..., pojačano opadanje kose
+AREATA|Alopecija ..., gubitak kose u krpicama
+FINASTERID|Lijek protiv muške ćelavosti
+LJUSKICE|Kutikula dlake sastoji se od ...
+POROZNOST|Sposobnost kose da upije vlagu
+FOTOOŠTEĆENJE|Oštećenje sunčevim zrakama
+GLIKACIJA|Oštećenje kolagena šećerom
+SLOBODNI|... radikali koji ubrzavaju starenje
+RADIKALI|Slobodni ...
+OKSIDACIJA|Reakcija s kisikom

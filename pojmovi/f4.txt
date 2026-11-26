@@ -1,0 +1,575 @@
+[opca]
+KINODVORANA|Mjesto gdje se gledaju filmovi (spojeno)
+MULTIPLEKS|Kino s mnogo dvorana
+SJEDALO|Mjesto za sjedenje u kinu
+RED|Sjedala u kinu poredana su u ...
+PLAKAT|Reklamni poster filma
+NAJAVA|Kratki prikaz budućeg filma
+TRAILER|Najava filma (engl.)
+BLOCKBUSTER|Film s ogromnom zaradom (engl.)
+HIT|Film koji je postigao velik uspjeh
+FLOP|Film koji je propao na blagajnama
+BLAGAJNA|Mjesto gdje se kupuju karte; i zarada filma
+ZARADA|Prihod filma
+BUDŽET|Novac potreban za snimanje filma
+ZVIJEZDA|Slavni glumac
+GLAVNA|... uloga
+SPOREDNA|... uloga, manja
+LIK|Osoba u filmu
+JUNAK|Glavni pozitivni lik
+NEGATIVAC|Zločesti lik u filmu
+ZLIKOVAC|Negativac
+HEROINA|Junakinja
+DUBLER|Glumac koji izvodi opasne scene umjesto zvijezde
+TEKST|Riječi koje glumac mora naučiti
+DIJALOG|Razgovor likova
+REPLIKA|Rečenica koju izgovara glumac
+SET|Mjesto snimanja
+STUDIO|Zatvoreni prostor za snimanje
+LOKACIJA|Mjesto snimanja izvan studija
+SCENOGRAFIJA|Uređenje prostora u filmu
+SVJETLO|Rasvjeta na snimanju
+MIKROFON|Uređaj za snimanje zvuka
+ZVUK|Ono što čujemo u filmu
+GLAZBA|Filmska ... (soundtrack)
+SOUNDTRACK|Glazba iz filma (engl.)
+ŠPIC|Kraj filma s imenima autora (razgovorno)
+KRAJ|Natpis na završetku starih filmova
+HAPPYEND|Sretan završetak (spojeno)
+SRETAN|... kraj
+SUZE|Izazivaju ih tužni filmovi
+STRAH|Osjećaj koji izaziva horor
+SMIJEH|Izaziva ga komedija
+NAPETOST|Ono što gradi triler
+ROMANTIKA|Ljubavni žanr filma
+LJUBAVNI|... film, romansa
+RATNI|... film o bitkama
+POVIJESNI|... film o prošlosti
+OBITELJSKI|... film za sve uzraste
+DJEČJI|... film za najmlađe
+ZNANSTVENA|... fantastika
+BAJKA|Priča s vilama i čarobnjacima
+PRINCEZA|Junakinja mnogih Disneyjevih filmova
+PEPELJUGA|Junakinja koja je izgubila cipelicu
+SNJEGULJICA|Junakinja sa sedam patuljaka
+PATULJAK|Snjeguljica ih je imala sedam
+TRNORUŽICA|Uspavana ljepotica
+RAPUNZEL|Princeza duge kose
+MAUGLI|Dječak iz „Knjige o džungli”
+BALU|Medvjed iz „Knjige o džungli”
+BAGIRA|Crna pantera iz „Knjige o džungli”
+ŠERKAN|Tigar iz „Knjige o džungli”
+MINIONI|Žuta stvorenja iz „Grozne zgode”
+GRU|Negativac iz „Grozne zgode”
+STITCH|Plavi vanzemaljac, Lilov prijatelj
+LILO|Havajska djevojčica, Stitchova prijateljica
+MOANA|Polinezijska junakinja Disneyjeva filma
+VAIANA|Europsko ime Disneyjeve Moane
+MAUI|Polubog iz „Vaiane”
+ENCANTO|Disneyjev film o obitelji Madrigal
+COCO|Pixarov film o meksičkom Danu mrtvih
+WALLE|Pixarov robot koji čisti Zemlju (bez crtice)
+REMI|Štakor kuhar iz „Juhe od štakora”
+RATATOUILLE|Juha od štakora (franc.)
+CARS|Pixarov film o automobilima
+MUNJA|... McQueen, auto iz „Automobila”
+MCQUEEN|Munja ..., trkaći auto
+INCREDIBLES|Obitelj superjunaka (engl.)
+SULLEY|Plavo čudovište iz „Čudovišta iz ormara”
+MIKE|Jednooko čudovište iz „Čudovišta iz ormara”
+MERIDA|Škotska princeza iz „Hrabre”
+TIANA|Princeza i žabac
+BELLE|Ljepotica iz „Ljepotice i zvijeri”
+ZVIJER|Ljepotica i ...
+JASMINE|Princeza iz „Aladina”
+DŽIN|Duh iz Aladinove svjetiljke
+SVJETILJKA|Aladinova čarobna ...
+URSULA|Morska vještica iz „Male sirene”
+SEBASTIJAN|Rak iz „Male sirene”
+SIRENA|Mala ..., Ariel
+HERKULES|Disneyjev junak, sin Zeusa
+KUNG|... Fu Panda
+PANDA|Kung Fu ...
+MADAGASKAR|Animirani film o životinjama iz zoološkog vrta
+ALEX|Lav iz „Madagaskara”
+MARTY|Zebra iz „Madagaskara”
+GLORIA|Nilski konj iz „Madagaskara”
+LEDENO|... doba, animirani film
+SID|Lijenčina iz „Ledenog doba”
+MANNY|Mamut iz „Ledenog doba”
+DIEGO|Sabljozubi tigar iz „Ledenog doba”
+SCRAT|Vjeverica iz „Ledenog doba”
+ŽIR|Ono što Scrat vječno lovi
+FIONA|Shrekova žena
+MAGARAC|Shrekov prijatelj koji stalno priča
+MAČAK|... u čizmama
+ČIZME|Mačak u ...
+FARQUAAD|Lord iz „Shreka”
+BRIDGET|... Jones, junakinja romantične komedije
+PRETTY|„... Woman”, film s Julijom Roberts
+NOTTING|„... Hill”, film s Hughom Grantom
+HUGH|... Grant, britanski glumac romantičnih komedija
+SANDRA|... Bullock, „Brzina”
+BRZINA|Akcijski film s Keanuom Reevesom u autobusu
+REEVES|Keanu ..., Neo iz „Matrixa”
+NEO|Glavni lik „Matrixa”
+MORPHEUS|Lik koji Neu nudi crvenu i plavu pilulu
+TRINITY|Neova saveznica u „Matrixu”
+PILULA|Crvena ili plava u „Matrixu”
+WICK|John ..., ubojica kojeg glumi Keanu Reeves
+BOURNE|Jason ..., agent bez pamćenja
+DAMON|Matt ..., Jason Bourne
+AFFLECK|Ben ..., glumac i redatelj „Arga”
+MERYL|... Streep, glumica s najviše nominacija za Oscara
+JULIA|... Roberts, „Zgodna žena”
+NICOLE|... Kidman, australska glumica
+BRAD|... Pitt, američki glumac
+ANGELINA|... Jolie, Lara Croft
+LEONARDO|... DiCaprio, Jack iz „Titanica”
+JACK|Lik Leonarda DiCaprija u „Titanicu”
+ROSE|Junakinja „Titanica”
+WINSLET|Kate ..., Rose iz „Titanica”
+ARNOLD|... Schwarzenegger, Terminator
+SYLVESTER|... Stallone, Rocky
+BALBOA|Rocky ..., boksač
+ADRIAN|Rockyjeva djevojka
+CREED|Apollo ..., Rockyjev suparnik
+TOM|... Cruise, Ethan Hunt
+HUNT|Ethan ..., agent iz „Nemoguće misije”
+MISIJA|„Nemoguća ...”
+TOPGUN|Film o pilotima s Tomom Cruiseom (spojeno)
+MAVERICK|Nadimak pilota u „Top Gunu”
+DENZEL|... Washington, američki glumac
+WILL|... Smith, „Ljudi u crnom”
+CRNOM|„Ljudi u ...”
+MIB|„Ljudi u crnom” (kratica)
+JIM|... Carrey, „Maska”
+CARREY|Jim ..., komičar
+MASKA|Film s Jimom Carreyjem; i krinka
+ACE|... Ventura, detektiv za kućne ljubimce
+ROWAN|... Atkinson, Mr. Bean
+BEAN|Mr. ..., smotani Britanac
+ATKINSON|Rowan ..., Mr. Bean
+CHARLIE|... Chaplin, skitnica s brkovima
+BRKOVI|Chaplinov zaštitni znak iznad usana
+ŠTAP|Chaplinov rekvizit za hodanje
+POLUCILINDAR|Chaplinov šešir
+PIRATI|„... s Kariba”
+KARIBI|„Pirati s ...”
+HARRY|... Potter, čarobnjak s ožiljkom
+OŽILJAK|Harryjev znak na čelu u obliku munje
+ŠTAPIĆ|Čarobni ... čarobnjaka
+HAGRID|Divovski čuvar ključeva u Hogwartsu
+DOBBY|Kućni vilenjak iz „Harryja Pottera”
+HEDWIG|Harryjeva sova
+SOVA|Hedwig je bijela ...
+METLOBOJ|Sport na metlama iz „Harryja Pottera”
+QUIDDITCH|Metloboj (engl.)
+GRIFONDOR|Harryjev dom u Hogwartsu
+SLYTHERIN|Dom Malfoya u Hogwartsu
+MALFOY|Draco ..., Harryjev suparnik
+DRACO|... Malfoy
+WEASLEY|Ronovo prezime
+PRSTEN|Gospodar ...ova
+GOSPODAR|„... prstenova”
+HOBBIT|Bilbo je ... (engl.)
+BILBO|... Baggins, hobit
+SAMWISE|Frodov vjerni prijatelj
+SAM|Frodov pratilac
+SHIRE|Domovina hobita
+KAPETAN|... Amerika, superjunak sa štitom
+AMERIKA|Kapetan ...
+ŠTIT|Oružje Kapetana Amerike
+ČEKIĆ|Thorovo oružje
+LOKI|Thorov brat, bog prijevare
+THANOS|Ljubičasti negativac s rukavicom
+RUKAVICA|Thanosova ... beskonačnosti
+GROOT|Drvo koje govori samo „Ja sam ...”
+ROCKET|Rakun iz „Čuvara galaksije”
+GALAKSIJA|„Čuvari ...”
+WAKANDA|Domovina Black Panthera
+PANTER|Crni ..., superjunak iz Wakande
+FLASH|Najbrži superjunak DC-a
+AQUAMAN|Kralj Atlantide iz DC-a
+ALFRED|Batmanov batler
+BRUCE|... Wayne, Batman
+LUTHOR|Lex ..., Supermanov neprijatelj
+LOIS|... Lane, Supermanova djevojka
+CLARK|... Kent, Superman
+PETER|... Parker, Spider-Man
+PARKER|Peter ..., Spider-Man
+MREŽA|Spider-Man je ispaljuje iz zapešća
+PAUK|Spider-Man je čovjek ...
+
+[teska]
+CITIZEN|„... Kane”, film Orsona Wellesa
+KANE|„Građanin ...”
+CHINATOWN|Polanskijev film s Jackom Nicholsonom
+SUNSET|„... Boulevard”, film Billyja Wildera
+BULEVAR|„... sumraka”, Wilderov film
+APARTMAN|Wilderov film s Jackom Lemmonom
+LEMMON|Jack ..., „Neki to vole vruće”
+CURTIS|Tony ..., „Neki to vole vruće”
+VRUĆE|„Neki to vole ...”
+MANHATTAN|Allenov crno-bijeli film iz 1979.
+ZELIG|Allenov lažni dokumentarac
+DIANE|... Keaton, Annie Hall
+BUSTER|... Keaton, komičar kamena lica
+GENERAL|„...”, film Bustera Keatona o lokomotivi
+UŽE|Hitchcockov film koji izgleda kao jedan kadar
+SJEVER|„Sjever-sjeverozapad”, Hitchcockov film
+NORMAN|... Bates, ubojica iz „Psiha”
+MOTEL|Batesov ... u „Psihu”
+TUŠ|Mjesto najpoznatije scene „Psiha”
+LAURA|Film noir Otta Premingera iz 1944.
+PREMINGER|Otto ..., redatelj „Anatomije ubojstva”
+MALTEŠKI|„... sokol”, film s Bogartom
+SPADE|Sam ..., detektiv
+MARLOWE|Philip ..., Chandlerov detektiv
+CHANDLER|Raymond ..., pisac „Velikog sna”
+SAN|„Veliki ...”, film s Bogartom i Bacallovom
+RICK|Bogartov lik u „Casablanci”
+ILSA|Junakinja „Casablance”
+INGRID|... Bergman, Ilsa u „Casablanci”
+SCARLETT|... O'Hara, junakinja „Prohujalo s vihorom”
+RHETT|... Butler, „Prohujalo s vihorom”
+GABLE|Clark ..., Rhett Butler
+TARA|Plantaža obitelji O'Hara
+VIHOR|„Prohujalo s ...”
+DOROTHY|Djevojčica iz „Čarobnjaka iz Oza”
+TOTO|Dorothyn pas
+GARLAND|Judy ..., Dorothy
+STRAŠILO|Dorothyn pratilac bez mozga
+LIMENI|... čovjek, Dorothyn pratilac
+CIPELICE|Dorothyne crvene ...
+BENHUR|Spektakl s utrkom kočija (spojeno)
+HESTON|Charlton ..., Ben-Hur i Mojsije
+MOJSIJE|Hestonov lik u „Deset zapovijedi”
+SPARTAK|Kubrickov film o pobuni robova
+KLEOPATRA|Film s Elizabeth Taylor iz 1963.
+ARABIJA|„Lawrence od ...”
+OTOOLE|Peter ..., Lawrence od Arabije (bez apostrofa)
+ODISEJA|„... u svemiru 2001.”
+MONOLIT|Crni objekt iz „Odiseje u svemiru”
+NARANČA|„Paklena ...”, Kubrickov film
+STRANGELOVE|Dr. ..., Kubrickova crna komedija
+BARRY|„... Lyndon”, Kubrickov povijesni film
+LYNDON|„Barry ...”
+REDRUM|Riječ ispisana na vratima u „Isijavanju”
+OVERLOOK|Hotel iz „Isijavanja”
+DANNY|Dječak s triciklom u „Isijavanju”
+KING|Stephen ..., pisac „Isijavanja”
+CARRIE|Film o djevojci s telekinezom po Kingu
+MISERY|Film o piscu i opsesivnoj obožavateljici
+PENNYWISE|Klaun iz filma „To”
+KLAUN|Pennywise je zli ...
+HALLOWEEN|Carpenterov horor s Michaelom Myersom
+MYERS|Michael ..., ubojica s maskom
+JASON|Ubojica s hokejaškom maskom
+FREDDY|... Krueger, ubojica iz snova
+VRISAK|Horor Wesa Cravena s maskom duha
+SAW|Horor serijal s Jigsawom (engl.)
+REGAN|Opsjednuta djevojčica u „Egzorcistu”
+OMEN|Horor o djetetu Damienu
+DAMIEN|Antikrist iz „Omena”
+ROSEMARY|„... ima bebu”
+BEBA|„Rosemary ima ...”
+FORREST|... Gump, Hanksov lik
+JENNY|Forrestova ljubav
+BUBBA|Forrestov prijatelj koji je volio škampe
+ČOKOLADA|„Život je kao kutija ...”
+RYAN|„Spašavanje vojnika ...”
+VOJNIK|„Spašavanje ... Ryana”
+CASTAWAY|Hanksov film o brodolomcu (engl., spojeno)
+WILSON|Odbojkaška lopta, prijatelj brodolomca
+TERMINAL|Hanksov film o čovjeku zaglavljenom na aerodromu
+FILADELFIJA|Hanksov film o odvjetniku oboljelom od AIDS-a
+APOLLO|„... 13”, Hanksov svemirski film
+HOUSTON|„..., imamo problem”
+ZELENA|„... milja”, film o zatvoru i čudima
+MILJA|„Zelena ...”
+ANDY|... Dufresne, zatvorenik iz „Iskupljenja u Shawshanku”
+ISKUPLJENJE|„... u Shawshanku”
+MORGAN|... Freeman, glumac dubokog glasa
+JODIE|... Foster, Clarice Starling
+CLARICE|... Starling, agentica FBI-ja
+JAGANJCI|„Kad jaganjci utihnu”
+HANNIBAL|... Lecter, kanibal
+FIGHTCLUB|Fincherov film s Bradom Pittom (spojeno)
+TYLER|... Durden, lik iz „Kluba boraca”
+KLUB|„... boraca”
+BORACA|„Klub ...”
+SEVEN|Fincherov film o sedam smrtnih grijeha (engl.)
+GRIJESI|Sedam smrtnih ... u filmu „Sedam”
+ZODIAC|Fincherov film o neuhvaćenom ubojici
+SOCIJALNA|„... mreža”, film o Facebooku
+ZUCKERBERG|Lik iz „Socijalne mreže”
+GONE|„... Girl”, Fincherov triler
+PULP|„... Fiction”, Tarantinov film
+FICTION|„Pulp ...”
+VINCENT|... Vega, Travoltin lik u „Pakleni šund”
+VEGA|Vincent ..., lik iz „Paklenog šunda”
+MIA|... Wallace, lik Ume Thurman
+UMA|... Thurman, „Ubiti Billa”
+KILL|„... Bill”, Tarantinov film
+BRIDE|Mladenka iz „Ubiti Billa” (engl.)
+RESERVOIR|„... Dogs”, Tarantinov prvijenac
+GADOVI|„Nečasni ...”, Tarantinov ratni film
+LANDA|Hans ..., nacistički pukovnik u „Nečasnim gadovima”
+HOLLYWOODU|„Bilo jednom u ...”
+VITO|... Corleone, kum
+MICHAEL|... Corleone, Pacinov lik
+SONNY|Najstariji Corleoneov sin
+FREDO|Slabi brat Corleone
+KAY|Michaelova supruga u „Kumu”
+KONJ|Glava ... u krevetu u „Kumu”
+PONUDA|„Dat ću mu ... koju ne može odbiti”
+TONY|... Montana, „Lice s ožiljkom”
+OŽILJKOM|„Lice s ...”
+DONNIE|„... Brasco”, film s Deppom i Pacinom
+HEAT|„Vrućina”, Mannov film s De Nirom i Pacinom (engl.)
+MANN|Michael ..., redatelj „Vrućine”
+DENIRO|Robert ..., Travis Bickle (spojeno)
+ROBERT|... De Niro
+TRAVIS|... Bickle, taksist
+IRISHMAN|Scorseseov film iz 2019. (engl.)
+CASINO|Scorseseov film o Las Vegasu
+VEGAS|Las ..., grad kockarnica
+INCEPTION|Nolanov film o snovima u snovima (engl.)
+ZVRK|Cobbov totem u „Početku”
+POČETAK|Hrvatski naslov Nolanova „Inceptiona”
+TENET|Nolanov film s inverzijom vremena
+DUNKIRK|Nolanov ratni film o evakuaciji 1940.
+PRESTIGE|Nolanov film o mađioničarima
+VITEZ|„Mračni ...”, Nolanov Batman
+MRAČNI|„... vitez”
+LEDGER|Heath ..., Joker iz „Mračnog viteza”
+HEATH|... Ledger, Joker
+PHOENIX|Joaquin ..., Joker iz 2019.
+JOAQUIN|... Phoenix, Joker
+ARTHUR|... Fleck, Joker
+BARBIE|Film Grete Gerwig iz 2023.
+GERWIG|Greta ..., redateljica „Barbie”
+MARGOT|... Robbie, Barbie
+ROBBIE|Margot ..., Barbie
+KEN|Barbiein dečko
+GOSLING|Ryan ..., Ken
+LALALAND|Mjuzikl s Goslingom i Emmom Stone (spojeno)
+EMMA|... Stone, „La La Land”
+WHIPLASH|Film o bubnjaru i strogom učitelju
+CHAZELLE|Damien ..., redatelj „La La Landa”
+CILLIAN|... Murphy, Oppenheimer
+MURPHY|Cillian ..., Oppenheimer
+AMELIE|Jeunetov film o pariškoj konobarici (bez naglaska)
+JEUNET|Jean-Pierre ..., redatelj „Amélie”
+TAUTOU|Audrey ..., Amélie
+LEON|Bessonov film o plaćenom ubojici i djevojčici
+BESSON|Luc ..., redatelj „Leona”
+PORTMAN|Natalie ..., djevojčica iz „Leona”
+NIKITA|Bessonov film o ubojici
+LUCY|Bessonov film sa Scarlett Johansson
+PRIJEVODU|„Izgubljeni u ...”
+SOFIA|... Coppola, redateljica „Izgubljenih u prijevodu”
+TRAINSPOTTING|Film Dannyja Boylea o edinburškim ovisnicima
+BOYLE|Danny ..., redatelj „Milijunaša s ulice”
+MILIJUNAŠ|„... s ulice”
+SNATCH|Ritchiejev film o krađi dijamanta (engl.)
+RITCHIE|Guy ..., redatelj „Snatcha”
+STATHAM|Jason ..., akcijski glumac
+NAKATOMI|Neboder iz „Umri muški”
+UMRI|„... muški”
+MUŠKI|„Umri ...”
+YIPPEE|„... -ki-yay”, McClaneova uzrečica
+BRZI|„... i žestoki”
+ŽESTOKI|„Brzi i ...”
+DIESEL|Vin ..., Dom Toretto
+TORETTO|Dom ..., „Brzi i žestoki”
+WALKER|Paul ..., Brian iz „Brzih i žestokih”
+TRANSFORMERI|Roboti koji se pretvaraju u automobile
+OPTIMUS|... Prime, vođa Autobota
+BUMBLEBEE|Žuti Autobot
+BAY|Michael ..., redatelj „Transformera”
+ARMAGEDON|Film o bušenju asteroida
+KONG|King ..., divovski majmun
+EMPIRE|... State Building, na koji se popeo King Kong
+ELLIOTT|Dječak koji se sprijateljio s E.T.-jem
+BICIKL|E.T. i Elliott lete na njemu
+BLISKI|„... susreti treće vrste”
+SUSRETI|„Bliski ... treće vrste”
+AMITY|Otok na kojem napada morski pas u „Raljama”
+BRODY|Šerif iz „Ralja”
+QUINT|Lovac na morske pse u „Raljama”
+INDY|Nadimak Indiane Jonesa
+BIČ|Oružje Indiane Jonesa
+ŠEŠIR|Indiana Jones nosi ...
+ZMIJE|Ono čega se Indiana Jones boji
+GRAL|Sveti ..., cilj Indiane Jonesa
+DOC|... Brown, izumitelj iz „Povratka u budućnost”
+BUDUĆNOST|„Povratak u ...”
+FLUKSNI|... kondenzator iz „Povratka u budućnost”
+HOVERBOARD|Leteća daska iz „Povratka u budućnost 2”
+GHOSTBUSTERS|Istjerivači duhova (engl.)
+SLIMER|Zeleni duh iz „Istjerivača duhova”
+GREMLINI|Stvorenja koja se ne smiju hraniti iza ponoći
+GIZMO|Dobri mogwai iz „Gremlina”
+GOONIES|Dječja pustolovina o gusarskom blagu
+
+[strucna]
+TRAVELLING|Vožnja kamere (franc. izraz)
+SUBJEKTIVNI|... kadar, iz očiju lika
+KONTRAPLAN|Kadar snimljen iz suprotnog smjera
+PLAN|Udaljenost kamere od objekta: krupni, srednji, opći
+KRUPNI|... plan, lice preko cijelog kadra
+POLUTOTAL|Plan između totala i srednjeg plana
+ŠVENK|Okretanje kamere oko osi
+ZUM|Približavanje objektivom bez pomicanja kamere
+FOKUS|Oštrina slike
+DUBINSKA|... oštrina, Tolandova tehnika u „Građaninu Kaneu”
+KONTINUITET|Dosljednost detalja između kadrova
+JUMPCUT|Skokoviti rez, Godardov potpis (spojeno)
+MONTAŽNA|... sekvenca, niz brzo izmjenjenih kadrova
+ELIPSA|Izostavljanje dijela radnje u montaži
+FLASHBACK|Prizor iz prošlosti (engl.)
+VOICEOVER|Glas pripovjedača izvan slike (engl.)
+NARATOR|Pripovjedač u filmu
+INSERT|Umetnuti detalj u montaži
+GAFFER|Glavni rasvjetljivač na setu (engl.)
+GRIP|Tehničar za opremu kamere (engl.)
+BOOM|Motka s mikrofonom (engl.)
+DAILIES|Dnevni pregled snimljenog materijala (engl.)
+RUSHES|Neobrađeni dnevni materijal (engl.)
+STORYBOARD|Crtana razrada kadrova prije snimanja (engl.)
+TRETMAN|Prozni nacrt scenarija
+SINOPSIS|Kratak sažetak radnje
+LOGLINE|Sažetak filma u jednoj rečenici (engl.)
+PITCH|Usmeno predstavljanje projekta producentima (engl.)
+CAMEO|Kratko pojavljivanje slavne osobe (engl.)
+SUSPENS|Napetost koju je Hitchcock doveo do savršenstva
+CAHIERS|„... du cinéma”, francuski filmski časopis
+NOVIVAL|Francuski filmski pokret kasnih 50-ih (spojeno)
+UDARACA|„400 ...”, Truffautov prvijenac
+BELMONDO|Jean-Paul ..., „Do posljednjeg daha”
+SEBERG|Jean ..., „Do posljednjeg daha”
+KARINA|Anna ..., Godardova muza
+PIERROT|„... le fou”, Godardov film
+ALPHAVILLE|Godardov znanstvenofantastični film
+DELON|Alain ..., francuski glumac
+DENEUVE|Catherine ..., „Kišobrani iz Cherbourga”
+CHERBOURG|„Kišobrani iz ...”
+DEMY|Jacques ..., redatelj „Kišobrana iz Cherbourga”
+BUNUEL|Luis ..., nadrealistički redatelj (bez tilde)
+VIRIDIANA|Buñuelov film nagrađen u Cannesu 1961.
+DALI|Salvador ..., Buñuelov suradnik na „Andaluzijskom psu”
+ALMODOVAR|Pedro ..., španjolski redatelj (bez naglaska)
+BANDERAS|Antonio ..., Almodóvarov glumac
+BARDEM|Javier ..., Anton Chigurh
+CHIGURH|Ubojica iz „Ovo nije zemlja za starce”
+STARCE|„Ovo nije zemlja za ...”
+DUDE|Lebowskijev nadimak (engl.)
+BARTON|„... Fink”, film braće Coen
+WES|... Anderson, redatelj „Hotela Grand Budapest”
+BUDAPEST|„Grand ... Hotel”
+TENENBAUM|Obitelj iz Andersonova filma
+RUSHMORE|Andersonov film o čudnom srednjoškolcu
+MAGNOLIA|Film P. T. Andersona iz 1999.
+BOOGIE|„... Nights”, film P. T. Andersona
+MASTER|„The ...”, film P. T. Andersona s Phoenixom
+MALICK|Terrence ..., redatelj „Drveta života”
+BADLANDS|Malickov prvijenac
+LINKLATER|Richard ..., redatelj „Djetinjstva” snimanog 12 godina
+DJETINJSTVO|Linklaterov film snimani dvanaest godina
+JARMUSCH|Jim ..., redatelj „Mrtvaca”
+MRTVAC|Jarmuschov vestern s Deppom
+SODERBERGH|Steven ..., redatelj „Trafficka”
+TRAFFIC|Soderberghov film o drogi
+OCEAN|Danny ..., Clooneyjev lik u pljački kasina
+VILLENEUVE|Denis ..., redatelj „Dine”
+DINA|Herbertov roman i Villeneuveov film
+ARRAKIS|Pustinjski planet iz „Dine”
+ZAČIN|Tvar koja se vadi na Arrakisu
+CRV|Pješčani ... iz „Dine”
+CHALAMET|Timothée ..., Paul Atreides
+ATREIDES|Paul ..., junak „Dine”
+ARRIVAL|Villeneuveov film o jeziku izvanzemaljaca (engl.)
+SICARIO|Villeneuveov film o meksičkim kartelima
+JOON|Bong ...-ho, redatelj „Parazita”
+OKJA|Bongov film o divovskoj svinji
+OLDBOY|Park Chan-wookov osvetnički triler
+CHANWOOK|Park ..., korejski redatelj (spojeno)
+SAMURAJA|„Sedam ...”, Kurosawin film
+SAMURAJ|Japanski ratnik iz Kurosawinih filmova
+RONIN|Samuraj bez gospodara
+ZATOICHI|Slijepi mačevalac iz japanskih filmova
+TOKIJSKA|„... priča”, Ozuov film
+SPIRITED|„... Away”, Miyazakijev film
+CHIHIRO|Djevojčica iz Miyazakijeva filma „Avanture male Chihiro”
+NAUSICAA|Miyazakijeva junakinja iz Doline vjetrova (bez naglaska)
+AKIRA|Japanski animirani film o Neo-Tokiju
+OTOMO|Katsuhiro ..., autor „Akire”
+GHOST|„... in the Shell”, japanski anime
+OSHII|Mamoru ..., redatelj „Ghost in the Shell”
+KON|Satoshi ..., redatelj „Perfect Blue”
+ZAGREBFILM|Studio Zagrebačke škole crtanog filma (spojeno)
+ANIMAFEST|Svjetski festival animiranog filma u Zagrebu
+PROFESOR|... Baltazar, junak crtića Zlatka Grgića
+JADRAN|... film, zagrebačka filmska kuća
+ARENA|Pulska ..., ljetno kino festivala
+ZLATNA|... arena, nagrada Pulskog festivala
+TKO|„... pjeva zlo ne misli”, film Krste Papića
+PJEVA|„Tko ... zlo ne misli”
+IZBAVITELJ|Papićev film o štakorima koji postaju ljudi
+LISICE|Papićev film o Golom otoku
+ŠTAKORI|Bića iz „Izbavitelja”
+KAKO|„... je počeo rat na mom otoku”, Brešanov film
+OTOKU|„Kako je počeo rat na mom ...”
+NIČIJA|„... zemlja”, Tanovićev film nagrađen Oscarom
+TANOVIĆ|Danis ..., redatelj „Ničije zemlje”
+ŽIVOT|„... je čudo”, Kusturičin film
+OTAC|„... na službenom putu”, Kusturičin film
+PODZEMLJE|Kusturičin film nagrađen u Cannesu 1995.
+SVEMIRSKA|„... odiseja”
+SIERRA|„Blago ... Madre”
+MADRE|„Blago Sierra ...”
+TRAGAČI|Fordov vestern s Johnom Wayneom
+MONUMENT|... Valley, Fordova omiljena lokacija
+VALLEY|Monument ..., krajolik Fordovih vesterna
+SHANE|Vestern o revolveraškom strancu iz 1953.
+UNFORGIVEN|„Nepomirljivi”, Eastwoodov vestern (engl.)
+NEPOMIRLJIVI|Eastwoodov vestern nagrađen Oscarom
+DOBAR|„..., loš, zao”
+LOŠ|„Dobar, ..., zao”
+ZAO|„Dobar, loš, ...”
+DOLAR|„Za šaku ...”
+ŠPAGETI|... vestern, talijanski vestern
+VAN|Lee ... Cleef, glumac vesterna
+CLEEF|Lee Van ..., „Dobar, loš, zao”
+HARMONIKA|Lik Charlesa Bronsona u „Bilo jednom na Divljem zapadu”
+BRONSON|Charles ..., „Želja za smrću”
+KINSKI|Klaus ..., Herzogov glumac
+AGUIRRE|„..., gnjev Božji”, Herzogov film
+FITZCARRALDO|Herzogov film o brodu preko planine
+KASPAR|„... Hauser”, Herzogov film
+PARIZ|„..., Teksas”, Wendersov film
+TEKSAS|„Pariz, ...”
+NEBO|„... nad Berlinom”, Wendersov film
+ANĐELI|Bića koja motre Berlin u Wendersovu filmu
+LOLA|„Trči, ..., trči”
+TRČI|„..., Lola, ...”
+TYKWER|Tom ..., redatelj „Trči, Lola, trči”
+LIVES|„The ... of Others”, „Životi drugih”
+DRUGIH|„Životi ...”
+STASI|Istočnonjemačka tajna policija iz „Života drugih”
+GOODBYE|„... Lenin!”, njemački film
+LENIN|„Good Bye, ...!”
+PEČAT|„Sedmi ...”, Bergmanov film
+SMRT|Bergmanov vitez igra šah sa ...
+PERSONA|Bergmanov film s Liv Ullmann i Bibi Andersson
+ULLMANN|Liv ..., Bergmanova glumica
+JAGODE|„Divlje ...”, Bergmanov film
+FANNY|„... i Alexander”, Bergmanov film
+VON|Lars ... Trier, danski redatelj
+TRIER|Lars von ..., redatelj „Plesa u tami”
+TAMI|„Ples u ...”, Von Trierov film
+DOGVILLE|Von Trierov film na praznoj pozornici
+MELANCHOLIA|Von Trierov film o planetu koji se sudara sa Zemljom
+FESTEN|Vinterbergov film po pravilima Dogme 95

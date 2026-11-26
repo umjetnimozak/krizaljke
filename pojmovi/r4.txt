@@ -1,0 +1,593 @@
+[opca]
+GITARA|Glavno glazbalo rocka
+BUBANJ|Udaraljka koja drži ritam
+SASTAV|Glazbena skupina, bend
+KASETA|Magnetski nosač zvuka iz 80-ih
+BINA|Pozornica (razgovorno)
+SOLO|Dionica u kojoj svira samo jedan glazbenik
+RIF|Kratka ponavljana gitarska fraza
+FAN|Obožavatelj benda
+FESTIVAL|Višednevna glazbena priredba na otvorenom
+HIMNA|Pjesma koju pjeva cijela publika; i državna pjesma
+ACDC|Australski bend braće Young (bez kose crte)
+ABBA|Švedski pop sastav pjesme „Waterloo”
+MADONNA|Kraljica popa
+BONJOVI|Jon ... (spojeno), „It's My Life”
+SPEKTAKL|Veličanstven nastup
+ORGULJE|Hammond ... u rocku
+AKUSTIKA|Zvučnost dvorane; i bez struje
+SNIMKA|Zabilježena izvedba
+LABEL|Diskografska kuća (engl.)
+TOP|... lista
+LISTA|Poredak najpopularnijih pjesama
+ROKER|Ljubitelj rocka
+ROKERICA|Ljubiteljica rocka
+METALAC|Ljubitelj metala
+PANKER|Ljubitelj punka
+KOŽNJAK|Kožna jakna rokera
+TRAPERICE|Hlače od tkanine denim
+ZAGREB|Grad Azre i Prljavog kazališta
+PARNI|... valjak, zagrebački bend
+HLADNO|... pivo, zagrebački punk bend
+FILM|Bend Jure Stublića
+TBF|Splitski hip-hop i rock sastav (kratica)
+VOKAL|Glas pjevača; i samoglasnik
+VOKALIST|Pjevač u bendu
+KITARA|Starinsko glazbalo, preteča gitare
+LIDER|Vođa benda
+FRONTMEN|Pjevač koji predvodi bend (engl. posuđenica)
+AMFITEATAR|Pulska ... (Arena) za koncerte
+ARENA|Velika dvorana za koncerte
+ULAZNICA|Karta za koncert
+KARTA|Ulaznica
+POGO|Ples skakanja i guranja na punk koncertu
+HEADBANG|Mahanje glavom uz metal (engl.)
+IKONA|Simbol jedne glazbene epohe
+ZVIJEZDA|Slavni glazbenik
+SLAVA|Uspjeh i popularnost
+NAGRADA|Grammy je glazbena ...
+GRAMMY|Najpoznatija američka glazbena nagrada
+JUKEBOX|Glazbeni automat na kovanice
+HARMONIKA|Usna ... u bluesu
+SAKSOFON|Puhačko glazbalo iz jazza
+TRUBA|Limeno puhačko glazbalo
+VIOLINA|Gudačko glazbalo; u rocku i electric ...
+KLAVIR|Glazbalo Eltona Johna
+PIJANIST|Svirač klavira
+ZBOR|Prateći pjevači
+DUO|Sastav od dvoje glazbenika
+KVINTET|Sastav od petero glazbenika
+KOVER|Obrada tuđe pjesme
+OBRADA|Nova izvedba tuđe pjesme
+PRVIJENAC|Prvi album benda
+KOMPILACIJA|Zbirka najvećih hitova
+SPOTIFY|Švedska glazbena platforma za slušanje
+RADIO|Stanica s koje se puštaju hitovi
+DISKOGRAFIJA|Popis svih izdanja nekog izvođača
+NOTE|Glazbeni znakovi na crtovlju
+ZVUK|Ono što čujemo iz zvučnika
+GLASNOĆA|Jačina zvuka
+BUKA|Previše glasnog zvuka
+TINITUS|Zujanje u ušima nakon glasnog koncerta
+UHO|Glazbeno ... (sluh)
+SLUH|Osjet za glazbu
+PUNKER|Pripadnik punk scene
+HIPI|Pripadnik pokreta cvijeća 60-ih
+CVIJEĆE|Djeca ... (hipiji)
+MIR|Hipijevski znak ljubavi i ...
+LJUBAV|Tema većine balada
+ROMANSA|Nježna ljubavna pjesma
+TUGA|Osjećaj iz bluesa
+ŠEŠIR|Slashov cilindar je vrsta ...
+NAOČALE|Lennonove okrugle ...
+KOSA|Duga ... metalaca
+BRADA|Dugi ... ZZ Topa
+ZZTOP|Teksaški bend dugih brada (spojeno)
+KRALJ|... rock and rolla (Elvis)
+KRALJICA|... popa (Madonna)
+PRINC|... tame (Ozzy)
+GRACELAND|Elvisovo imanje u Memphisu
+NASHVILLE|Glavni grad country glazbe
+COUNTRY|Glazba američkog juga i kauboja
+REGGAE|Jamajčanski žanr Boba Marleya
+MARLEY|Bob ..., kralj reggaea
+JAMAJKA|Domovina reggaea
+SOUL|Crnački žanr, „glazba duše”
+DISKO|Plesna glazba 70-ih
+RAP|Ritmični govor uz glazbu
+HIPHOP|Žanr repera (spojeno)
+TECHNO|Elektronička plesna glazba
+ELEKTRO|Elektronička glazba (kraće)
+KANTRI|Country (pohrvaćeno)
+POKRET|Glazbeni ili umjetnički trend
+GENERACIJA|Naraštaj
+BILLIE|... Eilish, mlada pop zvijezda
+RIHANNA|Pjevačica s Barbadosa
+ADELE|Britanska pjevačica, „Hello”
+SHAKIRA|Kolumbijska pjevačica
+BEYONCE|Američka pjevačica, „Single Ladies” (bez naglaska)
+JACKSON|Michael ..., kralj popa
+THRILLER|Najprodavaniji album Michaela Jacksona
+MOONWALK|Jacksonov plesni korak
+CHER|Pjevačica „Believe”
+ROD|... Stewart, promukli britanski pjevač
+STEVIE|... Wonder, slijepi glazbenik
+WONDER|Stevie ..., slijepi glazbenik
+RAY|... Charles, slijepi pijanist
+LOUIS|... Armstrong, trubač
+ARMSTRONG|Louis ..., trubač „What a Wonderful World”
+SINATRA|Frank ..., „My Way”
+BOCELLI|Andrea ..., talijanski tenor
+EUROVIZIJA|Europsko natjecanje u pjesmi
+DORA|Hrvatski izbor za Eurosong
+OLIVER|... Dragojević, dalmatinski pjevač
+DRAGOJEVIĆ|Oliver ..., pjevač iz Vele Luke
+SEVERINA|Splitska pop pjevačica
+DORIS|... Dragović, pjevačica iz Splita
+KAZALIŠTE|Prljavo ..., bend Jasenka Houre
+HOURA|Jasenko ..., gitarist Prljavog kazališta
+BIJELO|... dugme, sarajevski bend
+VATRA|Zagrebački bend Ivana Dečaka
+ŠKORO|Miroslav ..., slavonski pjevač
+ŠERBEDŽIJA|Rade ..., glumac i pjevač
+ARSEN|... Dedić, šibenski kantautor
+DEDIĆ|Arsen ..., kantautor
+BALAŠEVIĆ|Đorđe ..., novosadski kantautor
+GITARIJADA|Natjecanje mladih rock bendova
+TAMBURICA|Tradicionalno slavonsko glazbalo
+KLAPA|Dalmatinska pjevačka skupina
+MANDOLINA|Glazbalo s parnim žicama
+UKULELE|Mala havajska gitara
+BENDŽO|Glazbalo countryja s okruglim tijelom
+BANJO|Bendžo (engl.)
+KANTAUTORICA|Pjevačica koja sama piše pjesme
+PJEVAČICA|Žena koja pjeva
+GLAZBENIK|Onaj koji se bavi glazbom
+GLAZBALO|Instrument
+INSTRUMENT|Glazbalo
+DIRIGENT|Vodi orkestar
+ORKESTAR|Veliki glazbeni sastav
+SIMFONIJA|Djelo za orkestar; i simfonijski rock
+OPERA|„Rock ...”, glazbeno-scensko djelo
+MJUZIKL|Glazbeno-scenska predstava, npr. „Kosa”
+REFLEKTOR|Svjetlo usmjereno na pjevača
+DIM|Umjetna magla na pozornici
+PIROTEHNIKA|Vatromet i plamen na koncertu
+MOŠPIT|Prostor ispred pozornice gdje se gura publika
+ŠTAND|Mjesto gdje se prodaju majice benda
+ZAPIS|Snimka
+HITOVI|Najveći ... (kompilacija)
+KARIJERA|Profesionalni put glazbenika
+OPROŠTAJ|... turneja, posljednja
+POVRATAK|Ponovno okupljanje benda
+RASPAD|Kraj benda
+SVAĐA|Česti uzrok raspada bendova
+ROCKANDROLL|Žanr Elvisa i Chucka Berryja (spojeno)
+TWIST|Ples Chubbyja Checkera
+CHECKER|Chubby ..., „The Twist”
+
+[teska]
+ABBEYROAD|Ulica s pješačkim prijelazom s omota Beatlesa (spojeno)
+LETITBE|Posljednji objavljeni album Beatlesa (spojeno)
+REVOLVER|Album Beatlesa iz 1966.
+RUBBER|„... Soul”, album Beatlesa
+HEYJUDE|Pjesma Beatlesa s dugim „na-na-na” (spojeno)
+MICHELLE|Pjesma Beatlesa s francuskim stihovima
+JULIA|Lennonova pjesma o majci
+STARR|Ringo ...
+PAINT|„... It Black”, pjesma Rolling Stonesa
+BROWN|„... Sugar”, pjesma Rolling Stonesa
+STARMAN|Bowiejeva pjesma iz 1972.
+LAZARUS|Bowiejeva pjesma s posljednjeg albuma
+BLACKSTAR|Posljednji Bowiejev album (spojeno)
+FAME|Bowiejeva pjesma s Lennonom
+LETS|„... Dance”, Bowiejeva pjesma
+INNUENDO|Album i pjesma Queena iz 1991.
+DEACON|John ..., basist Queena
+TAYLOR|Roger ..., bubnjar Queena
+WEMBLEY|Londonski stadion legendarnog nastupa Queena 1986.
+LIVEAID|Dobrotvorni koncert 1985. (spojeno)
+GELDOF|Bob ..., organizator Live Aida
+BANDAID|„Do They Know It's Christmas?” (spojeno)
+NOVOSELIĆ|Krist ..., basist Nirvane
+TEEN|„Smells Like ... Spirit”
+SPIRIT|„Smells Like Teen ...”
+LITHIUM|Pjesma Nirvane s albuma „Nevermind”
+POLLY|Akustična pjesma Nirvane
+INUTERO|Posljednji studijski album Nirvane (spojeno)
+HAMMETT|Kirk ..., gitarist Metallice
+NEWSTED|Jason ..., basist Metallice nakon Cliffa Burtona
+BURTON|Cliff ..., basist Metallice poginuo 1986.
+ENTER|„... Sandman”, Metallica
+SANDMAN|„Enter ...”, Metallica
+ONE|Metallica: pjesma o vojniku bez udova
+WONDERWALL|Najpoznatija pjesma Oasisa
+NOEL|... Gallagher, gitarist Oasisa
+LIAM|... Gallagher, pjevač Oasisa
+PARKLIFE|Album Blura iz 1994.
+GORILLAZ|Virtualni bend Damona Albarna
+SIMMONS|Gene ..., basist Kissa s dugim jezikom
+STANLEY|Paul ..., pjevač Kissa
+EDDIE|Maskota Iron Maidena
+TROOPER|„The ...”, pjesma Iron Maidena
+PARANOID|Album i pjesma Black Sabbatha
+IRONMAN|Pjesma Black Sabbatha (spojeno)
+STAIRWAY|„... to Heaven”, Led Zeppelin
+KASHMIR|Pjesma Led Zeppelina nazvana po himalajskoj regiji
+MONEY|Pjesma Pink Floyda s blagajnom na početku
+ECHOES|Dugačka pjesma Pink Floyda s albuma „Meddle”
+MEDDLE|Album Pink Floyda iz 1971.
+RIDERS|„... on the Storm”, The Doors
+LAYLA|Claptonova pjesma s Derek and the Dominos
+SLOWHAND|Nadimak Erica Claptona
+TEARS|„... in Heaven”, Claptonova pjesma
+THUNDER|„... Road”, Springsteen
+BORN|„... in the U.S.A.”, Springsteen
+NEBRASKA|Springsteenov akustični album iz 1982.
+JOSHUA|„The ... Tree”, album U2
+ACHTUNG|„... Baby”, album U2 snimljen u Berlinu
+CLAYTON|Adam ..., basist U2
+DUBLIN|Rodni grad U2
+ROXANNE|Pjesma grupe Police
+SYNCHRONICITY|Posljednji album grupe Police
+SULTANS|„... of Swing”, Dire Straits
+WALKOFLIFE|Pjesma Dire Straitsa (spojeno)
+DREAM|„... On”, Aerosmith
+PERRY|Joe ..., gitarist Aerosmitha
+PARADISE|„... City”, Guns N' Roses
+APPETITE|„... for Destruction”, album Guns N' Rosesa
+NOVEMBER|„... Rain”, Guns N' Roses
+DUFF|... McKagan, basist Guns N' Rosesa
+WIND|„... of Change”, Scorpions
+MEINE|Klaus ..., pjevač Scorpionsa
+FINAL|„The ... Countdown”, Europe
+EVERLONG|Pjesma Foo Fightersa
+NUMB|Pjesma Linkin Parka
+BENNINGTON|Chester ..., pjevač Linkin Parka
+AMERICAN|„... Idiot”, Green Day
+BASKET|„... Case”, Green Day
+UPRISING|Pjesma Musea
+BELLAMY|Matt ..., pjevač Musea
+YELLOW|Pjesma Coldplaya iz 2000.
+CLOCKS|Pjesma Coldplaya s klavirskim motivom
+BRIGHTSIDE|„Mr. ...”, The Killers (spojeno)
+TURNER|Alex ..., pjevač Arctic Monkeysa
+SHEFFIELD|Rodni grad Arctic Monkeysa i Pulpa
+CASABLANCAS|Julian ..., pjevač Strokesa
+SEVEN|„... Nation Army”, White Stripes
+MEG|... White, bubnjarica White Stripesa
+JACK|... White, gitarist White Stripesa
+FREEBIRD|Završna pjesma Lynyrd Skynyrda (spojeno)
+HOTEL|„... California”, Eagles
+DESPERADO|Pjesma Eaglesa; i odmetnik
+HENLEY|Don ..., bubnjar i pjevač Eaglesa
+AFRICA|Najpoznatija pjesma Tota
+ROSANNA|Pjesma Tota iz 1982.
+SMOOTH|Santanina pjesma s Robom Thomasom
+OYE|„... Como Va”, Santana
+BEDŽ|Značka benda na jakni
+MAJICA|Na njoj je logo benda
+PLAKAT|Poster benda na zidu
+POSTER|Plakat benda
+LOGO|Znak benda
+MASKOTA|Eddie je ... Iron Maidena
+OMOT|Naslovnica ploče
+NASLOVNICA|Omot albuma
+TRAKA|Magnetska vrpca za snimanje
+MAGNETOFON|Uređaj za snimanje na vrpcu
+WALKMAN|Sonyjev prijenosni kazetofon
+DISKMAN|Prijenosni CD-uređaj
+STREAMING|Slušanje glazbe preko interneta (engl.)
+PLAYLISTA|Popis pjesama za slušanje
+ZAKULISJE|Prostor iza pozornice
+BACKSTAGE|Iza pozornice (engl.)
+GRUPIJA|Obožavateljica koja prati bend
+ROADIE|Tehničar na turneji (engl.)
+MENADŽER|Poslovni zastupnik benda
+TONAC|Tonski tehničar (razgovorno)
+MIKSER|Pult za miješanje zvuka
+SOUNDCHECK|Proba zvuka prije koncerta (engl.)
+PREDGRUPA|Bend koji svira prije glavnog izvođača
+HEADLINER|Glavni izvođač festivala (engl.)
+SETLISTA|Popis pjesama za koncert
+VODITELJ|... benda, lider
+DEČAK|Ivan ..., pjevač Vatre
+TIFA|Mladen Vojičić ..., pjevač Bijelog dugmeta
+ČOLIĆ|Zdravko ..., sarajevski pjevač
+NELE|Dr. Nele Karajlić, pjevač Zabranjenog pušenja
+SEJO|... Sexon, vođa Zabranjenog pušenja
+KARAJLIĆ|Nele ..., pjevač Zabranjenog pušenja
+JURA|... Stublić, pjevač Filma
+SATRIANI|Joe ..., gitarski virtuoz, „Surfing with the Alien”
+VAI|Steve ..., gitarist virtuoz, Satrianijev učenik
+MALMSTEEN|Yngwie ..., švedski neoklasični gitarist
+PEPPERS|Red Hot Chili ...
+KIEDIS|Anthony ..., pjevač Red Hot Chili Peppersa
+FLEA|Basist Red Hot Chili Peppersa
+FRUSCIANTE|John ..., gitarist Red Hot Chili Peppersa
+CALIFORNICATION|Album Red Hot Chili Peppersa iz 1999.
+BLINK|... 182, kalifornijski pop-punk bend
+OFFSPRING|Punk bend „Pretty Fly (for a White Guy)”
+NICKELBACK|Kanadski bend, „How You Remind Me”
+CREED|Bend „With Arms Wide Open”
+KORN|Nu-metal bend iz Bakersfielda
+SLIPKNOT|Metal bend s maskama iz Iowe
+SYSTEM|... of a Down
+TANKIAN|Serj ..., pjevač System of a Down
+EVANESCENCE|Bend „Bring Me to Life”
+RAMMSTEIN|Njemački industrial metal bend
+LINDEMANN|Till ..., pjevač Rammsteina
+DUHAST|Pjesma Rammsteina (spojeno)
+NIGHTWISH|Finski simfonijski metal bend
+HIM|Finski bend Villea Vala
+APOCALYPTICA|Finski čelisti koji sviraju Metallicu
+LORDI|Finski bend čudovišta, pobjednik Eurovizije 2006.
+MANESKIN|Talijanski rock bend, pobjednik Eurovizije 2021. (bez točaka)
+DAMIANO|... David, pjevač Måneskina
+KAISER|... Chiefs, britanski indie bend
+FRANZ|... Ferdinand, škotski indie bend
+KASABIAN|Bend iz Leicestera
+STEREOPHONICS|Velški rock bend
+MANIC|... Street Preachers, velški bend
+TRAVIS|Škotski bend „Why Does It Always Rain on Me?”
+KEANE|Bend „Somewhere Only We Know”
+SNOW|... Patrol, bend „Chasing Cars”
+ELBOW|Bend Guya Garveya iz Manchestera
+EDITORS|Britanski post-punk revival bend
+INTERPOL|Njujorški post-punk bend
+YEAH|... Yeah Yeahs
+VAMPIRE|... Weekend
+ARCADE|... Fire, kanadski indie bend
+NATIONAL|The ..., bend Matta Berningera
+WILCO|Bend Jeffa Tweedyja
+SPOON|Indie bend iz Austina
+SHINS|The ..., bend Jamesa Mercera
+QUEENS|... of the Stone Age
+AUDIOSLAVE|Supergrupa Chrisa Cornella i članova Rage Against the Machine
+BRITPOP|Britanski val 90-ih: Oasis, Blur, Pulp
+NOVIVAL|Novi val, jugoslavenski post-punk krajem 70-ih (spojeno)
+SARAJEVO|Grad Bijelog dugmeta i Zabranjenog pušenja
+BEOGRAD|Grad Riblje čorbe i EKV-a
+LJUBLJANA|Grad Pankrta, prvog punk benda u Jugoslaviji
+RIJEKA|Grad Parafa i Let 3
+LET|... 3, riječki bend
+ČORBA|Riblja ..., Bajagin bivši bend
+BORA|... Đorđević, pjevač Riblje čorbe
+EKV|Ekatarina Velika (kratica)
+MILAN|... Mladenović, pjevač EKV-a
+JAGODE|Divlje ..., heavy metal bend
+YUROCK|Jugoslavenski rock (spojeno)
+KONCERTNI|... album, snimljen uživo
+UŽIVO|Snimljeno na koncertu, live
+LIVE|Uživo (engl.)
+REMASTER|Nova obrada starih snimaka
+REMIKS|Preinačena verzija pjesme
+EKSPERIMENT|Pokušaj nečeg novog u glazbi
+KONCEPT|... album, s jednom pričom
+TRILOGIJA|Tri povezana albuma
+
+[strucna]
+SKIFFLE|Britanski žanr iz kojeg su potekli Quarrymeni
+QUARRYMEN|Lennonov sastav prije Beatlesa (spojeno)
+STARCLUB|Hamburški klub ranih nastupa Beatlesa (spojeno)
+INDRA|Hamburški klub u kojem su Beatlesi prvi put svirali
+ASTRID|... Kirchherr, fotografkinja ranih Beatlesa
+EMERICK|Geoff ..., tonski inženjer Beatlesa
+MAHARISHI|... Mahesh Yogi, Beatlesov guru u Indiji
+RISHIKESH|Indijski grad u kojem su Beatlesi meditirali 1968.
+SITAR|Indijsko glazbalo na kojem je svirao Harrison
+SHANKAR|Ravi ..., majstor sitara
+APPLECORPS|Beatlesova tvrtka (spojeno)
+BRIAN|... Jones, osnivač Rolling Stonesa
+WOOD|Ronnie ..., gitarist Stonesa od 1975.
+EXILE|„... on Main St.”, album Stonesa
+STICKY|„... Fingers”, album Stonesa sa zatvaračem na omotu
+ALADDIN|„... Sane”, Bowiejev album iz 1973.
+STATION|„... to Station”, Bowiejev album
+THIN|„The ... White Duke”, Bowiejev lik
+DUKE|„The Thin White ...”, Bowiejev lik
+TONY|... Visconti, Bowiejev producent
+HUNKY|„... Dory”, Bowiejev album
+SCARY|„... Monsters”, Bowiejev album
+OUTSIDE|Bowiejev album iz 1995.
+SMILE|Sastav Briana Maya i Rogera Taylora prije Queena
+BULSARA|Pravo prezime Freddieja Mercuryja
+ZANZIBAR|Otok na kojem je rođen Freddie Mercury
+REDSPECIAL|Gitara koju je Brian May izradio s ocem (spojeno)
+ABERDEEN|Grad u Washingtonu odakle su Cobain i Novoselić
+CHANNING|Chad ..., bubnjar Nirvane prije Grohla
+INCESTICIDE|Nirvanina kompilacija iz 1992.
+SMEAR|Pat ..., drugi gitarist Nirvane
+LARS|... Ulrich, bubnjar Metallice
+KILL|„... 'Em All”, prvijenac Metallice
+LOAD|Album Metallice iz 1996.
+GUIGSY|Basist Oasisa u 90-ima (nadimak)
+BONEHEAD|Nadimak ritam-gitarista Oasisa
+COXON|Graham ..., gitarist Blura
+GEEZER|... Butler, basist Black Sabbatha
+BIRMINGHAM|Grad u kojem je nastao Black Sabbath
+MASTERS|„... of Reality”, album Black Sabbatha
+HOUSES|„... of the Holy”, Led Zeppelin
+PHYSICAL|„... Graffiti”, dvostruki album Led Zeppelina
+SWANSONG|Etiketa Led Zeppelina (spojeno)
+ATOM|„... Heart Mother”, Pink Floyd
+UMMAGUMMA|Dvostruki album Pink Floyda iz 1969.
+PIPER|„The ... at the Gates of Dawn”, prvijenac Pink Floyda
+HIPGNOSIS|Studio koji je oblikovao omote Pink Floyda
+WISH|„... You Were Here”, Pink Floyd
+MASON|Nick ..., bubnjar Pink Floyda
+WRIGHT|Richard ..., klavijaturist Pink Floyda
+MANZAREK|Ray ..., klavijaturist The Doorsa
+KRIEGER|Robby ..., gitarist The Doorsa
+DENSMORE|John ..., bubnjar The Doorsa
+WHISKY|„... a Go Go”, klub na Sunset Stripu
+TROUBADOUR|Klub u Los Angelesu za kantautore
+FILLMORE|Koncertna dvorana Billa Grahama
+GRAHAM|Bill ..., promotor dvorana Fillmore
+MONTEREY|Festival 1967. na kojem je Hendrix zapalio gitaru
+EXPERIENCE|Jimi Hendrix ...
+REDDING|Noel ..., basist Hendrixova sastava
+MITCH|... Mitchell, bubnjar Hendrixova sastava
+ELECTRICLADY|Hendrixov studio u New Yorku (spojeno)
+BLINDFAITH|Supergrupa Claptona i Winwooda (spojeno)
+DEREK|„... and the Dominos”, Claptonov sastav
+BAKER|Ginger ..., bubnjar Creama
+WHEELS|„... of Fire”, album Creama
+ESTREET|Springsteenov prateći sastav (spojeno)
+CLEMONS|Clarence ..., saksofonist E Street Banda
+ASBURY|„Greetings from ... Park”, Springsteenov prvijenac
+DARKNESS|„... on the Edge of Town”, Springsteen
+MOTOWN|Diskografska kuća iz Detroita
+GORDY|Berry ..., osnivač Motowna
+DETROIT|Grad Motowna i MC5
+SUPREMES|Ženski sastav Diane Ross
+ROSS|Diana ..., pjevačica Supremesa
+TEMPTATIONS|Vokalna grupa „My Girl”
+GAYE|Marvin ..., „What's Going On”
+ARETHA|... Franklin, kraljica soula
+RESPECT|Pjesma koju je proslavila Aretha Franklin
+OTIS|... Redding, „Sittin' on the Dock of the Bay”
+SAM|... Cooke, „A Change Is Gonna Come”
+ROCKET|„... 88”, rana rock and roll pjesma iz 1951.
+HOUND|„... Dog”, Elvisov hit
+TUTTI|„... Frutti”, Little Richard
+JOHNNY|„... B. Goode”, Chuck Berry
+PEGGY|„... Sue”, Buddy Holly
+CRICKETS|Prateći sastav Buddyja Hollyja
+BIGBOPPER|Pjevač poginuo s Hollyjem 1959. (spojeno)
+LABAMBA|Hit Ritchieja Valensa (spojeno)
+SUMMERTIME|„... Blues”, Eddie Cochran
+BEBOP|„... -A-Lula”, Gene Vincent
+FATS|... Domino, pijanist iz New Orleansa
+BLUEBERRY|„... Hill”, Fats Domino
+JERRY|... Lee Lewis, „Great Balls of Fire”
+COMETS|Bill Haley and His ...
+PARKER|Pukovnik Tom ..., Elvisov menadžer
+TUPELO|Elvisovo rodno mjesto u Mississippiju
+PRISCILLA|Elvisova supruga
+RONETTES|Ženska grupa „Be My Baby”
+PETSOUNDS|Album Beach Boysa iz 1966. (spojeno)
+SMILEY|„... Smile”, album Beach Boysa
+VIBRATIONS|„Good ...”, Beach Boys
+MCGUINN|Roger ..., vođa Byrdsa s dvanaestožičanom gitarom
+ZEVON|Warren ..., „Werewolves of London”
+NEWMAN|Randy ..., kantautor i skladatelj filmske glazbe
+BROWNE|Jackson ..., kalifornijski kantautor
+RONSTADT|Linda ..., kalifornijska pjevačica
+SUITE|„... : Judy Blue Eyes”, Crosby, Stills & Nash
+OHIO|Pjesma CSNY-a o pucnjavi na sveučilištu Kent State
+NEIL|... Young, kanadski kantautor
+CRAZYHORSE|Prateći sastav Neila Younga (spojeno)
+BLUE|Album Joni Mitchell iz 1971.
+JONI|... Mitchell, kanadska kantautorica
+LAUREL|... Canyon, losanđeleska četvrt kantautora 70-ih
+GREGG|... Allman, klavijaturist Allman Brothersa
+DUANE|... Allman, slide-gitarist
+SKYNYRD|Lynyrd ..., južnjački rock bend
+SWEETHOME|„... Alabama”, Lynyrd Skynyrd (spojeno)
+AJA|Album Steely Dana iz 1977.
+BECKER|Walter ..., suosnivač Steely Dana
+FAGEN|Donald ..., suosnivač Steely Dana
+BUCKINGHAM|Lindsey ..., gitarist Fleetwood Maca
+MCVIE|John i Christine ..., članovi Fleetwood Maca
+TUSK|Album Fleetwood Maca iz 1979.
+DREAMS|Pjesma Fleetwood Maca sa „Rumoursa”
+SCHON|Neal ..., gitarist Journeyja
+ALLEN|Rick ..., jednoruki bubnjar Def Lepparda
+LANGE|Robert John „Mutt” ..., producent „Hysterije”
+VANHALEN|Eddie ..., majstor tappinga (spojeno)
+ERUPTION|Instrumental Van Halena s tappingom
+JUMP|Hit Van Halena sa sintesajzerom
+TAPPING|Tehnika udaranja prstima po vratu gitare
+SHRED|Brzo virtuozno sviranje gitare (žarg.)
+THRASH|Brzi podžanr metala 80-ih
+BAYAREA|Područje oko San Francisca, kolijevka thrash metala (spojeno)
+BIGFOUR|Metallica, Slayer, Megadeth i Anthrax (spojeno)
+ARAYA|Tom ..., pjevač i basist Slayera
+REIGN|„... in Blood”, album Slayera
+RUST|„... in Peace”, album Megadetha
+PEACE|„Rust in ...”, Megadeth
+COWBOYS|„... from Hell”, Pantera
+DIMEBAG|... Darrell, gitarist Pantere
+ANSELMO|Phil ..., pjevač Pantere
+CAVALERA|Max ..., osnivač Sepulture
+ROOTS|Album Sepulture iz 1996.
+LATERALUS|Album Toola iz 2001.
+KEENAN|Maynard James ..., pjevač Toola
+AENIMA|Album Toola iz 1996. (bez znakova)
+EPIC|Pjesma Faith No More s albuma „The Real Thing”
+DEFTONES|Bend China Morena iz Sacramenta
+MESHUGGAH|Švedski bend preteča djenta
+DJENT|Podžanr progresivnog metala nazvan po zvuku gitare
+OPETH|Švedski progresivni death metal bend
+GOJIRA|Francuski metal bend
+MASTODON|Metal bend iz Atlante
+GHOST|Švedski bend s papom Emeritusom
+EMERITUS|Papa ..., lik iz benda Ghost
+MOTORHEAD|Bend Lemmyja Kilmistera (bez preglasa)
+KILMISTER|Lemmy ..., pjevač Motörheada
+ACE|„... of Spades”, Motörhead
+ROTTEN|Johnny ..., pjevač Sex Pistolsa
+GLEN|... Matlock, prvi basist Sex Pistolsa
+BOLLOCKS|„Never Mind the ...”, album Sex Pistolsa
+LONDONCALLING|Album Clasha iz 1979. (spojeno)
+SIMONON|Paul ..., basist Clasha
+TOPPER|... Headon, bubnjar Clasha
+SANDINISTA|Trostruki album Clasha iz 1980.
+JOEY|... Ramone, pjevač Ramonesa
+DEEDEE|... Ramone, basist Ramonesa (spojeno)
+BLITZKRIEG|„... Bop”, Ramones
+HORSES|Prvijenac Patti Smith iz 1975.
+MARQUEE|„... Moon”, album sastava Television
+DEBBIE|... Harry, pjevačica Blondieja
+HEARTOFGLASS|Hit Blondieja (spojeno)
+PSYCHO|„... Killer”, Talking Heads
+REMAIN|„... in Light”, Talking Heads
+WHIP|„... It”, Devo
+CURTIS|Ian ..., pjevač Joy Divisiona
+UNKNOWN|„... Pleasures”, prvijenac Joy Divisiona
+CLOSER|Drugi album Joy Divisiona
+SUMNER|Bernard ..., pjevač New Ordera
+HOOK|Peter ..., basist Joy Divisiona i New Ordera
+BLUEMONDAY|Najprodavaniji maksi-singl New Ordera (spojeno)
+SMITH|Robert ..., pjevač The Curea
+DISINTEGRATION|Album The Curea iz 1989.
+MARR|Johnny ..., gitarist The Smithsa
+QUEENISDEAD|„The ...”, album Smithsa (spojeno)
+BANSHEES|Siouxsie and the ...
+MURPHY|Peter ..., pjevač Bauhausa
+LUGOSI|„Bela ...'s Dead”, Bauhaus
+GOTH|Mračni podžanr post-punka
+POSTPUNK|Žanr nakon punka: Joy Division, Wire (spojeno)
+MCCULLOCH|Ian ..., pjevač Echo & the Bunnymen
+KILLINGJOKE|Britanski post-punk bend „Eighties” (spojeno)
+GANGOFFOUR|Post-punk bend iz Leedsa (spojeno)
+ENTERTAINMENT|Prvijenac Gang of Foura
+PINKFLAG|Prvijenac Wirea (spojeno)
+OKCOMPUTER|Album Radioheada iz 1997. (spojeno)
+KIDA|Album Radioheada iz 2000. (spojeno)
+CREEP|Prvi hit Radioheada
+GREENWOOD|Jonny ..., gitarist Radioheada
+GODRICH|Nigel ..., producent Radioheada
+BENDS|„The ...”, album Radioheada
+DOOLITTLE|Album Pixiesa iz 1989.
+FRANCIS|Black ..., pjevač Pixiesa
+DEAL|Kim ..., basistica Pixiesa
+DAYDREAM|„... Nation”, album Sonic Youtha
+GORDON|Kim ..., basistica Sonic Youtha
+DINOSAUR|... Jr., bend J. Mascisa
+MASCIS|J ..., gitarist Dinosaur Jr.
+HUSKER|... Dü, punk bend iz Minneapolisa
+MOULD|Bob ..., pjevač Hüsker Düa
+MALKMUS|Stephen ..., pjevač Pavementa
+SLANTED|„... and Enchanted”, Pavement
+ODELAY|Beckov album iz 1996.
+LOSER|Beckov prvi hit
+BUDDYHOLLY|Pjesma Weezera s Happy Days spotom (spojeno)
+SIAMESE|„... Dream”, album Smashing Pumpkinsa
+MELLON|„... Collie and the Infinite Sadness”, Smashing Pumpkins
+TEN|Prvijenac Pearl Jama
+JEREMY|Pjesma Pearl Jama o učeniku
+SUPERUNKNOWN|Album Soundgardena iz 1994.
+DIRT|Album Alice in Chainsa iz 1992.
+TEMPLE|„... of the Dog”, Cornellov projekt s članovima Pearl Jama
