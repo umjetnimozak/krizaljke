@@ -1,0 +1,44 @@
+TORANJ|Visoka uska građevina, npr. crkveni|L
+KLOPA|Hrana (razgovorno)|S
+LAKOM|Pohlepan, halapljiv|S
+ODORA|Službena uniforma|S
+NANOVO|Ponovno, iznova|L
+SUMNJIV|Koji izaziva nepovjerenje|L
+ODIJELO|Sako i hlače od iste tkanine|L
+MEDINA|Sveti grad islama u Saudijskoj Arabiji|S
+DOČEK|Svečano primanje; ~ Nove godine|L
+DVOBOJ|Borba dvojice, duel|L
+VEČER|Doba dana prije noći|L
+OPSEG|Duljina ruba geometrijskog lika|L
+SALAMA|Trajna kobasica za narezak|L
+TAROT|Karte za proricanje|S
+UZALUD|Bez uspjeha, zaludu|L
+MOTOR|Stroj koji pokreće vozilo|L
+RUDAR|Radnik u rudniku|L
+UŽITAK|Zadovoljstvo, uživanje|L
+SEZONA|Godišnje doba; turistička ~|L
+TALAC|Osoba zatočena radi ucjene|L
+BRIGA|Zabrinutost; skrb|L
+ŠOGOR|Sestrin muž ili ženin brat|L
+BLIZAK|Koji nije daleko|L
+GONITI|Tjerati, slijediti|L
+TRAČAK|Slab trag svjetla ili nade|S
+LIDIJA|Žensko ime; antička zemlja u Maloj Aziji|S
+MATEO|Muško ime, oblik imena Matej|S
+DOMINIK|Muško ime|L
+OKLADA|Opklada|L
+JARBOL|Stup za jedra na brodu|L
+ATEIST|Onaj tko ne vjeruje u Boga|L
+DOSTA|Dovoljno|L
+TITANIK|Putnički brod potonuo 1912.|L
+UČITI|Stjecati znanje|L
+ČITAV|Cijeli, potpun|L
+NETOM|Upravo, maloprije|S
+TEPIH|Sag|L
+SATELIT|Tijelo ili letjelica u orbiti oko planeta|L
+ŠAPAT|Tihi govor|L
+ŠAKAL|Zvijer srodna psu, strvinar|L
+KINEZ|Stanovnik Kine|L
+METAR|Osnovna jedinica za duljinu|L
+TAKTIKA|Način vođenja borbe ili igre|L
+AZIJA|Najveći kontinent|L

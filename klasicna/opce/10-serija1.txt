@@ -1,0 +1,248 @@
+ADELA|Žensko ime|L
+ALARM|Uređaj koji upozorava zvukom|L
+ALIBI|Dokaz da osumnjičeni nije bio na mjestu zločina|L
+AMARO|Talijanski gorki liker|T
+AMATER|Onaj koji se nečim bavi iz ljubavi, ne profesionalno|L
+AMEBA|Jednostanični organizam promjenjiva oblika|S
+AMERIKA|Kontinent do kojeg je 1492. doplovio Kolumbo|L
+ANALIZA|Raščlanjivanje na sastavne dijelove|L
+ANANAS|Tropsko voće s „krunom” od listova|L
+ANITA|Žensko ime|L
+ANUBIS|Egipatski bog sa šakaljevom glavom|T
+APARTMAN|Stan za iznajmljivanje turistima|L
+APOLON|Grčki bog svjetla i glazbe|S
+APSURD|Besmislica|S
+ATENA|Grčka božica mudrosti|L
+ATILA|Hunski vođa zvan „Bič Božji”|S
+AVATAR|Lik koji predstavlja korisnika; i Cameronov film|L
+BIJESNI|Ljuti, gnjevni|L
+BITANGA|Lopuža, nevaljalac|S
+BIZON|Američko divlje govedo|L
+BLISKI|... istok, područje oko istočnog Sredozemlja|L
+BOGAT|Koji ima mnogo novca|L
+BRANITI|Štititi od napada|L
+DAKAKO|Naravno, svakako|S
+DANICA|Narodni naziv za Veneru; i žensko ime|S
+DAROVIT|Nadaren, talentiran|S
+DEKAN|Čelnik fakulteta|S
+DESNICA|Desna ruka; i politička desna strana|L
+DLAKAV|Pun dlaka|L
+DOBIT|Zarada, profit|L
+DOBITI|Primiti nešto|L
+DOJAVA|Obavijest koju netko javi policiji|S
+DOLINA|Udubina između brda|L
+DORUČAK|Jutarnji obrok|L
+DOTOK|Pritjecanje, dovod|S
+DOVOD|Cijev ili kabel za opskrbu|S
+ELITA|Najbolji u nekoj skupini|L
+ETIKA|Nauk o moralu|S
+ETIKETA|Naljepnica; i pravila lijepog ponašanja|L
+FIGURA|Lik, oblik; i šahovski komad|L
+GENERAL|Visoki vojni čin|L
+GLAVA|Dio tijela s mozgom|L
+GLEDE|Prijedlog: u pogledu, što se tiče|T
+GLUPAK|Glupa osoba|L
+GRAHAM|... Bell, izumitelj telefona (ime)|S
+GVINEJA|Država u zapadnoj Africi|S
+HUMAN|Čovječan|S
+IDEAL|Savršen uzor|L
+IKADA|U bilo koje vrijeme|L
+IKAKO|Na bilo koji način|S
+IKAMO|Bilo kamo|T
+IKONA|Sveta slika na drvu; i sličica na zaslonu|L
+IMATI|Posjedovati|L
+IMENIK|Popis imena i brojeva|L
+INAČE|U drugom slučaju|L
+INZULIN|Hormon gušterače koji regulira šećer|S
+IONAKO|Svejedno, tako i tako|S
+ISELITI|Napustiti stan ili zemlju|L
+ISPRIKA|Molba za oproštenje|L
+ITEKAKO|Te kako, vrlo|S
+JARAK|Iskopani kanal uz cestu|S
+JAVOR|Listopadno stablo čiji je list na kanadskoj zastavi|L
+JEDVA|S mukom, za dlaku|L
+JORDAN|Rijeka u kojoj je kršten Isus; i država|S
+KAKAV|Upitna zamjenica za svojstvo|L
+KAKOGOD|Bilo kako|S
+KALIJ|Kemijski element oznake K|S
+KARATE|Japanska borilačka vještina|L
+KARAVAN|Povorka deva u pustinji|L
+KARMA|Zakon uzroka i posljedice u hinduizmu|S
+KATETER|Cjevčica koja se uvodi u tijelo|T
+KEMAL|... Atatürk, utemeljitelj moderne Turske|S
+KINESKI|Koji je iz Kine|L
+KISIK|Kemijski element oznake O|L
+KLIPAN|Neotesan momak|S
+KLUPA|Sjedalo u parku|L
+KOLOR|U boji, kolokvijalno|S
+KOPČA|Zatvarač na remenu|L
+KORAK|Pomak noge pri hodanju|L
+KORNET|Limeno puhačko glazbalo|T
+KRASTI|Uzimati tuđe|L
+KREDA|Za pisanje po ploči|L
+KRITI|Skrivati|S
+KRUNA|Kraljevski nakit za glavu|L
+KRVAV|Umrljan krvlju|L
+KUPOLA|Polukuglasti krov|L
+KUPUS|Povrće za sarmu|L
+KUTAK|Mali kut|L
+LAHOR|Lagani povjetarac|S
+LAKAT|Zglob na sredini ruke|L
+LAZAR|Biblijski lik kojeg je Isus uskrisio|S
+LEPTIR|Kukac šarenih krila|L
+LIJES|Sanduk za pokojnika|L
+LIMIT|Ograničenje|L
+LITRA|Jedinica za obujam tekućine|L
+LIVADA|Travnata površina|L
+LOGOR|Tabor|L
+LOKAL|Ugostiteljski objekt|L
+LOPATA|Alat za kopanje|L
+LOVINA|Ulovljena divljač|S
+LOZINKA|Tajna riječ za pristup|L
+LUKAV|Prepreden|L
+LUTKAR|Onaj koji vodi lutke|S
+MADAM|Gospođa, francuski|S
+MANIJAK|Opsjednuta osoba|S
+MASLO|Rastopljeni maslac|S
+MASON|Slobodni zidar|T
+METAK|Zrno iz puške|L
+MILIJUN|Tisuću tisuća|L
+MUTNI|Koji nije bistar|L
+NAGON|Instinkt|L
+NAKIT|Prstenje, ogrlice i naušnice|L
+NALIK|Sličan|S
+NAPET|Uzbudljiv, pun iščekivanja|L
+NAČIN|Postupak|L
+NEVIN|Koji nije kriv|L
+NEZREO|Koji nije dozrio|L
+NIKAD|Ni u koje vrijeme|L
+NIŠAN|Dio oružja za ciljanje|S
+NOKAT|Rožnata pločica na prstu|L
+NOMAD|Pripadnik naroda koji se seli|S
+NORMAN|Vikinški doseljenik sjeverne Francuske|T
+NOSITI|Držati i premještati teret|L
+NOĆAS|Ove noći|L
+OBALA|Granica kopna i mora|L
+OBRATI|Ubrati plodove|L
+ODANDE|S onog mjesta|S
+ODATI|Izdati tajnu|L
+ODAVATI|Pokazivati, izdavati|S
+OJAČATI|Postati jači|L
+OKLOP|Metalna zaštita viteza|L
+OKOLO|U krug, oko nečega|L
+OLIVER|Muško ime; ... Dragojević|L
+OLIVERA|Žensko ime|S
+OLOVKA|Pribor za pisanje|L
+OLUJA|Nevrijeme s jakim vjetrom|L
+OLUPINA|Ostaci potonulog broda|L
+OMETEN|Kome je nešto smetalo|S
+ONAKO|Na onaj način|L
+OPORUKA|Posljednja volja|L
+ORMAR|Namještaj za odjeću|L
+OSOBINA|Značajka|L
+OSUDA|Presuda|L
+OTAMO|Onamo|T
+OTIĆI|Napustiti mjesto|L
+OTKAKO|Od kada|S
+OVAKO|Na ovaj način|L
+OVAMO|Na ovo mjesto|L
+PADATI|Rušiti se, padnuti|L
+PALAČA|Raskošna zgrada vladara|L
+PALUBA|Gornja ploha broda|L
+PARAZIT|Nametnik|L
+PEKARA|Mjesto gdje se peče kruh|L
+PELENA|Za bebu|L
+PIRAT|Morski razbojnik|L
+PLATON|Sokratov učenik, autor „Države”|S
+PODANIK|Onaj kojim vlada kralj|S
+POGODAK|Gol|L
+PONEKAD|Katkad|L
+PORAST|Rast, povećanje|L
+POROTA|Skupina građana koja sudi|S
+POSVE|Potpuno|S
+PRAKSA|Vježba u struci|L
+PRIKAZ|Predstavljanje|L
+RABITI|Upotrebljavati|T
+RADAR|Uređaj koji otkriva predmete radiovalovima|L
+RAMPA|Pregrada na prijelazu|L
+RANJIV|Koji se lako povrijedi|L
+RAČUN|Iznos za platiti|L
+RAČUNAR|Računalo, regionalni izraz|S
+REFERAT|Izlaganje na zadanu temu|S
+REŽISER|Redatelj|S
+ROTOR|Okretni dio stroja|S
+RULET|Kockarska igra s kuglicom|L
+RUSKINJA|Stanovnica Rusije|S
+SABOR|Hrvatsko zakonodavno tijelo|L
+SABOTER|Onaj koji sabotira|S
+SAMAC|Neoženjen čovjek|L
+SAMAR|Sedlo za tovar na magarcu|T
+SASTAV|Školski pismeni rad|L
+SEDATIV|Sredstvo za smirenje|S
+SELAM|Pozdrav, istočnjački|T
+SIJENO|Osušena trava|L
+SINOĆ|Prošle večeri|L
+SIROTAN|Siroče, jadnik|S
+SIROV|Koji nije kuhan|L
+SIRUP|Gusti slatki sok|L
+SISTEM|Sustav|L
+SJENA|Tamni obris od svjetla|L
+SKAUT|Izviđač|S
+SLADAK|Koji je pun šećera|L
+SLIKA|Umjetničko djelo na platnu|L
+SMIREN|Spokojan|L
+SMRTNIK|Čovjek koji će umrijeti|S
+SNAĆI|~ se, pronaći rješenje u nevolji|L
+SOKRAT|Atenski filozof osuđen na ispijanje kukute|S
+SPARTAK|Vođa ustanka robova|S
+SPASITI|Izbaviti iz opasnosti|L
+START|Početak utrke|L
+STRIC|Očev brat|L
+STROJ|Mašina|L
+STRUK|Najuži dio trupa|L
+SUSJEDA|Ona koja živi do nas|L
+SUVENIR|Uspomena s putovanja|L
+TATICA|Tata, odmila|L
+TAVAN|Potkrovlje|L
+TENOR|Visoki muški glas|L
+TEŽAK|Koji nije lagan|L
+TIRANIN|Okrutni vladar|L
+TISAK|Novine i časopisi|L
+TISUĆA|Deset stotina|L
+TKATI|Raditi tkaninu na tkalačkom stanu|S
+TORNADO|Razorni vrtložni vjetar|L
+TORONTO|Najveći kanadski grad|S
+TOVAR|Teret|S
+TRAPER|Lovac na krzno u Sjevernoj Americi|S
+TURSKI|Koji je iz Turske|L
+UBODEN|Kojeg je nešto ubolo|S
+UDARITI|Lupiti|L
+UHODITI|Potajno pratiti|S
+UKAZATI|Pokazati na nešto|L
+ULUDO|Uzalud|S
+UMARATI|Zamarati|S
+UMIJEĆE|Vještina|L
+UMIRATI|Biti na samrti|L
+UNUTRA|Iznutra, u zatvorenom|L
+UOKOLO|Naokolo|S
+UPALA|Bolest s crvenilom i oteklinom|L
+URADAK|Djelo, ostvarenje|S
+USKRS|Najveći kršćanski blagdan, u proljeće|L
+UTORAK|Dan nakon ponedjeljka|L
+UTVARA|Sablast|L
+UVALITI|Nametnuti nekome nešto|S
+UVEČE|Navečer|L
+UVIJEK|U svako vrijeme|L
+VATIKAN|Najmanja država na svijetu|L
+VIDEO|Snimka slike i zvuka|L
+VIJAK|Šaraf|L
+VJERA|Uvjerenje u Boga; i povjerenje|L
+VOLAN|Upravljač automobila|L
+VRATA|Kroz njih ulazimo|L
+ZAKONIT|U skladu sa zakonom|L
+ZATOČEN|Zarobljen|S
+ZIDINA|Obrambeni zid grada|S
+ĆORAK|Promašaj, metak bez zrna|S
+ČAVAO|Čavlić, klin|L
+ĐAKON|Crkveni službenik ispod svećenika|S
+ŽALOST|Tuga|L

@@ -1,56 +1,18 @@
 # Križaljke
 
-Stranica za rješavanje križaljki na hrvatskom: tri težine (lagana, srednja, teška), tri veličine (mala do 150, srednja do 250 i velika do 400 polja) i sedam područja koja se mogu spajati (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika). Za svaku od 1143 kombinacije unaprijed su složene tri verzije, ukupno 3429 križaljki.
+Stranica za rješavanje klasičnih (gustih, „američkih”) križaljki na hrvatskom: simetrične mreže s malo crnih polja, tri težine (lagana, srednja, teška) i tri veličine (mala 11 × 11, srednja 13 × 13, velika 15 × 15). Pojmovi su uglavnom opći, a svaka križaljka ima i nekoliko pojmova iz jednog područja (opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika) kao „začin”.
 
 Stranica: **https://mojekrizaljke.eu**
 
-## Kako dodati novu verziju križaljke
+## Kako je složeno
 
-1. Napravi tekstualnu datoteku (.txt) u ovom obliku:
+- `stranica/` – objavljena stranica (`index.html`, `gen.js`) i križaljke u `stranica/data/klasicne.json`.
+- `klasicna/` – generator gustih mreža (`gen2.js`), skripte za popis riječi i serije te opće riječi s pitanjima u `klasicna/opce/` (oblik `ODGOVOR|pitanje|L/S/T`; L lagana, S srednja, T teška; `odbijeno.lst` su riječi koje se ne koriste).
+- `pojmovi/` – pojmovi i pitanja po područjima (odjeljci `[opca]`, `[teska]`, `[strucna]` odgovaraju težinama lagana, srednja, teška).
+- `.github/workflows/objava.yml` – automatska objava na GitHub Pages pri svakoj promjeni.
 
-   ```
-   područja: povijest, rock&roll
-   težina: srednja
-   veličina: mala
-   naziv: Jesenska verzija
-   GUBEC | Matija ..., vođa seljačke bune 1573.
-   HENDRIX | Jimi ..., gitarist koji je zatvorio Woodstock
-   STRUMMER | Joe ..., pjevač Clasha
-   ```
+LJ, NJ i DŽ zauzimaju jedno polje.
 
-   - **područja**: jedno ili više, odvojena zarezom: opća kultura, filmska kultura, rock&roll, povijest, astronomija, automoto, kozmetika
-   - **težina**: lagana, srednja ili teška
-   - **veličina**: mala, srednja ili velika
-   - **naziv** nije obavezan
-   - Svaki pojam je u svom retku: `ODGOVOR | pitanje`. Umjesto `|` može i `;`.
-   - LJ, NJ i DŽ automatski idu u jedno polje. Ako u nekoj riječi moraju ostati dva slova, stavi `+` između njih (npr. `KON+JUNKTURA`).
-   - Stavi više pojmova nego što stane u mrežu: generator odabire one koji se najbolje križaju.
+## Izvori riječi
 
-2. Na GitHubu otvori mapu **nove**, odaberi **Add file → Upload files**, ubaci datoteku i potvrdi s **Commit changes**.
-
-3. Za minutu-dvije nova verzija pojavit će se na stranici kao verzija 4, 5… za tu kombinaciju. Redoslijed verzija ide po imenu datoteke, pa je zgodno ime započeti datumom, npr. `2026-11-21-jesen.txt`.
-
-Ako datoteka ima grešku, ona se preskače, a ostatak stranice se svejedno objavi. Grešku vidiš u kartici **Actions**: otvori zadnje pokretanje, a poruka je označena imenom datoteke.
-
-**Brisanje ili ispravak verzije:** obriši ili uredi datoteku u mapi `nove` (ikona olovke za uređivanje, ili ⋯ → Delete file). Isti tekst uvijek daje istu mrežu, pa se ostale verzije ne mijenjaju.
-
-## Kako urediti ugrađene pojmove
-
-Pojmovi su u mapi `pojmovi` (po jedna datoteka za svako područje, s odjeljcima `[opca]`, `[teska]` i `[strucna]`, koji odgovaraju težinama lagana, srednja i teška). Nakon izmjene treba ponovno složiti sve križaljke (traje desetak minuta). Za to je potreban Node.js na računalu:
-
-```
-node alati/izgradi.js      # ponovno složi sve križaljke u stranica/data
-node alati/provjeri.js     # provjeri da su sve mreže ispravne
-node alati/nove.js         # (po želji) lokalno složi verzije iz mape nove
-```
-
-Zatim pošalji promijenjene datoteke iz `stranica/data` na GitHub. Križaljke postojećih kombinacija ostaju iste dok se ne promijene njihove baze pojmova; promjena baze mijenja križaljke tog područja i poništava korisnicima napredak na njima.
-
-## Sadržaj repozitorija
-
-- `stranica/` – sama stranica (to se objavljuje)
-- `stranica/data/` – 3429 unaprijed složenih križaljki, podijeljenih po težini, veličini i prvom području
-- `nove/` – ovdje dodaješ nove verzije
-- `pojmovi/` – baze pojmova i pitanja
-- `alati/` – skripte za slaganje i provjeru
-- `.github/workflows/objava.yml` – automatska objava na GitHub Pages
+Popis kandidata za opće riječi izrađen je iz Hunspell rječnika za hrvatski (paket `dictionary-hr`, licenca LGPL-2.1 ili SISSL) i popisa čestotnosti riječi (hermitdave/FrequencyWords, sadržaj CC BY-SA 4.0). Izvorni popisi nisu u repozitoriju; u mrežu ulaze samo riječi kojima je ručno napisano pitanje.

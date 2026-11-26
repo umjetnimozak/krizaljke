@@ -1,0 +1,191 @@
+ADONIS|Mitološki lijepi mladić|S
+AGATA|Žensko ime; ... Christie|L
+AKVAREL|Slika vodenim bojama|S
+ALADIN|Junak s čarobnom svjetiljkom|L
+ALISA|... u zemlji čudesa|L
+ALKOTEST|Mjerenje alkohola u dahu|L
+APOTEKA|Ljekarna|L
+ARIZONA|Američka savezna država s Velikim kanjonom|S
+AROMA|Ugodan miris|L
+ARTUR|Legendarni britanski kralj|L
+ATELJE|Radni prostor slikara|L
+AUDIO|Koji se odnosi na zvuk|L
+AURORA|Polarna svjetlost|L
+AUTIZAM|Razvojni poremećaj komunikacije|S
+AUTIĆ|Mali auto|L
+AVENIJA|Široka gradska ulica|L
+BAKAR|Kemijski element oznake Cu|L
+BANKA|Novčarska ustanova|L
+BISER|Dragocjenost iz školjke|L
+BUTIK|Mala trgovina odjećom|L
+CILINDAR|Valjak; i visoki šešir|L
+DANIJEL|Muško ime; biblijski prorok|L
+DARAK|Mali dar|S
+DESANT|Iskrcavanje vojske|S
+DINAMIT|Eksploziv koji je izumio Nobel|L
+DOJITI|Hraniti mlijekom iz grudi|S
+DOKAZ|Ono što potvrđuje tvrdnju|L
+DRAGA|Mala uvala; i voljena osoba|S
+ELITNI|Najbolji, odabrani|L
+EPITAF|Natpis na nadgrobnom spomeniku|S
+ETAPA|Dionica utrke|L
+GADNI|Odvratni|L
+GAGARIN|Jurij ..., prvi čovjek u svemiru|L
+GLADAK|Bez neravnina|L
+GOVORNIK|Onaj koji drži govor|L
+HODAČ|Atletičar u brzom hodanju|S
+HOROR|Žanr filmova strave|L
+IDILA|Mirna sreća|S
+IMOVINA|Sve što netko posjeduje|L
+INAČICA|Varijanta|S
+ISKOSA|Ukoso|S
+ISPIS|Ono što izađe iz pisača|L
+ISPOD|Prijedlog suprotan „iznad”|L
+ISTINIT|Koji je istina|L
+ISTOK|Strana svijeta gdje izlazi Sunce|L
+ISUVIŠE|Previše|S
+IZNAD|Prijedlog suprotan „ispod”|L
+IZRADA|Pravljenje, proizvodnja|L
+JALOV|Uzaludan, neplodan|T
+JASEN|Listopadno stablo tvrdog drva|S
+JEDAN|Prvi broj|L
+JESENAS|Ove jeseni|T
+JIDIŠ|Jezik aškenaskih Židova|T
+JUNAK|Heroj|L
+JUNIOR|Mlađi sportaš|L
+JURIŠNI|... odred, za napad|S
+KALINA|Grm crnih bobica, i žensko ime|T
+KAPARA|Predujam pri kupnji|S
+KARABIN|Kratka puška; i alpinistička kopča|S
+KARIBI|Otočje u Karipskom moru|L
+KIMONO|Japanska tradicionalna odjeća|L
+KLJUKA|Kvaka|S
+KOAUTOR|Suautor|S
+KOLJENO|Zglob na sredini noge|L
+KOMAD|Dio nečega|L
+KOŠARA|Pletena posuda za nošenje|L
+KOŠER|Hrana dopuštena po židovskim propisima|S
+KRAVATA|Modni dodatak hrvatskog podrijetla|L
+KUPITI|Platiti i uzeti|L
+LIBERAL|Pristaša slobodarske politike|S
+LIMFNI|... čvor|S
+MANDAT|Razdoblje obnašanja dužnosti|L
+MEDALJON|Privjesak koji se otvara|S
+METEŽ|Gužva, zbrka|S
+MIROVATI|Biti u stanju mirovanja|L
+MISIJA|Zadaća, poslanje|L
+MOGUĆ|Ostvariv|L
+MRENA|Siva ... na oku|T
+NAIVAC|Lakovjeran čovjek|L
+NAMAZ|Ono što se maže na kruh|L
+NANOS|Naslaga koju nanese voda ili vjetar|S
+NAOKO|Na prvi pogled|S
+NAPOLJE|Van, vani|S
+NAROD|Zajednica ljudi istog jezika i kulture|L
+NERANJIV|Koji se ne može raniti|S
+NISKA|Niz, nizanica bisera|T
+NOSOROG|Afrička životinja s rogom na nosu|L
+NOVAK|Početnik|L
+OBAVIJEN|Omotan|S
+OBITI|Provaliti|S
+OBOLJENJE|Bolest|L
+OBORITI|Srušiti|L
+ODAPETI|Opaliti strijelu|T
+ODGOVOR|Ono što slijedi pitanje|L
+OKOVATI|Staviti u okove|S
+OKUSITI|Probati jelo|L
+OLOVO|Kemijski element oznake Pb|L
+OMARA|Sparina, zapara|T
+OMEGA|Posljednje slovo grčkog alfabeta|L
+OMOTATI|Zamotati|L
+ONAMO|Tamo, u onom smjeru|S
+ORIGAMI|Japanska vještina savijanja papira|L
+OSINJAK|Gnijezdo osa|S
+OSOBIT|Poseban|S
+OTADA|Od onda|S
+OTIMATI|Uzimati silom|S
+OTIRAČ|Prostirač za brisanje obuće|L
+OTUPITI|Učiniti tupim|S
+PASTA|Tjestenina; ~ za zube|L
+PATENT|Zaštićeni izum|L
+PATITI|Trpjeti|L
+PENAL|Jedanaesterac|L
+PINTA|Mjera za pivo|S
+PIPAK|Ticalo kukca|S
+PLASMAN|Mjesto na ljestvici|L
+POHOD|Vojna kampanja|S
+POKOP|Sahrana|L
+POLEN|Cvjetni prah|L
+POLIS|Starogrčki grad-država|S
+POMAMA|Velik interes, ludilo za nečim|S
+PONOSIT|Pun ponosa|L
+POROK|Loša navika|S
+POSADA|Ljudi na brodu ili zrakoplovu|L
+PREKID|Prestanak|L
+PRIOR|Poglavar samostana|T
+RADIJE|Više voljeti|L
+RADIKAL|Krajnji, korjenit; i matematički korijen|S
+RADON|Radioaktivni plemeniti plin|S
+RANJENIK|Ranjena osoba|L
+RASTI|Postajati veći|L
+RASUTI|Prosuti|S
+RATNI|Koji se odnosi na rat|L
+REDOVIT|Koji se ponavlja u pravilnim razmacima|L
+RESITI|Ukrašavati|T
+RIBAR|Onaj koji lovi ribu|L
+ROKER|Ljubitelj rocka|L
+SARAJEVO|Glavni grad Bosne i Hercegovine|L
+SATEN|Sjajna tkanina|S
+SEKSI|Privlačan|L
+SILVIJA|Žensko ime|L
+SINKO|Sine, odmila|S
+SIRENA|Morska djevica; i zvučni signal|L
+SJETA|Blaga tuga|S
+SMOLA|Ljepljiva tvar iz drveća|L
+SPONA|Veza, kopča|S
+SPRAVA|Naprava|L
+SRKATI|Piti uz zvuk|S
+STADION|Igralište s tribinama|L
+STANAR|Onaj koji stanuje u stanu|L
+STOKA|Domaće životinje|L
+STRAN|Tuđ, nepoznat|T
+STRATEG|Planer ratnih operacija|S
+STRES|Napetost, pritisak|L
+SUDAR|Prometna nesreća dvaju vozila|L
+SVATKO|Svaki čovjek|L
+SVITA|Pratnja vladara; i glazbeni oblik|S
+TAJGA|Sjeverna crnogorična šuma|S
+TERIJER|Pasmina psa|S
+TETANUS|Bolest od zaražene rane|S
+TOALET|Zahod; i svečana odjeća|L
+TOTAL|Potpuno, kolokvijalno|S
+TRAKT|Krilo zgrade|S
+TROŠAK|Izdatak|L
+TUŽITI|Podnijeti tužbu|L
+ULOGA|Lik koji tumači glumac|L
+UPITI|Upijati kao spužva|S
+UPRAVA|Rukovodstvo|L
+UPUTA|Naputak|L
+USLUGA|Pomoć, servis|L
+UTIKAČ|Priključak koji se gura u utičnicu|L
+UTOLIKO|U toj mjeri|S
+UTOVAR|Ukrcavanje tereta|S
+UTUČEN|Potišten|S
+UVIJEN|Zavijen, kovrčast|S
+UZORAK|Primjerak za ispitivanje|L
+VENERA|Najsjajniji planet na nebu|L
+VIKTOR|Muško ime|L
+VODSTVO|Prednost u utakmici; uprava|L
+VOSAK|Tvar od koje su svijeće|L
+ZABAVA|Proslava, razonoda|L
+ZARAŽEN|Inficiran|L
+ZIGURAT|Stepenasti hram Mezopotamije|T
+ZOMBI|Oživjeli mrtvac|L
+ZOOLOG|Znanstvenik koji proučava životinje|S
+ĆASKATI|Razgovarati opušteno|S
+ŠKRIPAC|Neprilika|S
+ŠPORT|Sport, starije|S
+ŽALBA|Prigovor|L
+ŽANDAR|Policajac, starinski|S
+ŽELJEZNI|Od željeza|L
+ŽETON|Plastični novčić za igru|L

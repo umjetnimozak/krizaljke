@@ -1,0 +1,151 @@
+POROD|Rađanje djeteta|L
+IRONIJA|Podsmijeh izrečen suprotnim značenjem|L
+TABLA|Ploča; školska ~|L
+PORIV|Nagon, unutarnji poticaj|S
+PAPIR|Materijal za pisanje|L
+ŠAMPON|Sredstvo za pranje kose|L
+PERIOD|Razdoblje|L
+REBRO|Kost prsnog koša|L
+OKRILJE|Zaštita; pod ~em noći|S
+TIGAR|Velika prugasta mačka|L
+UBRUS|Salveta|L
+TREĆI|Redni broj 3|L
+ZBOGOM|Pozdrav na rastanku|L
+ORGAN|Dio tijela; crkveno glazbalo (orgulje)|L
+RENATA|Žensko ime|L
+OGRANAK|Podružnica, grana|L
+APARAT|Uređaj, naprava|L
+DESET|Broj 10|L
+OTETI|Silom oduzeti|L
+SVOTA|Iznos novca|L
+VARATI|Obmanjivati|L
+TMINA|Potpuni mrak|L
+PUMPATI|Crpsti zrak ili tekućinu|L
+RAKUN|Sjevernoamerička životinja s crnom maskom oko očiju|S
+VODIČ|Onaj koji vodi turiste|L
+FIRMA|Tvrtka|L
+VETERAN|Iskusni borac|L
+OTKAZ|Prestanak radnog odnosa|L
+VIRUS|Uzročnik gripe|L
+DANAS|Ovaj dan|L
+PETARDA|Praskavi novogodišnji pirotehnički proizvod|L
+RELEJ|Električna sklopka|T
+NADATI|~ se, očekivati s nadom|L
+SIRIJA|Država s glavnim gradom Damaskom|L
+PIKNIK|Obrok u prirodi|L
+ISLAM|Religija čiji je prorok Muhamed|L
+KVAZI|Prividno, lažno (kao prvi dio riječi)|S
+FEŠTA|Zabava, slavlje (dalmatinski)|L
+OSVIT|Zora, svitanje|S
+PERŠIN|Peršun (regionalno)|S
+ISKREN|Otvoren, bez laži|L
+RAZVRAT|Raskalašenost, bludnost|S
+SKAKAČ|Sportaš u skokovima|L
+OTRAGA|Straga|L
+NADZOR|Kontrola|L
+TKANINA|Platno, štof|L
+LJEVAK|Onaj koji piše lijevom rukom|L
+KOPILOT|Drugi pilot|L
+LASKATI|Ulagivati se pohvalama|L
+RIVAL|Suparnik|L
+SPARTA|Antički grčki grad-država ratnika|L
+OSTAVA|Spremište za hranu|L
+METEOR|Svemirsko tijelo koje sagorijeva u atmosferi|L
+TARZAN|Junak iz džungle kojeg su odgojili majmuni|L
+STISKA|Gužva; nevolja|S
+KONZUL|Diplomatski predstavnik; rimski dužnosnik|S
+DINAR|Valuta Srbije|L
+OGULITI|Skinuti koru|L
+PEGAZ|Krilati konj iz grčkih mitova|S
+VALCER|Ples u tročetvrtinskom taktu|L
+ALIAS|Drugim imenom|S
+KARLA|Žensko ime|L
+ŽABAC|Mužjak žabe|L
+ASTMA|Bolest otežanog disanja|L
+CELER|Gomoljasto povrće za juhu|L
+LASER|Uski snop pojačane svjetlosti|L
+SIRIJAC|Stanovnik Sirije|L
+MALTENE|Gotovo, skoro|S
+NERED|Nesređenost|L
+NITKO|Ni jedna osoba|L
+OSVAJAČ|Onaj koji osvaja tuđe zemlje|L
+NIRVANA|Budističko stanje blaženstva; Cobainov bend|S
+LARGO|Vrlo polagano (glazbena oznaka)|T
+OKITITI|Ukrasiti; ~ bor|L
+MATADOR|Borac s bikovima|L
+HIPIK|Hipodrom, trkalište|T
+TAJNA|Ono što se ne smije otkriti|L
+DERBI|Utakmica dvaju vodećih ili gradskih rivala|L
+PODUKA|Instrukcije, poučavanje|L
+DRVCE|Malo drvo|L
+OTROV|Tvar koja truje|L
+LUMINOL|Kemikalija koja svijetli u dodiru s krvlju|T
+OBORINA|Kiša, snijeg ili tuča|L
+UTRŽAK|Zarada od prodaje|S
+TRUBA|Limeno puhačko glazbalo|L
+MIHAEL|Muško ime, arkanđeo|S
+PIONIR|Začetnik, prethodnik|L
+PODJELA|Dijeljenje, raspodjela|L
+KARIJES|Kvarenje zuba|L
+OSJET|Osjetilni doživljaj|S
+ŠETAČ|Onaj koji šeće|L
+TAJITI|Skrivati istinu|L
+SPIKER|Najavljivač na radiju ili TV-u|L
+RITATI|Udarati nogama, kao konj|L
+PISAČ|Uređaj za ispis s računala|L
+PRINOS|Urod; doprinos|S
+POKAL|Pehar, trofej|S
+KAMOLI|A ~, a pogotovo ne|S
+NIKOTIN|Otrovni alkaloid iz duhana|L
+BUMBAR|Veliki dlakavi kukac srodan pčeli|L
+UKRUG|U obliku kruga|L
+CRPKA|Pumpa|S
+HEROD|Judejski kralj iz novozavjetnih priča|S
+KROŠE|Boksački udarac savijenom rukom|T
+PREZATI|Ustručavati se, strahovati|T
+HORUS|Egipatski bog sa sokolovom glavom|T
+ALBINO|Biće bez pigmenta|S
+TERET|Breme, tovar|L
+LAKAJ|Sluga u livreji; ulizica|S
+UŠTEDA|Ušteđeni novac|L
+ANKETA|Ispitivanje javnog mnijenja|L
+POVRĆE|Mrkva, kupus, grah i sl.|L
+PITON|Velika zmija davljenica|L
+BORITI|~ se, voditi bitku|L
+EPOHA|Doba, razdoblje|L
+IZAZOV|Poziv na dvoboj; težak zadatak|L
+ZUBIĆ|Mali zub|L
+SREĆA|Osjećaj zadovoljstva; povoljna slučajnost|L
+DIZALO|Lift|L
+JAPAN|Zemlja izlazećeg sunca|L
+UTIŠATI|Učiniti tišim|L
+MOTIV|Pobuda; tema slike|L
+SVEZAK|Knjiga u nizu, tom|S
+UNAZAD|Natrag|L
+NIKADA|Ni u koje vrijeme|L
+ODABIR|Izbor|L
+ORBITER|Letjelica koja kruži oko planeta|T
+KARLICA|Zdjelica (kost)|T
+UKOLIKO|Ako|L
+TOKIO|Glavni grad Japana|L
+TISKARA|Mjesto gdje se tiskaju knjige|L
+ORBITA|Putanja oko nebeskog tijela|L
+UGODA|Udobnost|L
+KONTAKT|Dodir, veza|L
+LAPIS|~ lazuli, plavi poludragi kamen|T
+HODATI|Ići pješice|L
+KREMA|Mazivo za kožu|L
+NAPAMET|Bez gledanja u tekst|L
+SVUGDJE|Na svim mjestima|L
+KARTON|Debeli papir|L
+IGUANA|Tropski gušter|L
+ETANOL|Alkohol u pićima|S
+IZDISAJ|Ispuštanje zraka iz pluća|L
+TONIK|Gazirano piće s kininom|L
+PJENA|Mjehurići na površini|L
+UPALITI|Zapaliti; uključiti svjetlo|L
+SONAR|Uređaj za otkrivanje zvukom pod vodom|S
+LONDON|Glavni grad Ujedinjenog Kraljevstva|L
+BANANA|Žuto tropsko voće|L
+URANIJ|Radioaktivni element, U|S
+PATER|Svećenik redovnik|S

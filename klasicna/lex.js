@@ -1,5 +1,5 @@
 // Gradi popis općih riječi: osnovni oblici iz Hunspell rječnika (hr) koji su česti u korpusu titlova.
-const fs=require('fs');const G=require('../repo/stranica/gen.js');
+const fs=require('fs');const G=require('../stranica/gen.js');
 const stems=new Map();
 for(const line of fs.readFileSync('dhr/package/index.dic','utf8').split('\n').slice(1)){
   const w=line.split('/')[0].trim();if(!w||/[^A-Za-zČĆĐŠŽčćđšž]/.test(w))continue;

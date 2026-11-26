@@ -13,22 +13,23 @@ function connected(B,N){let start=-1,white=0;for(let k=0;k<N*N;k++)if(!B[k]){whi
   if(start<0)return false;const seen=new Uint8Array(N*N),st=[start];seen[start]=1;let n=0;
   while(st.length){const k=st.pop();n++;const r=(k/N)|0,c=k%N;for(const[dr,dc]of[[1,0],[-1,0],[0,1],[0,-1]]){const rr=r+dr,cc=c+dc;if(rr<0||cc<0||rr>=N||cc>=N)continue;const kk=rr*N+cc;if(!B[kk]&&!seen[kk]){seen[kk]=1;st.push(kk)}}}
   return n==white}
-function pattern(N,ratio,maxRun,r){
-  for(let attempt=0;attempt<400;attempt++){
+function lineRuns(B,N,d,i){const out=[];let s=-1;for(let j=0;j<=N;j++){const r=d=='A'?i:j,c=d=='A'?j:i;const w=j<N&&!B[r*N+c];if(w&&s<0)s=j;if(!w&&s>=0){out.push(j-s);s=-1}}return out}
+function pattern(N,ratio,maxRun,r,minRun){
+  minRun=minRun||2;
+  for(let attempt=0;attempt<600;attempt++){
     const B=new Uint8Array(N*N);let blocks=0;const target=Math.round(N*N*ratio);
-    for(let tries=0;tries<N*N*20&&blocks<target;tries++){
+    for(let tries=0;tries<N*N*30&&blocks<target;tries++){
       const k=Math.floor(r()*N*N),k2=N*N-1-k;if(B[k])continue;
       B[k]=B[k2]=1;
-      // svako bijelo polje mora biti u vodoravnom i okomitom nizu duljine ≥2
       let ok=true;
-      for(const kk of[k,k2]){const rr=(kk/N)|0,cc=kk%N;for(const[dr,dc]of[[1,0],[-1,0],[0,1],[0,-1]]){const a=rr+dr,b=cc+dc;if(a<0||b<0||a>=N||b>=N||B[a*N+b])continue;
-        const h=(B[a*N+b-1]===0&&b>0)||(b<N-1&&!B[a*N+b+1]),v=(a>0&&!B[(a-1)*N+b])||(a<N-1&&!B[(a+1)*N+b]);if(!h||!v){ok=false;break}}if(!ok)break}
+      for(const kk of[k,k2]){const rr=(kk/N)|0,cc=kk%N;
+        if(lineRuns(B,N,'A',rr).some(x=>x<minRun)||lineRuns(B,N,'D',cc).some(x=>x<minRun)){ok=false;break}}
       if(ok&&!connected(B,N))ok=false;
       if(!ok){B[k]=B[k2]=0;continue}
       blocks+=k==k2?1:2;
     }
     const R=runs(B,N);
-    if(R.every(x=>x.len>=2&&x.len<=maxRun)&&connected(B,N))return B;
+    if(R.every(x=>x.len>=minRun&&x.len<=maxRun)&&connected(B,N))return B;
   }
   return null;
 }
@@ -97,10 +98,10 @@ function fill(B,N,idx,opt,r){
 }
 
 // ---------- jedna križaljka ----------
-function make({N,ratio,maxRun,words,themeWords,themeTarget,seed,nodeLimit,maxPatterns,seedTries,lenPow,minCross,themeMinLen}){
+function make({N,ratio,maxRun,words,themeWords,themeTarget,seed,nodeLimit,maxPatterns,seedTries,lenPow,minCross,themeMinLen,minRun}){
   const r=rng(seed);const idx=buildIndex(words);const themeIdx=themeWords&&themeWords.length?buildIndex(themeWords):null;
   for(let p=0;p<(maxPatterns||30);p++){
-    const B=pattern(N,ratio,maxRun,r);if(!B)continue;
+    const B=pattern(N,ratio,maxRun,r,minRun);if(!B)continue;
     for(let t=0;t<(seedTries||4);t++){
       const res=fill(B,N,idx,{noise:opt_noise,branch:30,nodeLimit,themeIdx,themeTarget:themeTarget||0.3,minCross:minCross||25,themeMinLen:themeMinLen||6,lenPow:lenPow==null?2:lenPow},r);
       if(res)return{N,B,...res};
@@ -109,4 +110,4 @@ function make({N,ratio,maxRun,words,themeWords,themeTarget,seed,nodeLimit,maxPat
   return null;
 }
 const opt_noise=3;
-module.exports={pattern,runs,fill,make,buildIndex,rng};
+module.exports={pattern,runs,fill,make,buildIndex,rng,lineRuns};

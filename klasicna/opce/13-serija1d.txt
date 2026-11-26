@@ -1,0 +1,195 @@
+NASTATI|Nastupiti, pojaviti se|L
+OSTATAK|Ono što preostane|L
+USTANAK|Pobuna naroda|L
+NEZGODA|Nesreća, neprilika|L
+VIKEND|Subota i nedjelja|L
+NOVINAR|Onaj koji piše za novine|L
+ARSENAL|Spremište oružja|S
+SVAKAKO|Sigurno, nipošto drukčije|L
+ZAČUDO|Neočekivano, na čuđenje|S
+NEKAD|Nekoć, u prošlosti|L
+ŠLJIVA|Voćka od koje se peče rakija|L
+PUCAČ|Onaj koji puca|L
+UROTA|Zavjera|L
+DAVID|Biblijski kralj koji je pobijedio Golijata|L
+KOKTEL|Miješano piće|L
+POGON|Pokretačka snaga; tvornički ~|L
+PILIĆ|Kokošje mladunče|L
+KOLIBA|Mala skromna kućica|L
+ZALOG|Jamstvo, polog|L
+OKIDAČ|Dio puške koji se povlači pri pucanju|L
+KAFIĆ|Lokal u kojem se pije kava|L
+BACITI|Hitnuti|L
+BALET|Scenski ples|L
+BIBER|Papar (regionalno)|S
+DIVAN|Krasan; vrsta kauča|L
+STAZA|Uski put|L
+POKAZ|Propusnica za javni prijevoz|S
+KALIFAT|Država kojom vlada kalif|S
+MISAO|Ono što se misli, ideja|L
+DILER|Preprodavač droge|L
+KIOSK|Mala prodavaonica novina|L
+POMOĆI|Pružiti pomoć|L
+MONITOR|Zaslon računala|L
+NARAV|Ćud, karakter|L
+SVRAB|Kožna bolest koja uzrokuje svrbež|S
+ARENA|Borilište, stadion|L
+VAGON|Željeznička kola|L
+MAJOR|Vojni čin iznad satnika|S
+NAZAD|Natrag|L
+VIOLA|Gudački instrument nešto veći od violine|S
+AMAZONA|Ratnica iz grčkih mitova|S
+JAZAVAC|Životinja koja živi u jazbini|L
+LITIJ|Kemijski element, Li|S
+ISTINA|Suprotno od laži|L
+UKOSO|Koso, poprijeko|L
+KAJAK|Uski čamac s dvostranim veslom|L
+JECAJ|Glas pri plakanju|L
+DALEK|Koji nije blizu|L
+PLAŠT|Ogrtač bez rukava|L
+NAOČALE|Pomagalo za vid|L
+UMOTATI|Zamotati|L
+MOBITEL|Mobilni telefon|L
+RANITI|Ozlijediti|L
+GRGUR|Muško ime; papa ~ Veliki|S
+TOBOGAN|Klizaljka na kojoj se spušta|L
+PILANA|Postrojenje za piljenje drva|L
+TKOGOD|Bilo tko|S
+OKOLICA|Okolni kraj|L
+ARAPIN|Pripadnik arapskog naroda|L
+NIZAK|Suprotno od visok|L
+RAZOR|Uništenje, pustoš|S
+POLARIS|Sjevernjača|T
+KLADA|Debeo komad drva|L
+IMENICA|Vrsta riječi koja označava bića i stvari|L
+DEPOZIT|Polog, ulog|S
+ITALIJA|Država na Apeninskom poluotoku|L
+UZICA|Tanka vrpca, konopčić|L
+CEDAR|Libanonsko crnogorično drvo|S
+MAHATI|Pokretati ruku amo-tamo|L
+SIJED|Bijele kose|L
+KADILAK|Američka marka luksuznih automobila|S
+DENAR|Novac Sjeverne Makedonije|T
+OSOBA|Čovjek, pojedinac|L
+SUTON|Sumrak|L
+ČASOPIS|Periodička publikacija|L
+SUKOB|Okršaj, konflikt|L
+ZAMAH|Polet, mah|L
+MARATON|Trka na oko 42 km|L
+UMALO|Zamalo, gotovo|L
+DOMAR|Kućepazitelj|L
+OBUKA|Izobrazba, uvježbavanje|L
+POTISAK|Sila koja gura letjelicu|S
+LEMUR|Primat s Madagaskara|S
+UNOSITI|Nositi unutra|L
+OMETATI|Smetati, priječiti|L
+ATAŠE|Diplomatski službenik pri veleposlanstvu|S
+ORGIJA|Razuzdana pijanka|S
+ŠKARE|Alat za rezanje papira i tkanine|L
+ŠAMAN|Vrač u plemenskim društvima|S
+ORATI|Obrađivati zemlju plugom|L
+NALOG|Zapovijed, uputa|L
+IZDAVAČ|Onaj tko objavljuje knjige|L
+JAVLJATI|Obavještavati|L
+ČORBA|Gusta juha|L
+OPERA|Glazbeno-scensko djelo|L
+REVER|Prevrnuti dio ovratnika sakoa|S
+STROP|Gornja ploha sobe|L
+OTAPALO|Tekućina koja otapa|S
+APERKAT|Boksački udarac odozdo|S
+DEVETKA|Broj devet|L
+KADAR|Sposoban; filmska snimka|S
+ISKAZ|Izjava|L
+SKALP|Koža s kosom skinuta s glave|S
+UHITITI|Uhapsiti|L
+NAMOTAJ|Ono što je namotano, zavoj|S
+AKORD|Suzvučje tonova|L
+SIMBOL|Znak, oznaka|L
+BRADA|Dlake na licu|L
+DVIJE|Broj 2 u ženskom rodu|L
+NIJEM|Koji ne može govoriti|L
+KRETA|Najveći grčki otok|L
+RITAM|Ritmični tijek glazbe|L
+UNIJETI|Donijeti unutra, unesti|L
+HIROVIT|Ćudljiv, mušičav|S
+VLADATI|Upravljati državom|L
+TIJEK|Tok, slijed|L
+SILOVIT|Žestok, nagao|S
+PAUZA|Stanka, odmor|L
+ARABIJA|Veliki poluotok na Bliskom istoku|L
+ORTAK|Suradnik u poslu, partner|L
+TITAN|Kemijski element, Ti; div iz mitologije|S
+ODERATI|Skinuti kožu|S
+CEZAR|Rimski vojskovođa Gaj Julije|L
+VRELO|Izvor|L
+SPUST|Skijaška disciplina|L
+DAŠAK|Lagani povjetarac|L
+UZETI|Primiti, zgrabiti|L
+UŠTIPAK|Prženo tijesto, krafna|S
+SALVETA|Ubrus|L
+IZABELA|Žensko ime|L
+BATAK|Pileća noga|L
+HRAST|Drvo s plodom žirom|L
+EKIPA|Momčad, tim|L
+NESTATI|Izgubiti se|L
+AVOKADO|Tropski plod za guacamole|L
+NADOMAK|Vrlo blizu|S
+MASKARA|Kozmetika za trepavice|L
+ISPRAVA|Službeni dokument|L
+SENATOR|Član senata|L
+EROZIJA|Trošenje tla vodom i vjetrom|S
+HEUREKA|Arhimedov usklik|S
+NAOKOLO|Uokolo, oko nečega|L
+NARCIS|Proljetni cvijet; zaljubljeni mladić iz mita|S
+ADRESA|Naziv ulice i broj kuće|L
+CELULIT|Neravnine kože na bedrima|S
+TOPAO|Suprotno od hladan|L
+GORAK|Suprotno od sladak|L
+SPORT|Tjelesna aktivnost i natjecanje|L
+TRAGAČ|Onaj koji traga|L
+KOPAR|Začinska biljka za krastavce|S
+POLJANA|Ravna travnata površina|L
+TIPKATI|Pisati po tipkovnici|L
+KOLAČ|Slatko pecivo|L
+LILIPUT|Zemlja patuljaka iz Gulliverovih putovanja|S
+PUPAK|Udubina na trbuhu|L
+PUŠITI|Konzumirati cigarete|L
+MEDIJ|Sredstvo priopćavanja|L
+DISKO|Plesni glazbeni stil 70-ih|L
+RIJEKA|Velik vodotok; grad na Kvarneru|L
+TALOG|Ono što se slegne na dno|L
+HANIBAL|Kartaški vojskovođa koji je prešao Alpe|S
+ULAZITI|Stupati unutra|L
+ULIJEVO|Na lijevu stranu|L
+ODSAD|Od sada|L
+SUTRA|Dan nakon danas|L
+VODOPAD|Slap|L
+UDUBINA|Udubljenje|L
+OREOL|Svetački sjaj oko glave|S
+PODIZAČ|Naprava za podizanje|S
+RUKOPIS|Ručno pisani tekst|L
+UKINUTI|Poništiti, dokinuti|L
+OBOJITI|Dati boju|L
+VISOK|Suprotno od nizak|L
+DONATOR|Darovatelj|L
+SAŽETAK|Kratak prikaz sadržaja|L
+ODRŽATI|Sačuvati; ~ predavanje|L
+KABINET|Radna soba; vlada|S
+ODREZAK|Šnicl|L
+SNIZITI|Smanjiti cijenu|L
+NAKON|Poslije|L
+FANATIK|Zanesenjak, zagriženi pristaša|L
+UGURATI|Gurnuti unutra|L
+POPIS|Lista, spisak|L
+MARKIZ|Plemićka titula|S
+DOTAD|Do tada|L
+BACATI|Hitati|L
+VRLINA|Dobra osobina|L
+AKCIJA|Djelovanje; sniženje cijena|L
+CIMER|Sustanar|L
+JEČAM|Žitarica za pivo|L
+REMEN|Pojas|L
+IVERAK|Plosnata morska riba|T
+NADIĆI|Nadmašiti|S
+MRAMOR|Kamen za kipove|L
+NAPIS|Natpis|S
