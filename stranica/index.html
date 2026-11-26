@@ -218,7 +218,7 @@ function start(p){
  g.style.gridTemplateColumns=`repeat(${W},var(--cs))`;g.innerHTML=html;el=[];
  g.querySelectorAll('.c:not(.x)').forEach(d=>{(el[+d.dataset.r]=el[+d.dataset.r]||[])[+d.dataset.c]=d});
  const by=d=>P.words.filter(w=>w.d==d);order=[...by('A'),...by('D')];
- const li=w=>`<li data-k="${w.n}${w.d}"><b>${w.n}</b><span>${esc(w.q)} (${w.t.length})</span></li>`;
+ const li=w=>`<li data-k="${w.n}${w.d}"><b>${w.n}</b><span>${esc(w.q)}</span></li>`;
  $('la').innerHTML=by('A').map(li).join('');$('ld').innerHTML=by('D').map(li).join('');
  $('pt').textContent=document.querySelectorAll('#g .c:not(.x)').length;$('pn').textContent=P.words.length;
  $('ttl').innerHTML=`Križaljka ${sel.v}<span>${DNAME[sel.d]} · ${SNAME[sel.s]} · ${tnames()}</span>`;
@@ -286,7 +286,7 @@ function buildPrint(){
  const head=`<div class="ph"><div><div class="brand">KRIŽALJKE <i>·</i> mojekrizaljke.eu</div><h1>${title}</h1><div class="sub">${sub} · ${P.words.length} pojmova</div></div></div>`;
  const MM=96/25.4,PAGE=258; // visina korisnog dijela A4 u mm
   // mreža i pitanja ispod, sve stisnuto na jednu stranicu A4
-  const li=w=>`<li><b>${w.n}</b><span>${esc(w.q)} (${w.t.length})</span></li>`,by=d=>P.words.filter(w=>w.d==d);
+  const li=w=>`<li><b>${w.n}</b><span>${esc(w.q)}</span></li>`,by=d=>P.words.filter(w=>w.d==d);
   const cols=sel.s=='velika'?5:4,clues=`<h3>Vodoravno</h3><ol>${by('A').map(li).join('')}</ol><h3>Okomito</h3><ol>${by('D').map(li).join('')}</ol>`;
   let cs=Math.min(186/P.w,11),fs=8.5;
   const render=()=>{A.innerHTML=head+`<div class="pg">${gridSVG((r,c)=>mine?val[r][c]:'',cs)}</div><div class="pc" style="column-count:${cols};font-size:${fs}pt">${clues}</div>`;return A.scrollHeight/MM};
