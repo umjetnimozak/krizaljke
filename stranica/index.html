@@ -84,6 +84,14 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:0 16px 30px}
  .clues section+section{margin-top:22px}
  .clues h2{position:sticky;top:0;z-index:1;background:var(--paper);margin:0 -6px 4px;padding:10px 10px 6px}
 }
+/* tablet (dodirni zaslon, veći od mobitela): centrirana mreža, okviri sa 7 pitanja */
+@media(pointer:coarse) and (min-width:601px) and (min-height:501px){
+ .grid{margin:0 auto}
+ .clues{height:auto;grid-template-rows:auto auto;align-content:start}
+ .clues section{position:relative;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;background:var(--paper);border:2px solid var(--line);padding:0 6px}
+ .clues h2{position:sticky;top:0;z-index:1;background:var(--paper);margin:0 -6px 4px;padding:10px 10px 6px}
+}
+@media(pointer:coarse) and (min-width:1280px) and (min-height:501px){.clues{grid-template-rows:auto}}
 @media(prefers-reduced-motion:no-preference){.c{transition:background .12s}}
 .pbox{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin-top:10px;padding:12px;border:2px dashed var(--ink);background:var(--paper)}
 .pbox label{display:flex;gap:8px;align-items:center;min-height:44px;cursor:pointer}.pbox input{width:20px;height:20px;accent-color:var(--red)}
@@ -247,7 +255,7 @@ function size(){if(!P)return;const av=wrap.clientWidth-4;let cs=Math.max(26,Math
  if(matchMedia('(max-height:500px) and (orientation:landscape)').matches)cs=Math.max(26,Math.min(cs,Math.floor((innerHeight-90)/P.h)));wrap.style.setProperty('--cs',cs+'px')}
 const ro=new ResizeObserver(size);ro.observe(wrap);
 // na mobitelu okvir pitanja visok je točno 7 pitanja (pitanja mogu biti u više redaka)
-const MOBQ=matchMedia('(max-width:600px), (max-height:500px) and (orientation:landscape)');
+const MOBQ=matchMedia('(max-width:600px), (max-height:500px) and (orientation:landscape), (pointer:coarse) and (min-width:601px) and (min-height:501px)');
 function fitClues(){const mob=MOBQ.matches;document.querySelectorAll('.clues section').forEach(sec=>{const li=sec.querySelectorAll('li');sec.style.maxHeight=mob&&li.length>7?(li[7].offsetTop+2)+'px':''})}
 addEventListener('resize',()=>{clearTimeout(fitClues.t);fitClues.t=setTimeout(fitClues,150)});
 const wordAt=(r,c,d)=>P.words.find(w=>w.d==d&&w.cells.some(([a,b])=>a==r&&b==c));
